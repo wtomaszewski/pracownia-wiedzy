@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc"><title id="title">Porównanie rozpuszczania cukru</title><desc id="desc">Dwa jednakowe naczynia. W każdym jest 100 ml wody i 2 łyżeczki cukru. A ma temperaturę 20 stopni Celsjusza, a B 60 stopni Celsjusza.</desc><style>text{font-family:Arial,Helvetica,sans-serif;fill:#22384b} .line{stroke:#274558;stroke-width:4;stroke-linecap:round;stroke-linejoin:round} .label{font-size:24px;font-weight:700;text-anchor:middle} .small{font-size:22px;text-anchor:middle} .badge{fill:#fff;stroke:#274558;stroke-width:3} .call{fill:none;stroke:#47677a;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}</style><rect width="600" height="400" rx="24" fill="#f7fafb"/>
+<text x="300" y="39" class="label">Dwa jednakowe naczynia</text>
+<rect x="27" y="67" width="257" height="307" rx="20" fill="#edf5f8"/>
+<rect x="316" y="67" width="257" height="307" rx="20" fill="#fcf1e6"/>
+<!-- identical cup A -->
+<path d="M89 149L100 269Q156 291 211 269L222 149" fill="#fff" class="line"/>
+<path d="M94 189L101 268Q156 288 210 268L217 189Z" fill="#a7d8e8"/>
+<ellipse cx="155" cy="189" rx="61" ry="13" fill="#c9e9f2" stroke="#6eabba" stroke-width="2"/>
+<path d="M89 149L100 269Q156 291 211 269L222 149" fill="none" class="line"/><ellipse cx="155" cy="149" rx="66" ry="15" fill="#fff" class="line"/>
+<path d="M223 176C263 160 263 230 215 232" fill="none" class="line"/>
+<g fill="#fff" stroke="#c4d4d7" stroke-width="1"><rect x="131" y="251" width="9" height="9" transform="rotate(12 135 255)"/><rect x="145" y="255" width="9" height="9"/><rect x="161" y="254" width="9" height="9" transform="rotate(-15 165 258)"/><rect x="174" y="251" width="9" height="9"/></g>
+<!-- identical cup B -->
+<g transform="translate(289 0)"><path d="M89 149L100 269Q156 291 211 269L222 149" fill="#fff" class="line"/><path d="M94 189L101 268Q156 288 210 268L217 189Z" fill="#a7d8e8"/><ellipse cx="155" cy="189" rx="61" ry="13" fill="#c9e9f2" stroke="#6eabba" stroke-width="2"/><path d="M89 149L100 269Q156 291 211 269L222 149" fill="none" class="line"/><ellipse cx="155" cy="149" rx="66" ry="15" fill="#fff" class="line"/><path d="M223 176C263 160 263 230 215 232" fill="none" class="line"/><g fill="#fff" stroke="#c4d4d7" stroke-width="1"><rect x="131" y="251" width="9" height="9" transform="rotate(12 135 255)"/><rect x="145" y="255" width="9" height="9"/><rect x="161" y="254" width="9" height="9" transform="rotate(-15 165 258)"/><rect x="174" y="251" width="9" height="9"/></g></g>
+<text x="155" y="114" font-size="28" font-weight="700" text-anchor="middle">A · 20°C</text><text x="444" y="114" font-size="28" font-weight="700" text-anchor="middle">B · 60°C</text>
+<text x="155" y="314" class="small">100 ml wody</text><text x="155" y="349" class="small">2 łyżeczki cukru</text><text x="444" y="314" class="small">100 ml wody</text><text x="444" y="349" class="small">2 łyżeczki cukru</text>
+</svg>

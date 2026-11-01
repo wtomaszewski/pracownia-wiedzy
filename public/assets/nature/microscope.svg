@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc"><title id="title">Schemat mikroskopu</title><desc id="desc">Pięć oznaczeń A, B, C, D i E wskazuje części mikroskopu. Linie prowadzą od liter do wskazywanych elementów.</desc><style>text{font-family:Arial,Helvetica,sans-serif;fill:#22384b} .line{stroke:#274558;stroke-width:4;stroke-linecap:round;stroke-linejoin:round} .label{font-size:24px;font-weight:700;text-anchor:middle} .small{font-size:22px;text-anchor:middle} .badge{fill:#fff;stroke:#274558;stroke-width:3} .call{fill:none;stroke:#47677a;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}</style><rect width="600" height="400" rx="24" fill="#f7fafb"/>
+<!-- base and sturdy curved arm -->
+<path d="M204 348Q201 331 218 327H392Q410 333 409 348Z" fill="#9eb3be" class="line"/>
+<path d="M355 327Q406 257 388 184Q376 128 330 117L317 143Q354 158 362 205Q370 268 331 327Z" fill="#b7c8d0" class="line"/>
+<!-- tilted optical tube and viewing eyepiece -->
+<path d="M235 92L262 76L310 135L283 155Z" fill="#bfd1d8" class="line"/>
+<path d="M222 77L248 60L264 81L237 99Z" fill="#536f80" class="line"/>
+<path d="M219 74L246 56L252 64L225 83Z" fill="#334e60" class="line"/>
+<!-- head, revolving nosepiece and one vertical objective aligned with specimen -->
+<path d="M283 137H321L326 162H277Z" fill="#a1b8c4" class="line"/>
+<ellipse cx="301" cy="168" rx="31" ry="8" fill="#6f8b9c" class="line"/>
+<path d="M289 174H312V199H289Z" fill="#e0e8eb" class="line"/>
+<path d="M292 199H309V209H292Z" fill="#617b8c" stroke="#274558" stroke-width="3"/>
+<!-- stage and slide -->
+<path d="M226 227H350V241H226Z" fill="#4a6475" class="line"/>
+<path d="M269 219H325V225H269Z" fill="#d5edf4" stroke="#5b8a9c" stroke-width="2"/>
+<ellipse cx="300" cy="221" rx="6" ry="2" fill="#ba7f90"/>
+<path d="M243 226L252 215H268 M334 227L328 215H322" fill="none" stroke="#9eb5bf" stroke-width="3"/>
+<path d="M282 242H316L311 256H287Z" fill="#a2bbc6" stroke="#274558" stroke-width="3"/>
+<!-- focusing control on arm -->
+<circle cx="372" cy="195" r="23" fill="#5d7b8d" class="line"/><circle cx="372" cy="195" r="11" fill="#b7cbd4" stroke="#274558" stroke-width="3"/>
+<!-- illuminator beneath specimen, light shown upward -->
+<path d="M279 315V298Q300 279 321 298V315Z" fill="#d0dce1" class="line"/><ellipse cx="300" cy="297" rx="17" ry="8" fill="#ffe3a0" stroke="#9b8b58" stroke-width="2"/>
+<path d="M290 283L294 266 M300 281V263 M310 283L306 266" stroke="#d7b864" stroke-width="3" stroke-linecap="round"/>
+<!-- precise callouts -->
+<path d="M119 59H176L230 72 M111 176H247L289 187 M106 264H180L226 235 M480 168H435L392 188 M481 303H351L320 301" class="call"/>
+<circle cx="97" cy="59" r="20" class="badge"/><text x="97" y="67" class="label">A</text><circle cx="89" cy="176" r="20" class="badge"/><text x="89" y="184" class="label">B</text><circle cx="84" cy="264" r="20" class="badge"/><text x="84" y="272" class="label">C</text><circle cx="502" cy="168" r="20" class="badge"/><text x="502" y="176" class="label">D</text><circle cx="503" cy="303" r="20" class="badge"/><text x="503" y="311" class="label">E</text></svg>

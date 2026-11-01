@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc"><title id="title">Elementy krajobrazu</title><desc id="desc">Krajobraz z sześcioma elementami oznaczonymi literami od A do F.</desc><style>text{font-family:Arial,Helvetica,sans-serif;fill:#22384b} .line{stroke:#274558;stroke-width:4;stroke-linecap:round;stroke-linejoin:round} .label{font-size:24px;font-weight:700;text-anchor:middle} .small{font-size:22px;text-anchor:middle} .badge{fill:#fff;stroke:#274558;stroke-width:3} .call{fill:none;stroke:#47677a;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}</style><rect width="600" height="400" rx="24" fill="#f7fafb"/>
+<path d="M0 260 Q100 190 220 245 Q340 180 600 245 V400 H0Z" fill="#d9ebce"/>
+<path d="M0 325 Q120 280 230 320 Q430 260 600 310 V400 H0Z" fill="#c3dfb7"/>
+<!-- sun -->
+<g stroke="#d2a340" stroke-width="5" stroke-linecap="round"><path d="M475 36V22 M475 116V130 M435 76H421 M515 76H529 M447 48L437 38 M503 104L513 114 M447 104L437 114 M503 48L513 38"/><circle cx="475" cy="76" r="29" fill="#ffdb72"/></g>
+<!-- tree -->
+<path d="M96 269 L104 173 H127 L136 269Z" fill="#a46c47" class="line"/>
+<path d="M115 217L88 193 M120 211L147 181" fill="none" class="line"/>
+<path d="M62 153 C37 127 61 98 83 102 C82 65 131 56 149 89 C183 78 203 117 182 140 C203 165 172 195 149 184 C129 206 93 198 86 183 C61 193 40 167 62 153Z" fill="#80b883" class="line"/>
+<!-- pond -->
+<path d="M200 286 C220 264 284 269 310 284 C353 301 348 334 303 342 C274 352 215 346 194 324 C175 308 179 294 200 286Z" fill="#99d6e9" class="line"/>
+<path d="M217 304 Q233 309 248 304 M272 321Q287 326 302 320 M267 292Q281 297 297 293" fill="none" stroke="#4e9dba" stroke-width="3" stroke-linecap="round"/>
+<!-- brick house -->
+<path d="M390 182H520V273H390Z" fill="#dea587" class="line"/>
+<path d="M378 182L455 118L533 182Z" fill="#bf7069" class="line"/>
+<g stroke="#bb8064" stroke-width="2"><path d="M393 204H517M393 226H517M393 248H517 M415 183V204 M458 183V204 M498 183V204 M435 204V226 M478 204V226 M415 226V248 M498 226V248 M435 248V270"/></g>
+<path d="M440 220H471V273H440Z" fill="#7c8b90" class="line"/><circle cx="464" cy="247" r="3" fill="#ffdc73"/>
+<path d="M400 197H423V221H400Z M486 197H509V221H486Z" fill="#d4edf5" class="line"/>
+<!-- bird in side view, with one raised wing, tail, head and beak -->
+<path d="M245 143L218 129L226 151L245 152Z" fill="#f9f4df" class="line"/>
+<ellipse cx="271" cy="142" rx="32" ry="16" fill="#f9f4df" class="line"/>
+<path d="M269 141Q237 113 244 83Q274 99 285 138" fill="#f9f4df" class="line"/>
+<circle cx="300" cy="130" r="13" fill="#f9f4df" class="line"/>
+<path d="M313 127L327 132L312 137Z" fill="#dea33d" stroke="#274558" stroke-width="2"/>
+<circle cx="304" cy="127" r="2.8" fill="#22384b"/>
+<!-- paved road -->
+<path d="M361 400L451 281H491L440 400Z" fill="#788b97" stroke="#526b7b" stroke-width="3"/>
+<path d="M397 397L420 364 M433 346L449 323 M460 308L471 291" stroke="#f8f2d9" stroke-width="5" fill="none"/>
+<circle cx="51" cy="232" r="20" class="badge"/><text x="51" y="240" class="label">A</text><circle cx="546" cy="74" r="20" class="badge"/><text x="546" y="82" class="label">B</text><circle cx="177" cy="357" r="20" class="badge"/><text x="177" y="365" class="label">C</text><circle cx="555" cy="237" r="20" class="badge"/><text x="555" y="245" class="label">D</text><circle cx="274" cy="54" r="20" class="badge"/><text x="274" y="62" class="label">E</text><circle cx="484" cy="361" r="20" class="badge"/><text x="484" y="369" class="label">F</text></svg>

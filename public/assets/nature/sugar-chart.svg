@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc"><title id="title">Czas rozpuszczania cukru</title><desc id="desc">Wyniki przykładowego doświadczenia: A, chłodna woda, 120 sekund; B, ciepła woda, 30 sekund.</desc><style>text{font-family:Arial,Helvetica,sans-serif;fill:#22384b} .line{stroke:#274558;stroke-width:4;stroke-linecap:round;stroke-linejoin:round} .label{font-size:24px;font-weight:700;text-anchor:middle} .small{font-size:22px;text-anchor:middle} .badge{fill:#fff;stroke:#274558;stroke-width:3} .call{fill:none;stroke:#47677a;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}</style><rect width="600" height="400" rx="24" fill="#f7fafb"/>
+<text x="300" y="37" class="label">Czas rozpuszczania cukru</text>
+<text transform="translate(36 193) rotate(-90)" class="small">Czas (s)</text>
+<g stroke="#dae5e9" stroke-width="2"><path d="M106 283H547 M106 232H547 M106 181H547 M106 130H547 M106 79H547"/></g>
+<g font-size="21" text-anchor="end"><text x="92" y="341">0</text><text x="92" y="290">30</text><text x="92" y="239">60</text><text x="92" y="188">90</text><text x="92" y="137">120</text><text x="92" y="86">150</text></g>
+<path d="M106 69V334H547" fill="none" class="line"/>
+<rect x="178" y="130" width="110" height="204" rx="6" fill="#77aabb" stroke="#416f84" stroke-width="3"/><rect x="376" y="283" width="110" height="51" rx="6" fill="#e8b47e" stroke="#ae7e4b" stroke-width="3"/>
+<text x="233" y="115" class="label">120 s</text><text x="431" y="268" class="label">30 s</text>
+<text x="233" y="361" class="label">A</text><text x="233" y="387" class="small">chłodna</text><text x="431" y="361" class="label">B</text><text x="431" y="387" class="small">ciepła</text>
+</svg>

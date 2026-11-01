@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc"><title id="title">Rozpoznaj narządy zmysłów</title><desc id="desc">Pięć rysunków oznaczonych literami A, B, C, D i E.</desc><style>text{font-family:Arial,Helvetica,sans-serif;fill:#22384b} .line{stroke:#274558;stroke-width:4;stroke-linecap:round;stroke-linejoin:round} .label{font-size:24px;font-weight:700;text-anchor:middle} .small{font-size:22px;text-anchor:middle} .badge{fill:#fff;stroke:#274558;stroke-width:3} .call{fill:none;stroke:#47677a;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}</style><rect width="600" height="400" rx="24" fill="#f7fafb"/>
+<!-- eye -->
+<path d="M45 123 Q100 57 158 123 Q100 182 45 123Z" fill="#fff" class="line"/><circle cx="101" cy="121" r="25" fill="#7eafba" class="line"/><circle cx="101" cy="121" r="11" fill="#274558"/><circle cx="108" cy="114" r="5" fill="#fff"/>
+<!-- ear -->
+<path d="M255 155 C240 133 251 80 278 75 C315 62 339 93 330 125 C325 146 305 153 302 172 C301 195 270 199 268 176" fill="#f3cfaf" class="line"/>
+<path d="M270 126 C262 102 280 88 296 95 C316 103 313 122 300 132 C287 142 279 146 286 161 M282 125Q294 112 299 122" fill="none" class="line"/>
+<!-- nose -->
+<path d="M468 83 C465 110 456 125 447 140 C439 152 451 169 467 160 Q482 172 497 158 C510 162 520 148 511 139 C496 125 491 107 489 84" fill="#f3cfaf" class="line"/>
+<path d="M457 151Q465 143 473 153 M490 153Q500 143 506 151" fill="none" stroke="#ad735f" stroke-width="3"/>
+<!-- hand -->
+<path d="M153 347L140 319L119 294 C112 284 122 275 130 282 L151 298 V241 C151 229 167 229 167 241 V277 V229 C167 217 183 217 183 229 V276 V236 C183 224 199 224 199 236 V279 V252 C199 240 215 240 215 252 V307 Q215 331 201 347Z" fill="#f3cfaf" class="line"/>
+<path d="M161 305Q180 292 198 305 M166 317L192 317" fill="none" stroke="#c58f70" stroke-width="3"/>
+<!-- tongue in open mouth -->
+<path d="M359 285 C369 242 447 242 464 281 C467 310 444 329 412 330 C382 331 361 313 359 285Z" fill="#8d4d53" class="line"/>
+<path d="M368 270Q412 255 455 270 L447 284H376Z" fill="#fff6e8" stroke="#274558" stroke-width="3"/>
+<path d="M389 297 C395 286 428 286 436 298 V335 C432 364 393 364 389 335Z" fill="#e89b9d" class="line"/><path d="M413 305V338" stroke="#bc6974" stroke-width="3" stroke-linecap="round"/>
+<circle cx="100" cy="35" r="20" class="badge"/><text x="100" y="43" class="label">A</text><circle cx="294" cy="35" r="20" class="badge"/><text x="294" y="43" class="label">B</text><circle cx="484" cy="35" r="20" class="badge"/><text x="484" y="43" class="label">C</text><circle cx="106" cy="350" r="20" class="badge"/><text x="106" y="358" class="label">D</text><circle cx="478" cy="350" r="20" class="badge"/><text x="478" y="358" class="label">E</text></svg>

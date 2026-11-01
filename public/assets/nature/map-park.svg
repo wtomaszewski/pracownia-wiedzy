@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc"><title id="title">Plan okolicy</title><desc id="desc">Plan z północą u góry. W środku znajduje się START. Wokół niego są podpisane miejsca w trzech rzędach i trzech kolumnach.</desc><style>text{font-family:Arial,Helvetica,sans-serif;fill:#22384b} .line{stroke:#274558;stroke-width:4;stroke-linecap:round;stroke-linejoin:round} .label{font-size:24px;font-weight:700;text-anchor:middle} .small{font-size:22px;text-anchor:middle} .badge{fill:#fff;stroke:#274558;stroke-width:3} .call{fill:none;stroke:#47677a;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}</style><rect width="600" height="400" rx="24" fill="#f7fafb"/>
+<text x="300" y="35" class="label">Plan okolicy</text>
+<path d="M553 57V19 M544 32L553 17L562 32" fill="none" class="line"/><text x="553" y="79" font-size="21" text-anchor="middle" font-weight="700">N</text>
+<rect x="35" y="57" width="500" height="326" rx="15" fill="#fff" stroke="#cadce3" stroke-width="2"/>
+<path d="M118 107H452 M118 220H452 M118 331H452 M118 107V331 M285 107V331 M452 107V331" stroke="#d9c4a1" stroke-width="14" fill="none" stroke-linecap="round"/>
+<path d="M118 107H452 M118 220H452 M118 331H452 M118 107V331 M285 107V331 M452 107V331" stroke="#f8f2e5" stroke-width="3" stroke-dasharray="6 7" fill="none"/>
+<!-- meadow -->
+<ellipse cx="118" cy="105" rx="49" ry="28" fill="#b8dca6"/><path d="M89 111L85 95 M90 105L98 95 M118 113V89 M117 101L109 94 M141 112L149 96" stroke="#5b9564" stroke-width="3" stroke-linecap="round"/><circle cx="111" cy="90" r="4" fill="#e8a177"/><circle cx="144" cy="91" r="4" fill="#e8a177"/>
+<rect x="68" y="137" width="100" height="27" rx="5" fill="#fff"/><text x="118" y="158" class="small">Łąka</text>
+<!-- school -->
+<path d="M241 96L285 69L329 96Z" fill="#bd7770" class="line"/><path d="M246 96H324V130H246Z" fill="#f5d791" class="line"/><path d="M278 110H292V130 M258 107H268V117H258Z M302 107H312V117H302Z" fill="#94c2d0" stroke="#274558" stroke-width="2"/>
+<rect x="235" y="137" width="100" height="27" rx="5" fill="#fff"/><text x="285" y="158" class="small">Szkoła</text>
+<!-- bridge -->
+<path d="M410 91Q450 78 493 91 M410 127Q450 114 493 127" stroke="#9acddd" stroke-width="14" fill="none"/><path d="M411 113Q452 71 493 113 L493 123Q452 89 411 123Z" fill="#b8a493" stroke="#274558" stroke-width="3"/><path d="M415 99L415 116 M433 84V103 M452 80V99 M472 85V104 M490 100V116" stroke="#274558" stroke-width="3"/>
+<rect x="401" y="137" width="100" height="27" rx="5" fill="#fff"/><text x="452" y="158" class="small">Most</text>
+<!-- forest -->
+<path d="M88 199V235 M118 188V236 M148 203V235" stroke="#8f7658" stroke-width="7"/><path d="M66 217L88 176L110 217Z M91 211L118 162L145 211Z M124 221L148 181L172 221Z" fill="#7fad85" stroke="#365b47" stroke-width="3"/>
+<rect x="76" y="247" width="84" height="27" rx="5" fill="#fff"/><text x="118" y="268" class="small">Las</text>
+<!-- start -->
+<circle cx="285" cy="220" r="34" fill="#fce2a0" stroke="#8d693d" stroke-width="3"/><circle cx="285" cy="208" r="7" fill="#664c35"/><path d="M285 216V234 M274 224L285 219L296 224" stroke="#664c35" stroke-width="5" fill="none" stroke-linecap="round"/>
+<rect x="238" y="247" width="94" height="29" rx="5" fill="#fff"/><text x="285" y="269" class="label">START</text>
+<!-- tower -->
+<path d="M430 229L434 177H443V185H452V177H461V185H470V177H479L481 229Z" fill="#becbd0" class="line"/><path d="M449 229V211Q456 199 463 211V229 M445 195H451 M464 195H470" fill="#6d8794" stroke="#274558" stroke-width="3"/>
+<rect x="402" y="247" width="100" height="27" rx="5" fill="#fff"/><text x="452" y="268" class="small">Wieża</text>
+<!-- bench -->
+<path d="M80 300H156V317H80Z M76 323H160V334H76Z" fill="#c3936b" stroke="#274558" stroke-width="3"/><path d="M88 335V345 M149 335V345 M88 317V323 M149 317V323" stroke="#274558" stroke-width="4"/>
+<rect x="63" y="350" width="110" height="27" rx="5" fill="#fff"/><text x="118" y="372" class="small">Ławka</text>
+<!-- pond -->
+<ellipse cx="285" cy="323" rx="48" ry="25" fill="#9cd2e2" stroke="#4d8295" stroke-width="3"/><path d="M259 321Q270 325 282 321 M288 332Q300 337 311 332" stroke="#609fb5" stroke-width="3" fill="none"/>
+<rect x="241" y="350" width="88" height="27" rx="5" fill="#fff"/><text x="285" y="372" class="small">Staw</text>
+<!-- playground -->
+<path d="M408 343L421 295L435 343 M421 295H463 M450 343L463 295L478 343" fill="none" stroke="#b87f5a" stroke-width="4" stroke-linejoin="round"/><path d="M432 298V324 M451 298V324" stroke="#546c7b" stroke-width="3"/><path d="M429 326H455" stroke="#bf7669" stroke-width="6" stroke-linecap="round"/>
+<rect x="377" y="350" width="150" height="27" rx="5" fill="#fff"/><text x="452" y="372" class="small">Plac zabaw</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc"><title id="title">Porównanie wzrostu siewek</title><desc id="desc">Dwie takie same doniczki. Siewka A rośnie w świetle: zielone liście, wysokość 4 cm. Siewka B rośnie w ciemności: cienka łodyga i blade liście, wysokość 8 cm.</desc><style>text{font-family:Arial,Helvetica,sans-serif;fill:#22384b} .line{stroke:#274558;stroke-width:4;stroke-linecap:round;stroke-linejoin:round} .label{font-size:24px;font-weight:700;text-anchor:middle} .small{font-size:22px;text-anchor:middle} .badge{fill:#fff;stroke:#274558;stroke-width:3} .call{fill:none;stroke:#47677a;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}</style><rect width="600" height="400" rx="24" fill="#f7fafb"/>
+<rect x="24" y="25" width="263" height="347" rx="20" fill="#eef6e8"/><rect x="313" y="25" width="263" height="347" rx="20" fill="#e6edf4"/>
+<text x="155" y="64" class="label">A · światło</text><text x="445" y="64" class="label">B · ciemność</text>
+<!-- two equal pots, equal soil baseline at y=288 -->
+<g fill="#c78f71" stroke="#704e3d" stroke-width="3"><path d="M106 284H202L190 343H118Z"/><path d="M396 284H492L480 343H408Z"/></g>
+<g fill="#835e46" stroke="#704e3d" stroke-width="3"><ellipse cx="154" cy="284" rx="48" ry="9"/><ellipse cx="444" cy="284" rx="48" ry="9"/></g>
+<!-- 4 cm stout green plant: top y=204, soil y=284 -->
+<path d="M154 282V222Q154 211 160 204" stroke="#4c8552" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M154 250Q115 249 113 222Q144 217 154 250Z" fill="#85b877" stroke="#4c8552" stroke-width="3"/>
+<path d="M154 233Q183 202 202 214Q195 245 154 233Z" fill="#85b877" stroke="#4c8552" stroke-width="3"/>
+<!-- 8 cm etiolated seedling: top y=124, soil y=284 -->
+<path d="M444 281Q436 244 445 215Q452 185 443 155Q439 139 445 124" stroke="#c1b675" stroke-width="4" fill="none" stroke-linecap="round"/>
+<path d="M444 152Q420 154 416 137Q434 129 444 152Z M444 144Q456 125 473 129Q470 149 444 144Z" fill="#e1dba5" stroke="#b6ad70" stroke-width="3"/>
+<!-- height brackets same scale -->
+<path d="M219 204H235 M227 204V284 M219 284H235" stroke="#536c7b" stroke-width="2" fill="none"/>
+<text x="259" y="249" class="small">4 cm</text>
+<path d="M509 124H525 M517 124V284 M509 284H525" stroke="#536c7b" stroke-width="2" fill="none"/>
+<text x="549" y="210" class="small">8 cm</text>
+
+</svg>

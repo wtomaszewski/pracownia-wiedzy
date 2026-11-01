@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc"><title id="title">Róża kierunków</title><desc id="desc">Na górze róży podano północ. Pozostałe wskazane kierunki oznaczono literami.</desc><style>text{font-family:Arial,Helvetica,sans-serif;fill:#22384b} .line{stroke:#274558;stroke-width:4;stroke-linecap:round;stroke-linejoin:round} .label{font-size:24px;font-weight:700;text-anchor:middle} .small{font-size:22px;text-anchor:middle} .badge{fill:#fff;stroke:#274558;stroke-width:3} .call{fill:none;stroke:#47677a;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}</style><rect width="600" height="400" rx="24" fill="#f7fafb"/>
+<circle cx="295" cy="205" r="132" fill="#fff" stroke="#d4e2e7" stroke-width="3"/>
+<circle cx="295" cy="205" r="89" fill="none" stroke="#e6eef0" stroke-width="2"/>
+<path d="M295 205L295 74L316 181Z" fill="#b55351"/><path d="M295 205L295 74L274 181Z" fill="#df9793"/>
+<path d="M295 205L426 205L319 226Z M295 205L295 336L274 229Z M295 205L164 205L271 184Z" fill="#558093"/>
+<path d="M295 205L426 205L319 184Z M295 205L295 336L316 229Z M295 205L164 205L271 226Z" fill="#a7c6d2"/>
+<path d="M295 205L381 119L312 194Z M295 205L381 291L306 221Z M295 205L209 291L279 216Z M295 205L209 119L284 189Z" fill="#c2d7df" stroke="#6f93a3" stroke-width="2"/>
+<circle cx="295" cy="205" r="10" fill="#fff" stroke="#274558" stroke-width="3"/>
+<text x="295" y="46" font-size="32" font-weight="700" text-anchor="middle">N</text>
+<circle cx="463" cy="205" r="20" class="badge"/><text x="463" y="213" class="label">A</text><circle cx="295" cy="371" r="20" class="badge"/><text x="295" y="379" class="label">B</text><circle cx="127" cy="205" r="20" class="badge"/><text x="127" y="213" class="label">C</text><circle cx="413" cy="87" r="20" class="badge"/><text x="413" y="95" class="label">D</text></svg>
