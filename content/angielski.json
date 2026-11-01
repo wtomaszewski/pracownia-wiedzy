@@ -1,0 +1,3676 @@
+{
+  "sources": [
+    {
+      "title": "Pearson: New English Class 4 – materiały i przykładowe strony",
+      "url": "https://www.pearson.com/languages/pl-pl/educators/connected-english-learning-program/primary/english-class.html",
+      "note": "Autorskie pytania oparte na początkowych działach podręcznika. Diagnozy rozdziału 1: słownictwo rodziny, miejsc, krajów i narodowości; to be w twierdzeniach i przeczeniach, forma dzierżawcza ’s oraz my, your, his, her. Tylko Present Simple."
+    },
+    {
+      "title": "Pearson: rozkład materiału New English Class 4, podstawa 2026",
+      "url": "https://www.pearson.com/content/dam/one-dot-com/one-dot-com/pearson-languages/en-pl/documentation/primary-4-8/englishClass-RM-PW-PZO-pp2026.zip",
+      "note": "Get started oraz Family and friends: zaimki, twierdzenia i przeczenia to be; pytania i krótkie odpowiedzi z początkowej części My things. Tempo realizacji zależy od nauczyciela."
+    },
+    {
+      "title": "Pearson: New English Class 4 — przykładowy rozdział 1, Family and friends",
+      "url": "https://www.pearson.com/content/dam/one-dot-com/one-dot-com/pearson-languages/en-pl/samples/new-english-class-sample-pack.zip",
+      "note": "Zakres słownictwa i gramatyki zweryfikowany w lekcjach 1.1–1.5 i liście słów rozdziału 1. Testy A i B są autorskie, nie są oficjalnymi testami Pearson."
+    }
+  ],
+  "topics": [
+    {
+      "id": "en-zaimki",
+      "subject": "angielski",
+      "section": "New English Class 4",
+      "title": "Zaimki osobowe",
+      "description": "I, you, he, she, it, we, they. Zastępujemy osoby i rzeczy właściwymi zaimkami.",
+      "questions": [
+        {
+          "id": "en-zaimki-001",
+          "prompt": "Wybierz zaimek: mówisz o sobie: „ja”.\n___ am ten.",
+          "options": [
+            "You",
+            "We",
+            "I"
+          ],
+          "answer": "I",
+          "hint": "Mówiąc o sobie, wybierasz zaimek oznaczający „ja”. Zawsze piszemy go wielką literą.",
+          "explanation": "I oznacza „ja”. I am ten."
+        },
+        {
+          "id": "en-zaimki-002",
+          "prompt": "Wybierz zaimek: mówisz do jednej osoby: „ty”.\n___ are my friend.",
+          "options": [
+            "You",
+            "We",
+            "They"
+          ],
+          "answer": "You",
+          "hint": "W języku angielskim ten sam zaimek oznacza „ty” i „wy”.",
+          "explanation": "You oznacza „ty lub wy”. You are my friend."
+        },
+        {
+          "id": "en-zaimki-003",
+          "prompt": "Wybierz zaimek: mówisz o chłopcu: „on”.\n___ is my brother.",
+          "options": [
+            "She",
+            "He",
+            "It"
+          ],
+          "answer": "He",
+          "hint": "Mówiąc o chłopcu lub mężczyźnie, używasz zaimka „on”.",
+          "explanation": "He oznacza „on”. He is my brother."
+        },
+        {
+          "id": "en-zaimki-004",
+          "prompt": "Wybierz zaimek: mówisz o dziewczynce: „ona”.\n___ is my sister.",
+          "options": [
+            "He",
+            "They",
+            "She"
+          ],
+          "answer": "She",
+          "hint": "Mówiąc o dziewczynce lub kobiecie, używasz zaimka „ona”.",
+          "explanation": "She oznacza „ona”. She is my sister."
+        },
+        {
+          "id": "en-zaimki-005",
+          "prompt": "Wybierz zaimek: mówisz o jednym przedmiocie: „to”.\n___ is blue.",
+          "options": [
+            "They",
+            "It",
+            "He"
+          ],
+          "answer": "It",
+          "hint": "Jedną rzecz zastępujemy przez it. Polski rodzaj słowa, np. „książka”, tego nie zmienia.",
+          "explanation": "It oznacza „to, jedna rzecz”. It is blue."
+        },
+        {
+          "id": "en-zaimki-006",
+          "prompt": "Wybierz zaimek: mówisz o sobie i koledze: „my”.\n___ are classmates.",
+          "options": [
+            "They",
+            "We",
+            "You"
+          ],
+          "answer": "We",
+          "hint": "Jeśli w grupie jesteś także ty, użyj zaimka „my”.",
+          "explanation": "We oznacza „my”. We are classmates."
+        },
+        {
+          "id": "en-zaimki-007",
+          "prompt": "Wybierz zaimek: mówisz o rodzicach: „oni”.\n___ are at home.",
+          "options": [
+            "They",
+            "It",
+            "We"
+          ],
+          "answer": "They",
+          "hint": "O kilku osobach lub rzeczach, bez siebie w tej grupie, mówimy „oni/one”.",
+          "explanation": "They oznacza „oni lub one”. They are at home."
+        },
+        {
+          "id": "en-zaimki-008",
+          "prompt": "Wybierz zaimek: mówisz o swoim tacie: „my dad”.\n___ is at home.",
+          "options": [
+            "He",
+            "It",
+            "She"
+          ],
+          "answer": "He",
+          "hint": "Mówiąc o chłopcu lub mężczyźnie, używasz zaimka „on”.",
+          "explanation": "He oznacza „on”. He is at home."
+        },
+        {
+          "id": "en-zaimki-009",
+          "prompt": "Wybierz zaimek: mówisz o swojej mamie: „my mum”.\n___ is in the park.",
+          "options": [
+            "They",
+            "She",
+            "He"
+          ],
+          "answer": "She",
+          "hint": "Mówiąc o dziewczynce lub kobiecie, używasz zaimka „ona”.",
+          "explanation": "She oznacza „ona”. She is in the park."
+        },
+        {
+          "id": "en-zaimki-010",
+          "prompt": "Wybierz zaimek: mówisz o swoim bracie: „my brother”.\n___ is hungry.",
+          "options": [
+            "He",
+            "It",
+            "She"
+          ],
+          "answer": "He",
+          "hint": "Mówiąc o chłopcu lub mężczyźnie, używasz zaimka „on”.",
+          "explanation": "He oznacza „on”. He is hungry."
+        },
+        {
+          "id": "en-zaimki-011",
+          "prompt": "Wybierz zaimek: mówisz o swojej siostrze: „my sister”.\n___ is happy.",
+          "options": [
+            "She",
+            "They",
+            "He"
+          ],
+          "answer": "She",
+          "hint": "Mówiąc o dziewczynce lub kobiecie, używasz zaimka „ona”.",
+          "explanation": "She oznacza „ona”. She is happy."
+        },
+        {
+          "id": "en-zaimki-012",
+          "prompt": "Wybierz zaimek: mówisz o swoich rodzicach: „my parents”.\n___ are at a party.",
+          "options": [
+            "We",
+            "They",
+            "It"
+          ],
+          "answer": "They",
+          "hint": "O kilku osobach lub rzeczach, bez siebie w tej grupie, mówimy „oni/one”.",
+          "explanation": "They oznacza „oni lub one”. They are at a party."
+        },
+        {
+          "id": "en-zaimki-013",
+          "prompt": "Wybierz zaimek: mówisz o swojej babci: „my granny”.\n___ is on holiday.",
+          "options": [
+            "They",
+            "He",
+            "She"
+          ],
+          "answer": "She",
+          "hint": "Mówiąc o dziewczynce lub kobiecie, używasz zaimka „ona”.",
+          "explanation": "She oznacza „ona”. She is on holiday."
+        },
+        {
+          "id": "en-zaimki-014",
+          "prompt": "Wybierz zaimek: mówisz o swoim dziadku: „my grandad”.\n___ is in the garden.",
+          "options": [
+            "He",
+            "She",
+            "It"
+          ],
+          "answer": "He",
+          "hint": "Mówiąc o chłopcu lub mężczyźnie, używasz zaimka „on”.",
+          "explanation": "He oznacza „on”. He is in the garden."
+        },
+        {
+          "id": "en-zaimki-015",
+          "prompt": "Wybierz zaimek: mówisz o swojej cioci: „my aunt”.\n___ is from Spain.",
+          "options": [
+            "They",
+            "She",
+            "He"
+          ],
+          "answer": "She",
+          "hint": "Mówiąc o dziewczynce lub kobiecie, używasz zaimka „ona”.",
+          "explanation": "She oznacza „ona”. She is from Spain."
+        },
+        {
+          "id": "en-zaimki-016",
+          "prompt": "Wybierz zaimek: mówisz o swoim wujku: „my uncle”.\n___ is from Italy.",
+          "options": [
+            "It",
+            "She",
+            "He"
+          ],
+          "answer": "He",
+          "hint": "Mówiąc o chłopcu lub mężczyźnie, używasz zaimka „on”.",
+          "explanation": "He oznacza „on”. He is from Italy."
+        },
+        {
+          "id": "en-zaimki-017",
+          "prompt": "Wybierz zaimek: mówisz o swoich kuzynach: „my cousins”.\n___ are from France.",
+          "options": [
+            "They",
+            "We",
+            "It"
+          ],
+          "answer": "They",
+          "hint": "O kilku osobach lub rzeczach, bez siebie w tej grupie, mówimy „oni/one”.",
+          "explanation": "They oznacza „oni lub one”. They are from France."
+        },
+        {
+          "id": "en-zaimki-018",
+          "prompt": "Wybierz zaimek: mówisz o jednej torbie: „my bag”.\n___ is red.",
+          "options": [
+            "It",
+            "They",
+            "He"
+          ],
+          "answer": "It",
+          "hint": "Jedną rzecz zastępujemy przez it. Polski rodzaj słowa, np. „książka”, tego nie zmienia.",
+          "explanation": "It oznacza „to, jedna rzecz”. It is red."
+        },
+        {
+          "id": "en-zaimki-019",
+          "prompt": "Wybierz zaimek: mówisz o jednej książce: „my book”.\n___ is green.",
+          "options": [
+            "It",
+            "He",
+            "They"
+          ],
+          "answer": "It",
+          "hint": "Jedną rzecz zastępujemy przez it. Polski rodzaj słowa, np. „książka”, tego nie zmienia.",
+          "explanation": "It oznacza „to, jedna rzecz”. It is green."
+        },
+        {
+          "id": "en-zaimki-020",
+          "prompt": "Wybierz zaimek: mówisz o jednym ołówku: „my pencil”.\n___ is yellow.",
+          "options": [
+            "It",
+            "He",
+            "They"
+          ],
+          "answer": "It",
+          "hint": "Jedną rzecz zastępujemy przez it. Polski rodzaj słowa, np. „książka”, tego nie zmienia.",
+          "explanation": "It oznacza „to, jedna rzecz”. It is yellow."
+        },
+        {
+          "id": "en-zaimki-021",
+          "prompt": "Wybierz zaimek: mówisz o kilku długopisach: „my pens”.\n___ are blue.",
+          "options": [
+            "It",
+            "We",
+            "They"
+          ],
+          "answer": "They",
+          "hint": "O kilku osobach lub rzeczach, bez siebie w tej grupie, mówimy „oni/one”.",
+          "explanation": "They oznacza „oni lub one”. They are blue."
+        },
+        {
+          "id": "en-zaimki-022",
+          "prompt": "Wybierz zaimek: mówisz o kilku książkach: „my books”.\n___ are green.",
+          "options": [
+            "We",
+            "It",
+            "They"
+          ],
+          "answer": "They",
+          "hint": "O kilku osobach lub rzeczach, bez siebie w tej grupie, mówimy „oni/one”.",
+          "explanation": "They oznacza „oni lub one”. They are green."
+        },
+        {
+          "id": "en-zaimki-023",
+          "prompt": "Wybierz zaimek: mówisz o jednej linijce: „my ruler”.\n___ is white.",
+          "options": [
+            "He",
+            "It",
+            "They"
+          ],
+          "answer": "It",
+          "hint": "Jedną rzecz zastępujemy przez it. Polski rodzaj słowa, np. „książka”, tego nie zmienia.",
+          "explanation": "It oznacza „to, jedna rzecz”. It is white."
+        },
+        {
+          "id": "en-zaimki-024",
+          "prompt": "Wybierz zaimek: mówisz o chłopcu o imieniu Adam.\n___ is eleven.",
+          "options": [
+            "It",
+            "He",
+            "She"
+          ],
+          "answer": "He",
+          "hint": "Mówiąc o chłopcu lub mężczyźnie, używasz zaimka „on”.",
+          "explanation": "He oznacza „on”. He is eleven."
+        },
+        {
+          "id": "en-zaimki-025",
+          "prompt": "Wybierz zaimek: mówisz o dziewczynce o imieniu Anna.\n___ is ten.",
+          "options": [
+            "He",
+            "She",
+            "They"
+          ],
+          "answer": "She",
+          "hint": "Mówiąc o dziewczynce lub kobiecie, używasz zaimka „ona”.",
+          "explanation": "She oznacza „ona”. She is ten."
+        },
+        {
+          "id": "en-zaimki-026",
+          "prompt": "Wybierz zaimek: mówisz o chłopcu o imieniu Tom.\n___ is British.",
+          "options": [
+            "It",
+            "He",
+            "She"
+          ],
+          "answer": "He",
+          "hint": "Mówiąc o chłopcu lub mężczyźnie, używasz zaimka „on”.",
+          "explanation": "He oznacza „on”. He is British."
+        },
+        {
+          "id": "en-zaimki-027",
+          "prompt": "Wybierz zaimek: mówisz o dziewczynce o imieniu Lucy.\n___ is American.",
+          "options": [
+            "She",
+            "They",
+            "He"
+          ],
+          "answer": "She",
+          "hint": "Mówiąc o dziewczynce lub kobiecie, używasz zaimka „ona”.",
+          "explanation": "She oznacza „ona”. She is American."
+        },
+        {
+          "id": "en-zaimki-028",
+          "prompt": "Wybierz zaimek: mówisz o Adamie i Tomie.\n___ are friends.",
+          "options": [
+            "It",
+            "We",
+            "They"
+          ],
+          "answer": "They",
+          "hint": "O kilku osobach lub rzeczach, bez siebie w tej grupie, mówimy „oni/one”.",
+          "explanation": "They oznacza „oni lub one”. They are friends."
+        },
+        {
+          "id": "en-zaimki-029",
+          "prompt": "Wybierz zaimek: mówisz o Annie i Lucy.\n___ are classmates.",
+          "options": [
+            "It",
+            "We",
+            "They"
+          ],
+          "answer": "They",
+          "hint": "O kilku osobach lub rzeczach, bez siebie w tej grupie, mówimy „oni/one”.",
+          "explanation": "They oznacza „oni lub one”. They are classmates."
+        },
+        {
+          "id": "en-zaimki-030",
+          "prompt": "Wybierz zaimek: mówisz o Tomie i sobie: „Tom and I”.\n___ are at school.",
+          "options": [
+            "We",
+            "They",
+            "You"
+          ],
+          "answer": "We",
+          "hint": "Jeśli w grupie jesteś także ty, użyj zaimka „my”.",
+          "explanation": "We oznacza „my”. We are at school."
+        },
+        {
+          "id": "en-zaimki-031",
+          "prompt": "Wybierz zaimek: mówisz o Annie i sobie: „Anna and I”.\n___ are in the garden.",
+          "options": [
+            "You",
+            "They",
+            "We"
+          ],
+          "answer": "We",
+          "hint": "Jeśli w grupie jesteś także ty, użyj zaimka „my”.",
+          "explanation": "We oznacza „my”. We are in the garden."
+        },
+        {
+          "id": "en-zaimki-032",
+          "prompt": "Wybierz zaimek: mówisz o mamie i tacie: „Mum and Dad”.\n___ are happy.",
+          "options": [
+            "We",
+            "They",
+            "It"
+          ],
+          "answer": "They",
+          "hint": "O kilku osobach lub rzeczach, bez siebie w tej grupie, mówimy „oni/one”.",
+          "explanation": "They oznacza „oni lub one”. They are happy."
+        },
+        {
+          "id": "en-zaimki-033",
+          "prompt": "Wybierz zaimek: mówisz o sobie, skąd jesteś: „ja”.\n___ am from Poland.",
+          "options": [
+            "You",
+            "I",
+            "We"
+          ],
+          "answer": "I",
+          "hint": "Mówiąc o sobie, wybierasz zaimek oznaczający „ja”. Zawsze piszemy go wielką literą.",
+          "explanation": "I oznacza „ja”. I am from Poland."
+        },
+        {
+          "id": "en-zaimki-034",
+          "prompt": "Wybierz zaimek: mówisz o wieku jednej osoby, do której się zwracasz: „ty”.\n___ are eleven.",
+          "options": [
+            "We",
+            "They",
+            "You"
+          ],
+          "answer": "You",
+          "hint": "W języku angielskim ten sam zaimek oznacza „ty” i „wy”.",
+          "explanation": "You oznacza „ty lub wy”. You are eleven."
+        },
+        {
+          "id": "en-zaimki-035",
+          "prompt": "Wybierz zaimek: mówisz o pochodzeniu chłopca: „on”.\n___ is from the UK.",
+          "options": [
+            "He",
+            "It",
+            "She"
+          ],
+          "answer": "He",
+          "hint": "Mówiąc o chłopcu lub mężczyźnie, używasz zaimka „on”.",
+          "explanation": "He oznacza „on”. He is from the UK."
+        },
+        {
+          "id": "en-zaimki-036",
+          "prompt": "Wybierz zaimek: mówisz o narodowości dziewczynki: „ona”.\n___ is French.",
+          "options": [
+            "He",
+            "They",
+            "She"
+          ],
+          "answer": "She",
+          "hint": "Mówiąc o dziewczynce lub kobiecie, używasz zaimka „ona”.",
+          "explanation": "She oznacza „ona”. She is French."
+        },
+        {
+          "id": "en-zaimki-037",
+          "prompt": "Wybierz zaimek: wskazujesz jedną rzecz: „to”.\n___ is my bag.",
+          "options": [
+            "It",
+            "He",
+            "They"
+          ],
+          "answer": "It",
+          "hint": "Jedną rzecz zastępujemy przez it. Polski rodzaj słowa, np. „książka”, tego nie zmienia.",
+          "explanation": "It oznacza „to, jedna rzecz”. It is my bag."
+        },
+        {
+          "id": "en-zaimki-038",
+          "prompt": "Wybierz zaimek: mówisz o narodowości swojej i kolegi: „my”.\n___ are Polish.",
+          "options": [
+            "We",
+            "You",
+            "They"
+          ],
+          "answer": "We",
+          "hint": "Jeśli w grupie jesteś także ty, użyj zaimka „my”.",
+          "explanation": "We oznacza „my”. We are Polish."
+        },
+        {
+          "id": "en-zaimki-039",
+          "prompt": "Wybierz zaimek: mówisz o narodowości dwóch kolegów: „oni”.\n___ are Chinese.",
+          "options": [
+            "They",
+            "It",
+            "We"
+          ],
+          "answer": "They",
+          "hint": "O kilku osobach lub rzeczach, bez siebie w tej grupie, mówimy „oni/one”.",
+          "explanation": "They oznacza „oni lub one”. They are Chinese."
+        },
+        {
+          "id": "en-zaimki-040",
+          "prompt": "Wybierz zaimek: mówisz o swojej babci: „my grandmother”.\n___ is sixty.",
+          "options": [
+            "He",
+            "They",
+            "She"
+          ],
+          "answer": "She",
+          "hint": "Mówiąc o dziewczynce lub kobiecie, używasz zaimka „ona”.",
+          "explanation": "She oznacza „ona”. She is sixty."
+        },
+        {
+          "id": "en-zaimki-041",
+          "prompt": "Wybierz zaimek: mówisz o swoim dziadku: „my grandfather”.\n___ is seventy.",
+          "options": [
+            "He",
+            "It",
+            "She"
+          ],
+          "answer": "He",
+          "hint": "Mówiąc o chłopcu lub mężczyźnie, używasz zaimka „on”.",
+          "explanation": "He oznacza „on”. He is seventy."
+        },
+        {
+          "id": "en-zaimki-042",
+          "prompt": "Wybierz zaimek: mówisz o jednym cieście: „the cake”.\n___ is big.",
+          "options": [
+            "They",
+            "It",
+            "He"
+          ],
+          "answer": "It",
+          "hint": "Jedną rzecz zastępujemy przez it. Polski rodzaj słowa, np. „książka”, tego nie zmienia.",
+          "explanation": "It oznacza „to, jedna rzecz”. It is big."
+        },
+        {
+          "id": "en-zaimki-043",
+          "prompt": "Wybierz zaimek: mówisz o jednym prezencie: „the present”.\n___ is yellow.",
+          "options": [
+            "It",
+            "He",
+            "They"
+          ],
+          "answer": "It",
+          "hint": "Jedną rzecz zastępujemy przez it. Polski rodzaj słowa, np. „książka”, tego nie zmienia.",
+          "explanation": "It oznacza „to, jedna rzecz”. It is yellow."
+        },
+        {
+          "id": "en-zaimki-044",
+          "prompt": "Wybierz zaimek: mówisz o jednej kartce: „the card”.\n___ is lovely.",
+          "options": [
+            "He",
+            "It",
+            "They"
+          ],
+          "answer": "It",
+          "hint": "Jedną rzecz zastępujemy przez it. Polski rodzaj słowa, np. „książka”, tego nie zmienia.",
+          "explanation": "It oznacza „to, jedna rzecz”. It is lovely."
+        },
+        {
+          "id": "en-zaimki-045",
+          "prompt": "Wybierz zaimek: mówisz o swoich przyjaciołach: „my friends”.\n___ are in the park.",
+          "options": [
+            "We",
+            "It",
+            "They"
+          ],
+          "answer": "They",
+          "hint": "O kilku osobach lub rzeczach, bez siebie w tej grupie, mówimy „oni/one”.",
+          "explanation": "They oznacza „oni lub one”. They are in the park."
+        },
+        {
+          "id": "en-zaimki-046",
+          "prompt": "Wybierz zaimek: mówisz o swoich siostrach: „my sisters”.\n___ are at school.",
+          "options": [
+            "It",
+            "They",
+            "We"
+          ],
+          "answer": "They",
+          "hint": "O kilku osobach lub rzeczach, bez siebie w tej grupie, mówimy „oni/one”.",
+          "explanation": "They oznacza „oni lub one”. They are at school."
+        },
+        {
+          "id": "en-zaimki-047",
+          "prompt": "Wybierz zaimek: mówisz o swoich braciach: „my brothers”.\n___ are hungry.",
+          "options": [
+            "We",
+            "They",
+            "It"
+          ],
+          "answer": "They",
+          "hint": "O kilku osobach lub rzeczach, bez siebie w tej grupie, mówimy „oni/one”.",
+          "explanation": "They oznacza „oni lub one”. They are hungry."
+        },
+        {
+          "id": "en-zaimki-048",
+          "prompt": "Wybierz zaimek: mówisz o swoim ojcu: „my father”.\n___ is Polish.",
+          "options": [
+            "He",
+            "It",
+            "She"
+          ],
+          "answer": "He",
+          "hint": "Mówiąc o chłopcu lub mężczyźnie, używasz zaimka „on”.",
+          "explanation": "He oznacza „on”. He is Polish."
+        },
+        {
+          "id": "en-zaimki-049",
+          "prompt": "Wybierz zaimek: mówisz o swojej mamie: „my mother”.\n___ is Italian.",
+          "options": [
+            "She",
+            "They",
+            "He"
+          ],
+          "answer": "She",
+          "hint": "Mówiąc o dziewczynce lub kobiecie, używasz zaimka „ona”.",
+          "explanation": "She oznacza „ona”. She is Italian."
+        },
+        {
+          "id": "en-zaimki-050",
+          "prompt": "Wybierz zaimek: mówisz do dwojga kolegów: „wy”.\n___ are at a party.",
+          "options": [
+            "We",
+            "They",
+            "You"
+          ],
+          "answer": "You",
+          "hint": "W języku angielskim ten sam zaimek oznacza „ty” i „wy”.",
+          "explanation": "You oznacza „ty lub wy”. You are at a party."
+        }
+      ]
+    },
+    {
+      "id": "en-tobe-twierdzenia",
+      "subject": "angielski",
+      "section": "New English Class 4",
+      "title": "To be: twierdzenia",
+      "description": "Dobieramy am, is i are oraz rozpoznajemy skróty. Tylko Present Simple.",
+      "questions": [
+        {
+          "id": "en-tobe-twierdzenia-001",
+          "prompt": "Wybierz poprawny skrót zdania.\nI am ten.",
+          "options": [
+            "I'm ten.",
+            "I're ten.",
+            "I's ten."
+          ],
+          "answer": "I'm ten.",
+          "hint": "Apostrof zastępuje pominięte litery. I am → I’m, he is → he’s, you are → you’re.",
+          "explanation": "I am można skrócić do I'm. Poprawne zdanie: I'm ten."
+        },
+        {
+          "id": "en-tobe-twierdzenia-002",
+          "prompt": "Wybierz poprawny skrót zdania.\nYou are my friend.",
+          "options": [
+            "You'm my friend.",
+            "You're my friend.",
+            "You's my friend."
+          ],
+          "answer": "You're my friend.",
+          "hint": "Apostrof zastępuje pominięte litery. I am → I’m, he is → he’s, you are → you’re.",
+          "explanation": "You are można skrócić do You're. Poprawne zdanie: You're my friend."
+        },
+        {
+          "id": "en-tobe-twierdzenia-003",
+          "prompt": "Wybierz poprawny skrót zdania.\nHe is my brother.",
+          "options": [
+            "He're my brother.",
+            "He'm my brother.",
+            "He's my brother."
+          ],
+          "answer": "He's my brother.",
+          "hint": "Apostrof zastępuje pominięte litery. I am → I’m, he is → he’s, you are → you’re.",
+          "explanation": "He is można skrócić do He's. Poprawne zdanie: He's my brother."
+        },
+        {
+          "id": "en-tobe-twierdzenia-004",
+          "prompt": "Wybierz poprawny skrót zdania.\nShe is my sister.",
+          "options": [
+            "She's my sister.",
+            "She're my sister.",
+            "She'm my sister."
+          ],
+          "answer": "She's my sister.",
+          "hint": "Apostrof zastępuje pominięte litery. I am → I’m, he is → he’s, you are → you’re.",
+          "explanation": "She is można skrócić do She's. Poprawne zdanie: She's my sister."
+        },
+        {
+          "id": "en-tobe-twierdzenia-005",
+          "prompt": "Wybierz poprawny skrót zdania.\nIt is blue.",
+          "options": [
+            "It'm blue.",
+            "It're blue.",
+            "It's blue."
+          ],
+          "answer": "It's blue.",
+          "hint": "Apostrof zastępuje pominięte litery. I am → I’m, he is → he’s, you are → you’re.",
+          "explanation": "It is można skrócić do It's. Poprawne zdanie: It's blue."
+        },
+        {
+          "id": "en-tobe-twierdzenia-006",
+          "prompt": "Wybierz poprawny skrót zdania.\nWe are classmates.",
+          "options": [
+            "We're classmates.",
+            "We's classmates.",
+            "We'm classmates."
+          ],
+          "answer": "We're classmates.",
+          "hint": "Apostrof zastępuje pominięte litery. I am → I’m, he is → he’s, you are → you’re.",
+          "explanation": "We are można skrócić do We're. Poprawne zdanie: We're classmates."
+        },
+        {
+          "id": "en-tobe-twierdzenia-007",
+          "prompt": "Wybierz poprawny skrót zdania.\nThey are at home.",
+          "options": [
+            "They're at home.",
+            "They'm at home.",
+            "They's at home."
+          ],
+          "answer": "They're at home.",
+          "hint": "Apostrof zastępuje pominięte litery. I am → I’m, he is → he’s, you are → you’re.",
+          "explanation": "They are można skrócić do They're. Poprawne zdanie: They're at home."
+        },
+        {
+          "id": "en-tobe-twierdzenia-008",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy dad ___ at home.",
+          "options": [
+            "is",
+            "am",
+            "are"
+          ],
+          "answer": "is",
+          "hint": "My dad → He. He, she i it łączą się z is.",
+          "explanation": "My dad is at home. Mój tata jest w domu."
+        },
+        {
+          "id": "en-tobe-twierdzenia-009",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy mum ___ in the park.",
+          "options": [
+            "are",
+            "am",
+            "is"
+          ],
+          "answer": "is",
+          "hint": "My mum → She. He, she i it łączą się z is.",
+          "explanation": "My mum is in the park. Moja mama jest w parku."
+        },
+        {
+          "id": "en-tobe-twierdzenia-010",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy brother ___ hungry.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "is",
+          "hint": "My brother → He. He, she i it łączą się z is.",
+          "explanation": "My brother is hungry. Mój brat jest głodny."
+        },
+        {
+          "id": "en-tobe-twierdzenia-011",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy sister ___ happy.",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": "is",
+          "hint": "My sister → She. He, she i it łączą się z is.",
+          "explanation": "My sister is happy. Moja siostra jest szczęśliwa."
+        },
+        {
+          "id": "en-tobe-twierdzenia-012",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy parents ___ at a party.",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": "are",
+          "hint": "My parents → They. You, we i they łączą się z are.",
+          "explanation": "My parents are at a party. Moi rodzice są na przyjęciu."
+        },
+        {
+          "id": "en-tobe-twierdzenia-013",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy granny ___ on holiday.",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": "is",
+          "hint": "My granny → She. He, she i it łączą się z is.",
+          "explanation": "My granny is on holiday. Moja babcia jest na wakacjach."
+        },
+        {
+          "id": "en-tobe-twierdzenia-014",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy grandad ___ in the garden.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "is",
+          "hint": "My grandad → He. He, she i it łączą się z is.",
+          "explanation": "My grandad is in the garden. Mój dziadek jest w ogrodzie."
+        },
+        {
+          "id": "en-tobe-twierdzenia-015",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy aunt ___ from Spain.",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": "is",
+          "hint": "My aunt → She. He, she i it łączą się z is.",
+          "explanation": "My aunt is from Spain. Moja ciocia jest z Hiszpanii."
+        },
+        {
+          "id": "en-tobe-twierdzenia-016",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy uncle ___ from Italy.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "is",
+          "hint": "My uncle → He. He, she i it łączą się z is.",
+          "explanation": "My uncle is from Italy. Mój wujek jest z Włoch."
+        },
+        {
+          "id": "en-tobe-twierdzenia-017",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy cousins ___ from France.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "are",
+          "hint": "My cousins → They. You, we i they łączą się z are.",
+          "explanation": "My cousins are from France. Moi kuzyni są z Francji."
+        },
+        {
+          "id": "en-tobe-twierdzenia-018",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy bag ___ red.",
+          "options": [
+            "am",
+            "are",
+            "is"
+          ],
+          "answer": "is",
+          "hint": "My bag → It. He, she i it łączą się z is.",
+          "explanation": "My bag is red. Moja torba jest czerwona."
+        },
+        {
+          "id": "en-tobe-twierdzenia-019",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy book ___ green.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "is",
+          "hint": "My book → It. He, she i it łączą się z is.",
+          "explanation": "My book is green. Moja książka jest zielona."
+        },
+        {
+          "id": "en-tobe-twierdzenia-020",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy pencil ___ yellow.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "is",
+          "hint": "My pencil → It. He, she i it łączą się z is.",
+          "explanation": "My pencil is yellow. Mój ołówek jest żółty."
+        },
+        {
+          "id": "en-tobe-twierdzenia-021",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy pens ___ blue.",
+          "options": [
+            "is",
+            "am",
+            "are"
+          ],
+          "answer": "are",
+          "hint": "My pens → They. You, we i they łączą się z are.",
+          "explanation": "My pens are blue. Moje długopisy są niebieskie."
+        },
+        {
+          "id": "en-tobe-twierdzenia-022",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy books ___ green.",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": "are",
+          "hint": "My books → They. You, we i they łączą się z are.",
+          "explanation": "My books are green. Moje książki są zielone."
+        },
+        {
+          "id": "en-tobe-twierdzenia-023",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy ruler ___ white.",
+          "options": [
+            "am",
+            "are",
+            "is"
+          ],
+          "answer": "is",
+          "hint": "My ruler → It. He, she i it łączą się z is.",
+          "explanation": "My ruler is white. Moja linijka jest biała."
+        },
+        {
+          "id": "en-tobe-twierdzenia-024",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nAdam ___ eleven.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "is",
+          "hint": "Adam → He. He, she i it łączą się z is.",
+          "explanation": "Adam is eleven. Adam ma jedenaście lat."
+        },
+        {
+          "id": "en-tobe-twierdzenia-025",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nAnna ___ ten.",
+          "options": [
+            "is",
+            "am",
+            "are"
+          ],
+          "answer": "is",
+          "hint": "Anna → She. He, she i it łączą się z is.",
+          "explanation": "Anna is ten. Anna ma dziesięć lat."
+        },
+        {
+          "id": "en-tobe-twierdzenia-026",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nTom ___ British.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "is",
+          "hint": "Tom → He. He, she i it łączą się z is.",
+          "explanation": "Tom is British. Tom jest Brytyjczykiem."
+        },
+        {
+          "id": "en-tobe-twierdzenia-027",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nLucy ___ American.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "is",
+          "hint": "Lucy → She. He, she i it łączą się z is.",
+          "explanation": "Lucy is American. Lucy jest Amerykanką."
+        },
+        {
+          "id": "en-tobe-twierdzenia-028",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nAdam and Tom ___ friends.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "are",
+          "hint": "Adam and Tom → They. You, we i they łączą się z are.",
+          "explanation": "Adam and Tom are friends. Adam i Tom są przyjaciółmi."
+        },
+        {
+          "id": "en-tobe-twierdzenia-029",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nAnna and Lucy ___ classmates.",
+          "options": [
+            "is",
+            "am",
+            "are"
+          ],
+          "answer": "are",
+          "hint": "Anna and Lucy → They. You, we i they łączą się z are.",
+          "explanation": "Anna and Lucy are classmates. Anna i Lucy są koleżankami z klasy."
+        },
+        {
+          "id": "en-tobe-twierdzenia-030",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nTom and I ___ at school.",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": "are",
+          "hint": "Tom and I → We. You, we i they łączą się z are.",
+          "explanation": "Tom and I are at school. Tom i ja jesteśmy w szkole."
+        },
+        {
+          "id": "en-tobe-twierdzenia-031",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nAnna and I ___ in the garden.",
+          "options": [
+            "am",
+            "are",
+            "is"
+          ],
+          "answer": "are",
+          "hint": "Anna and I → We. You, we i they łączą się z are.",
+          "explanation": "Anna and I are in the garden. Anna i ja jesteśmy w ogrodzie."
+        },
+        {
+          "id": "en-tobe-twierdzenia-032",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMum and Dad ___ happy.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "are",
+          "hint": "Mum and Dad → They. You, we i they łączą się z are.",
+          "explanation": "Mum and Dad are happy. Mama i tata są szczęśliwi."
+        },
+        {
+          "id": "en-tobe-twierdzenia-033",
+          "prompt": "Wybierz poprawny skrót zdania.\nI am from Poland.",
+          "options": [
+            "I's from Poland.",
+            "I're from Poland.",
+            "I'm from Poland."
+          ],
+          "answer": "I'm from Poland.",
+          "hint": "Apostrof zastępuje pominięte litery. I am → I’m, he is → he’s, you are → you’re.",
+          "explanation": "I am można skrócić do I'm. Poprawne zdanie: I'm from Poland."
+        },
+        {
+          "id": "en-tobe-twierdzenia-034",
+          "prompt": "Wybierz poprawny skrót zdania.\nYou are eleven.",
+          "options": [
+            "You'm eleven.",
+            "You're eleven.",
+            "You's eleven."
+          ],
+          "answer": "You're eleven.",
+          "hint": "Apostrof zastępuje pominięte litery. I am → I’m, he is → he’s, you are → you’re.",
+          "explanation": "You are można skrócić do You're. Poprawne zdanie: You're eleven."
+        },
+        {
+          "id": "en-tobe-twierdzenia-035",
+          "prompt": "Wybierz poprawny skrót zdania.\nHe is from the UK.",
+          "options": [
+            "He're from the UK.",
+            "He's from the UK.",
+            "He'm from the UK."
+          ],
+          "answer": "He's from the UK.",
+          "hint": "Apostrof zastępuje pominięte litery. I am → I’m, he is → he’s, you are → you’re.",
+          "explanation": "He is można skrócić do He's. Poprawne zdanie: He's from the UK."
+        },
+        {
+          "id": "en-tobe-twierdzenia-036",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nShe ___ French.",
+          "options": [
+            "are",
+            "am",
+            "is"
+          ],
+          "answer": "is",
+          "hint": "She → She. He, she i it łączą się z is.",
+          "explanation": "She is French. Ona jest Francuzką."
+        },
+        {
+          "id": "en-tobe-twierdzenia-037",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nIt ___ my bag.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "is",
+          "hint": "It → It. He, she i it łączą się z is.",
+          "explanation": "It is my bag. To jest moja torba."
+        },
+        {
+          "id": "en-tobe-twierdzenia-038",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nWe ___ Polish.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "are",
+          "hint": "We → We. You, we i they łączą się z are.",
+          "explanation": "We are Polish. Jesteśmy Polakami."
+        },
+        {
+          "id": "en-tobe-twierdzenia-039",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nThey ___ Chinese.",
+          "options": [
+            "are",
+            "am",
+            "is"
+          ],
+          "answer": "are",
+          "hint": "They → They. You, we i they łączą się z are.",
+          "explanation": "They are Chinese. Oni są Chińczykami."
+        },
+        {
+          "id": "en-tobe-twierdzenia-040",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy grandmother ___ sixty.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "is",
+          "hint": "My grandmother → She. He, she i it łączą się z is.",
+          "explanation": "My grandmother is sixty. Moja babcia ma sześćdziesiąt lat."
+        },
+        {
+          "id": "en-tobe-twierdzenia-041",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy grandfather ___ seventy.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "is",
+          "hint": "My grandfather → He. He, she i it łączą się z is.",
+          "explanation": "My grandfather is seventy. Mój dziadek ma siedemdziesiąt lat."
+        },
+        {
+          "id": "en-tobe-twierdzenia-042",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nThe cake ___ big.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "is",
+          "hint": "The cake → It. He, she i it łączą się z is.",
+          "explanation": "The cake is big. Ciasto jest duże."
+        },
+        {
+          "id": "en-tobe-twierdzenia-043",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nThe present ___ yellow.",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": "is",
+          "hint": "The present → It. He, she i it łączą się z is.",
+          "explanation": "The present is yellow. Prezent jest żółty."
+        },
+        {
+          "id": "en-tobe-twierdzenia-044",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nThe card ___ lovely.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "is",
+          "hint": "The card → It. He, she i it łączą się z is.",
+          "explanation": "The card is lovely. Kartka jest śliczna."
+        },
+        {
+          "id": "en-tobe-twierdzenia-045",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy friends ___ in the park.",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": "are",
+          "hint": "My friends → They. You, we i they łączą się z are.",
+          "explanation": "My friends are in the park. Moi przyjaciele są w parku."
+        },
+        {
+          "id": "en-tobe-twierdzenia-046",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy sisters ___ at school.",
+          "options": [
+            "am",
+            "are",
+            "is"
+          ],
+          "answer": "are",
+          "hint": "My sisters → They. You, we i they łączą się z are.",
+          "explanation": "My sisters are at school. Moje siostry są w szkole."
+        },
+        {
+          "id": "en-tobe-twierdzenia-047",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy brothers ___ hungry.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "are",
+          "hint": "My brothers → They. You, we i they łączą się z are.",
+          "explanation": "My brothers are hungry. Moi bracia są głodni."
+        },
+        {
+          "id": "en-tobe-twierdzenia-048",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy father ___ Polish.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "is",
+          "hint": "My father → He. He, she i it łączą się z is.",
+          "explanation": "My father is Polish. Mój ojciec jest Polakiem."
+        },
+        {
+          "id": "en-tobe-twierdzenia-049",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nMy mother ___ Italian.",
+          "options": [
+            "am",
+            "are",
+            "is"
+          ],
+          "answer": "is",
+          "hint": "My mother → She. He, she i it łączą się z is.",
+          "explanation": "My mother is Italian. Moja mama jest Włoszką."
+        },
+        {
+          "id": "en-tobe-twierdzenia-050",
+          "prompt": "Uzupełnij zdanie właściwą formą to be.\nYou ___ at a party.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "are",
+          "hint": "You → You. You, we i they łączą się z are.",
+          "explanation": "You are at a party. Jesteście na przyjęciu."
+        }
+      ]
+    },
+    {
+      "id": "en-tobe-przeczenia",
+      "subject": "angielski",
+      "section": "New English Class 4",
+      "title": "To be: przeczenia",
+      "description": "Am not, isn’t, aren’t oraz pełne formy przeczące. Tylko Present Simple.",
+      "questions": [
+        {
+          "id": "en-tobe-przeczenia-001",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nI ___ ten.",
+          "options": [
+            "is not",
+            "are not",
+            "am not"
+          ],
+          "answer": "am not",
+          "hint": "I → I. I łączy się z am. W przeczeniu dodaj not.",
+          "explanation": "I am not ten. am not nie skracamy do amn’t; używamy I’m not."
+        },
+        {
+          "id": "en-tobe-przeczenia-002",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nYou ___ my friend.",
+          "options": [
+            "am not",
+            "aren't",
+            "isn't"
+          ],
+          "answer": "aren't",
+          "hint": "You → You. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "You aren't my friend. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-003",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nHe ___ my brother.",
+          "options": [
+            "isn't",
+            "aren't",
+            "am not"
+          ],
+          "answer": "isn't",
+          "hint": "He → He. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "He isn't my brother. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-004",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nShe ___ my sister.",
+          "options": [
+            "am not",
+            "is not",
+            "are not"
+          ],
+          "answer": "is not",
+          "hint": "She → She. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "She is not my sister. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-005",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nIt ___ blue.",
+          "options": [
+            "isn't",
+            "am not",
+            "aren't"
+          ],
+          "answer": "isn't",
+          "hint": "It → It. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "It isn't blue. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-006",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nWe ___ classmates.",
+          "options": [
+            "isn't",
+            "aren't",
+            "am not"
+          ],
+          "answer": "aren't",
+          "hint": "We → We. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "We aren't classmates. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-007",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nThey ___ at home.",
+          "options": [
+            "am not",
+            "are not",
+            "is not"
+          ],
+          "answer": "are not",
+          "hint": "They → They. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "They are not at home. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-008",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy dad ___ at home.",
+          "options": [
+            "aren't",
+            "am not",
+            "isn't"
+          ],
+          "answer": "isn't",
+          "hint": "My dad → He. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My dad isn't at home. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-009",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy mum ___ in the park.",
+          "options": [
+            "isn't",
+            "am not",
+            "aren't"
+          ],
+          "answer": "isn't",
+          "hint": "My mum → She. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My mum isn't in the park. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-010",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy brother ___ hungry.",
+          "options": [
+            "is not",
+            "are not",
+            "am not"
+          ],
+          "answer": "is not",
+          "hint": "My brother → He. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My brother is not hungry. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-011",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy sister ___ happy.",
+          "options": [
+            "isn't",
+            "am not",
+            "aren't"
+          ],
+          "answer": "isn't",
+          "hint": "My sister → She. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My sister isn't happy. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-012",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy parents ___ at a party.",
+          "options": [
+            "isn't",
+            "aren't",
+            "am not"
+          ],
+          "answer": "aren't",
+          "hint": "My parents → They. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "My parents aren't at a party. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-013",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy granny ___ on holiday.",
+          "options": [
+            "am not",
+            "are not",
+            "is not"
+          ],
+          "answer": "is not",
+          "hint": "My granny → She. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My granny is not on holiday. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-014",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy grandad ___ in the garden.",
+          "options": [
+            "aren't",
+            "am not",
+            "isn't"
+          ],
+          "answer": "isn't",
+          "hint": "My grandad → He. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My grandad isn't in the garden. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-015",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy aunt ___ from Spain.",
+          "options": [
+            "am not",
+            "isn't",
+            "aren't"
+          ],
+          "answer": "isn't",
+          "hint": "My aunt → She. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My aunt isn't from Spain. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-016",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy uncle ___ from Italy.",
+          "options": [
+            "are not",
+            "is not",
+            "am not"
+          ],
+          "answer": "is not",
+          "hint": "My uncle → He. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My uncle is not from Italy. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-017",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy cousins ___ from France.",
+          "options": [
+            "aren't",
+            "am not",
+            "isn't"
+          ],
+          "answer": "aren't",
+          "hint": "My cousins → They. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "My cousins aren't from France. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-018",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy bag ___ red.",
+          "options": [
+            "isn't",
+            "aren't",
+            "am not"
+          ],
+          "answer": "isn't",
+          "hint": "My bag → It. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My bag isn't red. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-019",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy book ___ green.",
+          "options": [
+            "are not",
+            "am not",
+            "is not"
+          ],
+          "answer": "is not",
+          "hint": "My book → It. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My book is not green. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-020",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy pencil ___ yellow.",
+          "options": [
+            "aren't",
+            "am not",
+            "isn't"
+          ],
+          "answer": "isn't",
+          "hint": "My pencil → It. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My pencil isn't yellow. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-021",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy pens ___ blue.",
+          "options": [
+            "isn't",
+            "am not",
+            "aren't"
+          ],
+          "answer": "aren't",
+          "hint": "My pens → They. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "My pens aren't blue. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-022",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy books ___ green.",
+          "options": [
+            "is not",
+            "are not",
+            "am not"
+          ],
+          "answer": "are not",
+          "hint": "My books → They. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "My books are not green. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-023",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy ruler ___ white.",
+          "options": [
+            "am not",
+            "aren't",
+            "isn't"
+          ],
+          "answer": "isn't",
+          "hint": "My ruler → It. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My ruler isn't white. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-024",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nAdam ___ eleven.",
+          "options": [
+            "isn't",
+            "aren't",
+            "am not"
+          ],
+          "answer": "isn't",
+          "hint": "Adam → He. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "Adam isn't eleven. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-025",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nAnna ___ ten.",
+          "options": [
+            "are not",
+            "is not",
+            "am not"
+          ],
+          "answer": "is not",
+          "hint": "Anna → She. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "Anna is not ten. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-026",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nTom ___ British.",
+          "options": [
+            "am not",
+            "aren't",
+            "isn't"
+          ],
+          "answer": "isn't",
+          "hint": "Tom → He. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "Tom isn't British. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-027",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nLucy ___ American.",
+          "options": [
+            "aren't",
+            "isn't",
+            "am not"
+          ],
+          "answer": "isn't",
+          "hint": "Lucy → She. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "Lucy isn't American. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-028",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nAdam and Tom ___ friends.",
+          "options": [
+            "is not",
+            "am not",
+            "are not"
+          ],
+          "answer": "are not",
+          "hint": "Adam and Tom → They. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "Adam and Tom are not friends. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-029",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nAnna and Lucy ___ classmates.",
+          "options": [
+            "aren't",
+            "am not",
+            "isn't"
+          ],
+          "answer": "aren't",
+          "hint": "Anna and Lucy → They. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "Anna and Lucy aren't classmates. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-030",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nTom and I ___ at school.",
+          "options": [
+            "am not",
+            "isn't",
+            "aren't"
+          ],
+          "answer": "aren't",
+          "hint": "Tom and I → We. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "Tom and I aren't at school. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-031",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nAnna and I ___ in the garden.",
+          "options": [
+            "are not",
+            "is not",
+            "am not"
+          ],
+          "answer": "are not",
+          "hint": "Anna and I → We. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "Anna and I are not in the garden. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-032",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMum and Dad ___ happy.",
+          "options": [
+            "aren't",
+            "isn't",
+            "am not"
+          ],
+          "answer": "aren't",
+          "hint": "Mum and Dad → They. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "Mum and Dad aren't happy. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-033",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nI ___ from Poland.",
+          "options": [
+            "isn't",
+            "am not",
+            "aren't"
+          ],
+          "answer": "am not",
+          "hint": "I → I. I łączy się z am. W przeczeniu dodaj not.",
+          "explanation": "I am not from Poland. am not nie skracamy do amn’t; używamy I’m not."
+        },
+        {
+          "id": "en-tobe-przeczenia-034",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nYou ___ eleven.",
+          "options": [
+            "are not",
+            "am not",
+            "is not"
+          ],
+          "answer": "are not",
+          "hint": "You → You. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "You are not eleven. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-035",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nHe ___ from the UK.",
+          "options": [
+            "isn't",
+            "am not",
+            "aren't"
+          ],
+          "answer": "isn't",
+          "hint": "He → He. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "He isn't from the UK. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-036",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nShe ___ French.",
+          "options": [
+            "aren't",
+            "isn't",
+            "am not"
+          ],
+          "answer": "isn't",
+          "hint": "She → She. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "She isn't French. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-037",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nIt ___ my bag.",
+          "options": [
+            "am not",
+            "are not",
+            "is not"
+          ],
+          "answer": "is not",
+          "hint": "It → It. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "It is not my bag. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-038",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nWe ___ Polish.",
+          "options": [
+            "am not",
+            "isn't",
+            "aren't"
+          ],
+          "answer": "aren't",
+          "hint": "We → We. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "We aren't Polish. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-039",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nThey ___ Chinese.",
+          "options": [
+            "isn't",
+            "am not",
+            "aren't"
+          ],
+          "answer": "aren't",
+          "hint": "They → They. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "They aren't Chinese. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-040",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy grandmother ___ sixty.",
+          "options": [
+            "is not",
+            "am not",
+            "are not"
+          ],
+          "answer": "is not",
+          "hint": "My grandmother → She. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My grandmother is not sixty. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-041",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy grandfather ___ seventy.",
+          "options": [
+            "aren't",
+            "am not",
+            "isn't"
+          ],
+          "answer": "isn't",
+          "hint": "My grandfather → He. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My grandfather isn't seventy. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-042",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nThe cake ___ big.",
+          "options": [
+            "aren't",
+            "isn't",
+            "am not"
+          ],
+          "answer": "isn't",
+          "hint": "The cake → It. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "The cake isn't big. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-043",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nThe present ___ yellow.",
+          "options": [
+            "is not",
+            "are not",
+            "am not"
+          ],
+          "answer": "is not",
+          "hint": "The present → It. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "The present is not yellow. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-044",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nThe card ___ lovely.",
+          "options": [
+            "am not",
+            "isn't",
+            "aren't"
+          ],
+          "answer": "isn't",
+          "hint": "The card → It. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "The card isn't lovely. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-045",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy friends ___ in the park.",
+          "options": [
+            "aren't",
+            "isn't",
+            "am not"
+          ],
+          "answer": "aren't",
+          "hint": "My friends → They. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "My friends aren't in the park. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-046",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy sisters ___ at school.",
+          "options": [
+            "is not",
+            "are not",
+            "am not"
+          ],
+          "answer": "are not",
+          "hint": "My sisters → They. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "My sisters are not at school. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-047",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy brothers ___ hungry.",
+          "options": [
+            "am not",
+            "aren't",
+            "isn't"
+          ],
+          "answer": "aren't",
+          "hint": "My brothers → They. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "My brothers aren't hungry. are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-048",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy father ___ Polish.",
+          "options": [
+            "am not",
+            "aren't",
+            "isn't"
+          ],
+          "answer": "isn't",
+          "hint": "My father → He. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My father isn't Polish. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-049",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nMy mother ___ Italian.",
+          "options": [
+            "are not",
+            "am not",
+            "is not"
+          ],
+          "answer": "is not",
+          "hint": "My mother → She. He, she i it łączą się z is. W przeczeniu dodaj not.",
+          "explanation": "My mother is not Italian. is not można skrócić do isn’t."
+        },
+        {
+          "id": "en-tobe-przeczenia-050",
+          "prompt": "Uzupełnij zdanie przeczące (dodaj „nie”).\nYou ___ at a party.",
+          "options": [
+            "am not",
+            "aren't",
+            "isn't"
+          ],
+          "answer": "aren't",
+          "hint": "You → You. You, we i they łączą się z are. W przeczeniu dodaj not.",
+          "explanation": "You aren't at a party. are not można skrócić do aren’t."
+        }
+      ]
+    },
+    {
+      "id": "en-tobe-pytania",
+      "subject": "angielski",
+      "section": "New English Class 4",
+      "title": "To be: pytania i odpowiedzi",
+      "description": "Szyk pytań, pytania o wiek i pochodzenie oraz krótkie odpowiedzi.",
+      "questions": [
+        {
+          "id": "en-tobe-pytania-001",
+          "prompt": "Uzupełnij pytanie.\n___ my dad at home?",
+          "options": [
+            "Is",
+            "Are",
+            "Am"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is my dad at home? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-002",
+          "prompt": "Uzupełnij pytanie.\n___ my mum in the park?",
+          "options": [
+            "Are",
+            "Is",
+            "Am"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is my mum in the park? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-003",
+          "prompt": "Uzupełnij pytanie.\n___ my brother hungry?",
+          "options": [
+            "Are",
+            "Is",
+            "Am"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is my brother hungry? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-004",
+          "prompt": "Uzupełnij pytanie.\n___ my sister happy?",
+          "options": [
+            "Are",
+            "Is",
+            "Am"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is my sister happy? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-005",
+          "prompt": "Uzupełnij pytanie.\n___ my parents at a party?",
+          "options": [
+            "Am",
+            "Is",
+            "Are"
+          ],
+          "answer": "Are",
+          "hint": "W pytaniu przesuń are przed osobę lub rzecz. You, we i they łączą się z are.",
+          "explanation": "Are my parents at a party? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-006",
+          "prompt": "Uzupełnij pytanie.\n___ my granny on holiday?",
+          "options": [
+            "Am",
+            "Is",
+            "Are"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is my granny on holiday? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-007",
+          "prompt": "Uzupełnij pytanie.\n___ my grandad in the garden?",
+          "options": [
+            "Are",
+            "Am",
+            "Is"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is my grandad in the garden? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-008",
+          "prompt": "Uzupełnij pytanie.\n___ my aunt from Spain?",
+          "options": [
+            "Am",
+            "Are",
+            "Is"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is my aunt from Spain? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-009",
+          "prompt": "Uzupełnij pytanie.\n___ my uncle from Italy?",
+          "options": [
+            "Is",
+            "Am",
+            "Are"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is my uncle from Italy? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-010",
+          "prompt": "Uzupełnij pytanie.\n___ my cousins from France?",
+          "options": [
+            "Is",
+            "Am",
+            "Are"
+          ],
+          "answer": "Are",
+          "hint": "W pytaniu przesuń are przed osobę lub rzecz. You, we i they łączą się z are.",
+          "explanation": "Are my cousins from France? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-011",
+          "prompt": "Uzupełnij pytanie.\n___ my bag red?",
+          "options": [
+            "Is",
+            "Are",
+            "Am"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is my bag red? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-012",
+          "prompt": "Uzupełnij pytanie.\n___ my book green?",
+          "options": [
+            "Are",
+            "Is",
+            "Am"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is my book green? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-013",
+          "prompt": "Uzupełnij pytanie.\n___ my pencil yellow?",
+          "options": [
+            "Is",
+            "Am",
+            "Are"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is my pencil yellow? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-014",
+          "prompt": "Uzupełnij pytanie.\n___ my pens blue?",
+          "options": [
+            "Am",
+            "Is",
+            "Are"
+          ],
+          "answer": "Are",
+          "hint": "W pytaniu przesuń are przed osobę lub rzecz. You, we i they łączą się z are.",
+          "explanation": "Are my pens blue? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-015",
+          "prompt": "Uzupełnij pytanie.\n___ my books green?",
+          "options": [
+            "Is",
+            "Are",
+            "Am"
+          ],
+          "answer": "Are",
+          "hint": "W pytaniu przesuń are przed osobę lub rzecz. You, we i they łączą się z are.",
+          "explanation": "Are my books green? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-016",
+          "prompt": "Uzupełnij pytanie.\n___ my ruler white?",
+          "options": [
+            "Is",
+            "Am",
+            "Are"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is my ruler white? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-017",
+          "prompt": "Uzupełnij pytanie.\n___ Adam eleven?",
+          "options": [
+            "Are",
+            "Am",
+            "Is"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is Adam eleven? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-018",
+          "prompt": "Uzupełnij pytanie.\n___ Anna ten?",
+          "options": [
+            "Are",
+            "Is",
+            "Am"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is Anna ten? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-019",
+          "prompt": "Uzupełnij pytanie.\n___ Tom British?",
+          "options": [
+            "Am",
+            "Is",
+            "Are"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is Tom British? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-020",
+          "prompt": "Uzupełnij pytanie.\n___ Lucy American?",
+          "options": [
+            "Is",
+            "Am",
+            "Are"
+          ],
+          "answer": "Is",
+          "hint": "W pytaniu przesuń is przed osobę lub rzecz. He, she i it łączą się z is.",
+          "explanation": "Is Lucy American? W pytaniu forma to be jest przed podmiotem."
+        },
+        {
+          "id": "en-tobe-pytania-021",
+          "prompt": "Uzupełnij pytanie: „Ile masz lat?”.\nHow old ___ you?",
+          "options": [
+            "is",
+            "am",
+            "are"
+          ],
+          "answer": "are",
+          "hint": "You, we i they łączą się z are. Po wyrażeniu pytającym stawiamy to be, a potem osobę.",
+          "explanation": "How old are you? = Ile masz lat?"
+        },
+        {
+          "id": "en-tobe-pytania-022",
+          "prompt": "Uzupełnij pytanie: „Ile lat ma twoja siostra?”.\nHow old ___ your sister?",
+          "options": [
+            "am",
+            "are",
+            "is"
+          ],
+          "answer": "is",
+          "hint": "He, she i it łączą się z is. Po wyrażeniu pytającym stawiamy to be, a potem osobę.",
+          "explanation": "How old is your sister? = Ile lat ma twoja siostra?"
+        },
+        {
+          "id": "en-tobe-pytania-023",
+          "prompt": "Uzupełnij pytanie: „Skąd oni/one są?”.\nWhere ___ they from?",
+          "options": [
+            "is",
+            "am",
+            "are"
+          ],
+          "answer": "are",
+          "hint": "You, we i they łączą się z are. Po wyrażeniu pytającym stawiamy to be, a potem osobę.",
+          "explanation": "Where are they from? = Skąd oni/one są?"
+        },
+        {
+          "id": "en-tobe-pytania-024",
+          "prompt": "Uzupełnij pytanie: „Skąd jest twój tata?”.\nWhere ___ your dad from?",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": "is",
+          "hint": "He, she i it łączą się z is. Po wyrażeniu pytającym stawiamy to be, a potem osobę.",
+          "explanation": "Where is your dad from? = Skąd jest twój tata?"
+        },
+        {
+          "id": "en-tobe-pytania-025",
+          "prompt": "Uzupełnij pytanie: „Skąd jesteśmy?”.\nWhere ___ we from?",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "are",
+          "hint": "You, we i they łączą się z are. Po wyrażeniu pytającym stawiamy to be, a potem osobę.",
+          "explanation": "Where are we from? = Skąd jesteśmy?"
+        },
+        {
+          "id": "en-tobe-pytania-026",
+          "prompt": "Ktoś pyta ciebie. Odpowiedz TAK o sobie.\nAre you ten?",
+          "options": [
+            "Yes, you are.",
+            "No, I am not.",
+            "Yes, I am."
+          ],
+          "answer": "Yes, I am.",
+          "hint": "W odpowiedzi użyj zaimka I i formy am. Na pytanie do ciebie („you”) odpowiadasz o sobie: „I”.",
+          "explanation": "Yes, I am. W twierdzącej krótkiej odpowiedzi nie skracamy formy to be."
+        },
+        {
+          "id": "en-tobe-pytania-027",
+          "prompt": "Ktoś pyta ciebie. Odpowiedz NIE o sobie.\nAre you hungry?",
+          "options": [
+            "No, you aren't.",
+            "Yes, I am.",
+            "No, I am not."
+          ],
+          "answer": "No, I am not.",
+          "hint": "W odpowiedzi użyj zaimka I i formy am. Na pytanie do ciebie („you”) odpowiadasz o sobie: „I”.",
+          "explanation": "No, I am not. Odpowiedź przecząca zawiera not lub skrót isn’t / aren’t."
+        },
+        {
+          "id": "en-tobe-pytania-028",
+          "prompt": "Ktoś pyta ciebie. Odpowiedz TAK o sobie.\nAre you from Poland?",
+          "options": [
+            "Yes, I am.",
+            "Yes, you are.",
+            "No, I am not."
+          ],
+          "answer": "Yes, I am.",
+          "hint": "W odpowiedzi użyj zaimka I i formy am. Na pytanie do ciebie („you”) odpowiadasz o sobie: „I”.",
+          "explanation": "Yes, I am. W twierdzącej krótkiej odpowiedzi nie skracamy formy to be."
+        },
+        {
+          "id": "en-tobe-pytania-029",
+          "prompt": "Odpowiadasz za siebie i Toma. Odpowiedz NIE.\nAre you and Tom at school?",
+          "options": [
+            "Yes, we are.",
+            "No, we aren't.",
+            "No, they aren't."
+          ],
+          "answer": "No, we aren't.",
+          "hint": "W odpowiedzi użyj zaimka We i formy are.",
+          "explanation": "No, we aren't. Odpowiedź przecząca zawiera not lub skrót isn’t / aren’t."
+        },
+        {
+          "id": "en-tobe-pytania-030",
+          "prompt": "Odpowiadasz za siebie i Annę. Odpowiedz TAK.\nAre you and Anna friends?",
+          "options": [
+            "No, we aren't.",
+            "Yes, they are.",
+            "Yes, we are."
+          ],
+          "answer": "Yes, we are.",
+          "hint": "W odpowiedzi użyj zaimka We i formy are.",
+          "explanation": "Yes, we are. W twierdzącej krótkiej odpowiedzi nie skracamy formy to be."
+        },
+        {
+          "id": "en-tobe-pytania-031",
+          "prompt": "Odpowiedz TAK krótką odpowiedzią.\nIs my dad at home?",
+          "options": [
+            "No, he isn't.",
+            "Yes, she is.",
+            "Yes, he is."
+          ],
+          "answer": "Yes, he is.",
+          "hint": "W odpowiedzi użyj zaimka He i formy is.",
+          "explanation": "Yes, he is. W twierdzącej krótkiej odpowiedzi nie skracamy formy to be."
+        },
+        {
+          "id": "en-tobe-pytania-032",
+          "prompt": "Odpowiedz NIE krótką odpowiedzią.\nIs my mum in the park?",
+          "options": [
+            "No, she isn't.",
+            "Yes, she is.",
+            "No, he isn't."
+          ],
+          "answer": "No, she isn't.",
+          "hint": "W odpowiedzi użyj zaimka She i formy is.",
+          "explanation": "No, she isn't. Odpowiedź przecząca zawiera not lub skrót isn’t / aren’t."
+        },
+        {
+          "id": "en-tobe-pytania-033",
+          "prompt": "Odpowiedz TAK krótką odpowiedzią.\nIs my brother hungry?",
+          "options": [
+            "Yes, she is.",
+            "No, he isn't.",
+            "Yes, he is."
+          ],
+          "answer": "Yes, he is.",
+          "hint": "W odpowiedzi użyj zaimka He i formy is.",
+          "explanation": "Yes, he is. W twierdzącej krótkiej odpowiedzi nie skracamy formy to be."
+        },
+        {
+          "id": "en-tobe-pytania-034",
+          "prompt": "Odpowiedz NIE krótką odpowiedzią.\nIs my sister happy?",
+          "options": [
+            "Yes, she is.",
+            "No, she isn't.",
+            "No, he isn't."
+          ],
+          "answer": "No, she isn't.",
+          "hint": "W odpowiedzi użyj zaimka She i formy is.",
+          "explanation": "No, she isn't. Odpowiedź przecząca zawiera not lub skrót isn’t / aren’t."
+        },
+        {
+          "id": "en-tobe-pytania-035",
+          "prompt": "Odpowiedz TAK krótką odpowiedzią.\nAre my parents at a party?",
+          "options": [
+            "Yes, we are.",
+            "No, they aren't.",
+            "Yes, they are."
+          ],
+          "answer": "Yes, they are.",
+          "hint": "W odpowiedzi użyj zaimka They i formy are.",
+          "explanation": "Yes, they are. W twierdzącej krótkiej odpowiedzi nie skracamy formy to be."
+        },
+        {
+          "id": "en-tobe-pytania-036",
+          "prompt": "Odpowiedz NIE krótką odpowiedzią.\nIs my granny on holiday?",
+          "options": [
+            "Yes, she is.",
+            "No, she isn't.",
+            "No, he isn't."
+          ],
+          "answer": "No, she isn't.",
+          "hint": "W odpowiedzi użyj zaimka She i formy is.",
+          "explanation": "No, she isn't. Odpowiedź przecząca zawiera not lub skrót isn’t / aren’t."
+        },
+        {
+          "id": "en-tobe-pytania-037",
+          "prompt": "Odpowiedz TAK krótką odpowiedzią.\nIs my grandad in the garden?",
+          "options": [
+            "Yes, he is.",
+            "Yes, she is.",
+            "No, he isn't."
+          ],
+          "answer": "Yes, he is.",
+          "hint": "W odpowiedzi użyj zaimka He i formy is.",
+          "explanation": "Yes, he is. W twierdzącej krótkiej odpowiedzi nie skracamy formy to be."
+        },
+        {
+          "id": "en-tobe-pytania-038",
+          "prompt": "Odpowiedz NIE krótką odpowiedzią.\nIs my aunt from Spain?",
+          "options": [
+            "Yes, she is.",
+            "No, he isn't.",
+            "No, she isn't."
+          ],
+          "answer": "No, she isn't.",
+          "hint": "W odpowiedzi użyj zaimka She i formy is.",
+          "explanation": "No, she isn't. Odpowiedź przecząca zawiera not lub skrót isn’t / aren’t."
+        },
+        {
+          "id": "en-tobe-pytania-039",
+          "prompt": "Odpowiedz TAK krótką odpowiedzią.\nIs my uncle from Italy?",
+          "options": [
+            "No, he isn't.",
+            "Yes, he is.",
+            "Yes, she is."
+          ],
+          "answer": "Yes, he is.",
+          "hint": "W odpowiedzi użyj zaimka He i formy is.",
+          "explanation": "Yes, he is. W twierdzącej krótkiej odpowiedzi nie skracamy formy to be."
+        },
+        {
+          "id": "en-tobe-pytania-040",
+          "prompt": "Odpowiedz NIE krótką odpowiedzią.\nAre my cousins from France?",
+          "options": [
+            "Yes, they are.",
+            "No, we aren't.",
+            "No, they aren't."
+          ],
+          "answer": "No, they aren't.",
+          "hint": "W odpowiedzi użyj zaimka They i formy are.",
+          "explanation": "No, they aren't. Odpowiedź przecząca zawiera not lub skrót isn’t / aren’t."
+        },
+        {
+          "id": "en-tobe-pytania-041",
+          "prompt": "Odpowiedz TAK krótką odpowiedzią.\nIs my bag red?",
+          "options": [
+            "Yes, it is.",
+            "No, it isn't.",
+            "Yes, they are."
+          ],
+          "answer": "Yes, it is.",
+          "hint": "W odpowiedzi użyj zaimka It i formy is.",
+          "explanation": "Yes, it is. W twierdzącej krótkiej odpowiedzi nie skracamy formy to be."
+        },
+        {
+          "id": "en-tobe-pytania-042",
+          "prompt": "Odpowiedz NIE krótką odpowiedzią.\nIs my book green?",
+          "options": [
+            "Yes, it is.",
+            "No, it isn't.",
+            "No, they aren't."
+          ],
+          "answer": "No, it isn't.",
+          "hint": "W odpowiedzi użyj zaimka It i formy is.",
+          "explanation": "No, it isn't. Odpowiedź przecząca zawiera not lub skrót isn’t / aren’t."
+        },
+        {
+          "id": "en-tobe-pytania-043",
+          "prompt": "Odpowiedz TAK krótką odpowiedzią.\nIs my pencil yellow?",
+          "options": [
+            "Yes, it is.",
+            "Yes, they are.",
+            "No, it isn't."
+          ],
+          "answer": "Yes, it is.",
+          "hint": "W odpowiedzi użyj zaimka It i formy is.",
+          "explanation": "Yes, it is. W twierdzącej krótkiej odpowiedzi nie skracamy formy to be."
+        },
+        {
+          "id": "en-tobe-pytania-044",
+          "prompt": "Odpowiedz NIE krótką odpowiedzią.\nAre my pens blue?",
+          "options": [
+            "Yes, they are.",
+            "No, they aren't.",
+            "No, we aren't."
+          ],
+          "answer": "No, they aren't.",
+          "hint": "W odpowiedzi użyj zaimka They i formy are.",
+          "explanation": "No, they aren't. Odpowiedź przecząca zawiera not lub skrót isn’t / aren’t."
+        },
+        {
+          "id": "en-tobe-pytania-045",
+          "prompt": "Odpowiedz TAK krótką odpowiedzią.\nAre my books green?",
+          "options": [
+            "Yes, they are.",
+            "No, they aren't.",
+            "Yes, we are."
+          ],
+          "answer": "Yes, they are.",
+          "hint": "W odpowiedzi użyj zaimka They i formy are.",
+          "explanation": "Yes, they are. W twierdzącej krótkiej odpowiedzi nie skracamy formy to be."
+        },
+        {
+          "id": "en-tobe-pytania-046",
+          "prompt": "Odpowiedz NIE krótką odpowiedzią.\nIs my ruler white?",
+          "options": [
+            "No, it isn't.",
+            "No, they aren't.",
+            "Yes, it is."
+          ],
+          "answer": "No, it isn't.",
+          "hint": "W odpowiedzi użyj zaimka It i formy is.",
+          "explanation": "No, it isn't. Odpowiedź przecząca zawiera not lub skrót isn’t / aren’t."
+        },
+        {
+          "id": "en-tobe-pytania-047",
+          "prompt": "Odpowiedz TAK krótką odpowiedzią.\nIs Adam eleven?",
+          "options": [
+            "No, he isn't.",
+            "Yes, she is.",
+            "Yes, he is."
+          ],
+          "answer": "Yes, he is.",
+          "hint": "W odpowiedzi użyj zaimka He i formy is.",
+          "explanation": "Yes, he is. W twierdzącej krótkiej odpowiedzi nie skracamy formy to be."
+        },
+        {
+          "id": "en-tobe-pytania-048",
+          "prompt": "Odpowiedz NIE krótką odpowiedzią.\nIs Anna ten?",
+          "options": [
+            "No, he isn't.",
+            "No, she isn't.",
+            "Yes, she is."
+          ],
+          "answer": "No, she isn't.",
+          "hint": "W odpowiedzi użyj zaimka She i formy is.",
+          "explanation": "No, she isn't. Odpowiedź przecząca zawiera not lub skrót isn’t / aren’t."
+        },
+        {
+          "id": "en-tobe-pytania-049",
+          "prompt": "Odpowiedz TAK krótką odpowiedzią.\nIs Tom British?",
+          "options": [
+            "No, he isn't.",
+            "Yes, she is.",
+            "Yes, he is."
+          ],
+          "answer": "Yes, he is.",
+          "hint": "W odpowiedzi użyj zaimka He i formy is.",
+          "explanation": "Yes, he is. W twierdzącej krótkiej odpowiedzi nie skracamy formy to be."
+        },
+        {
+          "id": "en-tobe-pytania-050",
+          "prompt": "Odpowiedz NIE krótką odpowiedzią.\nIs Lucy American?",
+          "options": [
+            "Yes, she is.",
+            "No, he isn't.",
+            "No, she isn't."
+          ],
+          "answer": "No, she isn't.",
+          "hint": "W odpowiedzi użyj zaimka She i formy is.",
+          "explanation": "No, she isn't. Odpowiedź przecząca zawiera not lub skrót isn’t / aren’t."
+        }
+      ]
+    },
+    {
+      "id": "en-tobe-kontekst",
+      "subject": "angielski",
+      "section": "New English Class 4",
+      "title": "To be w codziennych zdaniach",
+      "description": "Rozumiemy zdania o rodzinie, wieku, szkole, kolorach i krajach. Tylko Present Simple.",
+      "questions": [
+        {
+          "id": "en-tobe-kontekst-001",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Mam dziesięć lat.”",
+          "options": [
+            "I am ten.",
+            "I am not ten.",
+            "I am eleven."
+          ],
+          "answer": "I am ten.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "I am ten. = Mam dziesięć lat. Forma am pasuje do I."
+        },
+        {
+          "id": "en-tobe-kontekst-002",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Jesteś moim przyjacielem.”",
+          "options": [
+            "You are my friend.",
+            "You are my cousin.",
+            "You are not my friend."
+          ],
+          "answer": "You are my friend.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "You are my friend. = Jesteś moim przyjacielem. Forma are pasuje do You."
+        },
+        {
+          "id": "en-tobe-kontekst-003",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„On jest moim bratem.”",
+          "options": [
+            "He is my brother.",
+            "He is my cousin.",
+            "He is not my brother."
+          ],
+          "answer": "He is my brother.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "He is my brother. = On jest moim bratem. Forma is pasuje do He."
+        },
+        {
+          "id": "en-tobe-kontekst-004",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Ona jest moją siostrą.”",
+          "options": [
+            "She is my aunt.",
+            "She is not my sister.",
+            "She is my sister."
+          ],
+          "answer": "She is my sister.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "She is my sister. = Ona jest moją siostrą. Forma is pasuje do She."
+        },
+        {
+          "id": "en-tobe-kontekst-005",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„To jest niebieskie.”",
+          "options": [
+            "It is green.",
+            "It is blue.",
+            "It is not blue."
+          ],
+          "answer": "It is blue.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "It is blue. = To jest niebieskie. Forma is pasuje do It."
+        },
+        {
+          "id": "en-tobe-kontekst-006",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Jesteśmy kolegami z klasy.”",
+          "options": [
+            "We are classmates.",
+            "We are cousins.",
+            "We are not classmates."
+          ],
+          "answer": "We are classmates.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "We are classmates. = Jesteśmy kolegami z klasy. Forma are pasuje do We."
+        },
+        {
+          "id": "en-tobe-kontekst-007",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Oni są w domu.”",
+          "options": [
+            "They are at home.",
+            "They are at school.",
+            "They are not at home."
+          ],
+          "answer": "They are at home.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "They are at home. = Oni są w domu. Forma are pasuje do They."
+        },
+        {
+          "id": "en-tobe-kontekst-008",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Mój tata jest w domu.”",
+          "options": [
+            "My dad is in the park.",
+            "My dad is not at home.",
+            "My dad is at home."
+          ],
+          "answer": "My dad is at home.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My dad is at home. = Mój tata jest w domu. Forma is pasuje do My dad."
+        },
+        {
+          "id": "en-tobe-kontekst-009",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moja mama jest w parku.”",
+          "options": [
+            "My mum is in the park.",
+            "My mum is not in the park.",
+            "My mum is at school."
+          ],
+          "answer": "My mum is in the park.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My mum is in the park. = Moja mama jest w parku. Forma is pasuje do My mum."
+        },
+        {
+          "id": "en-tobe-kontekst-010",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Mój brat jest głodny.”",
+          "options": [
+            "My brother is not hungry.",
+            "My brother is happy.",
+            "My brother is hungry."
+          ],
+          "answer": "My brother is hungry.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My brother is hungry. = Mój brat jest głodny. Forma is pasuje do My brother."
+        },
+        {
+          "id": "en-tobe-kontekst-011",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moja siostra jest szczęśliwa.”",
+          "options": [
+            "My sister is happy.",
+            "My sister is not happy.",
+            "My sister is hungry."
+          ],
+          "answer": "My sister is happy.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My sister is happy. = Moja siostra jest szczęśliwa. Forma is pasuje do My sister."
+        },
+        {
+          "id": "en-tobe-kontekst-012",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moi rodzice są na przyjęciu.”",
+          "options": [
+            "My parents are not at a party.",
+            "My parents are at a party.",
+            "My parents are at home."
+          ],
+          "answer": "My parents are at a party.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My parents are at a party. = Moi rodzice są na przyjęciu. Forma are pasuje do My parents."
+        },
+        {
+          "id": "en-tobe-kontekst-013",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moja babcia jest na wakacjach.”",
+          "options": [
+            "My granny is not on holiday.",
+            "My granny is on holiday.",
+            "My granny is at home."
+          ],
+          "answer": "My granny is on holiday.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My granny is on holiday. = Moja babcia jest na wakacjach. Forma is pasuje do My granny."
+        },
+        {
+          "id": "en-tobe-kontekst-014",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Mój dziadek jest w ogrodzie.”",
+          "options": [
+            "My grandad is not in the garden.",
+            "My grandad is in the garden.",
+            "My grandad is in the park."
+          ],
+          "answer": "My grandad is in the garden.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My grandad is in the garden. = Mój dziadek jest w ogrodzie. Forma is pasuje do My grandad."
+        },
+        {
+          "id": "en-tobe-kontekst-015",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moja ciocia jest z Hiszpanii.”",
+          "options": [
+            "My aunt is from Spain.",
+            "My aunt is not from Spain.",
+            "My aunt is from Italy."
+          ],
+          "answer": "My aunt is from Spain.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My aunt is from Spain. = Moja ciocia jest z Hiszpanii. Forma is pasuje do My aunt."
+        },
+        {
+          "id": "en-tobe-kontekst-016",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Mój wujek jest z Włoch.”",
+          "options": [
+            "My uncle is not from Italy.",
+            "My uncle is from Italy.",
+            "My uncle is from Spain."
+          ],
+          "answer": "My uncle is from Italy.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My uncle is from Italy. = Mój wujek jest z Włoch. Forma is pasuje do My uncle."
+        },
+        {
+          "id": "en-tobe-kontekst-017",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moi kuzyni są z Francji.”",
+          "options": [
+            "My cousins are from France.",
+            "My cousins are from China.",
+            "My cousins are not from France."
+          ],
+          "answer": "My cousins are from France.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My cousins are from France. = Moi kuzyni są z Francji. Forma are pasuje do My cousins."
+        },
+        {
+          "id": "en-tobe-kontekst-018",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moja torba jest czerwona.”",
+          "options": [
+            "My bag is blue.",
+            "My bag is not red.",
+            "My bag is red."
+          ],
+          "answer": "My bag is red.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My bag is red. = Moja torba jest czerwona. Forma is pasuje do My bag."
+        },
+        {
+          "id": "en-tobe-kontekst-019",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moja książka jest zielona.”",
+          "options": [
+            "My book is not green.",
+            "My book is yellow.",
+            "My book is green."
+          ],
+          "answer": "My book is green.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My book is green. = Moja książka jest zielona. Forma is pasuje do My book."
+        },
+        {
+          "id": "en-tobe-kontekst-020",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Mój ołówek jest żółty.”",
+          "options": [
+            "My pencil is not yellow.",
+            "My pencil is red.",
+            "My pencil is yellow."
+          ],
+          "answer": "My pencil is yellow.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My pencil is yellow. = Mój ołówek jest żółty. Forma is pasuje do My pencil."
+        },
+        {
+          "id": "en-tobe-kontekst-021",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moje długopisy są niebieskie.”",
+          "options": [
+            "My pens are blue.",
+            "My pens are not blue.",
+            "My pens are black."
+          ],
+          "answer": "My pens are blue.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My pens are blue. = Moje długopisy są niebieskie. Forma are pasuje do My pens."
+        },
+        {
+          "id": "en-tobe-kontekst-022",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moje książki są zielone.”",
+          "options": [
+            "My books are not green.",
+            "My books are green.",
+            "My books are blue."
+          ],
+          "answer": "My books are green.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My books are green. = Moje książki są zielone. Forma are pasuje do My books."
+        },
+        {
+          "id": "en-tobe-kontekst-023",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moja linijka jest biała.”",
+          "options": [
+            "My ruler is not white.",
+            "My ruler is black.",
+            "My ruler is white."
+          ],
+          "answer": "My ruler is white.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My ruler is white. = Moja linijka jest biała. Forma is pasuje do My ruler."
+        },
+        {
+          "id": "en-tobe-kontekst-024",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Adam ma jedenaście lat.”",
+          "options": [
+            "Adam is not eleven.",
+            "Adam is eleven.",
+            "Adam is twelve."
+          ],
+          "answer": "Adam is eleven.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "Adam is eleven. = Adam ma jedenaście lat. Forma is pasuje do Adam."
+        },
+        {
+          "id": "en-tobe-kontekst-025",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Anna ma dziesięć lat.”",
+          "options": [
+            "Anna is eleven.",
+            "Anna is ten.",
+            "Anna is not ten."
+          ],
+          "answer": "Anna is ten.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "Anna is ten. = Anna ma dziesięć lat. Forma is pasuje do Anna."
+        },
+        {
+          "id": "en-tobe-kontekst-026",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Tom jest Brytyjczykiem.”",
+          "options": [
+            "Tom is not British.",
+            "Tom is British.",
+            "Tom is Polish."
+          ],
+          "answer": "Tom is British.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "Tom is British. = Tom jest Brytyjczykiem. Forma is pasuje do Tom."
+        },
+        {
+          "id": "en-tobe-kontekst-027",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Lucy jest Amerykanką.”",
+          "options": [
+            "Lucy is British.",
+            "Lucy is not American.",
+            "Lucy is American."
+          ],
+          "answer": "Lucy is American.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "Lucy is American. = Lucy jest Amerykanką. Forma is pasuje do Lucy."
+        },
+        {
+          "id": "en-tobe-kontekst-028",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Adam i Tom są przyjaciółmi.”",
+          "options": [
+            "Adam and Tom are not friends.",
+            "Adam and Tom are cousins.",
+            "Adam and Tom are friends."
+          ],
+          "answer": "Adam and Tom are friends.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "Adam and Tom are friends. = Adam i Tom są przyjaciółmi. Forma are pasuje do Adam and Tom."
+        },
+        {
+          "id": "en-tobe-kontekst-029",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Anna i Lucy są koleżankami z klasy.”",
+          "options": [
+            "Anna and Lucy are classmates.",
+            "Anna and Lucy are not classmates.",
+            "Anna and Lucy are sisters."
+          ],
+          "answer": "Anna and Lucy are classmates.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "Anna and Lucy are classmates. = Anna i Lucy są koleżankami z klasy. Forma are pasuje do Anna and Lucy."
+        },
+        {
+          "id": "en-tobe-kontekst-030",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Tom i ja jesteśmy w szkole.”",
+          "options": [
+            "Tom and I are at home.",
+            "Tom and I are not at school.",
+            "Tom and I are at school."
+          ],
+          "answer": "Tom and I are at school.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "Tom and I are at school. = Tom i ja jesteśmy w szkole. Forma are pasuje do Tom and I."
+        },
+        {
+          "id": "en-tobe-kontekst-031",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Anna i ja jesteśmy w ogrodzie.”",
+          "options": [
+            "Anna and I are in the park.",
+            "Anna and I are not in the garden.",
+            "Anna and I are in the garden."
+          ],
+          "answer": "Anna and I are in the garden.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "Anna and I are in the garden. = Anna i ja jesteśmy w ogrodzie. Forma are pasuje do Anna and I."
+        },
+        {
+          "id": "en-tobe-kontekst-032",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Mama i tata są szczęśliwi.”",
+          "options": [
+            "Mum and Dad are hungry.",
+            "Mum and Dad are not happy.",
+            "Mum and Dad are happy."
+          ],
+          "answer": "Mum and Dad are happy.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "Mum and Dad are happy. = Mama i tata są szczęśliwi. Forma are pasuje do Mum and Dad."
+        },
+        {
+          "id": "en-tobe-kontekst-033",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Jestem z Polski.”",
+          "options": [
+            "I am from Poland.",
+            "I am from China.",
+            "I am not from Poland."
+          ],
+          "answer": "I am from Poland.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "I am from Poland. = Jestem z Polski. Forma am pasuje do I."
+        },
+        {
+          "id": "en-tobe-kontekst-034",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Masz jedenaście lat.”",
+          "options": [
+            "You are ten.",
+            "You are not eleven.",
+            "You are eleven."
+          ],
+          "answer": "You are eleven.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "You are eleven. = Masz jedenaście lat. Forma are pasuje do You."
+        },
+        {
+          "id": "en-tobe-kontekst-035",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„On jest ze Zjednoczonego Królestwa.”",
+          "options": [
+            "He is from the USA.",
+            "He is not from the UK.",
+            "He is from the UK."
+          ],
+          "answer": "He is from the UK.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "He is from the UK. = On jest ze Zjednoczonego Królestwa. Forma is pasuje do He."
+        },
+        {
+          "id": "en-tobe-kontekst-036",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Ona jest Francuzką.”",
+          "options": [
+            "She is French.",
+            "She is not French.",
+            "She is Spanish."
+          ],
+          "answer": "She is French.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "She is French. = Ona jest Francuzką. Forma is pasuje do She."
+        },
+        {
+          "id": "en-tobe-kontekst-037",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„To jest moja torba.”",
+          "options": [
+            "It is my bag.",
+            "It is my book.",
+            "It is not my bag."
+          ],
+          "answer": "It is my bag.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "It is my bag. = To jest moja torba. Forma is pasuje do It."
+        },
+        {
+          "id": "en-tobe-kontekst-038",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Jesteśmy Polakami.”",
+          "options": [
+            "We are British.",
+            "We are Polish.",
+            "We are not Polish."
+          ],
+          "answer": "We are Polish.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "We are Polish. = Jesteśmy Polakami. Forma are pasuje do We."
+        },
+        {
+          "id": "en-tobe-kontekst-039",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Oni są Chińczykami.”",
+          "options": [
+            "They are Chinese.",
+            "They are not Chinese.",
+            "They are American."
+          ],
+          "answer": "They are Chinese.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "They are Chinese. = Oni są Chińczykami. Forma are pasuje do They."
+        },
+        {
+          "id": "en-tobe-kontekst-040",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moja babcia ma sześćdziesiąt lat.”",
+          "options": [
+            "My grandmother is not sixty.",
+            "My grandmother is sixty.",
+            "My grandmother is seventy."
+          ],
+          "answer": "My grandmother is sixty.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My grandmother is sixty. = Moja babcia ma sześćdziesiąt lat. Forma is pasuje do My grandmother."
+        },
+        {
+          "id": "en-tobe-kontekst-041",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Mój dziadek ma siedemdziesiąt lat.”",
+          "options": [
+            "My grandfather is not seventy.",
+            "My grandfather is sixty.",
+            "My grandfather is seventy."
+          ],
+          "answer": "My grandfather is seventy.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My grandfather is seventy. = Mój dziadek ma siedemdziesiąt lat. Forma is pasuje do My grandfather."
+        },
+        {
+          "id": "en-tobe-kontekst-042",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Ciasto jest duże.”",
+          "options": [
+            "The cake is big.",
+            "The cake is not big.",
+            "The cake is small."
+          ],
+          "answer": "The cake is big.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "The cake is big. = Ciasto jest duże. Forma is pasuje do The cake."
+        },
+        {
+          "id": "en-tobe-kontekst-043",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Prezent jest żółty.”",
+          "options": [
+            "The present is yellow.",
+            "The present is green.",
+            "The present is not yellow."
+          ],
+          "answer": "The present is yellow.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "The present is yellow. = Prezent jest żółty. Forma is pasuje do The present."
+        },
+        {
+          "id": "en-tobe-kontekst-044",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Kartka jest śliczna.”",
+          "options": [
+            "The card is big.",
+            "The card is not lovely.",
+            "The card is lovely."
+          ],
+          "answer": "The card is lovely.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "The card is lovely. = Kartka jest śliczna. Forma is pasuje do The card."
+        },
+        {
+          "id": "en-tobe-kontekst-045",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moi przyjaciele są w parku.”",
+          "options": [
+            "My friends are in the park.",
+            "My friends are in the garden.",
+            "My friends are not in the park."
+          ],
+          "answer": "My friends are in the park.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My friends are in the park. = Moi przyjaciele są w parku. Forma are pasuje do My friends."
+        },
+        {
+          "id": "en-tobe-kontekst-046",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moje siostry są w szkole.”",
+          "options": [
+            "My sisters are at school.",
+            "My sisters are not at school.",
+            "My sisters are at home."
+          ],
+          "answer": "My sisters are at school.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My sisters are at school. = Moje siostry są w szkole. Forma are pasuje do My sisters."
+        },
+        {
+          "id": "en-tobe-kontekst-047",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moi bracia są głodni.”",
+          "options": [
+            "My brothers are not hungry.",
+            "My brothers are hungry.",
+            "My brothers are happy."
+          ],
+          "answer": "My brothers are hungry.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My brothers are hungry. = Moi bracia są głodni. Forma are pasuje do My brothers."
+        },
+        {
+          "id": "en-tobe-kontekst-048",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Mój ojciec jest Polakiem.”",
+          "options": [
+            "My father is British.",
+            "My father is Polish.",
+            "My father is not Polish."
+          ],
+          "answer": "My father is Polish.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My father is Polish. = Mój ojciec jest Polakiem. Forma is pasuje do My father."
+        },
+        {
+          "id": "en-tobe-kontekst-049",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Moja mama jest Włoszką.”",
+          "options": [
+            "My mother is French.",
+            "My mother is Italian.",
+            "My mother is not Italian."
+          ],
+          "answer": "My mother is Italian.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "My mother is Italian. = Moja mama jest Włoszką. Forma is pasuje do My mother."
+        },
+        {
+          "id": "en-tobe-kontekst-050",
+          "prompt": "Wybierz zdanie o podanym znaczeniu.\n„Jesteście na przyjęciu.”",
+          "options": [
+            "You are not at a party.",
+            "You are at school.",
+            "You are at a party."
+          ],
+          "answer": "You are at a party.",
+          "hint": "Sprawdź, o kim jest zdanie, a potem jego znaczenie. Not dodaje przeczenie. Wiek po angielsku opisujemy przez to be.",
+          "explanation": "You are at a party. = Jesteście na przyjęciu. Forma are pasuje do You."
+        }
+      ]
+    },
+    {
+      "id": "en-rozdzial-1-diagnoza",
+      "subject": "angielski",
+      "section": "New English Class 4 — rozdział 1",
+      "title": "Diagnoza: Family and friends",
+      "description": "Dwa różne testy po 20 pytań: rodzina, miejsca, kraje i narodowości; to be w twierdzeniach i przeczeniach; apostrof ’s oraz my, your, his, her. 1 punkt za pytanie. Każdy wynik zapisujemy osobno.",
+      "fixed_tests": [
+        {
+          "id": "en-r1-diagnoza-a-v1",
+          "name": "Diagnoza rozdziału 1 — test A",
+          "question_ids": [
+            "en-r1-01",
+            "en-r1-02",
+            "en-r1-03",
+            "en-r1-04",
+            "en-r1-05",
+            "en-r1-06",
+            "en-r1-07",
+            "en-r1-08",
+            "en-r1-09",
+            "en-r1-10",
+            "en-r1-11",
+            "en-r1-12",
+            "en-r1-13",
+            "en-r1-14",
+            "en-r1-15",
+            "en-r1-16",
+            "en-r1-17",
+            "en-r1-18",
+            "en-r1-19",
+            "en-r1-20"
+          ]
+        },
+        {
+          "id": "en-r1-diagnoza-b-v1",
+          "name": "Diagnoza rozdziału 1 — test B",
+          "question_ids": [
+            "en-r1-21",
+            "en-r1-22",
+            "en-r1-23",
+            "en-r1-24",
+            "en-r1-25",
+            "en-r1-26",
+            "en-r1-27",
+            "en-r1-28",
+            "en-r1-29",
+            "en-r1-30",
+            "en-r1-31",
+            "en-r1-32",
+            "en-r1-33",
+            "en-r1-34",
+            "en-r1-35",
+            "en-r1-36",
+            "en-r1-37",
+            "en-r1-38",
+            "en-r1-39",
+            "en-r1-40"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "en-r1-01",
+          "skill": "family",
+          "prompt": "Które słowo oznacza „ciocia”?",
+          "options": [
+            "aunt",
+            "uncle",
+            "sister",
+            "cousin"
+          ],
+          "answer": "aunt",
+          "hint": "Chodzi o siostrę mamy lub taty. Wybierz nazwę tej osoby, a nie brata rodzica.",
+          "explanation": "Aunt to ciocia. Uncle oznacza wujka, sister — siostrę, a cousin — kuzyna lub kuzynkę."
+        },
+        {
+          "id": "en-r1-02",
+          "skill": "family",
+          "prompt": "Uzupełnij nazwę członka rodziny: tata mojej mamy to mój dziadek.\nMy mother’s father is my ___.",
+          "options": [
+            "grandfather",
+            "brother",
+            "uncle",
+            "son"
+          ],
+          "answer": "grandfather",
+          "hint": "Przedrostek grand- pojawia się w angielskich nazwach babci i dziadka.",
+          "explanation": "My mother’s father is my grandfather. Grandfather oznacza dziadka; można też powiedzieć grandad."
+        },
+        {
+          "id": "en-r1-03",
+          "skill": "family",
+          "prompt": "Jak po angielsku powiesz jednym słowem „rodzice”?",
+          "options": [
+            "parents",
+            "cousins",
+            "sisters",
+            "sons"
+          ],
+          "answer": "parents",
+          "hint": "To wspólna nazwa mamy i taty, czyli mother and father.",
+          "explanation": "Parents to rodzice: mother and father. Cousins to kuzyni i kuzynki."
+        },
+        {
+          "id": "en-r1-04",
+          "skill": "places",
+          "prompt": "Wybierz wyrażenie zgodne z polskim zdaniem: „Jesteśmy w szkole”.\nWe are ___.",
+          "options": [
+            "at school",
+            "at home",
+            "in the garden",
+            "on holiday"
+          ],
+          "answer": "at school",
+          "hint": "W tym rozdziale uczymy się całych wyrażeń o miejscach. Z nazwą szkoły w takim zdaniu łączymy at.",
+          "explanation": "We are at school. = Jesteśmy w szkole. At home znaczy „w domu”, a in the garden — „w ogrodzie”."
+        },
+        {
+          "id": "en-r1-05",
+          "skill": "places",
+          "prompt": "Co oznacza wyrażenie „at a party”?",
+          "options": [
+            "na przyjęciu",
+            "w parku",
+            "w szkole",
+            "na wakacjach"
+          ],
+          "answer": "na przyjęciu",
+          "hint": "Party to spotkanie, na którym można świętować na przykład urodziny.",
+          "explanation": "At a party oznacza „na przyjęciu”. Przykład: My sister is at a party. = Moja siostra jest na przyjęciu."
+        },
+        {
+          "id": "en-r1-06",
+          "skill": "countries",
+          "prompt": "Uzupełnij parę kraj — narodowość:\nPoland — ___.",
+          "options": [
+            "Polish",
+            "Spanish",
+            "British",
+            "Italian"
+          ],
+          "answer": "Polish",
+          "hint": "Nazwę kraju i określenie narodowości piszemy w angielskim wielką literą. Szukaj pary odnoszącej się do Polski.",
+          "explanation": "Poland — Polish: Polska — polski / Polak / Polka. Przykład: I am Polish."
+        },
+        {
+          "id": "en-r1-07",
+          "skill": "countries",
+          "prompt": "Która para poprawnie łączy Hiszpanię z narodowością?",
+          "options": [
+            "Spain — Spanish",
+            "Spain — French",
+            "Spain — Chinese",
+            "Spain — American"
+          ],
+          "answer": "Spain — Spanish",
+          "hint": "Nazwa narodowości związanej z Hiszpanią jest podobna do nazwy tego kraju.",
+          "explanation": "Poprawna para to Spain — Spanish. Hiszpan lub Hiszpanka może powiedzieć: I am Spanish."
+        },
+        {
+          "id": "en-r1-08",
+          "skill": "countries",
+          "prompt": "Wybierz nazwę kraju pasującą do „Chinese”.\n___ — Chinese.",
+          "options": [
+            "China",
+            "France",
+            "Italy",
+            "Poland"
+          ],
+          "answer": "China",
+          "hint": "Chinese to określenie chińskiej narodowości. Potrzebna jest angielska nazwa Chin.",
+          "explanation": "China — Chinese: Chiny — chiński / Chińczyk / Chinka."
+        },
+        {
+          "id": "en-r1-09",
+          "skill": "to_be",
+          "prompt": "Wstaw właściwą formę to be w zdaniu twierdzącym.\nI ___ ten years old.",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": "am",
+          "hint": "Dopasuj czasownik do osoby: I ma własną formę, inną niż he/she/it oraz you/we/they.",
+          "explanation": "I am ten years old. = Mam dziesięć lat. Z I używamy am. Skrót: I’m ten years old."
+        },
+        {
+          "id": "en-r1-10",
+          "skill": "to_be",
+          "prompt": "Wstaw właściwą formę to be.\nAnna ___ my cousin.",
+          "options": [
+            "is",
+            "am",
+            "are"
+          ],
+          "answer": "is",
+          "hint": "Anna to jedna osoba. Jej imię można zastąpić zaimkiem she.",
+          "explanation": "Anna is my cousin. = Anna jest moją kuzynką. Z he, she i it używamy is."
+        },
+        {
+          "id": "en-r1-11",
+          "skill": "to_be",
+          "prompt": "Uzupełnij zdanie twierdzące.\nMy parents ___ at home.",
+          "options": [
+            "are",
+            "am",
+            "is"
+          ],
+          "answer": "are",
+          "hint": "Parents oznacza więcej niż jedną osobę. Ten rzeczownik można zastąpić przez they.",
+          "explanation": "My parents are at home. = Moi rodzice są w domu. Z they oraz rzeczownikami w liczbie mnogiej używamy are."
+        },
+        {
+          "id": "en-r1-12",
+          "skill": "to_be",
+          "prompt": "Uzupełnij przeczenie zgodnie z polskim zdaniem: „On nie jest Francuzem”.\nHe ___ French.",
+          "options": [
+            "isn’t",
+            "aren’t",
+            "am not"
+          ],
+          "answer": "isn’t",
+          "hint": "Najpierw dobierz formę to be do he, a potem dodaj not. Wybierz odpowiedni skrót.",
+          "explanation": "He isn’t French. = On nie jest Francuzem. Isn’t to skrót od is not."
+        },
+        {
+          "id": "en-r1-13",
+          "skill": "to_be",
+          "prompt": "Uzupełnij przeczenie: „My nie jesteśmy w parku”.\nWe ___ in the park.",
+          "options": [
+            "aren’t",
+            "isn’t",
+            "am not"
+          ],
+          "answer": "aren’t",
+          "hint": "We łączy się z tą samą formą to be co you i they. Dodaj do niej przeczenie not.",
+          "explanation": "We aren’t in the park. = Nie jesteśmy w parku. Aren’t oznacza are not."
+        },
+        {
+          "id": "en-r1-14",
+          "skill": "possessive_s",
+          "prompt": "To jest ciasto Toma. Wybierz poprawny zapis.\nThis is ___ cake.",
+          "options": [
+            "Tom’s",
+            "Toms",
+            "Tom"
+          ],
+          "answer": "Tom’s",
+          "hint": "Aby powiedzieć, do kogo coś należy, do imienia właściciela dodaj apostrof i s.",
+          "explanation": "This is Tom’s cake. = To jest ciasto Toma. Tom’s oznacza tu przynależność; apostrof jest potrzebny."
+        },
+        {
+          "id": "en-r1-15",
+          "skill": "possessive_s",
+          "prompt": "Jak poprawnie zapisać po angielsku „siostra Anny”?",
+          "options": [
+            "Anna’s sister",
+            "Annas sister",
+            "Anna sister",
+            "sister Anna’s"
+          ],
+          "answer": "Anna’s sister",
+          "hint": "Najpierw zapisz imię osoby, z którą ktoś jest spokrewniony, następnie ’s, a na końcu nazwę członka rodziny.",
+          "explanation": "Anna’s sister oznacza siostrę Anny. Kolejność to: Anna + ’s + sister."
+        },
+        {
+          "id": "en-r1-16",
+          "skill": "possessive_s",
+          "prompt": "Wybierz tłumaczenie zdania:\nThis is Lily’s bag.",
+          "options": [
+            "To jest torba Lily.",
+            "To jest siostra Lily.",
+            "To jest prezent Lily.",
+            "Lily jest w domu."
+          ],
+          "answer": "To jest torba Lily.",
+          "hint": "Bag to torba lub plecak. Końcówka ’s po imieniu informuje, do kogo ta rzecz należy.",
+          "explanation": "This is Lily’s bag. = To jest torba Lily. Lily’s wskazuje właścicielkę torby."
+        },
+        {
+          "id": "en-r1-17",
+          "skill": "possessives",
+          "prompt": "Mówisz o swojej mamie: „To jest moja mama”.\nThis is ___ mum.",
+          "options": [
+            "my",
+            "your",
+            "his",
+            "her"
+          ],
+          "answer": "my",
+          "hint": "Mówisz o sobie: I. Wybierz słowo odpowiadające polskiemu „mój / moja / moje”.",
+          "explanation": "This is my mum. = To jest moja mama. My łączymy z I: ja — mój / moja / moje."
+        },
+        {
+          "id": "en-r1-18",
+          "skill": "possessives",
+          "prompt": "Mówisz do Toma: „To jest twój brat”.\nThis is ___ brother.",
+          "options": [
+            "your",
+            "my",
+            "his",
+            "her"
+          ],
+          "answer": "your",
+          "hint": "Zwracasz się bezpośrednio do osoby, czyli do you. Nie mówisz o niej jako o he.",
+          "explanation": "This is your brother. = To jest twój brat. You — your: ty — twój / twoja / twoje."
+        },
+        {
+          "id": "en-r1-19",
+          "skill": "possessives",
+          "prompt": "Tom jest chłopcem. Mówimy o jego siostrze: „Jego siostra ma osiem lat”.\n___ sister is eight.",
+          "options": [
+            "His",
+            "Her",
+            "My",
+            "Your"
+          ],
+          "answer": "His",
+          "hint": "Wybór zależy od osoby, do której odnosimy przynależność: tutaj jest nią Tom, czyli he, a nie jego siostra.",
+          "explanation": "His sister is eight. = Jego siostra ma osiem lat. He — his. Płeć siostry nie zmienia słowa his."
+        },
+        {
+          "id": "en-r1-20",
+          "skill": "possessives",
+          "prompt": "Kate jest dziewczynką. Mówimy o jej tacie: „Jej tata jest w domu”.\n___ dad is at home.",
+          "options": [
+            "Her",
+            "His",
+            "Your",
+            "My"
+          ],
+          "answer": "Her",
+          "hint": "Pomyśl o Kate, czyli she. Wybór słowa dzierżawczego zależy od Kate, a nie od jej taty.",
+          "explanation": "Her dad is at home. = Jej tata jest w domu. She — her, niezależnie od tego, że dad oznacza mężczyznę."
+        },
+        {
+          "id": "en-r1-21",
+          "skill": "family",
+          "prompt": "Które słowo oznacza „córka”?",
+          "options": [
+            "daughter",
+            "son",
+            "mother",
+            "aunt"
+          ],
+          "answer": "daughter",
+          "hint": "Potrzebna jest nazwa dziecka płci żeńskiej w relacji do rodziców.",
+          "explanation": "Daughter oznacza córkę, a son — syna. Mother to matka, aunt — ciocia."
+        },
+        {
+          "id": "en-r1-22",
+          "skill": "family",
+          "prompt": "Uzupełnij nazwę członka rodziny: brat mojego taty to mój wujek.\nMy father’s brother is my ___.",
+          "options": [
+            "uncle",
+            "grandfather",
+            "son",
+            "father"
+          ],
+          "answer": "uncle",
+          "hint": "To męski odpowiednik aunt. Nie jest to twój brat ani dziadek.",
+          "explanation": "My father’s brother is my uncle. = Brat mojego taty jest moim wujkiem. Uncle to wujek."
+        },
+        {
+          "id": "en-r1-23",
+          "skill": "family",
+          "prompt": "Które angielskie słowo może oznaczać zarówno „kuzyn”, jak i „kuzynka”?",
+          "options": [
+            "cousin",
+            "sister",
+            "brother",
+            "granny"
+          ],
+          "answer": "cousin",
+          "hint": "W języku angielskim nazwa tego członka rodziny nie zmienia się zależnie od płci.",
+          "explanation": "Cousin oznacza kuzyna lub kuzynkę. Sister to siostra, brother — brat, granny — babcia."
+        },
+        {
+          "id": "en-r1-24",
+          "skill": "places",
+          "prompt": "Wybierz wyrażenie zgodne z polskim zdaniem: „Oni są w ogrodzie”.\nThey are ___.",
+          "options": [
+            "in the garden",
+            "at school",
+            "on holiday",
+            "in the park"
+          ],
+          "answer": "in the garden",
+          "hint": "Garden to ogród, a park to park. Ucz się całego wyrażenia z przyimkiem i the.",
+          "explanation": "They are in the garden. = Oni są w ogrodzie. In the park oznacza „w parku”."
+        },
+        {
+          "id": "en-r1-25",
+          "skill": "places",
+          "prompt": "Co oznacza wyrażenie „on holiday”?",
+          "options": [
+            "na wakacjach",
+            "w domu",
+            "na przyjęciu",
+            "w ogrodzie"
+          ],
+          "answer": "na wakacjach",
+          "hint": "To czas wypoczynku, często związany z wyjazdem i przerwą od szkoły.",
+          "explanation": "On holiday oznacza „na wakacjach”. Przykład: My family is on holiday. = Moja rodzina jest na wakacjach."
+        },
+        {
+          "id": "en-r1-26",
+          "skill": "countries",
+          "prompt": "Uzupełnij parę kraj — narodowość:\nItaly — ___.",
+          "options": [
+            "Italian",
+            "French",
+            "Polish",
+            "British"
+          ],
+          "answer": "Italian",
+          "hint": "Italy oznacza Włochy. Odpowiednie określenie narodowości zaczyna się tak samo jak nazwa kraju.",
+          "explanation": "Italy — Italian: Włochy — włoski / Włoch / Włoszka. Oba słowa zaczynamy wielką literą."
+        },
+        {
+          "id": "en-r1-27",
+          "skill": "countries",
+          "prompt": "Która narodowość pasuje do nazwy kraju „the USA”?",
+          "options": [
+            "American",
+            "Chinese",
+            "Spanish",
+            "Italian"
+          ],
+          "answer": "American",
+          "hint": "The USA to Stany Zjednoczone. Potrzebne jest angielskie określenie Amerykanina lub Amerykanki.",
+          "explanation": "The USA — American: Stany Zjednoczone — amerykański / Amerykanin / Amerykanka."
+        },
+        {
+          "id": "en-r1-28",
+          "skill": "countries",
+          "prompt": "Wybierz nazwę kraju pasującą do „British”.\n___ — British.",
+          "options": [
+            "the UK",
+            "France",
+            "China",
+            "Spain"
+          ],
+          "answer": "the UK",
+          "hint": "British oznacza brytyjską narodowość. Szukaj skrótowej nazwy Zjednoczonego Królestwa.",
+          "explanation": "The UK — British. The UK to skrót od United Kingdom, czyli Zjednoczonego Królestwa. British znaczy brytyjski."
+        },
+        {
+          "id": "en-r1-29",
+          "skill": "to_be",
+          "prompt": "Uzupełnij zdanie twierdzące właściwą formą to be.\nYou ___ my classmate.",
+          "options": [
+            "are",
+            "am",
+            "is"
+          ],
+          "answer": "are",
+          "hint": "You łączy się z taką samą formą to be, gdy mówimy do jednej osoby i gdy mówimy do kilku osób.",
+          "explanation": "You are my classmate. = Jesteś moim kolegą / moją koleżanką z klasy. You zawsze łączy się z are."
+        },
+        {
+          "id": "en-r1-30",
+          "skill": "to_be",
+          "prompt": "Uzupełnij zdanie twierdzące.\nIt ___ my granny’s birthday.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "is",
+          "hint": "It należy do tej samej grupy co he i she. Zwróć uwagę na podmiot it na początku zdania.",
+          "explanation": "It is my granny’s birthday. = To urodziny mojej babci. It łączy się z is; skrót to it’s."
+        },
+        {
+          "id": "en-r1-31",
+          "skill": "to_be",
+          "prompt": "Uzupełnij przeczenie: „Ja nie jestem w szkole”.\nI ___ at school.",
+          "options": [
+            "am not",
+            "is not",
+            "are not"
+          ],
+          "answer": "am not",
+          "hint": "W przeczeniu zachowaj formę czasownika pasującą do I i dodaj not.",
+          "explanation": "I am not at school. = Nie jestem w szkole. Można też powiedzieć I’m not at school."
+        },
+        {
+          "id": "en-r1-32",
+          "skill": "to_be",
+          "prompt": "Wybierz poprawne przeczenie zdania, zapisane pełną formą.\nShe is from France.",
+          "options": [
+            "She is not from France.",
+            "She not is from France.",
+            "She are not from France."
+          ],
+          "answer": "She is not from France.",
+          "hint": "W zdaniu przeczącym not stawiamy po am, is lub are. Nie zmieniaj formy pasującej do she.",
+          "explanation": "She is not from France. = Ona nie jest z Francji. Not stoi po is; skrócona forma to isn’t."
+        },
+        {
+          "id": "en-r1-33",
+          "skill": "to_be",
+          "prompt": "Uzupełnij przeczenie: „Tom i Kate nie są na wakacjach”.\nTom and Kate ___ on holiday.",
+          "options": [
+            "are not",
+            "is not",
+            "am not"
+          ],
+          "answer": "are not",
+          "hint": "Tom and Kate to dwie osoby, czyli they. Dobierz formę to be w liczbie mnogiej i dodaj not.",
+          "explanation": "Tom and Kate are not on holiday. = Tom i Kate nie są na wakacjach. Are not można skrócić do aren’t."
+        },
+        {
+          "id": "en-r1-34",
+          "skill": "possessive_s",
+          "prompt": "To jest prezent Ewy (Eva). Wybierz poprawny zapis.\nThis is ___ present.",
+          "options": [
+            "Eva’s",
+            "Evas",
+            "Eva"
+          ],
+          "answer": "Eva’s",
+          "hint": "Przed nazwą rzeczy stawiamy imię właściciela zakończone apostrofem i literą s.",
+          "explanation": "This is Eva’s present. = To jest prezent Ewy. Poprawny zapis imienia z formą dzierżawczą to Eva’s."
+        },
+        {
+          "id": "en-r1-35",
+          "skill": "possessive_s",
+          "prompt": "Jak poprawnie zapisać po angielsku „brat Marka (Mark)”?",
+          "options": [
+            "Mark’s brother",
+            "Marks brother",
+            "Mark brother",
+            "brother Mark’s"
+          ],
+          "answer": "Mark’s brother",
+          "hint": "Najpierw osoba: Mark. Potem apostrof z s. Dopiero na końcu nazwa członka rodziny.",
+          "explanation": "Mark’s brother oznacza brata Marka. Apostrof i s dopisujemy do imienia Mark."
+        },
+        {
+          "id": "en-r1-36",
+          "skill": "possessive_s",
+          "prompt": "W którym zdaniu ’s pokazuje, do kogo należy ciasto, a nie jest skrótem czasownika is?",
+          "options": [
+            "This is Ben’s cake.",
+            "Ben’s at home.",
+            "He’s in the park."
+          ],
+          "answer": "This is Ben’s cake.",
+          "hint": "Przed nazwą rzeczy ’s może wskazywać właściciela. W pozostałych zdaniach sprawdź, czy ’s można rozwinąć do is.",
+          "explanation": "W This is Ben’s cake. forma Ben’s znaczy „Bena”. Ben’s at home. = Ben is at home., a He’s = He is."
+        },
+        {
+          "id": "en-r1-37",
+          "skill": "possessives",
+          "prompt": "Przedstawiasz się: „Mam na imię Ola”, czyli dosłownie „Moje imię to Ola”.\n___ name is Ola.",
+          "options": [
+            "My",
+            "Your",
+            "His",
+            "Her"
+          ],
+          "answer": "My",
+          "hint": "Mówisz o swoim własnym imieniu. Potrzebne jest słowo dzierżawcze odpowiadające I.",
+          "explanation": "My name is Ola. = Mam na imię Ola. My znaczy mój / moja / moje i odnosi się do osoby mówiącej."
+        },
+        {
+          "id": "en-r1-38",
+          "skill": "possessives",
+          "prompt": "Mówisz bezpośrednio do Zuzi: „Twój prezent jest tutaj”.\n___ present is here.",
+          "options": [
+            "Your",
+            "Her",
+            "My",
+            "His"
+          ],
+          "answer": "Your",
+          "hint": "Mówisz do Zuzi, a nie o niej. Bezpośredni zwrot „twój / twoja / twoje” odpowiada zaimkowi you.",
+          "explanation": "Your present is here. = Twój prezent jest tutaj. Your stosujemy także wtedy, gdy zwracamy się do dziewczynki."
+        },
+        {
+          "id": "en-r1-39",
+          "skill": "possessives",
+          "prompt": "Adam jest moim bratem. Mówimy o jego tacie: „Jego tata jest Polakiem”.\n___ dad is Polish.",
+          "options": [
+            "His",
+            "Her",
+            "Your",
+            "My"
+          ],
+          "answer": "His",
+          "hint": "Słowo „jego” odnosi się tutaj do Adama, czyli he. Wybierz odpowiadającą mu formę dzierżawczą.",
+          "explanation": "His dad is Polish. = Jego tata jest Polakiem. He — his: on — jego."
+        },
+        {
+          "id": "en-r1-40",
+          "skill": "possessives",
+          "prompt": "Lily jest dziewczynką. Mówimy o jej rodzinie: „Jej rodzina jest z Włoch”.\n___ family is from Italy.",
+          "options": [
+            "Her",
+            "His",
+            "My",
+            "Your"
+          ],
+          "answer": "Her",
+          "hint": "Wybór formy dzierżawczej zależy od Lily, czyli she. Nie zależy od polskiego rodzaju słowa „rodzina”.",
+          "explanation": "Her family is from Italy. = Jej rodzina jest z Włoch. She — her: ona — jej."
+        }
+      ]
+    }
+  ]
+}

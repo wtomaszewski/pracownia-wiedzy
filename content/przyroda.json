@@ -1,0 +1,2804 @@
+{
+  "sources": [],
+  "material_note": "Autorskie pytania i schematy do działu Okiem badacza: przyroda, zmysły, orientacja w terenie, doświadczenia i mikroskop. Materiały nie zawierają skanów podręcznika.",
+  "topics": [
+    {
+      "id": "pr-przyroda",
+      "subject": "przyroda",
+      "section": "Okiem badacza — materiał ze zdjęć",
+      "title": "1. Przyroda wokół nas i bezpieczna nauka",
+      "description": "Rozpoznaj organizmy, przyrodę nieożywioną i wytwory człowieka. Ćwicz bezpieczne obserwacje. Dwa różne testy po 15 pytań. Podpowiedzi i rysunki; 1 punkt za całe poprawne zadanie.",
+      "questions": [
+        {
+          "id": "pr-przyroda-01",
+          "type": "choice",
+          "prompt": "Na szkicu wskaż literę oznaczającą ROŚLINĘ.",
+          "answer": "A",
+          "hint": "Rośliną jest drzewo. Odróżnij je od zwierzęcia, wody i budynku.",
+          "explanation": "A oznacza drzewo, czyli organizm roślinny.",
+          "options": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "image": {
+            "src": "/assets/nature/landscape.svg",
+            "alt": "Krajobraz z sześcioma oznaczeniami A–F: drzewa, słońca, stawu, domu, ptaka i drogi.",
+            "caption": "Autorski szkic krajobrazu. Litery wskazują jego elementy."
+          }
+        },
+        {
+          "id": "pr-przyroda-02",
+          "type": "choice",
+          "prompt": "Do której grupy należy naturalna skała?",
+          "answer": "przyroda nieożywiona",
+          "hint": "Skała powstaje w przyrodzie, ale nie jest organizmem.",
+          "explanation": "Skała jest naturalnym, nieożywionym elementem przyrody.",
+          "options": [
+            "przyroda nieożywiona",
+            "przyroda ożywiona",
+            "wytwory człowieka"
+          ]
+        },
+        {
+          "id": "pr-przyroda-03",
+          "type": "multi",
+          "prompt": "Zaznacz wszystkie organizmy.",
+          "answer": [
+            "borowik",
+            "bakteria",
+            "żaba"
+          ],
+          "hint": "Organizmy to nie tylko zwierzęta. Są nimi również rośliny, grzyby i bakterie.",
+          "explanation": "Borowik, bakteria i żaba są organizmami zbudowanymi z komórek. Kamień i kubek nie są organizmami.",
+          "options": [
+            "borowik",
+            "bakteria",
+            "żaba",
+            "kamień",
+            "szklany kubek"
+          ]
+        },
+        {
+          "id": "pr-przyroda-04",
+          "type": "match",
+          "prompt": "Przyporządkuj każdy element do właściwej grupy.",
+          "answer": {
+            "sosna": "przyroda ożywiona",
+            "woda w jeziorze": "przyroda nieożywiona",
+            "betonowy most": "wytwór człowieka"
+          },
+          "hint": "Zapytaj: czy to organizm? Jeśli nie — czy powstało dzięki człowiekowi?",
+          "explanation": "Sosna żyje, woda jest naturalna i nieożywiona, a betonowy most zbudowali ludzie.",
+          "items": [
+            "sosna",
+            "woda w jeziorze",
+            "betonowy most"
+          ],
+          "options": [
+            "przyroda ożywiona",
+            "przyroda nieożywiona",
+            "wytwór człowieka"
+          ]
+        },
+        {
+          "id": "pr-przyroda-05",
+          "type": "short",
+          "prompt": "Uzupełnij jednym wyrazem: Organizmy są zbudowane z ___.",
+          "answer": "komórek",
+          "hint": "To najmniejsze jednostki budujące organizmy. Można je oglądać pod mikroskopem.",
+          "explanation": "Wszystkie organizmy są zbudowane z komórek — jednej lub wielu.",
+          "accepted": [
+            "komórki",
+            "komórka"
+          ]
+        },
+        {
+          "id": "pr-przyroda-06",
+          "type": "choice",
+          "prompt": "Czy człowiek jest częścią przyrody ożywionej?",
+          "answer": "Tak, jest organizmem.",
+          "hint": "Pomyśl o budowie ciała i wykonywaniu czynności życiowych.",
+          "explanation": "Człowiek jest organizmem. Jego umiejętność tworzenia przedmiotów tego nie zmienia.",
+          "options": [
+            "Tak, jest organizmem.",
+            "Nie, bo mieszka w budynku.",
+            "Nie, bo potrafi tworzyć narzędzia."
+          ]
+        },
+        {
+          "id": "pr-przyroda-07",
+          "type": "multi",
+          "prompt": "Zaznacz czynności życiowe organizmów.",
+          "answer": [
+            "oddychanie",
+            "odżywianie się",
+            "wzrost i rozwój"
+          ],
+          "hint": "Szukaj procesów związanych z życiem organizmu, a nie zmian zachodzących w przedmiotach.",
+          "explanation": "Oddychanie, odżywianie oraz wzrost i rozwój to czynności życiowe. Rdza i topnienie lodu nie są czynnościami organizmów.",
+          "options": [
+            "oddychanie",
+            "odżywianie się",
+            "wzrost i rozwój",
+            "rdzewienie żelaza",
+            "topnienie lodu"
+          ]
+        },
+        {
+          "id": "pr-przyroda-08",
+          "type": "short",
+          "prompt": "Samochód się porusza. Czy sam ruch wystarcza, aby uznać go za organizm? Wpisz „tak” lub „nie”.",
+          "answer": "nie",
+          "hint": "Nie każdy poruszający się obiekt jest zbudowany z komórek i wykonuje czynności życiowe.",
+          "explanation": "Nie. Ruch auta nie oznacza, że jest ono organizmem.",
+          "accepted": []
+        },
+        {
+          "id": "pr-przyroda-09",
+          "type": "match",
+          "prompt": "Dopasuj przykład do czynności życiowej.",
+          "answer": {
+            "Zjedzenie jabłka": "odżywianie się",
+            "Dziecko staje się wyższe": "wzrost",
+            "Wdech i wydech": "oddychanie"
+          },
+          "hint": "Każdy opis pokazuje inny proces zachodzący w organizmie.",
+          "explanation": "Jedzenie wiąże się z odżywianiem, zwiększanie wysokości ze wzrostem, a wdech i wydech z oddychaniem.",
+          "items": [
+            "Zjedzenie jabłka",
+            "Dziecko staje się wyższe",
+            "Wdech i wydech"
+          ],
+          "options": [
+            "odżywianie się",
+            "wzrost",
+            "oddychanie"
+          ]
+        },
+        {
+          "id": "pr-przyroda-10",
+          "type": "choice",
+          "prompt": "Przez wiele tygodni nie pada deszcz. Co może się stać z roślinami na łące?",
+          "answer": "Mogą więdnąć z powodu braku wody.",
+          "hint": "Składniki środowiska wpływają na siebie. Rośliny potrzebują wody.",
+          "explanation": "Zmiana ilości wody, czyli składnika nieożywionego, może wpłynąć na żyjące rośliny.",
+          "options": [
+            "Mogą więdnąć z powodu braku wody.",
+            "Zamienią się w skały.",
+            "Brak wody nie ma na nie żadnego wpływu."
+          ]
+        },
+        {
+          "id": "pr-przyroda-11",
+          "type": "choice",
+          "prompt": "Piszesz prawą ręką. Z której strony najlepiej ustawić lampkę, aby ręka nie zasłaniała światła?",
+          "answer": "z lewej",
+          "hint": "Światło powinno padać z przeciwnej strony niż ręka, którą piszesz.",
+          "explanation": "Dla osoby praworęcznej lampka po lewej stronie ogranicza cień rzucany przez dłoń.",
+          "options": [
+            "z lewej",
+            "z prawej, za piszącą dłonią",
+            "pod blatem biurka"
+          ]
+        },
+        {
+          "id": "pr-przyroda-12",
+          "type": "multi",
+          "prompt": "Zaznacz bezpieczne zachowania podczas wycieczki przyrodniczej.",
+          "answer": [
+            "Poruszam się wyznaczoną ścieżką.",
+            "Obserwuję zwierzęta z dystansu.",
+            "Zakładam ubranie odpowiednie do pogody."
+          ],
+          "hint": "Bezpieczeństwo dotyczy zarówno uczestnika wycieczki, jak i obserwowanych organizmów.",
+          "explanation": "Ścieżka, dystans od zwierząt i odpowiednie ubranie pomagają bezpiecznie poznawać przyrodę. Nie próbujemy nieznanych roślin i nie niszczymy siedlisk.",
+          "options": [
+            "Poruszam się wyznaczoną ścieżką.",
+            "Obserwuję zwierzęta z dystansu.",
+            "Zakładam ubranie odpowiednie do pogody.",
+            "Próbuję każdej znalezionej jagody.",
+            "Niszczę mrowisko, aby zobaczyć wnętrze."
+          ]
+        },
+        {
+          "id": "pr-przyroda-13",
+          "type": "short",
+          "prompt": "Chcesz obejrzeć ptaka daleko na drzewie, bez podchodzenia. Podaj nazwę odpowiedniego przyrządu.",
+          "answer": "lornetka",
+          "hint": "Przyrząd powinien pozwalać oglądać odległe obiekty.",
+          "explanation": "Nadaje się lornetka, a także luneta. Lupa służy do oglądania małych obiektów z bliska.",
+          "accepted": [
+            "luneta",
+            "lornetki",
+            "lunety"
+          ]
+        },
+        {
+          "id": "pr-przyroda-14",
+          "type": "match",
+          "prompt": "Połącz sytuację z rozsądnym działaniem.",
+          "answer": {
+            "Przed pracą w pracowni": "Czytam instrukcję nauczyciela.",
+            "Na blacie leży zbędny telefon": "Odkładam rozpraszający przedmiot.",
+            "Przed wyjściem w teren": "Sprawdzam pogodę i dobieram ubranie."
+          },
+          "hint": "Każdej sytuacji odpowiada działanie, które ułatwia bezpieczną naukę.",
+          "explanation": "Instrukcja pomaga bezpiecznie pracować, uporządkowany blat sprzyja skupieniu, a znajomość pogody pomaga przygotować strój.",
+          "items": [
+            "Przed pracą w pracowni",
+            "Na blacie leży zbędny telefon",
+            "Przed wyjściem w teren"
+          ],
+          "options": [
+            "Czytam instrukcję nauczyciela.",
+            "Odkładam rozpraszający przedmiot.",
+            "Sprawdzam pogodę i dobieram ubranie."
+          ]
+        },
+        {
+          "id": "pr-przyroda-15",
+          "type": "choice",
+          "prompt": "Znalazłeś nieznany grzyb. Jak najlepiej go poznać?",
+          "answer": "Obejrzę go bez zjadania i zapytam dorosłego.",
+          "hint": "Wygląd i przyjemny zapach nie potwierdzają, że grzyb jest jadalny.",
+          "explanation": "Nie jemy nieznanych grzybów. Bezpieczna obserwacja nie wymaga ich próbowania.",
+          "options": [
+            "Obejrzę go bez zjadania i zapytam dorosłego.",
+            "Spróbuję kawałka, aby rozpoznać smak.",
+            "Zjem go, jeśli ładnie pachnie."
+          ]
+        },
+        {
+          "id": "pr-przyroda-16",
+          "type": "choice",
+          "prompt": "Doniczkowa paprotka została posadzona przez człowieka. Czym jest sama roślina?",
+          "answer": "organizmem — przyrodą ożywioną",
+          "hint": "Pochodzenie doniczki nie zmienia tego, że roślina żyje.",
+          "explanation": "Paprotka jest organizmem, nawet gdy człowiek ją uprawia.",
+          "options": [
+            "organizmem — przyrodą ożywioną",
+            "przedmiotem nieożywionym",
+            "tym samym co plastikowa doniczka"
+          ]
+        },
+        {
+          "id": "pr-przyroda-17",
+          "type": "multi",
+          "prompt": "Na szkicu zaznacz litery oznaczające WYTWORY CZŁOWIEKA.",
+          "answer": [
+            "D",
+            "F"
+          ],
+          "hint": "Szukaj budynku i drogi, które zbudowali ludzie.",
+          "explanation": "D to dom, a F to droga. Pozostałe oznaczenia wskazują elementy przyrody.",
+          "options": [
+            "D",
+            "F",
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "image": {
+            "src": "/assets/nature/landscape.svg",
+            "alt": "Krajobraz z sześcioma oznaczeniami A–F: drzewa, słońca, stawu, domu, ptaka i drogi.",
+            "caption": "Autorski szkic krajobrazu. Litery wskazują jego elementy."
+          }
+        },
+        {
+          "id": "pr-przyroda-18",
+          "type": "multi",
+          "prompt": "Zaznacz wyłącznie nieożywione składniki przyrody.",
+          "answer": [
+            "powietrze",
+            "gleba",
+            "Księżyc"
+          ],
+          "hint": "To mają być elementy naturalne, które nie są organizmami.",
+          "explanation": "Powietrze, gleba i Księżyc należą do przyrody nieożywionej. Wróbel jest organizmem, a ławkę wykonał człowiek.",
+          "options": [
+            "powietrze",
+            "gleba",
+            "Księżyc",
+            "wróbel",
+            "ławka parkowa"
+          ]
+        },
+        {
+          "id": "pr-przyroda-19",
+          "type": "short",
+          "prompt": "Kto tworzy elementy antropogeniczne, takie jak mosty i drogi? Wpisz jednym słowem.",
+          "answer": "człowiek",
+          "hint": "Przypomnij sobie pochodzenie drogi, płotu lub mostu.",
+          "explanation": "Elementy antropogeniczne są dziełem człowieka lub skutkiem jego działalności.",
+          "accepted": [
+            "ludzie"
+          ]
+        },
+        {
+          "id": "pr-przyroda-20",
+          "type": "match",
+          "prompt": "Dopasuj organizm do jego grupy.",
+          "answer": {
+            "dąb": "roślina",
+            "motyl": "zwierzę",
+            "pieczarka": "grzyb"
+          },
+          "hint": "Przyroda ożywiona obejmuje kilka grup organizmów, nie tylko zwierzęta.",
+          "explanation": "Dąb jest rośliną, motyl zwierzęciem, a pieczarka grzybem.",
+          "items": [
+            "dąb",
+            "motyl",
+            "pieczarka"
+          ],
+          "options": [
+            "roślina",
+            "zwierzę",
+            "grzyb"
+          ]
+        },
+        {
+          "id": "pr-przyroda-21",
+          "type": "choice",
+          "prompt": "Co łączy małą bakterię i dużego psa?",
+          "answer": "Oba są zbudowane z komórek.",
+          "hint": "Wielkość i wygląd nie są wspólną cechą wszystkich organizmów.",
+          "explanation": "Organizmy są zbudowane z komórek, choć mogą mieć bardzo różne rozmiary.",
+          "options": [
+            "Oba są zbudowane z komórek.",
+            "Oba muszą mieć cztery nogi.",
+            "Oba można zawsze zobaczyć gołym okiem."
+          ]
+        },
+        {
+          "id": "pr-przyroda-22",
+          "type": "choice",
+          "prompt": "Roślina nie chodzi jak pies. Czy mimo tego jest organizmem?",
+          "answer": "Tak — budują ją komórki i wykonuje czynności życiowe.",
+          "hint": "Chodzenie nie jest warunkiem uznania czegoś za organizm.",
+          "explanation": "Roślina żyje, choć jej ruchy i sposób życia różnią się od zachowania psa.",
+          "options": [
+            "Tak — budują ją komórki i wykonuje czynności życiowe.",
+            "Nie — każdy organizm musi chodzić.",
+            "Nie — organizmami są tylko zwierzęta."
+          ]
+        },
+        {
+          "id": "pr-przyroda-23",
+          "type": "short",
+          "prompt": "Siewka staje się coraz większa. Jak nazywa się ta czynność życiowa?",
+          "answer": "wzrost",
+          "hint": "Chodzi o zwiększanie rozmiarów organizmu.",
+          "explanation": "Zwiększanie rozmiarów organizmu nazywamy wzrostem.",
+          "accepted": [
+            "wzrastanie"
+          ]
+        },
+        {
+          "id": "pr-przyroda-24",
+          "type": "match",
+          "prompt": "Dopasuj zmianę w otoczeniu do jej możliwego skutku.",
+          "answer": {
+            "Długotrwały brak opadów": "W glebie brakuje wody dla roślin.",
+            "Wycinka wielu drzew": "Ubywa miejsc życia leśnych zwierząt.",
+            "Wrzucenie śmieci do rzeki": "Woda i brzegi zostają zanieczyszczone."
+          },
+          "hint": "Zastanów się, z czym bezpośrednio wiąże się każda zmiana.",
+          "explanation": "Składniki środowiska są powiązane: brak wody, wycinka i śmieci mogą zmieniać warunki życia organizmów.",
+          "items": [
+            "Długotrwały brak opadów",
+            "Wycinka wielu drzew",
+            "Wrzucenie śmieci do rzeki"
+          ],
+          "options": [
+            "W glebie brakuje wody dla roślin.",
+            "Ubywa miejsc życia leśnych zwierząt.",
+            "Woda i brzegi zostają zanieczyszczone."
+          ]
+        },
+        {
+          "id": "pr-przyroda-25",
+          "type": "choice",
+          "prompt": "Ptaki same zbudowały gniazdo z gałązek. Czy to wytwór człowieka?",
+          "answer": "Nie — zbudowały je zwierzęta.",
+          "hint": "Ważne jest, kto wykonał ten obiekt.",
+          "explanation": "Naturalnie powstałe gniazdo ptaków nie jest elementem antropogenicznym.",
+          "options": [
+            "Nie — zbudowały je zwierzęta.",
+            "Tak — wszystko zbudowane jest wytworem człowieka.",
+            "Tak — bo gałązki pochodzą z drzewa."
+          ]
+        },
+        {
+          "id": "pr-przyroda-26",
+          "type": "multi",
+          "prompt": "Co pomaga przygotować dobre miejsce do nauki?",
+          "answer": [
+            "Pozostawienie potrzebnych książek i przyborów.",
+            "Wyłączenie rozpraszających powiadomień.",
+            "Wywietrzenie pokoju."
+          ],
+          "hint": "Wybierz działania sprzyjające skupieniu, światłu i świeżemu powietrzu.",
+          "explanation": "Przygotowane materiały, mniej rozpraszaczy i świeże powietrze ułatwiają naukę.",
+          "options": [
+            "Pozostawienie potrzebnych książek i przyborów.",
+            "Wyłączenie rozpraszających powiadomień.",
+            "Wywietrzenie pokoju.",
+            "Włączenie głośnej gry obok zeszytu.",
+            "Pisanie w zupełnej ciemności."
+          ]
+        },
+        {
+          "id": "pr-przyroda-27",
+          "type": "short",
+          "prompt": "Osoba leworęczna potrzebuje lampki z przeciwnej strony niż pisząca dłoń. Z której strony?",
+          "answer": "z prawej",
+          "hint": "Lampka ma ograniczać cień rzucany przez lewą rękę.",
+          "explanation": "Dla osoby leworęcznej korzystne jest światło padające z prawej strony.",
+          "accepted": [
+            "prawej",
+            "prawa",
+            "po prawej",
+            "z prawej strony",
+            "po prawej stronie"
+          ]
+        },
+        {
+          "id": "pr-przyroda-28",
+          "type": "choice",
+          "prompt": "Nauczyciel polecił założyć okulary ochronne. Co robisz?",
+          "answer": "Zakładam je przed rozpoczęciem zadania.",
+          "hint": "Środki ochronne działają wtedy, gdy używa się ich we właściwym czasie.",
+          "explanation": "W pracowni przestrzegamy instrukcji i używamy wskazanych środków ochronnych przed rozpoczęciem pracy.",
+          "options": [
+            "Zakładam je przed rozpoczęciem zadania.",
+            "Zakładam je dopiero po zakończeniu.",
+            "Pomijam je, jeśli kolega ich nie ma."
+          ]
+        },
+        {
+          "id": "pr-przyroda-29",
+          "type": "match",
+          "prompt": "Dopasuj przygotowanie do jego celu.",
+          "answer": {
+            "Długie spodnie w lesie": "Ograniczenie kontaktu skóry z kleszczami.",
+            "Wygodne krzesło przy biurku": "Podparcie pleców podczas nauki.",
+            "Notatnik na wycieczce": "Zapisanie zauważonych szczegółów."
+          },
+          "hint": "Zwróć uwagę, czy chodzi o ubiór, wygodną pozycję czy dokumentowanie obserwacji.",
+          "explanation": "Ubiór pomaga chronić skórę, krzesło podpiera plecy, a notatnik służy do zapisywania obserwacji.",
+          "items": [
+            "Długie spodnie w lesie",
+            "Wygodne krzesło przy biurku",
+            "Notatnik na wycieczce"
+          ],
+          "options": [
+            "Ograniczenie kontaktu skóry z kleszczami.",
+            "Podparcie pleców podczas nauki.",
+            "Zapisanie zauważonych szczegółów."
+          ]
+        },
+        {
+          "id": "pr-przyroda-30",
+          "type": "choice",
+          "prompt": "Czy w pracowni wolno próbować smaku badanej, nieznanej substancji?",
+          "answer": "Nie, nie wkładamy badanych substancji do ust.",
+          "hint": "Nie znamy bezpieczeństwa nieznanej substancji. Smak nie jest właściwym sposobem jej sprawdzania.",
+          "explanation": "W pracowni nigdy nie wkładamy do ust badanych substancji ani sprzętu.",
+          "options": [
+            "Nie, nie wkładamy badanych substancji do ust.",
+            "Tak, jeśli jest bezbarwna.",
+            "Tak, jeśli najpierw ją powąchamy."
+          ]
+        }
+      ],
+      "fixed_tests": [
+        {
+          "id": "pr-przyroda-a-v1",
+          "name": "Zestaw A — 15 zadań",
+          "question_ids": [
+            "pr-przyroda-01",
+            "pr-przyroda-02",
+            "pr-przyroda-03",
+            "pr-przyroda-04",
+            "pr-przyroda-05",
+            "pr-przyroda-06",
+            "pr-przyroda-07",
+            "pr-przyroda-08",
+            "pr-przyroda-09",
+            "pr-przyroda-10",
+            "pr-przyroda-11",
+            "pr-przyroda-12",
+            "pr-przyroda-13",
+            "pr-przyroda-14",
+            "pr-przyroda-15"
+          ]
+        },
+        {
+          "id": "pr-przyroda-b-v1",
+          "name": "Zestaw B — 15 zadań",
+          "question_ids": [
+            "pr-przyroda-16",
+            "pr-przyroda-17",
+            "pr-przyroda-18",
+            "pr-przyroda-19",
+            "pr-przyroda-20",
+            "pr-przyroda-21",
+            "pr-przyroda-22",
+            "pr-przyroda-23",
+            "pr-przyroda-24",
+            "pr-przyroda-25",
+            "pr-przyroda-26",
+            "pr-przyroda-27",
+            "pr-przyroda-28",
+            "pr-przyroda-29",
+            "pr-przyroda-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pr-zmysly",
+      "subject": "przyroda",
+      "section": "Okiem badacza — materiał ze zdjęć",
+      "title": "2. Zmysły i poznawanie otoczenia",
+      "description": "Połącz bodźce ze zmysłami i narządami. Dowiedz się, jak zmysły współpracują. Dwa różne testy po 15 pytań. Podpowiedzi i rysunki; 1 punkt za całe poprawne zadanie.",
+      "questions": [
+        {
+          "id": "pr-zmysly-01",
+          "type": "choice",
+          "prompt": "Którą literą na rysunku oznaczono narząd wzroku?",
+          "answer": "A",
+          "hint": "Narządem wzroku jest oko.",
+          "explanation": "A wskazuje oko, które odbiera światło.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "image": {
+            "src": "/assets/nature/senses.svg",
+            "alt": "Pięć szkiców: A przedstawia oko, B ucho, C nos, D dłoń, E język.",
+            "caption": "Dłoń symbolizuje skórę — narząd dotyku."
+          }
+        },
+        {
+          "id": "pr-zmysly-02",
+          "type": "match",
+          "prompt": "Połącz narząd z odpowiednim zmysłem.",
+          "answer": {
+            "oko": "wzrok",
+            "ucho": "słuch",
+            "nos": "węch"
+          },
+          "hint": "Pomyśl kolejno o widzeniu, słyszeniu i rozpoznawaniu zapachów.",
+          "explanation": "Oko służy do widzenia, ucho do słyszenia, a nos do rozpoznawania zapachów.",
+          "items": [
+            "oko",
+            "ucho",
+            "nos"
+          ],
+          "options": [
+            "wzrok",
+            "słuch",
+            "węch"
+          ]
+        },
+        {
+          "id": "pr-zmysly-03",
+          "type": "short",
+          "prompt": "Jaki zmysł pozwala rozpoznać zapach róży?",
+          "answer": "węch",
+          "hint": "Jego narządem jest nos.",
+          "explanation": "Zapach róży rozpoznajemy dzięki węchowi.",
+          "accepted": [
+            "wechem",
+            "węchem",
+            "zmysł węchu"
+          ]
+        },
+        {
+          "id": "pr-zmysly-04",
+          "type": "choice",
+          "prompt": "Który bodziec odbiera oko?",
+          "answer": "światło",
+          "hint": "Dzięki temu bodźcowi widzimy kolory i kształty.",
+          "explanation": "Oko odbiera światło. Informacje są następnie analizowane przez mózg.",
+          "options": [
+            "światło",
+            "dźwięk",
+            "nacisk"
+          ]
+        },
+        {
+          "id": "pr-zmysly-05",
+          "type": "multi",
+          "prompt": "Zaznacz przykłady bodźców.",
+          "answer": [
+            "dźwięk dzwonka telefonu",
+            "zapach mięty",
+            "nacisk dłoni"
+          ],
+          "hint": "Bodziec to odbierana informacja lub oddziaływanie, np. dźwięk czy nacisk, a nie nazwa przyrządu.",
+          "explanation": "Dźwięk dzwonka, zapach mięty i nacisk działają na odpowiednie receptory.",
+          "options": [
+            "dźwięk dzwonka telefonu",
+            "zapach mięty",
+            "nacisk dłoni",
+            "lornetka jako przyrząd",
+            "zeszyt jako przedmiot"
+          ]
+        },
+        {
+          "id": "pr-zmysly-06",
+          "type": "order",
+          "prompt": "Ułóż drogę informacji od zauważonego bodźca do reakcji organizmu.",
+          "answer": [
+            "bodziec",
+            "odbiór przez receptor",
+            "przekazanie informacji do mózgu",
+            "reakcja organizmu"
+          ],
+          "hint": "Najpierw coś działa na organizm; następnie informację odbierają receptory i analizuje mózg.",
+          "explanation": "Schemat z materiału: bodziec → receptor → mózg → reakcja organizmu.",
+          "options": [
+            "bodziec",
+            "odbiór przez receptor",
+            "przekazanie informacji do mózgu",
+            "reakcja organizmu"
+          ]
+        },
+        {
+          "id": "pr-zmysly-07",
+          "type": "match",
+          "prompt": "Dopasuj bodziec do narządu, który go odbiera.",
+          "answer": {
+            "dźwięk skrzypiec": "ucho",
+            "słodki smak gruszki": "język",
+            "chropowata powierzchnia": "skóra"
+          },
+          "hint": "Pomyśl, czego używasz do słyszenia, smakowania i dotykania.",
+          "explanation": "Dźwięk odbiera ucho, smak — kubki smakowe języka, a chropowatość — skóra.",
+          "items": [
+            "dźwięk skrzypiec",
+            "słodki smak gruszki",
+            "chropowata powierzchnia"
+          ],
+          "options": [
+            "ucho",
+            "język",
+            "skóra"
+          ]
+        },
+        {
+          "id": "pr-zmysly-08",
+          "type": "short",
+          "prompt": "Jak nazywa się narząd, który analizuje informacje przekazane przez receptory?",
+          "answer": "mózg",
+          "hint": "Znajduje się w głowie i jest częścią układu nerwowego.",
+          "explanation": "Informacje od receptorów docierają do mózgu, który je analizuje.",
+          "accepted": [
+            "mózgu"
+          ]
+        },
+        {
+          "id": "pr-zmysly-09",
+          "type": "choice",
+          "prompt": "Co pomaga obejrzeć drobne szczegóły liścia z bliska?",
+          "answer": "lupa",
+          "hint": "Potrzebujesz przyrządu powiększającego obraz, nie mierzącego temperaturę.",
+          "explanation": "Lupa pomaga powiększyć obraz małego obiektu oglądanego z bliska.",
+          "options": [
+            "lupa",
+            "kompas",
+            "termometr"
+          ]
+        },
+        {
+          "id": "pr-zmysly-10",
+          "type": "multi",
+          "prompt": "Zaznacz zmysły pomagające poznać świeże jabłko bez krojenia i jedzenia.",
+          "answer": [
+            "wzrok — widzę kolor",
+            "węch — czuję zapach",
+            "dotyk — czuję gładką skórkę"
+          ],
+          "hint": "Wybierz rzeczywiście używane zmysły. Samo patrzenie nie pozwala poczuć smaku.",
+          "explanation": "Kolor widzimy, zapach wąchamy, a gładkość rozpoznajemy dotykiem. Te zmysły współpracują.",
+          "options": [
+            "wzrok — widzę kolor",
+            "węch — czuję zapach",
+            "dotyk — czuję gładką skórkę",
+            "smak — tylko patrzę na owoc"
+          ]
+        },
+        {
+          "id": "pr-zmysly-11",
+          "type": "choice",
+          "prompt": "Dlaczego nie należy głośno słuchać muzyki przez długi czas?",
+          "answer": "Może to szkodzić słuchowi.",
+          "hint": "Narząd słuchu trzeba chronić przed nadmiernym hałasem.",
+          "explanation": "Długotrwały hałas może męczyć i uszkadzać narząd słuchu.",
+          "options": [
+            "Może to szkodzić słuchowi.",
+            "Ponieważ wtedy oko odbiera zapachy.",
+            "Ponieważ uszy przestają być narządami zmysłów."
+          ]
+        },
+        {
+          "id": "pr-zmysly-12",
+          "type": "short",
+          "prompt": "Jak nazywa się narząd dotyku, obecny nie tylko na dłoniach, ale na całym ciele?",
+          "answer": "skóra",
+          "hint": "To zewnętrzna powłoka ciała.",
+          "explanation": "Receptory dotyku i temperatury znajdują się w skórze.",
+          "accepted": [
+            "skóry"
+          ]
+        },
+        {
+          "id": "pr-zmysly-13",
+          "type": "match",
+          "prompt": "Połącz przyrząd z jego zastosowaniem.",
+          "answer": {
+            "termometr": "pomiar temperatury",
+            "lornetka": "oglądanie odległych obiektów",
+            "mikroskop": "obserwowanie bardzo małych obiektów"
+          },
+          "hint": "Nie każdy przyrząd powiększa. Jeden z nich służy do pomiaru.",
+          "explanation": "Termometr mierzy temperaturę, lornetka przybliża odległe obiekty, a mikroskop umożliwia obserwację bardzo małych obiektów.",
+          "items": [
+            "termometr",
+            "lornetka",
+            "mikroskop"
+          ],
+          "options": [
+            "pomiar temperatury",
+            "oglądanie odległych obiektów",
+            "obserwowanie bardzo małych obiektów"
+          ]
+        },
+        {
+          "id": "pr-zmysly-14",
+          "type": "choice",
+          "prompt": "Gdy nagle pada bardzo jasne światło, mrużysz oczy. Co to pokazuje?",
+          "answer": "reakcję organizmu na bodziec",
+          "hint": "Jasne światło to bodziec; przymknięcie powiek to odpowiedź organizmu.",
+          "explanation": "Mrużenie oczu jest reakcją na silne światło.",
+          "options": [
+            "reakcję organizmu na bodziec",
+            "budowanie mapy",
+            "powstawanie nowego zmysłu"
+          ]
+        },
+        {
+          "id": "pr-zmysly-15",
+          "type": "multi",
+          "prompt": "Zaznacz podstawowe smaki wymienione w materiale.",
+          "answer": [
+            "słodki",
+            "słony",
+            "gorzki",
+            "kwaśny",
+            "umami"
+          ],
+          "hint": "Kolor i głośność nie są smakami.",
+          "explanation": "W materiale wymieniono pięć smaków: słodki, słony, kwaśny, gorzki i umami.",
+          "options": [
+            "słodki",
+            "słony",
+            "gorzki",
+            "kwaśny",
+            "umami",
+            "czerwony",
+            "głośny"
+          ]
+        },
+        {
+          "id": "pr-zmysly-16",
+          "type": "choice",
+          "prompt": "Która litera na szkicu oznacza narząd słuchu?",
+          "answer": "B",
+          "hint": "Narządem słuchu jest ucho.",
+          "explanation": "B wskazuje ucho.",
+          "options": [
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "image": {
+            "src": "/assets/nature/senses.svg",
+            "alt": "Pięć szkiców: A przedstawia oko, B ucho, C nos, D dłoń, E język.",
+            "caption": "Dłoń symbolizuje skórę — narząd dotyku."
+          }
+        },
+        {
+          "id": "pr-zmysly-17",
+          "type": "match",
+          "prompt": "Dopasuj czynność do najważniejszego w tym przykładzie zmysłu.",
+          "answer": {
+            "Rozpoznaję kolor pióra": "wzrok",
+            "Słyszę śpiew ptaka": "słuch",
+            "Czuję zapach lasu": "węch"
+          },
+          "hint": "Kolor, dźwięk i zapach to trzy różne rodzaje informacji.",
+          "explanation": "Kolor rozpoznajemy wzrokiem, śpiew słuchem, a zapach węchem.",
+          "items": [
+            "Rozpoznaję kolor pióra",
+            "Słyszę śpiew ptaka",
+            "Czuję zapach lasu"
+          ],
+          "options": [
+            "wzrok",
+            "słuch",
+            "węch"
+          ]
+        },
+        {
+          "id": "pr-zmysly-18",
+          "type": "short",
+          "prompt": "Jaki zmysł pomaga rozpoznać słony smak zupy?",
+          "answer": "smak",
+          "hint": "W zadaniu pytamy o zmysł, a nie o nazwę narządu.",
+          "explanation": "Słoność rozpoznajemy zmysłem smaku.",
+          "accepted": [
+            "zmysł smaku"
+          ]
+        },
+        {
+          "id": "pr-zmysly-19",
+          "type": "choice",
+          "prompt": "Ucho pomaga słyszeć. Za co jeszcze odpowiada?",
+          "answer": "utrzymywanie równowagi",
+          "hint": "W materiale ucho opisano jako narząd pełniący dwie role.",
+          "explanation": "Ucho jest narządem słuchu i równowagi.",
+          "options": [
+            "utrzymywanie równowagi",
+            "widzenie barw",
+            "wyczuwanie smaku"
+          ]
+        },
+        {
+          "id": "pr-zmysly-20",
+          "type": "multi",
+          "prompt": "Co można rozpoznać dzięki receptorom w skórze?",
+          "answer": [
+            "nacisk",
+            "ciepło lub chłód",
+            "gładkość powierzchni"
+          ],
+          "hint": "Pomyśl o informacjach dostępnych przy dotykaniu bez patrzenia.",
+          "explanation": "Skóra odbiera m.in. nacisk i temperaturę. Dotyk pomaga też ocenić powierzchnię przedmiotu.",
+          "options": [
+            "nacisk",
+            "ciepło lub chłód",
+            "gładkość powierzchni",
+            "kolor przedmiotu",
+            "dźwięk dzwonka"
+          ]
+        },
+        {
+          "id": "pr-zmysly-21",
+          "type": "order",
+          "prompt": "Ułóż opis reakcji na głośny dzwonek w logicznej kolejności.",
+          "answer": [
+            "rozlega się dzwonek",
+            "receptory słuchu odbierają dźwięk",
+            "informacja dociera do mózgu",
+            "odwracasz głowę w stronę dźwięku"
+          ],
+          "hint": "Dźwięk pojawia się przed jego odbiorem. Reakcja następuje po przekazaniu informacji.",
+          "explanation": "Bodziec dźwiękowy odbiera narząd słuchu; mózg analizuje informację, a organizm reaguje.",
+          "options": [
+            "rozlega się dzwonek",
+            "receptory słuchu odbierają dźwięk",
+            "informacja dociera do mózgu",
+            "odwracasz głowę w stronę dźwięku"
+          ]
+        },
+        {
+          "id": "pr-zmysly-22",
+          "type": "match",
+          "prompt": "Połącz narządy ze wskazanymi na rysunku literami.",
+          "answer": {
+            "nos": "C",
+            "skóra dłoni": "D",
+            "język": "E"
+          },
+          "hint": "Rozpoznaj kształty nosa, dłoni i języka. Dłoń pokazuje przykład powierzchni pokrytej skórą.",
+          "explanation": "C to nos, D to dłoń pokryta skórą, E to język.",
+          "items": [
+            "nos",
+            "skóra dłoni",
+            "język"
+          ],
+          "options": [
+            "C",
+            "D",
+            "E"
+          ],
+          "image": {
+            "src": "/assets/nature/senses.svg",
+            "alt": "Pięć szkiców: A przedstawia oko, B ucho, C nos, D dłoń, E język.",
+            "caption": "Dłoń symbolizuje skórę — narząd dotyku."
+          }
+        },
+        {
+          "id": "pr-zmysly-23",
+          "type": "short",
+          "prompt": "Jak nazywają się elementy organizmu, które odbierają bodźce ze środowiska?",
+          "answer": "receptory",
+          "hint": "Ich nazwa zaczyna się na „r”. Przekazują odebraną informację dalej.",
+          "explanation": "Bodźce odbierają receptory.",
+          "accepted": [
+            "receptor"
+          ]
+        },
+        {
+          "id": "pr-zmysly-24",
+          "type": "choice",
+          "prompt": "Który przyrząd najlepiej pomaga obserwować komórki skórki cebuli?",
+          "answer": "mikroskop",
+          "hint": "Komórki są bardzo małe. Potrzebny jest przyrząd do mikroświata.",
+          "explanation": "Mikroskop pozwala oglądać bardzo małe obiekty, np. komórki.",
+          "options": [
+            "mikroskop",
+            "lornetka",
+            "kompas"
+          ]
+        },
+        {
+          "id": "pr-zmysly-25",
+          "type": "multi",
+          "prompt": "Które sytuacje pokazują współpracę kilku zmysłów?",
+          "answer": [
+            "Widzę i wącham kwiat.",
+            "Oglądam muszlę i badam palcami jej powierzchnię."
+          ],
+          "hint": "Wybierz opisy zawierające co najmniej dwa różne sposoby poznawania.",
+          "explanation": "Kwiat poznajemy tu wzrokiem i węchem, a muszlę wzrokiem i dotykiem.",
+          "options": [
+            "Widzę i wącham kwiat.",
+            "Oglądam muszlę i badam palcami jej powierzchnię.",
+            "Wyłącznie słyszę dźwięk, bez innych wrażeń.",
+            "Wyłącznie widzę czerwone światło."
+          ]
+        },
+        {
+          "id": "pr-zmysly-26",
+          "type": "choice",
+          "prompt": "Dlaczego dotyk jest ważny dla osoby niewidomej?",
+          "answer": "Pomaga poznawać kształty i powierzchnie przedmiotów.",
+          "hint": "Dotyk dostarcza informacji o kształcie, nacisku i powierzchni.",
+          "explanation": "Dotyk może być ważnym sposobem poznawania otoczenia, ale nie odczytuje kolorów ani dokładnej temperatury w stopniach.",
+          "options": [
+            "Pomaga poznawać kształty i powierzchnie przedmiotów.",
+            "Pozwala widzieć kolory przez skórę.",
+            "Zastępuje każdy pomiar temperatury dokładną liczbą."
+          ]
+        },
+        {
+          "id": "pr-zmysly-27",
+          "type": "short",
+          "prompt": "Dotykasz dwóch bezpiecznych, letnich kubków. Chcesz dokładnie podać temperaturę w °C. Jakiego przyrządu użyjesz?",
+          "answer": "termometr",
+          "hint": "Sam dotyk nie daje dokładnego wyniku liczbowego.",
+          "explanation": "Dokładną temperaturę mierzymy termometrem.",
+          "accepted": [
+            "termometru"
+          ]
+        },
+        {
+          "id": "pr-zmysly-28",
+          "type": "match",
+          "prompt": "Dopasuj obserwację do rodzaju informacji.",
+          "answer": {
+            "Szczekanie psa": "dźwięk",
+            "Woń skoszonej trawy": "zapach",
+            "Żółty kolor kwiatu": "światło i barwa"
+          },
+          "hint": "Nazwij informację, którą otrzymuje organizm, zamiast nazywać sam przedmiot.",
+          "explanation": "Szczekanie jest dźwiękiem, woń trawy zapachem, a kolor poznajemy dzięki światłu.",
+          "items": [
+            "Szczekanie psa",
+            "Woń skoszonej trawy",
+            "Żółty kolor kwiatu"
+          ],
+          "options": [
+            "dźwięk",
+            "zapach",
+            "światło i barwa"
+          ]
+        },
+        {
+          "id": "pr-zmysly-29",
+          "type": "choice",
+          "prompt": "Dlaczego nie rozpoznajemy nieznanej rośliny przez jej zjedzenie?",
+          "answer": "Może być trująca, choć wygląda zwyczajnie.",
+          "hint": "Smak nie jest bezpiecznym sposobem badania nieznanych roślin.",
+          "explanation": "Nieznanej rośliny nie próbujemy. Obserwujemy ją bezpiecznie i korzystamy z pomocy dorosłego lub źródeł.",
+          "options": [
+            "Może być trująca, choć wygląda zwyczajnie.",
+            "Bo każda roślina jest ze szkła.",
+            "Bo wszystkie rośliny smakują identycznie."
+          ]
+        },
+        {
+          "id": "pr-zmysly-30",
+          "type": "multi",
+          "prompt": "Które warunki pomagają uważnie wysłuchać czytanego tekstu?",
+          "answer": [
+            "wyłączenie głośnej muzyki w tle",
+            "słuchanie w spokojnym miejscu"
+          ],
+          "hint": "Dodatkowy hałas utrudnia wyłowienie ważnych dźwięków.",
+          "explanation": "Cisza i ograniczenie rozpraszających dźwięków ułatwiają skupienie na tekście.",
+          "options": [
+            "wyłączenie głośnej muzyki w tle",
+            "słuchanie w spokojnym miejscu",
+            "zagłuszanie tekstu hałasem",
+            "jednoczesne prowadzenie głośnej rozmowy"
+          ]
+        }
+      ],
+      "fixed_tests": [
+        {
+          "id": "pr-zmysly-a-v1",
+          "name": "Zestaw A — 15 zadań",
+          "question_ids": [
+            "pr-zmysly-01",
+            "pr-zmysly-02",
+            "pr-zmysly-03",
+            "pr-zmysly-04",
+            "pr-zmysly-05",
+            "pr-zmysly-06",
+            "pr-zmysly-07",
+            "pr-zmysly-08",
+            "pr-zmysly-09",
+            "pr-zmysly-10",
+            "pr-zmysly-11",
+            "pr-zmysly-12",
+            "pr-zmysly-13",
+            "pr-zmysly-14",
+            "pr-zmysly-15"
+          ]
+        },
+        {
+          "id": "pr-zmysly-b-v1",
+          "name": "Zestaw B — 15 zadań",
+          "question_ids": [
+            "pr-zmysly-16",
+            "pr-zmysly-17",
+            "pr-zmysly-18",
+            "pr-zmysly-19",
+            "pr-zmysly-20",
+            "pr-zmysly-21",
+            "pr-zmysly-22",
+            "pr-zmysly-23",
+            "pr-zmysly-24",
+            "pr-zmysly-25",
+            "pr-zmysly-26",
+            "pr-zmysly-27",
+            "pr-zmysly-28",
+            "pr-zmysly-29",
+            "pr-zmysly-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pr-mapa",
+      "subject": "przyroda",
+      "section": "Okiem badacza — materiał ze zdjęć",
+      "title": "3. Kierunki świata i mapa",
+      "description": "Odczytuj kierunki z róży wiatrów i planu parku. Poćwicz kompas, legendę i orientowanie mapy. Dwa różne testy po 15 pytań. Podpowiedzi i rysunki; 1 punkt za całe poprawne zadanie.",
+      "questions": [
+        {
+          "id": "pr-mapa-01",
+          "type": "short",
+          "prompt": "Jaki kierunek główny wskazuje litera A na róży kierunków?",
+          "answer": "wschód",
+          "hint": "N to północ. Na róży kierunków wschód leży po prawej stronie.",
+          "explanation": "A wskazuje wschód, czyli E.",
+          "accepted": [
+            "E"
+          ],
+          "image": {
+            "src": "/assets/nature/compass.svg",
+            "alt": "Róża kierunków: N u góry, A po prawej, B na dole, C po lewej, D u góry po prawej.",
+            "caption": "Północ oznaczono literą N. Pozostałe litery wskazują miejsca do odczytania."
+          }
+        },
+        {
+          "id": "pr-mapa-02",
+          "type": "short",
+          "prompt": "Jaki kierunek główny oznaczono literą B?",
+          "answer": "południe",
+          "hint": "To kierunek przeciwny do zaznaczonej u góry północy.",
+          "explanation": "B leży naprzeciw N i wskazuje południe, czyli S.",
+          "accepted": [
+            "S"
+          ],
+          "image": {
+            "src": "/assets/nature/compass.svg",
+            "alt": "Róża kierunków: N u góry, A po prawej, B na dole, C po lewej, D u góry po prawej.",
+            "caption": "Północ oznaczono literą N. Pozostałe litery wskazują miejsca do odczytania."
+          }
+        },
+        {
+          "id": "pr-mapa-03",
+          "type": "match",
+          "prompt": "Połącz międzynarodowe symbole z nazwami kierunków.",
+          "answer": {
+            "N": "północ",
+            "S": "południe",
+            "E": "wschód"
+          },
+          "hint": "Litery pochodzą od angielskich nazw kierunków świata.",
+          "explanation": "N to północ, S — południe, E — wschód.",
+          "items": [
+            "N",
+            "S",
+            "E"
+          ],
+          "options": [
+            "północ",
+            "południe",
+            "wschód"
+          ]
+        },
+        {
+          "id": "pr-mapa-04",
+          "type": "choice",
+          "prompt": "Spójrz na plan parku. W jakim kierunku od STARTU jest szkoła?",
+          "answer": "na północ",
+          "hint": "Strzałka N pokazuje górę mapy. Szkoła znajduje się nad STARTEM.",
+          "explanation": "Szkoła leży na północ od STARTU.",
+          "options": [
+            "na północ",
+            "na południe",
+            "na zachód"
+          ],
+          "image": {
+            "src": "/assets/nature/map-park.svg",
+            "alt": "Plan: północ u góry. W górnym rzędzie łąka, szkoła, most; w środkowym las, START, wieża; w dolnym ławka, staw, plac zabaw.",
+            "caption": "Umowny plan parku. Strzałka N pokazuje północ."
+          }
+        },
+        {
+          "id": "pr-mapa-05",
+          "type": "multi",
+          "prompt": "Które miejsca leżą po przekątnej od STARTU: jedno na północny wschód, drugie na południowy wschód?",
+          "answer": [
+            "most",
+            "plac zabaw"
+          ],
+          "hint": "Szukaj górnego prawego i dolnego prawego pola planu.",
+          "explanation": "Most leży na północny wschód, a plac zabaw na południowy wschód od STARTU.",
+          "options": [
+            "most",
+            "plac zabaw",
+            "las",
+            "ławka",
+            "szkoła"
+          ],
+          "image": {
+            "src": "/assets/nature/map-park.svg",
+            "alt": "Plan: północ u góry. W górnym rzędzie łąka, szkoła, most; w środkowym las, START, wieża; w dolnym ławka, staw, plac zabaw.",
+            "caption": "Umowny plan parku. Strzałka N pokazuje północ."
+          }
+        },
+        {
+          "id": "pr-mapa-06",
+          "type": "short",
+          "prompt": "Idziesz od STARTU prosto do stawu. Wpisz nazwę kierunku.",
+          "answer": "południe",
+          "hint": "Staw jest poniżej STARTU, a północ na planie jest u góry.",
+          "explanation": "Od STARTU do stawu idziemy na południe.",
+          "accepted": [
+            "na południe",
+            "S"
+          ],
+          "image": {
+            "src": "/assets/nature/map-park.svg",
+            "alt": "Plan: północ u góry. W górnym rzędzie łąka, szkoła, most; w środkowym las, START, wieża; w dolnym ławka, staw, plac zabaw.",
+            "caption": "Umowny plan parku. Strzałka N pokazuje północ."
+          }
+        },
+        {
+          "id": "pr-mapa-07",
+          "type": "match",
+          "prompt": "Dopasuj element mapy do informacji, którą przekazuje.",
+          "answer": {
+            "tytuł mapy": "jaki obszar przedstawiono",
+            "legenda": "co oznaczają znaki",
+            "skala": "ile razy pomniejszono obraz terenu"
+          },
+          "hint": "Tytuł nazywa obszar, legenda tłumaczy symbole, a skala dotyczy pomniejszenia.",
+          "explanation": "Te elementy pomagają zrozumieć mapę: przedstawiony obszar, znaczenie symboli i wielkość pomniejszenia.",
+          "items": [
+            "tytuł mapy",
+            "legenda",
+            "skala"
+          ],
+          "options": [
+            "jaki obszar przedstawiono",
+            "co oznaczają znaki",
+            "ile razy pomniejszono obraz terenu"
+          ]
+        },
+        {
+          "id": "pr-mapa-08",
+          "type": "order",
+          "prompt": "Ułóż podane czynności korzystania z tradycyjnego kompasu zgodnie z instrukcją.",
+          "answer": [
+            "kładę kompas poziomo, z dala od magnesów",
+            "czekam, aż igła przestanie drgać",
+            "obracam tarczę, aby N pokryło się z północnym końcem igły",
+            "odczytuję pozostałe kierunki"
+          ],
+          "hint": "Najpierw właściwie połóż przyrząd. Kierunki odczytaj po uspokojeniu igły i ustawieniu tarczy.",
+          "explanation": "Poziome ustawienie, uspokojenie igły i ustawienie N pozwalają odczytać kierunki.",
+          "options": [
+            "kładę kompas poziomo, z dala od magnesów",
+            "czekam, aż igła przestanie drgać",
+            "obracam tarczę, aby N pokryło się z północnym końcem igły",
+            "odczytuję pozostałe kierunki"
+          ]
+        },
+        {
+          "id": "pr-mapa-09",
+          "type": "choice",
+          "prompt": "Dlaczego nie powinno się używać kompasu tuż przy magnesie?",
+          "answer": "Magnes może zaburzyć ustawienie igły.",
+          "hint": "Igła kompasu sama jest małym magnesem.",
+          "explanation": "Inny magnes lub pobliskie przedmioty ze stali mogą zakłócić wskazania kompasu.",
+          "options": [
+            "Magnes może zaburzyć ustawienie igły.",
+            "Kompas zmieni się w termometr.",
+            "Magnes zawsze wskaże trasę do domu."
+          ]
+        },
+        {
+          "id": "pr-mapa-10",
+          "type": "multi",
+          "prompt": "Zaznacz elementy potrzebne do odczytywania typowej mapy.",
+          "answer": [
+            "tytuł",
+            "legenda",
+            "skala",
+            "treść mapy"
+          ],
+          "hint": "W materiale wymieniono cztery podstawowe elementy mapy.",
+          "explanation": "Tytuł, legenda, skala i treść pomagają odczytać mapę.",
+          "options": [
+            "tytuł",
+            "legenda",
+            "skala",
+            "treść mapy",
+            "temperatura ciała czytelnika"
+          ]
+        },
+        {
+          "id": "pr-mapa-11",
+          "type": "short",
+          "prompt": "Nie znasz znaczenia symbolu na mapie. W której części mapy znajdziesz objaśnienie?",
+          "answer": "legenda",
+          "hint": "Ta część zawiera znaki umowne oraz ich opisy.",
+          "explanation": "Znaczenie znaków wyjaśnia legenda mapy.",
+          "accepted": [
+            "w legendzie",
+            "legendzie"
+          ]
+        },
+        {
+          "id": "pr-mapa-12",
+          "type": "choice",
+          "prompt": "Stoisz twarzą na północ. Jaki kierunek wskazuje twoja prawa ręka?",
+          "answer": "wschód",
+          "hint": "Wyobraź sobie różę kierunków: N przed tobą, E po prawej.",
+          "explanation": "Przy ustawieniu twarzą na północ prawa ręka wskazuje wschód.",
+          "options": [
+            "wschód",
+            "zachód",
+            "południe"
+          ]
+        },
+        {
+          "id": "pr-mapa-13",
+          "type": "multi",
+          "prompt": "Wybierz wyłącznie główne kierunki świata.",
+          "answer": [
+            "północ",
+            "południe",
+            "zachód"
+          ],
+          "hint": "Nazwy kierunków głównych mają jeden człon. Łącznie są cztery: N, S, E, W.",
+          "explanation": "Północ, południe i zachód są główne. Nazwy dwuczłonowe oznaczają kierunki pośrednie.",
+          "options": [
+            "północ",
+            "południe",
+            "zachód",
+            "północny zachód",
+            "południowy wschód"
+          ]
+        },
+        {
+          "id": "pr-mapa-14",
+          "type": "match",
+          "prompt": "Stoisz przy wieży. Dopasuj kierunek dojścia w linii prostej do miejsc na planie.",
+          "answer": {
+            "START": "zachód",
+            "most": "północ",
+            "plac zabaw": "południe"
+          },
+          "hint": "Tym razem punktem wyjścia jest wieża, a nie środek planu.",
+          "explanation": "Od wieży START jest na zachód, most na północ, a plac zabaw na południe.",
+          "items": [
+            "START",
+            "most",
+            "plac zabaw"
+          ],
+          "options": [
+            "zachód",
+            "północ",
+            "południe"
+          ],
+          "image": {
+            "src": "/assets/nature/map-park.svg",
+            "alt": "Plan: północ u góry. W górnym rzędzie łąka, szkoła, most; w środkowym las, START, wieża; w dolnym ławka, staw, plac zabaw.",
+            "caption": "Umowny plan parku. Strzałka N pokazuje północ."
+          }
+        },
+        {
+          "id": "pr-mapa-15",
+          "type": "choice",
+          "prompt": "Czym jest widnokrąg?",
+          "answer": "obszarem, który możesz objąć wzrokiem z danego miejsca",
+          "hint": "Pomyśl o rozglądaniu się na otwartym terenie.",
+          "explanation": "Widnokrąg to widoczny z danego miejsca obszar. Jego granicę nazywamy linią widnokręgu.",
+          "options": [
+            "obszarem, który możesz objąć wzrokiem z danego miejsca",
+            "wyłącznie igłą kompasu",
+            "symbolem oznaczającym południe"
+          ]
+        },
+        {
+          "id": "pr-mapa-16",
+          "type": "short",
+          "prompt": "Jaki kierunek pośredni wskazuje D na róży kierunków?",
+          "answer": "północny wschód",
+          "hint": "D leży między północą a wschodem.",
+          "explanation": "D wskazuje północny wschód, czyli NE.",
+          "accepted": [
+            "NE",
+            "północno-wschodni",
+            "północno wschodni"
+          ],
+          "image": {
+            "src": "/assets/nature/compass.svg",
+            "alt": "Róża kierunków: N u góry, A po prawej, B na dole, C po lewej, D u góry po prawej.",
+            "caption": "Północ oznaczono literą N. Pozostałe litery wskazują miejsca do odczytania."
+          }
+        },
+        {
+          "id": "pr-mapa-17",
+          "type": "short",
+          "prompt": "Podaj kierunek oznaczony literą C na schemacie.",
+          "answer": "zachód",
+          "hint": "To kierunek przeciwny do wschodu.",
+          "explanation": "C wskazuje zachód, czyli W.",
+          "accepted": [
+            "W"
+          ],
+          "image": {
+            "src": "/assets/nature/compass.svg",
+            "alt": "Róża kierunków: N u góry, A po prawej, B na dole, C po lewej, D u góry po prawej.",
+            "caption": "Północ oznaczono literą N. Pozostałe litery wskazują miejsca do odczytania."
+          }
+        },
+        {
+          "id": "pr-mapa-18",
+          "type": "match",
+          "prompt": "Dopasuj symbole kierunków pośrednich.",
+          "answer": {
+            "NW": "północny zachód",
+            "SW": "południowy zachód",
+            "SE": "południowy wschód"
+          },
+          "hint": "Połącz N lub S z W lub E.",
+          "explanation": "NW oznacza północny zachód, SW — południowy zachód, SE — południowy wschód.",
+          "items": [
+            "NW",
+            "SW",
+            "SE"
+          ],
+          "options": [
+            "północny zachód",
+            "południowy zachód",
+            "południowy wschód"
+          ]
+        },
+        {
+          "id": "pr-mapa-19",
+          "type": "choice",
+          "prompt": "Jesteś przy szkole. W jakim kierunku jest most?",
+          "answer": "na wschód",
+          "hint": "Most leży w tym samym rzędzie co szkoła, po jej prawej stronie.",
+          "explanation": "Od szkoły do mostu kierujemy się na wschód.",
+          "options": [
+            "na wschód",
+            "na zachód",
+            "na południe"
+          ],
+          "image": {
+            "src": "/assets/nature/map-park.svg",
+            "alt": "Plan: północ u góry. W górnym rzędzie łąka, szkoła, most; w środkowym las, START, wieża; w dolnym ławka, staw, plac zabaw.",
+            "caption": "Umowny plan parku. Strzałka N pokazuje północ."
+          }
+        },
+        {
+          "id": "pr-mapa-20",
+          "type": "multi",
+          "prompt": "Które miejsca są w zachodniej, czyli lewej kolumnie planu?",
+          "answer": [
+            "łąka",
+            "las",
+            "ławka"
+          ],
+          "hint": "Północ na tym planie jest u góry, więc zachód jest po lewej.",
+          "explanation": "W lewej kolumnie znajdują się łąka, las i ławka.",
+          "options": [
+            "łąka",
+            "las",
+            "ławka",
+            "wieża",
+            "staw",
+            "most"
+          ],
+          "image": {
+            "src": "/assets/nature/map-park.svg",
+            "alt": "Plan: północ u góry. W górnym rzędzie łąka, szkoła, most; w środkowym las, START, wieża; w dolnym ławka, staw, plac zabaw.",
+            "caption": "Umowny plan parku. Strzałka N pokazuje północ."
+          }
+        },
+        {
+          "id": "pr-mapa-21",
+          "type": "short",
+          "prompt": "Obracasz się twarzą na POŁUDNIE. Jaki kierunek masz po prawej stronie?",
+          "answer": "zachód",
+          "hint": "Obróć w myślach swoje ustawienie o pół obrotu względem patrzenia na północ.",
+          "explanation": "Gdy patrzysz na południe, prawa ręka wskazuje zachód.",
+          "accepted": [
+            "W"
+          ]
+        },
+        {
+          "id": "pr-mapa-22",
+          "type": "match",
+          "prompt": "Dopasuj informację do elementu planu.",
+          "answer": {
+            "Strzałka z literą N": "kierunek północny",
+            "Napis „Plan parku”": "tytuł",
+            "Informacja o pomniejszeniu": "skala"
+          },
+          "hint": "Odróżnij kierunek od nazwy obszaru i informacji o jego zmniejszeniu.",
+          "explanation": "N wskazuje północ, napis nazywa plan, a skala opisuje pomniejszenie.",
+          "items": [
+            "Strzałka z literą N",
+            "Napis „Plan parku”",
+            "Informacja o pomniejszeniu"
+          ],
+          "options": [
+            "kierunek północny",
+            "tytuł",
+            "skala"
+          ]
+        },
+        {
+          "id": "pr-mapa-23",
+          "type": "order",
+          "prompt": "Ułóż etapy orientowania mapy za pomocą charakterystycznych obiektów.",
+          "answer": [
+            "odnajduję swoje położenie na mapie",
+            "rozpoznaję co najmniej dwa punkty w terenie",
+            "odnajduję te same punkty na mapie",
+            "obracam mapę, aż jej znaki odpowiadają położeniu obiektów w terenie"
+          ],
+          "hint": "Najpierw ustal, gdzie jesteś. Potem porównaj rzeczywiste obiekty z ich znakami.",
+          "explanation": "Orientujemy mapę tak, aby jej kierunki i punkty odpowiadały tym w terenie.",
+          "options": [
+            "odnajduję swoje położenie na mapie",
+            "rozpoznaję co najmniej dwa punkty w terenie",
+            "odnajduję te same punkty na mapie",
+            "obracam mapę, aż jej znaki odpowiadają położeniu obiektów w terenie"
+          ]
+        },
+        {
+          "id": "pr-mapa-24",
+          "type": "choice",
+          "prompt": "Co oznacza zorientowanie mapy?",
+          "answer": "Ustawienie jej zgodnie z kierunkami w terenie.",
+          "hint": "Północ na mapie ma pokrywać się z północą w terenie.",
+          "explanation": "Zorientowana mapa pokazuje kierunki zgodne z rzeczywistym otoczeniem.",
+          "options": [
+            "Ustawienie jej zgodnie z kierunkami w terenie.",
+            "Napisanie na niej swojego imienia.",
+            "Złożenie jej na cztery części."
+          ]
+        },
+        {
+          "id": "pr-mapa-25",
+          "type": "multi",
+          "prompt": "Które obiekty są dobrymi, stałymi punktami orientacyjnymi?",
+          "answer": [
+            "wieża kościoła",
+            "most na rzece",
+            "wyraźne wzniesienie"
+          ],
+          "hint": "Przydatny punkt powinien być rozpoznawalny i nie zmieniać co chwilę miejsca.",
+          "explanation": "Budowla, most i wzniesienie są trwalszymi punktami odniesienia niż poruszające się obiekty.",
+          "options": [
+            "wieża kościoła",
+            "most na rzece",
+            "wyraźne wzniesienie",
+            "jadący autobus",
+            "lecący ptak"
+          ]
+        },
+        {
+          "id": "pr-mapa-26",
+          "type": "short",
+          "prompt": "Jak nazywa się przyrząd z igłą magnetyczną, pomagający wyznaczyć północ?",
+          "answer": "kompas",
+          "hint": "Przyrząd ma tarczę z oznaczeniami kierunków.",
+          "explanation": "Kompas pomaga wyznaczyć kierunki dzięki igle magnetycznej.",
+          "accepted": [
+            "busola"
+          ]
+        },
+        {
+          "id": "pr-mapa-27",
+          "type": "choice",
+          "prompt": "Który opis pasuje do mapy?",
+          "answer": "obraz powierzchni Ziemi z góry, w pomniejszeniu, z umownymi znakami",
+          "hint": "Mapa przedstawia położenie obiektów i używa symboli.",
+          "explanation": "Mapa pokazuje teren z góry, w pomniejszeniu i za pomocą znaków umownych.",
+          "options": [
+            "obraz powierzchni Ziemi z góry, w pomniejszeniu, z umownymi znakami",
+            "zawsze fotografia każdego drzewa w rzeczywistych rozmiarach",
+            "wyłącznie lista nazw ulic bez ich położenia"
+          ]
+        },
+        {
+          "id": "pr-mapa-28",
+          "type": "multi",
+          "prompt": "Jak można na mapie zaznaczyć północ?",
+          "answer": [
+            "strzałką z N",
+            "różą kierunków",
+            "ikoną kompasu na mapie cyfrowej"
+          ],
+          "hint": "Szukaj oznaczeń, które rzeczywiście wskazują N.",
+          "explanation": "Północ może być oznaczona strzałką, różą kierunków lub ikoną kompasu. W oznacza zachód.",
+          "options": [
+            "strzałką z N",
+            "różą kierunków",
+            "ikoną kompasu na mapie cyfrowej",
+            "literą W oznaczającą zachód"
+          ]
+        },
+        {
+          "id": "pr-mapa-29",
+          "type": "match",
+          "prompt": "Dopasuj miejsce do kierunku od STARTU.",
+          "answer": {
+            "łąka": "północny zachód",
+            "ławka": "południowy zachód",
+            "wieża": "wschód"
+          },
+          "hint": "Dwa miejsca leżą po przekątnej, a jedno wprost po prawej.",
+          "explanation": "Łąka jest na północny zachód, ławka na południowy zachód, wieża na wschód od STARTU.",
+          "items": [
+            "łąka",
+            "ławka",
+            "wieża"
+          ],
+          "options": [
+            "północny zachód",
+            "południowy zachód",
+            "wschód"
+          ],
+          "image": {
+            "src": "/assets/nature/map-park.svg",
+            "alt": "Plan: północ u góry. W górnym rzędzie łąka, szkoła, most; w środkowym las, START, wieża; w dolnym ławka, staw, plac zabaw.",
+            "caption": "Umowny plan parku. Strzałka N pokazuje północ."
+          }
+        },
+        {
+          "id": "pr-mapa-30",
+          "type": "choice",
+          "prompt": "Czy pochmurny dzień sam w sobie uniemożliwia używanie tradycyjnego kompasu?",
+          "answer": "Nie — kompas nie wymaga widocznego Słońca.",
+          "hint": "Igła magnetyczna nie wyznacza kierunków na podstawie światła słonecznego.",
+          "explanation": "Kompas działa również przy pochmurnej pogodzie i nocą, o ile nie zakłócają go np. pobliskie magnesy.",
+          "options": [
+            "Nie — kompas nie wymaga widocznego Słońca.",
+            "Tak — igła działa tylko w słońcu.",
+            "Tak — w chmurach znikają kierunki świata."
+          ]
+        }
+      ],
+      "fixed_tests": [
+        {
+          "id": "pr-mapa-a-v1",
+          "name": "Zestaw A — 15 zadań",
+          "question_ids": [
+            "pr-mapa-01",
+            "pr-mapa-02",
+            "pr-mapa-03",
+            "pr-mapa-04",
+            "pr-mapa-05",
+            "pr-mapa-06",
+            "pr-mapa-07",
+            "pr-mapa-08",
+            "pr-mapa-09",
+            "pr-mapa-10",
+            "pr-mapa-11",
+            "pr-mapa-12",
+            "pr-mapa-13",
+            "pr-mapa-14",
+            "pr-mapa-15"
+          ]
+        },
+        {
+          "id": "pr-mapa-b-v1",
+          "name": "Zestaw B — 15 zadań",
+          "question_ids": [
+            "pr-mapa-16",
+            "pr-mapa-17",
+            "pr-mapa-18",
+            "pr-mapa-19",
+            "pr-mapa-20",
+            "pr-mapa-21",
+            "pr-mapa-22",
+            "pr-mapa-23",
+            "pr-mapa-24",
+            "pr-mapa-25",
+            "pr-mapa-26",
+            "pr-mapa-27",
+            "pr-mapa-28",
+            "pr-mapa-29",
+            "pr-mapa-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pr-doswiadczenia",
+      "subject": "przyroda",
+      "section": "Okiem badacza — materiał ze zdjęć",
+      "title": "4. Obserwacje i doświadczenia",
+      "description": "Planuj rzetelne porównania, odczytuj wykresy i odróżniaj obserwacje od wniosków. Dwa różne testy po 15 pytań. Podpowiedzi i rysunki; 1 punkt za całe poprawne zadanie.",
+      "questions": [
+        {
+          "id": "pr-doswiadczenia-01",
+          "type": "choice",
+          "prompt": "Który zapis jest PYTANIEM badawczym?",
+          "answer": "Czy temperatura wody zmienia czas rozpuszczania cukru?",
+          "hint": "Pytanie badawcze mówi, czego chcemy się dowiedzieć.",
+          "explanation": "Pytanie rozpoczyna poszukiwanie odpowiedzi. Wynik i przewidywanie pełnią inne role.",
+          "options": [
+            "Czy temperatura wody zmienia czas rozpuszczania cukru?",
+            "Cukier rozpuścił się po 30 sekundach.",
+            "Cukier chyba rozpuści się szybciej w ciepłej wodzie."
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-02",
+          "type": "short",
+          "prompt": "Jak nazywa się przewidywana odpowiedź na pytanie badawcze, którą trzeba sprawdzić?",
+          "answer": "hipoteza",
+          "hint": "To przypuszczenie, a nie gotowy wynik pomiaru.",
+          "explanation": "Hipoteza jest przewidywaną odpowiedzią; doświadczenie pomaga ją sprawdzić.",
+          "accepted": [
+            "hipotezą"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-03",
+          "type": "order",
+          "prompt": "Ułóż uproszczone etapy doświadczenia.",
+          "answer": [
+            "pytanie badawcze",
+            "postawienie hipotezy",
+            "zaplanowanie i wykonanie prób",
+            "zapis obserwacji i wyników",
+            "sformułowanie wniosku"
+          ],
+          "hint": "Nie da się wyciągnąć wniosku z wyników, zanim je uzyskamy.",
+          "explanation": "Zaczynamy od pytania i hipotezy, wykonujemy porównanie, zapisujemy wyniki i na ich podstawie wnioskujemy.",
+          "options": [
+            "pytanie badawcze",
+            "postawienie hipotezy",
+            "zaplanowanie i wykonanie prób",
+            "zapis obserwacji i wyników",
+            "sformułowanie wniosku"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-04",
+          "type": "choice",
+          "prompt": "Na schemacie szklanki różnią się jednym badanym czynnikiem. Którym?",
+          "answer": "temperaturą wody",
+          "hint": "Porównaj liczby i jednostki zapisane przy obu szklankach.",
+          "explanation": "A ma wodę o temperaturze 20°C, B — 60°C. Objętość wody i ilość cukru są takie same.",
+          "options": [
+            "temperaturą wody",
+            "ilością cukru",
+            "objętością wody"
+          ],
+          "image": {
+            "src": "/assets/nature/sugar.svg",
+            "alt": "Dwie szklanki: A z wodą 20°C, B z wodą 60°C. W każdej 100 ml wody i dwie łyżeczki cukru.",
+            "caption": "Schemat doświadczenia do przeanalizowania. Gorącą wodą zajmuje się dorosły."
+          }
+        },
+        {
+          "id": "pr-doswiadczenia-05",
+          "type": "multi",
+          "prompt": "Co powinno pozostać takie samo, gdy badamy wpływ temperatury na szybkość rozpuszczania cukru?",
+          "answer": [
+            "ilość cukru",
+            "objętość wody",
+            "sposób mieszania"
+          ],
+          "hint": "Zmieniamy jeden badany czynnik, a pozostałe ważne warunki utrzymujemy jednakowe.",
+          "explanation": "Aby porównanie dotyczyło temperatury, nie zmieniamy równocześnie ilości cukru, wody ani sposobu mieszania.",
+          "options": [
+            "ilość cukru",
+            "objętość wody",
+            "sposób mieszania",
+            "temperatura wody w obu próbach"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-06",
+          "type": "match",
+          "prompt": "Dopasuj nazwę do roli w doświadczeniu.",
+          "answer": {
+            "próba kontrolna": "punkt odniesienia bez wprowadzenia badanej zmiany",
+            "próba badawcza": "zestaw, w którym wprowadzono badaną zmianę",
+            "wniosek": "odpowiedź wynikająca z analizy obserwacji"
+          },
+          "hint": "Jedna próba daje odniesienie, druga pozwala sprawdzić zmianę, a wniosek powstaje po analizie.",
+          "explanation": "Porównujemy próbę badawczą z kontrolną, a z wyników wyciągamy wniosek.",
+          "items": [
+            "próba kontrolna",
+            "próba badawcza",
+            "wniosek"
+          ],
+          "options": [
+            "punkt odniesienia bez wprowadzenia badanej zmiany",
+            "zestaw, w którym wprowadzono badaną zmianę",
+            "odpowiedź wynikająca z analizy obserwacji"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-07",
+          "type": "short",
+          "prompt": "Odczytaj wykres: po ilu sekundach cukier rozpuścił się w próbie B? Wpisz liczbę.",
+          "answer": "30",
+          "hint": "Znajdź słupek B i wartość podaną nad nim.",
+          "explanation": "W przykładowej próbie B czas wyniósł 30 sekund.",
+          "accepted": [],
+          "unit": "s",
+          "image": {
+            "src": "/assets/nature/sugar-chart.svg",
+            "alt": "Wykres czasu rozpuszczania cukru: A, chłodna woda, 120 sekund; B, ciepła woda, 30 sekund.",
+            "caption": "Przykładowe wyniki jednego doświadczenia — nie są uniwersalnym czasem rozpuszczania."
+          }
+        },
+        {
+          "id": "pr-doswiadczenia-08",
+          "type": "choice",
+          "prompt": "W której próbie z wykresu cukier rozpuścił się SZYBCIEJ?",
+          "answer": "w B",
+          "hint": "Szybciej oznacza krótszy czas, więc niższy słupek na tym wykresie.",
+          "explanation": "B trwała 30 s, a A 120 s. Krótszy czas oznacza szybsze rozpuszczenie.",
+          "options": [
+            "w B",
+            "w A",
+            "w obu w tym samym czasie"
+          ],
+          "image": {
+            "src": "/assets/nature/sugar-chart.svg",
+            "alt": "Wykres czasu rozpuszczania cukru: A, chłodna woda, 120 sekund; B, ciepła woda, 30 sekund.",
+            "caption": "Przykładowe wyniki jednego doświadczenia — nie są uniwersalnym czasem rozpuszczania."
+          }
+        },
+        {
+          "id": "pr-doswiadczenia-09",
+          "type": "multi",
+          "prompt": "Jak można udokumentować wyniki doświadczenia?",
+          "answer": [
+            "w tabeli",
+            "na wykresie",
+            "na zdjęciach",
+            "w notatkach"
+          ],
+          "hint": "Dokumentowanie pozwala wrócić do wyników i porównać je.",
+          "explanation": "Wyniki można zapisywać, fotografować i przedstawiać w tabelach lub na wykresach.",
+          "options": [
+            "w tabeli",
+            "na wykresie",
+            "na zdjęciach",
+            "w notatkach",
+            "tylko zapomnieć je po zajęciach"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-10",
+          "type": "match",
+          "prompt": "Rozpoznaj rodzaj zapisu.",
+          "answer": {
+            "„Czy światło wpływa na wygląd siewki?”": "pytanie badawcze",
+            "„Siewka w ciemności ma 8 cm.”": "obserwacja lub wynik",
+            "„Sądzę, że bez światła siewka będzie blada.”": "hipoteza"
+          },
+          "hint": "Odróżnij pytanie, to co zmierzono, i wcześniejsze przypuszczenie.",
+          "explanation": "Pytanie wyznacza cel, hipoteza przewiduje, a obserwacja opisuje to, co stwierdzono.",
+          "items": [
+            "„Czy światło wpływa na wygląd siewki?”",
+            "„Siewka w ciemności ma 8 cm.”",
+            "„Sądzę, że bez światła siewka będzie blada.”"
+          ],
+          "options": [
+            "pytanie badawcze",
+            "obserwacja lub wynik",
+            "hipoteza"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-11",
+          "type": "short",
+          "prompt": "Na wykresie próba A trwała 120 s, a B 30 s. O ile sekund krótszy był czas B?",
+          "answer": "90",
+          "hint": "Oblicz różnicę: 120 minus 30.",
+          "explanation": "120 − 30 = 90 sekund.",
+          "accepted": [],
+          "unit": "s",
+          "image": {
+            "src": "/assets/nature/sugar-chart.svg",
+            "alt": "Wykres czasu rozpuszczania cukru: A, chłodna woda, 120 sekund; B, ciepła woda, 30 sekund.",
+            "caption": "Przykładowe wyniki jednego doświadczenia — nie są uniwersalnym czasem rozpuszczania."
+          }
+        },
+        {
+          "id": "pr-doswiadczenia-12",
+          "type": "choice",
+          "prompt": "Po doświadczeniu wynik nie zgadza się z hipotezą. Co należy zrobić?",
+          "answer": "Uczciwie zapisać wynik i wyjaśnić, że hipoteza nie została potwierdzona.",
+          "hint": "W badaniu ważne są rzeczywiste wyniki.",
+          "explanation": "Brak potwierdzenia hipotezy również dostarcza wiedzy. Nie dopasowujemy wyników do życzeń.",
+          "options": [
+            "Uczciwie zapisać wynik i wyjaśnić, że hipoteza nie została potwierdzona.",
+            "Zmienić liczby, żeby pasowały do hipotezy.",
+            "Ukryć wszystkie niepasujące obserwacje."
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-13",
+          "type": "multi",
+          "prompt": "Które działania zwiększają wiarygodność porównania?",
+          "answer": [
+            "powtórzenie prób",
+            "dokładne zapisanie warunków",
+            "zmiana tylko badanego czynnika"
+          ],
+          "hint": "Rzetelny wynik powinien dać się sprawdzić i porównać.",
+          "explanation": "Powtórzenia, opis warunków i kontrolowanie zmiennych pomagają ograniczać przypadkowość wyników.",
+          "options": [
+            "powtórzenie prób",
+            "dokładne zapisanie warunków",
+            "zmiana tylko badanego czynnika",
+            "zmiana wielu rzeczy jednocześnie",
+            "zgadywanie wyniku bez pomiaru"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-14",
+          "type": "order",
+          "prompt": "Ułóż odczytanie wyniku od początku do końca.",
+          "answer": [
+            "sprawdzam, co przedstawiają osie wykresu",
+            "odczytuję wartości dla obu prób",
+            "porównuję te wartości",
+            "formułuję odpowiedź na pytanie badawcze"
+          ],
+          "hint": "Najpierw zrozum, co mierzono. Dopiero potem porównuj i wyciągaj wniosek.",
+          "explanation": "Znaczenie osi i wartości słupków pozwalają poprawnie zinterpretować wykres.",
+          "options": [
+            "sprawdzam, co przedstawiają osie wykresu",
+            "odczytuję wartości dla obu prób",
+            "porównuję te wartości",
+            "formułuję odpowiedź na pytanie badawcze"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-15",
+          "type": "choice",
+          "prompt": "Schemat zawiera gorącą wodę. Jak bezpiecznie wykonać takie doświadczenie w rzeczywistości?",
+          "answer": "Gorącą wodą zajmuje się dorosły, a ja stosuję się do instrukcji.",
+          "hint": "Gorąca woda może oparzyć. Analiza rysunku nie wymaga dotykania wody.",
+          "explanation": "Doświadczenia z gorącą wodą wykonujemy z pomocą osoby dorosłej i zgodnie z instrukcją.",
+          "options": [
+            "Gorącą wodą zajmuje się dorosły, a ja stosuję się do instrukcji.",
+            "Sam sprawdzam temperaturę, wkładając rękę do gorącej wody.",
+            "Nalewam ją w pośpiechu bez pomocy."
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-16",
+          "type": "choice",
+          "prompt": "Uczeń przez tydzień zapisuje, jakie ptaki przylatują do ogrodu, niczego tam nie zmieniając. Co prowadzi?",
+          "answer": "obserwację",
+          "hint": "Przygląda się zjawisku i zapisuje spostrzeżenia, bez wprowadzania badanej zmiany.",
+          "explanation": "To zaplanowana obserwacja przyrody.",
+          "options": [
+            "obserwację",
+            "zmianę wszystkich warunków doświadczenia",
+            "pomiar temperatury ciała ptaków"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-17",
+          "type": "short",
+          "prompt": "Badamy wpływ światła. Doniczka w zwykłych warunkach jest punktem odniesienia. Jaką próbą jest: kontrolną czy badawczą?",
+          "answer": "kontrolną",
+          "hint": "Punkt odniesienia nie ma wprowadzonej badanej zmiany.",
+          "explanation": "To próba kontrolna, z którą porównujemy zestaw poddany zmianie.",
+          "accepted": [
+            "kontrolna",
+            "próba kontrolna"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-18",
+          "type": "order",
+          "prompt": "Ułóż przygotowanie porównania dwóch doniczek według podanych etapów.",
+          "answer": [
+            "ustalam pytanie o wpływ światła",
+            "zapisuję przewidywaną odpowiedź",
+            "przygotowuję takie same doniczki i nasiona",
+            "ustawiam jedną próbę w świetle, drugą w ciemności",
+            "przez kolejne dni zapisuję obserwacje"
+          ],
+          "hint": "Najpierw określ cel i przewidywanie. Przygotowanie prób poprzedza ich obserwację.",
+          "explanation": "W obu próbach zachowujemy podobne warunki, a celowo zmieniamy dostęp do światła.",
+          "options": [
+            "ustalam pytanie o wpływ światła",
+            "zapisuję przewidywaną odpowiedź",
+            "przygotowuję takie same doniczki i nasiona",
+            "ustawiam jedną próbę w świetle, drugą w ciemności",
+            "przez kolejne dni zapisuję obserwacje"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-19",
+          "type": "choice",
+          "prompt": "Spójrz na siewki. Który zapis jest samą OBSERWACJĄ, bez dopisywania przyczyny?",
+          "answer": "Siewka B jest blada i ma 8 cm wysokości.",
+          "hint": "Obserwacja opisuje to, co widzisz lub mierzysz.",
+          "explanation": "Barwę i wysokość można zaobserwować. Wyjaśnianie przyczyny jest krokiem wnioskowania.",
+          "options": [
+            "Siewka B jest blada i ma 8 cm wysokości.",
+            "Siewka B jest blada, ponieważ światło wpływa na jej rozwój.",
+            "Każda siewka na świecie zawsze ma 8 cm."
+          ],
+          "image": {
+            "src": "/assets/nature/plants.svg",
+            "alt": "Dwie siewki w takich samych doniczkach: A w świetle, zielona, wysokość 4 cm; B w ciemności, cienka i blada, wysokość 8 cm.",
+            "caption": "Przykładowa obserwacja. Większa wysokość nie oznacza tu lepszego rozwoju."
+          }
+        },
+        {
+          "id": "pr-doswiadczenia-20",
+          "type": "multi",
+          "prompt": "Badamy tylko wpływ światła na siewki. Co należy utrzymać jednakowe?",
+          "answer": [
+            "gatunek i liczbę nasion",
+            "ilość wody",
+            "rodzaj i ilość podłoża"
+          ],
+          "hint": "Dostęp do światła jest badaną zmienną, więc właśnie nim próby mają się różnić.",
+          "explanation": "Pozostałe ważne warunki, np. nasiona, wodę i podłoże, utrzymujemy jednakowe.",
+          "options": [
+            "gatunek i liczbę nasion",
+            "ilość wody",
+            "rodzaj i ilość podłoża",
+            "dostęp do światła"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-21",
+          "type": "match",
+          "prompt": "Dopasuj pytanie do tego, co warto mierzyć lub obserwować.",
+          "answer": {
+            "Jak szybko rozpuszcza się cukier?": "czas do rozpuszczenia",
+            "Czy siewki rosną?": "wysokość siewek",
+            "Czy nasiona kiełkują?": "liczba wykiełkowanych nasion"
+          },
+          "hint": "Dobierz wynik, który odpowie na postawione pytanie.",
+          "explanation": "Czas opisuje szybkość rozpuszczania, wysokość pomaga ocenić wzrost, a liczba kiełków — kiełkowanie.",
+          "items": [
+            "Jak szybko rozpuszcza się cukier?",
+            "Czy siewki rosną?",
+            "Czy nasiona kiełkują?"
+          ],
+          "options": [
+            "czas do rozpuszczenia",
+            "wysokość siewek",
+            "liczba wykiełkowanych nasion"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-22",
+          "type": "short",
+          "prompt": "Ile centymetrów wysokości ma zielona siewka A na schemacie?",
+          "answer": "4",
+          "hint": "Odczytaj wartość przy siewce rosnącej w świetle.",
+          "explanation": "Siewka A ma 4 cm wysokości.",
+          "accepted": [],
+          "unit": "cm",
+          "image": {
+            "src": "/assets/nature/plants.svg",
+            "alt": "Dwie siewki w takich samych doniczkach: A w świetle, zielona, wysokość 4 cm; B w ciemności, cienka i blada, wysokość 8 cm.",
+            "caption": "Przykładowa obserwacja. Większa wysokość nie oznacza tu lepszego rozwoju."
+          }
+        },
+        {
+          "id": "pr-doswiadczenia-23",
+          "type": "choice",
+          "prompt": "Siewka B jest wyższa, ale blada i cienka. Czy sama wysokość dowodzi, że rozwija się lepiej?",
+          "answer": "Nie — trzeba uwzględnić także wygląd i inne obserwacje.",
+          "hint": "Jedna liczba nie opisuje całego stanu rośliny.",
+          "explanation": "Wyciągnięta, blada siewka nie musi rozwijać się prawidłowo. Przy ocenie liczą się różne cechy.",
+          "options": [
+            "Nie — trzeba uwzględnić także wygląd i inne obserwacje.",
+            "Tak — wyższa roślina zawsze jest zdrowsza.",
+            "Tak — barwa i wygląd nigdy nie mają znaczenia."
+          ],
+          "image": {
+            "src": "/assets/nature/plants.svg",
+            "alt": "Dwie siewki w takich samych doniczkach: A w świetle, zielona, wysokość 4 cm; B w ciemności, cienka i blada, wysokość 8 cm.",
+            "caption": "Przykładowa obserwacja. Większa wysokość nie oznacza tu lepszego rozwoju."
+          }
+        },
+        {
+          "id": "pr-doswiadczenia-24",
+          "type": "multi",
+          "prompt": "Które zapisy mogą trafić do notatek z rzeczywistej obserwacji?",
+          "answer": [
+            "Po dwóch dniach wykiełkowało 6 nasion.",
+            "Liście w próbie B są jasnożółte.",
+            "Pomiar trwał 50 sekund."
+          ],
+          "hint": "Zapisujemy to, co rzeczywiście zobaczyliśmy lub zmierzyliśmy.",
+          "explanation": "Liczba kiełków, barwa liści i czas pomiaru są obserwacjami lub wynikami. Nie wymyślamy danych.",
+          "options": [
+            "Po dwóch dniach wykiełkowało 6 nasion.",
+            "Liście w próbie B są jasnożółte.",
+            "Pomiar trwał 50 sekund.",
+            "Dopiszę wynik, którego nie mierzyłem."
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-25",
+          "type": "match",
+          "prompt": "Połącz etap z właściwą czynnością.",
+          "answer": {
+            "planowanie": "ustalenie, co zmieniam i co mierzę",
+            "dokumentowanie": "zapis wyników w tabeli",
+            "wnioskowanie": "odpowiedź na pytanie na podstawie wyników"
+          },
+          "hint": "Plan powstaje przed pracą, zapis w czasie badania, a wniosek po analizie.",
+          "explanation": "Te czynności pełnią różne role w rzetelnym doświadczeniu.",
+          "items": [
+            "planowanie",
+            "dokumentowanie",
+            "wnioskowanie"
+          ],
+          "options": [
+            "ustalenie, co zmieniam i co mierzę",
+            "zapis wyników w tabeli",
+            "odpowiedź na pytanie na podstawie wyników"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-26",
+          "type": "short",
+          "prompt": "Ile powtórzeń doświadczenia w tych samych warunkach zaleca co najmniej materiał? Wpisz liczbę.",
+          "answer": "3",
+          "hint": "Powtórzenia pomagają sprawdzić, czy pojedynczy wynik nie był przypadkowy.",
+          "explanation": "Dla tych szkolnych doświadczeń materiał zaleca minimum 3 powtórzenia.",
+          "accepted": [
+            "trzy"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-27",
+          "type": "choice",
+          "prompt": "W jednej szklance zmieniono temperaturę, ilość cukru i sposób mieszania. Czy wiadomo, co wpłynęło na różnicę czasu?",
+          "answer": "Nie — zmieniono kilka czynników naraz.",
+          "hint": "Aby zbadać wpływ jednego czynnika, oddziel go od innych zmian.",
+          "explanation": "Przy wielu zmianach naraz trudno ustalić, która wywołała zaobserwowany efekt.",
+          "options": [
+            "Nie — zmieniono kilka czynników naraz.",
+            "Tak — na pewno tylko temperatura.",
+            "Tak — na pewno tylko kolor stołu."
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-28",
+          "type": "multi",
+          "prompt": "Które informacje pomogą innej osobie powtórzyć twoje doświadczenie?",
+          "answer": [
+            "użyte materiały",
+            "kolejne czynności",
+            "warunki i ilości"
+          ],
+          "hint": "Opis powinien pozwalać odtworzyć próbę.",
+          "explanation": "Materiały, czynności, ilości i warunki umożliwiają powtórzenie doświadczenia.",
+          "options": [
+            "użyte materiały",
+            "kolejne czynności",
+            "warunki i ilości",
+            "tylko kolor okładki zeszytu",
+            "wyłącznie zdanie „udało się”"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-29",
+          "type": "order",
+          "prompt": "Ułóż pracę z zakończonym doświadczeniem w logicznej kolejności.",
+          "answer": [
+            "zbieram zapisane wyniki prób",
+            "porównuję próbę badawczą z kontrolną",
+            "formułuję wniosek oparty na wynikach",
+            "sprawdzam, czy wniosek potwierdza hipotezę"
+          ],
+          "hint": "Najpierw potrzebujesz wyników, potem porównania i wniosku.",
+          "explanation": "Hipotezę oceniamy na podstawie wyników i wniosku, a nie własnego życzenia.",
+          "options": [
+            "zbieram zapisane wyniki prób",
+            "porównuję próbę badawczą z kontrolną",
+            "formułuję wniosek oparty na wynikach",
+            "sprawdzam, czy wniosek potwierdza hipotezę"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-30",
+          "type": "choice",
+          "prompt": "Dwie próby dały różne wyniki. Która postawa jest najbardziej badawcza?",
+          "answer": "Sprawdzę warunki, zapiszę różnice i powtórzę porównanie.",
+          "hint": "Nieoczekiwany wynik jest powodem do sprawdzenia przebiegu badania.",
+          "explanation": "Warto uczciwie zachować wyniki, sprawdzić warunki i wykonać kolejne próby.",
+          "options": [
+            "Sprawdzę warunki, zapiszę różnice i powtórzę porównanie.",
+            "Wybiorę tylko wynik, który mi się podoba.",
+            "Usunę notatki bez wyjaśnienia."
+          ]
+        }
+      ],
+      "fixed_tests": [
+        {
+          "id": "pr-doswiadczenia-a-v1",
+          "name": "Zestaw A — 15 zadań",
+          "question_ids": [
+            "pr-doswiadczenia-01",
+            "pr-doswiadczenia-02",
+            "pr-doswiadczenia-03",
+            "pr-doswiadczenia-04",
+            "pr-doswiadczenia-05",
+            "pr-doswiadczenia-06",
+            "pr-doswiadczenia-07",
+            "pr-doswiadczenia-08",
+            "pr-doswiadczenia-09",
+            "pr-doswiadczenia-10",
+            "pr-doswiadczenia-11",
+            "pr-doswiadczenia-12",
+            "pr-doswiadczenia-13",
+            "pr-doswiadczenia-14",
+            "pr-doswiadczenia-15"
+          ]
+        },
+        {
+          "id": "pr-doswiadczenia-b-v1",
+          "name": "Zestaw B — 15 zadań",
+          "question_ids": [
+            "pr-doswiadczenia-16",
+            "pr-doswiadczenia-17",
+            "pr-doswiadczenia-18",
+            "pr-doswiadczenia-19",
+            "pr-doswiadczenia-20",
+            "pr-doswiadczenia-21",
+            "pr-doswiadczenia-22",
+            "pr-doswiadczenia-23",
+            "pr-doswiadczenia-24",
+            "pr-doswiadczenia-25",
+            "pr-doswiadczenia-26",
+            "pr-doswiadczenia-27",
+            "pr-doswiadczenia-28",
+            "pr-doswiadczenia-29",
+            "pr-doswiadczenia-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pr-mikroskop",
+      "subject": "przyroda",
+      "section": "Okiem badacza — materiał ze zdjęć",
+      "title": "5. Mikroskop i budowa organizmów",
+      "description": "Poznaj części mikroskopu, przygotowanie preparatu i budowę organizmów. Obliczaj powiększenie. Dwa różne testy po 15 pytań. Podpowiedzi i rysunki; 1 punkt za całe poprawne zadanie.",
+      "questions": [
+        {
+          "id": "pr-mikroskop-01",
+          "type": "choice",
+          "prompt": "Która litera wskazuje okular — część, do której przykłada się oko?",
+          "answer": "A",
+          "hint": "Okular jest na górze mikroskopu, przy oku obserwatora.",
+          "explanation": "A wskazuje okular.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "image": {
+            "src": "/assets/nature/microscope.svg",
+            "alt": "Schemat mikroskopu. A wskazuje górny element, do którego przykłada się oko; B soczewkę nad preparatem; C platformę pod preparatem; D duże pokrętło z boku; E oświetlenie pod platformą.",
+            "caption": "Uproszczony schemat mikroskopu świetlnego. Odczytaj oznaczenia A–E."
+          }
+        },
+        {
+          "id": "pr-mikroskop-02",
+          "type": "match",
+          "prompt": "Dopasuj części mikroskopu do ich zadań.",
+          "answer": {
+            "okular": "powiększa obraz przy oku obserwatora",
+            "stolik": "podtrzymuje preparat",
+            "źródło światła": "oświetla preparat"
+          },
+          "hint": "Odróżnij element do patrzenia, miejsce na szkiełko i oświetlenie.",
+          "explanation": "Okular powiększa obraz, stolik podtrzymuje preparat, a źródło światła go oświetla.",
+          "items": [
+            "okular",
+            "stolik",
+            "źródło światła"
+          ],
+          "options": [
+            "powiększa obraz przy oku obserwatora",
+            "podtrzymuje preparat",
+            "oświetla preparat"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-03",
+          "type": "short",
+          "prompt": "Okular powiększa 10 razy, a obiektyw 20 razy. Ile wynosi powiększenie mikroskopu? Wpisz liczbę.",
+          "answer": "200",
+          "hint": "Pomnóż powiększenie okularu przez powiększenie obiektywu.",
+          "explanation": "10 × 20 = 200. Mikroskop daje powiększenie 200 razy.",
+          "accepted": [],
+          "unit": "razy"
+        },
+        {
+          "id": "pr-mikroskop-04",
+          "type": "order",
+          "prompt": "Ułóż wykonanie prostego preparatu ze skórki cebuli.",
+          "answer": [
+            "umieszczam kroplę wody na szkiełku podstawowym",
+            "wkładam cienki fragment skórki do kropli",
+            "ostrożnie opuszczam szkiełko nakrywkowe na kroplę"
+          ],
+          "hint": "Materiał ma znaleźć się w wodzie i dopiero potem zostać przykryty.",
+          "explanation": "Na szkiełko podstawowe nanosimy wodę, umieszczamy cienki materiał i przykrywamy go szkiełkiem nakrywkowym.",
+          "options": [
+            "umieszczam kroplę wody na szkiełku podstawowym",
+            "wkładam cienki fragment skórki do kropli",
+            "ostrożnie opuszczam szkiełko nakrywkowe na kroplę"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-05",
+          "type": "choice",
+          "prompt": "Od jakiego powiększenia zaczyna się obserwację preparatu?",
+          "answer": "od najmniejszego dostępnego",
+          "hint": "Najpierw łatwiej odnaleźć preparat w większym polu widzenia.",
+          "explanation": "Zaczynamy od najmniejszego powiększenia i postępujemy zgodnie z instrukcją nauczyciela.",
+          "options": [
+            "od najmniejszego dostępnego",
+            "od największego, bez ustawiania ostrości",
+            "od dowolnego, z zamkniętymi oczami"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-06",
+          "type": "multi",
+          "prompt": "Które obiekty nadają się do obserwacji pod szkolnym mikroskopem świetlnym?",
+          "answer": [
+            "komórki skórki cebuli",
+            "pantofelek",
+            "fragment włosa"
+          ],
+          "hint": "Wybierz małe obiekty lub cienkie próbki, które można umieścić w preparacie.",
+          "explanation": "Mikroskop pomaga oglądać drobne próbki. Do obiektów odległych służą inne przyrządy.",
+          "options": [
+            "komórki skórki cebuli",
+            "pantofelek",
+            "fragment włosa",
+            "cały odległy Księżyc",
+            "stado saren na polanie"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-07",
+          "type": "short",
+          "prompt": "Jak nazywa się pojedynczy, najmniejszy element budujący organizm?",
+          "answer": "komórka",
+          "hint": "Wiele takich elementów tworzy organizmy wielokomórkowe.",
+          "explanation": "Podstawową jednostką budowy organizmu jest komórka.",
+          "accepted": [
+            "komórki"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-08",
+          "type": "match",
+          "prompt": "Połącz przykład z poziomem budowy organizmu.",
+          "answer": {
+            "komórka mięśnia": "komórka",
+            "serce": "narząd",
+            "pies": "organizm"
+          },
+          "hint": "Pomyśl o części bardzo małej, większej części ciała i całym zwierzęciu.",
+          "explanation": "Komórka mięśnia jest komórką, serce narządem, a pies całym organizmem.",
+          "items": [
+            "komórka mięśnia",
+            "serce",
+            "pies"
+          ],
+          "options": [
+            "komórka",
+            "narząd",
+            "organizm"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-09",
+          "type": "order",
+          "prompt": "Ułóż poziomy budowy zwierzęcia od najmniejszego do największego.",
+          "answer": [
+            "komórka",
+            "tkanka",
+            "narząd",
+            "układ narządów",
+            "organizm"
+          ],
+          "hint": "Komórki tworzą tkanki, a tkanki budują narządy.",
+          "explanation": "Kolejność to: komórka → tkanka → narząd → układ narządów → organizm.",
+          "options": [
+            "komórka",
+            "tkanka",
+            "narząd",
+            "układ narządów",
+            "organizm"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-10",
+          "type": "choice",
+          "prompt": "Pantofelek jest organizmem jednokomórkowym. Co to znaczy?",
+          "answer": "Cały organizm tworzy jedna komórka.",
+          "hint": "„Jednokomórkowy” opisuje liczbę komórek całego organizmu.",
+          "explanation": "U pantofelka jedna komórka stanowi cały organizm.",
+          "options": [
+            "Cały organizm tworzy jedna komórka.",
+            "Ma tylko jeden narząd, ale tysiące komórek.",
+            "Nie jest zbudowany z komórek."
+          ]
+        },
+        {
+          "id": "pr-mikroskop-11",
+          "type": "multi",
+          "prompt": "Zaznacz elementy powiększające obraz w mikroskopie.",
+          "answer": [
+            "okular",
+            "obiektyw"
+          ],
+          "hint": "Szukaj elementów optycznych, których powiększenia mnożymy.",
+          "explanation": "Całkowite powiększenie obliczamy z powiększenia okularu i obiektywu.",
+          "options": [
+            "okular",
+            "obiektyw",
+            "stolik",
+            "podstawa"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-12",
+          "type": "short",
+          "prompt": "Która część mikroskopu, oznaczona na schemacie D, służy do wstępnej regulacji ostrości?",
+          "answer": "duża śruba",
+          "hint": "To większe pokrętło z boku przyrządu.",
+          "explanation": "Duża śruba służy do wstępnego ustawiania ostrości. Mała pozwala ją doprecyzować.",
+          "accepted": [
+            "śruba",
+            "duże pokrętło",
+            "pokrętło",
+            "śruba makrometryczna",
+            "pokrętło ostrości",
+            "pokrętło makrometryczne",
+            "śruba do regulacji ostrości"
+          ],
+          "image": {
+            "src": "/assets/nature/microscope.svg",
+            "alt": "Schemat mikroskopu. A wskazuje górny element, do którego przykłada się oko; B soczewkę nad preparatem; C platformę pod preparatem; D duże pokrętło z boku; E oświetlenie pod platformą.",
+            "caption": "Uproszczony schemat mikroskopu świetlnego. Odczytaj oznaczenia A–E."
+          }
+        },
+        {
+          "id": "pr-mikroskop-13",
+          "type": "choice",
+          "prompt": "Dlaczego fragment rośliny w preparacie powinien być cienki?",
+          "answer": "Aby światło mogło przez niego przechodzić i szczegóły były widoczne.",
+          "hint": "W mikroskopie świetlnym ważne jest przejście światła przez próbkę.",
+          "explanation": "Cienka próbka pozwala światłu przechodzić przez materiał i ułatwia zobaczenie szczegółów.",
+          "options": [
+            "Aby światło mogło przez niego przechodzić i szczegóły były widoczne.",
+            "Aby nie był już zbudowany z komórek.",
+            "Aby zamienił się w metal."
+          ]
+        },
+        {
+          "id": "pr-mikroskop-14",
+          "type": "match",
+          "prompt": "Dopasuj materiał do jego roli przy przygotowaniu preparatu.",
+          "answer": {
+            "szkiełko podstawowe": "podłoże pod kroplę i próbkę",
+            "szkiełko nakrywkowe": "przykrycie próbki",
+            "zakraplacz": "naniesienie kropli wody"
+          },
+          "hint": "Najpierw podłoże, potem woda i próbka, a na końcu przykrycie.",
+          "explanation": "Szkiełko podstawowe podtrzymuje materiał, nakrywkowe go przykrywa, a zakraplacz pomaga dozować wodę.",
+          "items": [
+            "szkiełko podstawowe",
+            "szkiełko nakrywkowe",
+            "zakraplacz"
+          ],
+          "options": [
+            "podłoże pod kroplę i próbkę",
+            "przykrycie próbki",
+            "naniesienie kropli wody"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-15",
+          "type": "choice",
+          "prompt": "Jak najlepiej zapisać to, co zobaczyłeś pod mikroskopem?",
+          "answer": "Wykonać rysunek obserwowanego fragmentu i notatkę.",
+          "hint": "Rysunek ma dokumentować rzeczywistą obserwację.",
+          "explanation": "Szkic i notatka pomagają zachować zauważone cechy preparatu.",
+          "options": [
+            "Wykonać rysunek obserwowanego fragmentu i notatkę.",
+            "Narysować dowolny obiekt, którego nie było w preparacie.",
+            "Zapisać wyłącznie, że mikroskop był ciężki."
+          ]
+        },
+        {
+          "id": "pr-mikroskop-16",
+          "type": "choice",
+          "prompt": "Która litera na schemacie oznacza obiektyw znajdujący się blisko preparatu?",
+          "answer": "B",
+          "hint": "Obiektyw jest skierowany w stronę próbki leżącej na stoliku.",
+          "explanation": "B wskazuje obiektyw nad preparatem.",
+          "options": [
+            "B",
+            "A",
+            "D",
+            "E"
+          ],
+          "image": {
+            "src": "/assets/nature/microscope.svg",
+            "alt": "Schemat mikroskopu. A wskazuje górny element, do którego przykłada się oko; B soczewkę nad preparatem; C platformę pod preparatem; D duże pokrętło z boku; E oświetlenie pod platformą.",
+            "caption": "Uproszczony schemat mikroskopu świetlnego. Odczytaj oznaczenia A–E."
+          }
+        },
+        {
+          "id": "pr-mikroskop-17",
+          "type": "match",
+          "prompt": "Dopasuj części mechaniczne mikroskopu do ich zadań.",
+          "answer": {
+            "rewolwer": "zmiana używanego obiektywu",
+            "śruby regulacyjne": "ustawianie ostrości",
+            "stolik": "miejsce ułożenia preparatu"
+          },
+          "hint": "Jedna część pozwala obracać obiektywy, inne regulują ostrość, a jeszcze inna podtrzymuje szkiełko.",
+          "explanation": "Rewolwer służy do zmiany obiektywu, śruby regulują ostrość, a na stoliku leży preparat.",
+          "items": [
+            "rewolwer",
+            "śruby regulacyjne",
+            "stolik"
+          ],
+          "options": [
+            "zmiana używanego obiektywu",
+            "ustawianie ostrości",
+            "miejsce ułożenia preparatu"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-18",
+          "type": "short",
+          "prompt": "Okular ma powiększenie 10×, a obiektyw 4×. Podaj całkowite powiększenie.",
+          "answer": "40",
+          "hint": "Mnożymy, a nie dodajemy: 10 razy 4.",
+          "explanation": "10 × 4 = 40, czyli obraz jest powiększony 40 razy.",
+          "accepted": [],
+          "unit": "razy"
+        },
+        {
+          "id": "pr-mikroskop-19",
+          "type": "order",
+          "prompt": "Ułóż etapy rozpoczęcia obserwacji według instrukcji z materiału.",
+          "answer": [
+            "włączam źródło światła",
+            "ustawiam najmniejsze powiększenie obiektywu",
+            "kładę preparat na stoliku",
+            "ustawiam wstępnie, a potem precyzyjnie ostrość"
+          ],
+          "hint": "Światło i małe powiększenie przygotowują przyrząd do ułożenia i odnalezienia próbki.",
+          "explanation": "Kolejność z materiału: światło, małe powiększenie, preparat, ostrość. Obowiązuje też instrukcja konkretnego mikroskopu i nauczyciela.",
+          "options": [
+            "włączam źródło światła",
+            "ustawiam najmniejsze powiększenie obiektywu",
+            "kładę preparat na stoliku",
+            "ustawiam wstępnie, a potem precyzyjnie ostrość"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-20",
+          "type": "choice",
+          "prompt": "Której litery szukasz, aby wskazać miejsce położenia preparatu?",
+          "answer": "C",
+          "hint": "Preparat kładziemy na stoliku, czyli poziomej części pod obiektywem.",
+          "explanation": "C oznacza stolik mikroskopu.",
+          "options": [
+            "C",
+            "A",
+            "D",
+            "E"
+          ],
+          "image": {
+            "src": "/assets/nature/microscope.svg",
+            "alt": "Schemat mikroskopu. A wskazuje górny element, do którego przykłada się oko; B soczewkę nad preparatem; C platformę pod preparatem; D duże pokrętło z boku; E oświetlenie pod platformą.",
+            "caption": "Uproszczony schemat mikroskopu świetlnego. Odczytaj oznaczenia A–E."
+          }
+        },
+        {
+          "id": "pr-mikroskop-21",
+          "type": "multi",
+          "prompt": "Które zasady pomagają bezpiecznie i poprawnie obserwować preparat?",
+          "answer": [
+            "Słucham instrukcji nauczyciela.",
+            "Ostrożnie obchodzę się ze szkiełkami.",
+            "Zaczynam od małego powiększenia."
+          ],
+          "hint": "Szkło i elementy optyczne są delikatne.",
+          "explanation": "Instrukcja, ostrożność i małe powiększenie na początku pomagają uniknąć uszkodzeń i odnaleźć próbkę.",
+          "options": [
+            "Słucham instrukcji nauczyciela.",
+            "Ostrożnie obchodzę się ze szkiełkami.",
+            "Zaczynam od małego powiększenia.",
+            "Dociskam obiektyw do szkiełka.",
+            "Rzucam preparatem na stolik."
+          ]
+        },
+        {
+          "id": "pr-mikroskop-22",
+          "type": "short",
+          "prompt": "Jak nazywa się grupa komórek o podobnej budowie, pełniących podobne funkcje?",
+          "answer": "tkanka",
+          "hint": "To poziom budowy między komórką a narządem.",
+          "explanation": "Taką grupę komórek nazywamy tkanką.",
+          "accepted": [
+            "tkanki"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-23",
+          "type": "match",
+          "prompt": "Dopasuj przykłady z rośliny do poziomów jej budowy.",
+          "answer": {
+            "komórka miękiszu": "komórka",
+            "liść": "organ rośliny",
+            "cały dąb": "organizm"
+          },
+          "hint": "Jedna komórka jest częścią liścia, a liść częścią całego drzewa.",
+          "explanation": "Komórka miękiszu jest komórką, liść organem rośliny, a cały dąb organizmem.",
+          "items": [
+            "komórka miękiszu",
+            "liść",
+            "cały dąb"
+          ],
+          "options": [
+            "komórka",
+            "organ rośliny",
+            "organizm"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-24",
+          "type": "order",
+          "prompt": "Ułóż przykłady od najmniejszej części do całego zwierzęcia.",
+          "answer": [
+            "komórka mięśnia serca",
+            "tkanka mięśniowa serca",
+            "serce",
+            "układ krwionośny",
+            "pies"
+          ],
+          "hint": "Użyj porządku: komórka, tkanka, narząd, układ, organizm.",
+          "explanation": "Komórki budują tkankę serca, tkanka współtworzy serce, serce jest częścią układu krwionośnego, a układ częścią psa.",
+          "options": [
+            "komórka mięśnia serca",
+            "tkanka mięśniowa serca",
+            "serce",
+            "układ krwionośny",
+            "pies"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-25",
+          "type": "choice",
+          "prompt": "Dąb jest organizmem wielokomórkowym. Który opis jest poprawny?",
+          "answer": "Tworzy go wiele komórek współpracujących ze sobą.",
+          "hint": "„Wielokomórkowy” wskazuje, że komórek jest dużo.",
+          "explanation": "Dąb, podobnie jak inne duże rośliny, jest zbudowany z wielu komórek.",
+          "options": [
+            "Tworzy go wiele komórek współpracujących ze sobą.",
+            "Każdy dąb składa się z jednej komórki.",
+            "Dąb nie ma żadnych komórek, bo jest rośliną."
+          ]
+        },
+        {
+          "id": "pr-mikroskop-26",
+          "type": "multi",
+          "prompt": "Które składniki należą do preparatu ze świeżej skórki cebuli?",
+          "answer": [
+            "cienki fragment skórki",
+            "kropla wody",
+            "szkiełko podstawowe",
+            "szkiełko nakrywkowe"
+          ],
+          "hint": "Próbka ma być cienka, umieszczona w kropli i przykryta.",
+          "explanation": "Prosty preparat składa się ze szkiełek oraz cienkiego materiału umieszczonego w wodzie.",
+          "options": [
+            "cienki fragment skórki",
+            "kropla wody",
+            "szkiełko podstawowe",
+            "szkiełko nakrywkowe",
+            "cała cebula położona na okularze"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-27",
+          "type": "short",
+          "prompt": "Okular powiększa 5 razy, obiektyw 20 razy. Ile razy powiększa mikroskop?",
+          "answer": "100",
+          "hint": "Wykonaj mnożenie 5 × 20.",
+          "explanation": "5 × 20 = 100.",
+          "accepted": [],
+          "unit": "razy"
+        },
+        {
+          "id": "pr-mikroskop-28",
+          "type": "choice",
+          "prompt": "Chcesz znaleźć pantofelka w preparacie. Oglądany fragment jest pusty. Co robisz pod opieką nauczyciela?",
+          "answer": "Delikatnie przesuwam preparat, by obejrzeć inne jego miejsce.",
+          "hint": "Widzisz tylko mały fragment preparatu, nie całą próbkę naraz.",
+          "explanation": "Przy małym powiększeniu można ostrożnie obejrzeć kolejne fragmenty preparatu zgodnie z instrukcją.",
+          "options": [
+            "Delikatnie przesuwam preparat, by obejrzeć inne jego miejsce.",
+            "Od razu uznaję, że w całej próbce nie ma organizmów.",
+            "Wylewam wodę na okular."
+          ]
+        },
+        {
+          "id": "pr-mikroskop-29",
+          "type": "match",
+          "prompt": "Dopasuj skalę obserwacji do przyrządu.",
+          "answer": {
+            "stado saren daleko na polanie": "lornetka",
+            "drobne szczegóły znalezionego liścia": "lupa",
+            "komórki w cienkim preparacie": "mikroskop"
+          },
+          "hint": "Odróżnij odległy obiekt, mały szczegół z bliska i mikroświat.",
+          "explanation": "Lornetka pomaga oglądać obiekty odległe, lupa małe szczegóły, a mikroskop bardzo drobne struktury.",
+          "items": [
+            "stado saren daleko na polanie",
+            "drobne szczegóły znalezionego liścia",
+            "komórki w cienkim preparacie"
+          ],
+          "options": [
+            "lornetka",
+            "lupa",
+            "mikroskop"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-30",
+          "type": "choice",
+          "prompt": "Które zdanie prawidłowo opisuje powiększenie mikroskopu?",
+          "answer": "Powiększenie okularu mnożymy przez powiększenie obiektywu.",
+          "hint": "Obraz powiększają dwa współpracujące elementy optyczne.",
+          "explanation": "Całkowite powiększenie zależy od użytego okularu i obiektywu; obliczamy ich iloczyn.",
+          "options": [
+            "Powiększenie okularu mnożymy przez powiększenie obiektywu.",
+            "Dodajemy liczbę nóg mikroskopu do długości tubusu.",
+            "Zawsze wynosi ono dokładnie 10 razy."
+          ]
+        }
+      ],
+      "fixed_tests": [
+        {
+          "id": "pr-mikroskop-a-v1",
+          "name": "Zestaw A — 15 zadań",
+          "question_ids": [
+            "pr-mikroskop-01",
+            "pr-mikroskop-02",
+            "pr-mikroskop-03",
+            "pr-mikroskop-04",
+            "pr-mikroskop-05",
+            "pr-mikroskop-06",
+            "pr-mikroskop-07",
+            "pr-mikroskop-08",
+            "pr-mikroskop-09",
+            "pr-mikroskop-10",
+            "pr-mikroskop-11",
+            "pr-mikroskop-12",
+            "pr-mikroskop-13",
+            "pr-mikroskop-14",
+            "pr-mikroskop-15"
+          ]
+        },
+        {
+          "id": "pr-mikroskop-b-v1",
+          "name": "Zestaw B — 15 zadań",
+          "question_ids": [
+            "pr-mikroskop-16",
+            "pr-mikroskop-17",
+            "pr-mikroskop-18",
+            "pr-mikroskop-19",
+            "pr-mikroskop-20",
+            "pr-mikroskop-21",
+            "pr-mikroskop-22",
+            "pr-mikroskop-23",
+            "pr-mikroskop-24",
+            "pr-mikroskop-25",
+            "pr-mikroskop-26",
+            "pr-mikroskop-27",
+            "pr-mikroskop-28",
+            "pr-mikroskop-29",
+            "pr-mikroskop-30"
+          ]
+        }
+      ]
+    }
+  ]
+}

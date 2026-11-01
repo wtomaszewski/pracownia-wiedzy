@@ -1,0 +1,3425 @@
+{
+  "sources": [
+    {
+      "title": "MEN: Podstawa programowa 2026, Dz.U. poz. 378",
+      "url": "https://www.dziennikustaw.gov.pl/D2026000037801.pdf",
+      "note": "Język polski: wymagania dla klas IV–VI, nie osobny plan roczny klasy IV. Rozdziały świadomości języka i praktyk lekturowych (PDF s. 81–85). Od września 2026 klasa IV realizuje nową podstawę. Wybór tematów w platformie jest autorskim zakresem ćwiczeń dla czwartoklasisty."
+    },
+    {
+      "title": "MAC: Język polski — materiały do klasy 4, reforma 2026",
+      "url": "https://www.mac.pl/szkola-podstawowa/jezykpolski-2026",
+      "note": "Pomoc w doborze poziomu. Podręcznik łączy ćwiczenia językowe, ortografię i praktyki lekturowe; nie jest wskazanym przez rodzica podręcznikiem dziecka."
+    },
+    {
+      "title": "Rada Języka Polskiego: zasady obowiązujące od 2026",
+      "url": "https://rjp.pan.pl/12365/",
+      "note": "Quiz uwzględnia m.in. wielką literę w nazwach mieszkańców miast, np. Warszawianin. Podstawowe reguły ó/u, rz/ż i ch/h pozostają aktualne."
+    },
+    {
+      "title": "Skrzat: Akademia pana Kleksa — opis i fragment wydawcy",
+      "url": "https://www.skrzat.com.pl/index.php?id=243&p1=pozycja&tytul=Akademia-Pana-Kleksa",
+      "note": "Weryfikacja autora, bohaterów, szkoły i lekcji. Pytania odnoszą się do książki Jana Brzechwy, nie filmu."
+    },
+    {
+      "title": "Skrzat: legalny fragment Akademii pana Kleksa",
+      "url": "https://www.skrzat.com.pl/dane/skrzat/elementy/fragment/b141a5f451110bc347c1f713aae72ed1.pdf",
+      "note": "Weryfikacja początku opowieści i narratora."
+    },
+    {
+      "title": "ZPE: Jak wyczarować sny? — fragmenty utworu Brzechwy",
+      "url": "https://zpe.gov.pl/a/jak-wyczarowac-sny/D1BHB2oJ9",
+      "note": "Weryfikacja niezwykłych cech i zwyczajów pana Kleksa. Zadania platformy napisano samodzielnie."
+    },
+    {
+      "title": "Znak: Magiczne drzewo. Czerwone krzesło",
+      "url": "https://www.wydawnictwoznak.pl/ksiazka/Magiczne-drzewo-Czerwone-krzeslo/9570",
+      "note": "Weryfikacja autora, magicznego przedmiotu i ogólnego tematu przygód."
+    },
+    {
+      "title": "Znak: Czerwone krzesło — opis i legalny fragment EPUB",
+      "url": "https://www.znak.com.pl/p/magiczne-drzewo-czerwone-krzeslo-ebook-epub-mobi-andrzej-maleszka-200813",
+      "note": "Fragment wydawcy udostępniony przez Woblink zweryfikował rodzeństwo, początek książki i rodzinę Rossów. Pytania odnoszą się do powieści."
+    },
+    {
+      "title": "ZPE: Wypowiedzenia i ich rodzaje",
+      "url": "https://zpe.gov.pl/a/wypowiedzenia-i-ich-rodzaje/DC91FNBPP",
+      "note": "Dział II: dobór podstawowych zagadnień dla klasy 4. Rodzaje według celu, emocje, zdania i równoważniki. Pytania i przykłady są autorskie; nie jest to test konkretnego wydawcy."
+    },
+    {
+      "title": "ZPE: Interpunkcja zdania pojedynczego",
+      "url": "https://zpe.gov.pl/watek/LP1AC9VRws/21/a/interpunkcja-zdania-pojedynczego/DPiXad8WB",
+      "note": "Weryfikacja podstawowych funkcji znaków interpunkcyjnych, w tym kończenia poleceń kropką lub wykrzyknikiem zależnie od tonu."
+    },
+    {
+      "title": "ZPE: Informuję, pytam i proszę — różne rodzaje zdań (PDF)",
+      "url": "https://zpe.gov.pl/pdf/PJkjGolb5",
+      "note": "Pomoc w doborze ćwiczeń o kropce, przecinku, dwukropku, cudzysłowie, wielokropku, nawiasie i myślniku. Zestawy A i B zawierają różne, samodzielnie opracowane pytania."
+    }
+  ],
+  "topics": [
+    {
+      "id": "pl-ou",
+      "subject": "polski",
+      "section": "Ortografia",
+      "title": "Pisownia ó i u",
+      "description": "Wymiana ó na o, a, e; końcówki -ów, -ówka i -uje oraz częste wyrazy do zapamiętania.",
+      "questions": [
+        {
+          "id": "pl-ou-01",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: w_z, st_ł",
+          "options": [
+            "ó, ó",
+            "u, ó",
+            "ó, u"
+          ],
+          "answer": "ó, ó",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Wóz — wozy; stół — stoły. W obu wyrazach ó wymienia się na o."
+        },
+        {
+          "id": "pl-ou-02",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: d_ł, b_l",
+          "options": [
+            "ó, ó",
+            "u, ó",
+            "ó, u"
+          ],
+          "answer": "ó, ó",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Dół — doły; ból — boleć. W obu parach ó wymienia się na o."
+        },
+        {
+          "id": "pl-ou-03",
+          "prompt": "Uzupełnij oba wyrazy: l_d (zamarznięta woda), mi_d (produkt pszczół)",
+          "options": [
+            "ó, ó",
+            "u, ó",
+            "ó, u"
+          ],
+          "answer": "ó, ó",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Lód — lody; miód — miody. Pomaga wymiana ó na o."
+        },
+        {
+          "id": "pl-ou-04",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: r_g, s_l",
+          "options": [
+            "ó, ó",
+            "u, ó",
+            "ó, u"
+          ],
+          "answer": "ó, ó",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Róg — rogi; sól — sole. Piszemy ó wymienne."
+        },
+        {
+          "id": "pl-ou-05",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: ogr_d, mr_z",
+          "options": [
+            "ó, ó",
+            "u, ó",
+            "ó, u"
+          ],
+          "answer": "ó, ó",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Ogród — ogrody; mróz — mrozy. Ó wymienia się na o."
+        },
+        {
+          "id": "pl-ou-06",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: pi_ro, si_dmy",
+          "options": [
+            "ó, ó",
+            "u, ó",
+            "ó, u"
+          ],
+          "answer": "ó, ó",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Pióro — pierze: ó wymienia się na e. Siódmy — siedem: również ó na e."
+        },
+        {
+          "id": "pl-ou-07",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: wr_cił, skr_cił",
+          "options": [
+            "ó, ó",
+            "u, ó",
+            "ó, u"
+          ],
+          "answer": "ó, ó",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Wrócił — wracać; skrócił — skracać. Ó wymienia się na a."
+        },
+        {
+          "id": "pl-ou-08",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: mal_je, rys_je",
+          "options": [
+            "u, u",
+            "ó, u",
+            "u, ó"
+          ],
+          "answer": "u, u",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "W formach czasowników z zakończeniem -uje zawsze piszemy u."
+        },
+        {
+          "id": "pl-ou-09",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: got_je, prac_je",
+          "options": [
+            "u, u",
+            "ó, u",
+            "u, ó"
+          ],
+          "answer": "u, u",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Gotuje i pracuje mają zakończenie -uje, pisane przez u."
+        },
+        {
+          "id": "pl-ou-10",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: dom_w, kot_w",
+          "options": [
+            "ó, ó",
+            "u, ó",
+            "ó, u"
+          ],
+          "answer": "ó, ó",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "W końcówce -ów w formach domów i kotów piszemy ó."
+        },
+        {
+          "id": "pl-ou-11",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: poczt_wka, złot_wka",
+          "options": [
+            "ó, ó",
+            "u, ó",
+            "ó, u"
+          ],
+          "answer": "ó, ó",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "W zakończeniu -ówka zwykle piszemy ó: pocztówka, złotówka."
+        },
+        {
+          "id": "pl-ou-12",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: zas_wka, sk_wka",
+          "options": [
+            "u, u",
+            "ó, u",
+            "u, ó"
+          ],
+          "answer": "u, u",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Zasuwka i skuwka to wyjątki od reguły dotyczącej -ówka. Piszemy u."
+        },
+        {
+          "id": "pl-ou-13",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _cho, _lica",
+          "options": [
+            "u, u",
+            "ó, u",
+            "u, ó"
+          ],
+          "answer": "u, u",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Na początku większości wyrazów piszemy u, np. ucho, ulica."
+        },
+        {
+          "id": "pl-ou-14",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _semka, _smy",
+          "options": [
+            "ó, ó",
+            "u, ó",
+            "ó, u"
+          ],
+          "answer": "ó, ó",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Ósemka i ósmy zaczynają się od ó. Pomaga wyraz osiem."
+        },
+        {
+          "id": "pl-ou-15",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: c_rka, b_ty",
+          "options": [
+            "ó, u",
+            "u, u",
+            "ó, ó"
+          ],
+          "answer": "ó, u",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Pisownię córka zapamiętujemy z ó, a buty z u."
+        },
+        {
+          "id": "pl-ou-16",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: kr_l, k_ra",
+          "options": [
+            "ó, u",
+            "u, u",
+            "ó, ó"
+          ],
+          "answer": "ó, u",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Król piszemy przez ó, kura przez u. To częste wyrazy do zapamiętania."
+        },
+        {
+          "id": "pl-ou-17",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: ż_łw, ż_k",
+          "options": [
+            "ó, u",
+            "u, u",
+            "ó, ó"
+          ],
+          "answer": "ó, u",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Żółw ma ó, żuk ma u. Zapamiętaj obie pisownie."
+        },
+        {
+          "id": "pl-ou-18",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: og_rek, ceb_la",
+          "options": [
+            "ó, u",
+            "u, u",
+            "ó, ó"
+          ],
+          "answer": "ó, u",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Ogórek piszemy przez ó, cebula przez u."
+        },
+        {
+          "id": "pl-ou-19",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: r_ża, t_lipan",
+          "options": [
+            "ó, u",
+            "u, u",
+            "ó, ó"
+          ],
+          "answer": "ó, u",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Róża ma ó, a tulipan u. Pisownię tych nazw kwiatów trzeba zapamiętać."
+        },
+        {
+          "id": "pl-ou-20",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: j_tro, p_źno",
+          "options": [
+            "u, ó",
+            "ó, ó",
+            "u, u"
+          ],
+          "answer": "u, ó",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Jutro piszemy przez u, późno przez ó."
+        },
+        {
+          "id": "pl-ou-21",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: p_łka, k_bek",
+          "options": [
+            "ó, u",
+            "u, u",
+            "ó, ó"
+          ],
+          "answer": "ó, u",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Półka ma ó, kubek ma u. Zapamiętaj poprawny zapis obu rzeczowników."
+        },
+        {
+          "id": "pl-ou-22",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: kł_dka, chm_ra",
+          "options": [
+            "ó, u",
+            "u, u",
+            "ó, ó"
+          ],
+          "answer": "ó, u",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Kłódka — kłoda: wymiana ó na o. Chmura ma u."
+        },
+        {
+          "id": "pl-ou-23",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: n_ż, n_żka",
+          "options": [
+            "ó, ó",
+            "u, ó",
+            "ó, u"
+          ],
+          "answer": "ó, ó",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Nóż — noże, nóżka — noga. W obu wyrazach ó wymienia się na o."
+        },
+        {
+          "id": "pl-ou-24",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: dw_jka, czw_rka",
+          "options": [
+            "ó, ó",
+            "u, ó",
+            "ó, u"
+          ],
+          "answer": "ó, ó",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Dwójka — dwoje; czwórka — czworo. W obu parach ó wymienia się na o."
+        },
+        {
+          "id": "pl-ou-25",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: wiewi_rka, wr_bel",
+          "options": [
+            "ó, ó",
+            "u, ó",
+            "ó, u"
+          ],
+          "answer": "ó, ó",
+          "hint": "Przeczytaj oba wyrazy. Poszukaj wyrazu pokrewnego lub znanej końcówki.",
+          "explanation": "Wiewiórka i wróbel to wyrazy z ó, których pisownię zapamiętujemy."
+        }
+      ]
+    },
+    {
+      "id": "pl-rz-z",
+      "subject": "polski",
+      "section": "Ortografia",
+      "title": "Pisownia rz i ż",
+      "description": "Wymiana rz na r, ż na g lub z; rz po spółgłoskach i częste wyjątki.",
+      "questions": [
+        {
+          "id": "pl-rz-z-01",
+          "prompt": "Uzupełnij oba wyrazy: mo_e (np. Bałtyckie), leka_",
+          "options": [
+            "rz, rz",
+            "ż, rz",
+            "rz, ż"
+          ],
+          "answer": "rz, rz",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Morze — morski; lekarz — lekarski. Rz wymienia się na r."
+        },
+        {
+          "id": "pl-rz-z-02",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: pie_yna, gospoda_",
+          "options": [
+            "rz, rz",
+            "ż, rz",
+            "rz, ż"
+          ],
+          "answer": "rz, rz",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Pierzyna ma rz — zapamiętaj tę pisownię. Gospodarz — gospodarski: rz wymienia się na r."
+        },
+        {
+          "id": "pl-rz-z-03",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: d_ewo, b_eg",
+          "options": [
+            "rz, rz",
+            "ż, rz",
+            "rz, ż"
+          ],
+          "answer": "rz, rz",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Po d i b zwykle piszemy rz: drzewo, brzeg."
+        },
+        {
+          "id": "pl-rz-z-04",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: k_esło, g_yb",
+          "options": [
+            "rz, rz",
+            "ż, rz",
+            "rz, ż"
+          ],
+          "answer": "rz, rz",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Po k i g zwykle występuje rz: krzesło, grzyb."
+        },
+        {
+          "id": "pl-rz-z-05",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: t_y, w_esień",
+          "options": [
+            "rz, rz",
+            "ż, rz",
+            "rz, ż"
+          ],
+          "answer": "rz, rz",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Po t i w zwykle piszemy rz: trzy, wrzesień."
+        },
+        {
+          "id": "pl-rz-z-06",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: ch_an, p_ygoda",
+          "options": [
+            "rz, rz",
+            "ż, rz",
+            "rz, ż"
+          ],
+          "answer": "rz, rz",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Po ch i p zwykle piszemy rz: chrzan, przygoda."
+        },
+        {
+          "id": "pl-rz-z-07",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: ma_ec, sta_ec",
+          "options": [
+            "rz, rz",
+            "ż, rz",
+            "rz, ż"
+          ],
+          "answer": "rz, rz",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Marzec — marca; starzec — starca. Widać wymianę rz na r."
+        },
+        {
+          "id": "pl-rz-z-08",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: mie_yć, wie_yć",
+          "options": [
+            "rz, rz",
+            "ż, rz",
+            "rz, ż"
+          ],
+          "answer": "rz, rz",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Mierzyć — miara; wierzyć — wiara. Rz wymienia się na r."
+        },
+        {
+          "id": "pl-rz-z-09",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: wa_yć (ustalać ciężar), odwa_ny",
+          "options": [
+            "ż, ż",
+            "rz, ż",
+            "ż, rz"
+          ],
+          "answer": "ż, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Ważyć — waga; odważny — odwaga. Ż wymienia się na g."
+        },
+        {
+          "id": "pl-rz-z-10",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: ksią_ka, wstą_ka",
+          "options": [
+            "ż, ż",
+            "rz, ż",
+            "ż, rz"
+          ],
+          "answer": "ż, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Książka — księga; wstążka — wstęga. Ż wymienia się na g."
+        },
+        {
+          "id": "pl-rz-z-11",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: no_yk, wo_ę (kogoś samochodem)",
+          "options": [
+            "ż, ż",
+            "rz, ż",
+            "ż, rz"
+          ],
+          "answer": "ż, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Nożyk — nóż: w tej rodzinie wyrazów zachowujemy ż. Wożę — wozić: ż wymienia się na z."
+        },
+        {
+          "id": "pl-rz-z-12",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: śnie_ny, mo_e (jest w stanie)",
+          "options": [
+            "ż, ż",
+            "rz, ż",
+            "ż, rz"
+          ],
+          "answer": "ż, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Śnieżny — śnieg; może — mogę. Ż wymienia się na g."
+        },
+        {
+          "id": "pl-rz-z-13",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: je_, wą_",
+          "options": [
+            "ż, ż",
+            "rz, ż",
+            "ż, rz"
+          ],
+          "answer": "ż, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Jeż i wąż mają na końcu ż. Zapamiętaj pisownię nazw tych zwierząt."
+        },
+        {
+          "id": "pl-rz-z-14",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _aba, _yrafa",
+          "options": [
+            "ż, ż",
+            "rz, ż",
+            "ż, rz"
+          ],
+          "answer": "ż, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Żaba i żyrafa zaczynają się od ż."
+        },
+        {
+          "id": "pl-rz-z-15",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _ółty, ró_owy",
+          "options": [
+            "ż, ż",
+            "rz, ż",
+            "ż, rz"
+          ],
+          "answer": "ż, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Nazwy kolorów żółty i różowy zapisujemy przez ż."
+        },
+        {
+          "id": "pl-rz-z-16",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: bu_a, kału_a",
+          "options": [
+            "rz, ż",
+            "ż, ż",
+            "rz, rz"
+          ],
+          "answer": "rz, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Burza piszemy przez rz, kałuża przez ż. Zapamiętaj pisownię."
+        },
+        {
+          "id": "pl-rz-z-17",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: ko_eń, wie_a (budowla)",
+          "options": [
+            "rz, ż",
+            "ż, ż",
+            "rz, rz"
+          ],
+          "answer": "rz, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Korzeń ma rz. Wieża, czyli wysoka budowla, ma ż."
+        },
+        {
+          "id": "pl-rz-z-18",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: o_eł, _uraw",
+          "options": [
+            "rz, ż",
+            "ż, ż",
+            "rz, rz"
+          ],
+          "answer": "rz, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Orzeł — orli: rz wymienia się na r. Żuraw piszemy przez ż."
+        },
+        {
+          "id": "pl-rz-z-19",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _eźba, _elazo",
+          "options": [
+            "rz, ż",
+            "ż, ż",
+            "rz, rz"
+          ],
+          "answer": "rz, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Rzeźba zaczyna się od rz, żelazo od ż."
+        },
+        {
+          "id": "pl-rz-z-20",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: p_yjaciel, po_ytek",
+          "options": [
+            "rz, ż",
+            "ż, ż",
+            "rz, rz"
+          ],
+          "answer": "rz, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Przyjaciel ma rz po p. Pożytek zapisujemy przez ż."
+        },
+        {
+          "id": "pl-rz-z-21",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _odkiewka, _ołądź",
+          "options": [
+            "rz, ż",
+            "ż, ż",
+            "rz, rz"
+          ],
+          "answer": "rz, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Rzodkiewka zaczyna się od rz, a żołądź od ż."
+        },
+        {
+          "id": "pl-rz-z-22",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _eka, _aglówka",
+          "options": [
+            "rz, ż",
+            "ż, ż",
+            "rz, rz"
+          ],
+          "answer": "rz, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Rzeka piszemy przez rz, żaglówka przez ż."
+        },
+        {
+          "id": "pl-rz-z-23",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _ecz, _art",
+          "options": [
+            "rz, ż",
+            "ż, ż",
+            "rz, rz"
+          ],
+          "answer": "rz, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Rzecz zaczyna się od rz, żart od ż."
+        },
+        {
+          "id": "pl-rz-z-24",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: mala_, gara_",
+          "options": [
+            "rz, ż",
+            "ż, ż",
+            "rz, rz"
+          ],
+          "answer": "rz, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Malarz — malarski: rz wymienia się na r. Garaż zapisujemy przez ż."
+        },
+        {
+          "id": "pl-rz-z-25",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: pasa_er, zbo_e",
+          "options": [
+            "ż, ż",
+            "rz, ż",
+            "ż, rz"
+          ],
+          "answer": "ż, ż",
+          "hint": "Sprawdź oba wyrazy. Rz może wymieniać się na r; ż np. na g lub z. Rz piszemy też zwykle po wybranych spółgłoskach.",
+          "explanation": "Pasażer i zboże zapisujemy przez ż; ich pisownię warto zapamiętać."
+        }
+      ]
+    },
+    {
+      "id": "pl-ch-h",
+      "subject": "polski",
+      "section": "Ortografia",
+      "title": "Pisownia ch i h",
+      "description": "Ch wymienne na sz, ch na końcu wyrazów i po s; wyrazy z h do zapamiętania.",
+      "questions": [
+        {
+          "id": "pl-ch-h-01",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: du_, da_",
+          "options": [
+            "ch, ch",
+            "h, ch",
+            "ch, h"
+          ],
+          "answer": "ch, ch",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Duch — duszek; dach — daszek. Ch wymienia się na sz."
+        },
+        {
+          "id": "pl-ch-h-02",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: mu_a, u_o",
+          "options": [
+            "ch, ch",
+            "h, ch",
+            "ch, h"
+          ],
+          "answer": "ch, ch",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Mucha — muszka; ucho — uszko. Ch wymienia się na sz."
+        },
+        {
+          "id": "pl-ch-h-03",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: su_y, ci_y",
+          "options": [
+            "ch, ch",
+            "h, ch",
+            "ch, h"
+          ],
+          "answer": "ch, ch",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Suchy — suszyć; cichy — cisza. Pomaga wymiana ch na sz."
+        },
+        {
+          "id": "pl-ch-h-04",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: pia_, gro_",
+          "options": [
+            "ch, ch",
+            "h, ch",
+            "ch, h"
+          ],
+          "answer": "ch, ch",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Piach i groch kończą się na ch."
+        },
+        {
+          "id": "pl-ch-h-05",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: stra_, śmie_",
+          "options": [
+            "ch, ch",
+            "h, ch",
+            "ch, h"
+          ],
+          "answer": "ch, ch",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Na końcu wyrazów strach i śmiech piszemy ch."
+        },
+        {
+          "id": "pl-ch-h-06",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: me_, orze_",
+          "options": [
+            "ch, ch",
+            "h, ch",
+            "ch, h"
+          ],
+          "answer": "ch, ch",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Mech i orzech zapisujemy na końcu przez ch."
+        },
+        {
+          "id": "pl-ch-h-07",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: s_ody, s_ronisko",
+          "options": [
+            "ch, ch",
+            "h, ch",
+            "ch, h"
+          ],
+          "answer": "ch, ch",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Po s w tych wyrazach piszemy ch: schody, schronisko."
+        },
+        {
+          "id": "pl-ch-h-08",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: s_ować, ws_ód",
+          "options": [
+            "ch, ch",
+            "h, ch",
+            "ch, h"
+          ],
+          "answer": "ch, ch",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Schować i wschód zawierają ch po s."
+        },
+        {
+          "id": "pl-ch-h-09",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _leb, _mura",
+          "options": [
+            "ch, ch",
+            "h, ch",
+            "ch, h"
+          ],
+          "answer": "ch, ch",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Chleb i chmura zaczynają się od ch. Zapamiętaj ich pisownię."
+        },
+        {
+          "id": "pl-ch-h-10",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _łopiec, _ustka",
+          "options": [
+            "ch, ch",
+            "h, ch",
+            "ch, h"
+          ],
+          "answer": "ch, ch",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Chłopiec i chustka piszemy przez ch."
+        },
+        {
+          "id": "pl-ch-h-11",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _erbata, _otel",
+          "options": [
+            "h, h",
+            "ch, h",
+            "h, ch"
+          ],
+          "answer": "h, h",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Herbata i hotel zaczynają się od h. To pisownia do zapamiętania."
+        },
+        {
+          "id": "pl-ch-h-12",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _amak, _ałas",
+          "options": [
+            "h, h",
+            "ch, h",
+            "h, ch"
+          ],
+          "answer": "h, h",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Hamak i hałas piszemy przez h."
+        },
+        {
+          "id": "pl-ch-h-13",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _istoria, _ymn",
+          "options": [
+            "h, h",
+            "ch, h",
+            "h, ch"
+          ],
+          "answer": "h, h",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Historia i hymn zapisujemy przez h."
+        },
+        {
+          "id": "pl-ch-h-14",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _arcerz, _okej",
+          "options": [
+            "h, h",
+            "ch, h",
+            "h, ch"
+          ],
+          "answer": "h, h",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Harcerz i hokej zaczynają się od h."
+        },
+        {
+          "id": "pl-ch-h-15",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _iena, _ipopotam",
+          "options": [
+            "h, h",
+            "ch, h",
+            "h, ch"
+          ],
+          "answer": "h, h",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Hiena i hipopotam to nazwy zwierząt zaczynające się od h."
+        },
+        {
+          "id": "pl-ch-h-16",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _umor, _onor",
+          "options": [
+            "h, h",
+            "ch, h",
+            "h, ch"
+          ],
+          "answer": "h, h",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Humor i honor zapisujemy przez h."
+        },
+        {
+          "id": "pl-ch-h-17",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _elikopter, _oryzont",
+          "options": [
+            "h, h",
+            "ch, h",
+            "h, ch"
+          ],
+          "answer": "h, h",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Helikopter i horyzont mają na początku h."
+        },
+        {
+          "id": "pl-ch-h-18",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: bo_ater, wa_adło",
+          "options": [
+            "h, h",
+            "ch, h",
+            "h, ch"
+          ],
+          "answer": "h, h",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Bohater i wahadło piszemy przez h."
+        },
+        {
+          "id": "pl-ch-h-19",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: dru_, ru_",
+          "options": [
+            "h, ch",
+            "ch, ch",
+            "h, h"
+          ],
+          "answer": "h, ch",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Druh jest wyjątkiem od częstej pisowni ch na końcu. Ruch ma ch."
+        },
+        {
+          "id": "pl-ch-h-20",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _orągiew, _erb",
+          "options": [
+            "ch, h",
+            "h, h",
+            "ch, ch"
+          ],
+          "answer": "ch, h",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Chorągiew ma ch, herb ma h. Zapamiętaj obie nazwy."
+        },
+        {
+          "id": "pl-ch-h-21",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _oroba, _igiena",
+          "options": [
+            "ch, h",
+            "h, h",
+            "ch, ch"
+          ],
+          "answer": "ch, h",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Choroba piszemy przez ch, higiena przez h."
+        },
+        {
+          "id": "pl-ch-h-22",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: mar_ew, _erbata",
+          "options": [
+            "ch, h",
+            "h, h",
+            "ch, ch"
+          ],
+          "answer": "ch, h",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Marchew zawiera ch, herbata zaczyna się od h."
+        },
+        {
+          "id": "pl-ch-h-23",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _omik, _iena",
+          "options": [
+            "ch, h",
+            "h, h",
+            "ch, ch"
+          ],
+          "answer": "ch, h",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Chomik ma ch, hiena ma h."
+        },
+        {
+          "id": "pl-ch-h-24",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _ęć, _asło",
+          "options": [
+            "ch, h",
+            "h, h",
+            "ch, ch"
+          ],
+          "answer": "ch, h",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Chęć zaczyna się od ch, hasło od h."
+        },
+        {
+          "id": "pl-ch-h-25",
+          "prompt": "Uzupełnij oba wyrazy w podanej kolejności: _ata, _ala",
+          "options": [
+            "ch, h",
+            "h, h",
+            "ch, ch"
+          ],
+          "answer": "ch, h",
+          "hint": "Sprawdź oba wyrazy. Ch może wymieniać się na sz; często występuje też na końcu wyrazu lub po s. Wyrazy z h zapamiętuj.",
+          "explanation": "Chata, czyli dom, ma ch. Hala ma h."
+        }
+      ]
+    },
+    {
+      "id": "pl-wielka-litera",
+      "subject": "polski",
+      "section": "Ortografia",
+      "title": "Wielka i mała litera",
+      "description": "Początek zdania, imiona, nazwy geograficzne i mieszkańcy. Zasady aktualne od 2026 roku.",
+      "questions": [
+        {
+          "id": "pl-wielka-litera-01",
+          "prompt": "Który zapis imienia i nazwiska jest poprawny?",
+          "options": [
+            "Anna Kowalska",
+            "anna Kowalska",
+            "Anna kowalska"
+          ],
+          "answer": "Anna Kowalska",
+          "hint": "Imię i nazwisko są nazwami własnymi.",
+          "explanation": "Imiona oraz nazwiska zaczynamy wielkimi literami."
+        },
+        {
+          "id": "pl-wielka-litera-02",
+          "prompt": "Wybierz poprawne dokończenie: Moją ojczyzną jest…",
+          "options": [
+            "Polska.",
+            "polska.",
+            "POLska."
+          ],
+          "answer": "Polska.",
+          "hint": "Nazwa kraju to nazwa własna.",
+          "explanation": "Nazwę państwa Polska zapisujemy wielką literą."
+        },
+        {
+          "id": "pl-wielka-litera-03",
+          "prompt": "Który zapis nazwy miasta jest poprawny?",
+          "options": [
+            "Kraków",
+            "kraków",
+            "kraKów"
+          ],
+          "answer": "Kraków",
+          "hint": "Miasta mają własne nazwy.",
+          "explanation": "Nazwy miast, np. Kraków, zaczynamy wielką literą."
+        },
+        {
+          "id": "pl-wielka-litera-04",
+          "prompt": "Uzupełnij: Przez Warszawę płynie…",
+          "options": [
+            "Wisła.",
+            "wisła.",
+            "WISła."
+          ],
+          "answer": "Wisła.",
+          "hint": "Pomyśl o nazwie konkretnej rzeki.",
+          "explanation": "Nazwę rzeki Wisła zapisujemy wielką literą."
+        },
+        {
+          "id": "pl-wielka-litera-05",
+          "prompt": "Wybierz poprawny zapis nazwy kontynentu.",
+          "options": [
+            "Europa",
+            "europa",
+            "eUropa"
+          ],
+          "answer": "Europa",
+          "hint": "To nazwa własna obszaru geograficznego.",
+          "explanation": "Europa jest nazwą kontynentu i wymaga wielkiej litery."
+        },
+        {
+          "id": "pl-wielka-litera-06",
+          "prompt": "Który zapis nazwy gór jest poprawny?",
+          "options": [
+            "Tatry",
+            "tatry",
+            "taTry"
+          ],
+          "answer": "Tatry",
+          "hint": "Pytanie dotyczy nazwy własnej gór.",
+          "explanation": "Nazwę Tatry rozpoczyna wielka litera."
+        },
+        {
+          "id": "pl-wielka-litera-07",
+          "prompt": "Uzupełnij: Mój pies ma na imię…",
+          "options": [
+            "Reks.",
+            "reks.",
+            "REks."
+          ],
+          "answer": "Reks.",
+          "hint": "Imiona zwierząt także są nazwami własnymi.",
+          "explanation": "Imię psa Reks piszemy wielką literą."
+        },
+        {
+          "id": "pl-wielka-litera-08",
+          "prompt": "Który zapis zdania jest poprawny?",
+          "options": [
+            "Dzisiaj pada deszcz.",
+            "dzisiaj pada deszcz.",
+            "Dzisiaj Pada Deszcz."
+          ],
+          "answer": "Dzisiaj pada deszcz.",
+          "hint": "Pierwszy wyraz zdania potrzebuje wielkiej litery.",
+          "explanation": "Zdanie rozpoczynamy wielką literą; zwykłych nazw w środku nie piszemy wielkimi."
+        },
+        {
+          "id": "pl-wielka-litera-09",
+          "prompt": "Uzupełnij: Mama jest… (mieszkanką Polski)",
+          "options": [
+            "Polką.",
+            "polką.",
+            "POLką."
+          ],
+          "answer": "Polką.",
+          "hint": "Nazwy narodowości zapisujemy wielką literą.",
+          "explanation": "Polka to nazwa mieszkanki Polski, zapisywana wielką literą."
+        },
+        {
+          "id": "pl-wielka-litera-10",
+          "prompt": "Uzupełnij: Spotkałem… (mieszkańca Francji)",
+          "options": [
+            "Francuza.",
+            "francuza.",
+            "FranCuza."
+          ],
+          "answer": "Francuza.",
+          "hint": "Pomyśl o nazwach narodowości.",
+          "explanation": "Francuz to nazwa narodowości; piszemy ją wielką literą."
+        },
+        {
+          "id": "pl-wielka-litera-11",
+          "prompt": "Który zapis jest poprawny w zwykłym zdaniu?",
+          "options": [
+            "język polski",
+            "język Polski",
+            "Język Polski"
+          ],
+          "answer": "język polski",
+          "hint": "Nazwa języka zawiera przymiotnik.",
+          "explanation": "Nazwę język polski w środku zdania piszemy małymi literami."
+        },
+        {
+          "id": "pl-wielka-litera-12",
+          "prompt": "Uzupełnij: Lubię… (przedmiot szkolny)",
+          "options": [
+            "matematykę.",
+            "Matematykę.",
+            "MATematykę."
+          ],
+          "answer": "matematykę.",
+          "hint": "Nazwy przedmiotów szkolnych nie są nazwami własnymi.",
+          "explanation": "W środku zdania piszemy: lubię matematykę."
+        },
+        {
+          "id": "pl-wielka-litera-13",
+          "prompt": "Uzupełnij: Wakacje zaczynają się w…",
+          "options": [
+            "czerwcu.",
+            "Czerwcu.",
+            "CzerWcu."
+          ],
+          "answer": "czerwcu.",
+          "hint": "Nazwy miesięcy piszemy małymi literami.",
+          "explanation": "Czerwiec jest nazwą miesiąca, więc w tym zdaniu piszemy czerwcu."
+        },
+        {
+          "id": "pl-wielka-litera-14",
+          "prompt": "Uzupełnij: Trening odbędzie się w…",
+          "options": [
+            "poniedziałek.",
+            "Poniedziałek.",
+            "PONiedziałek."
+          ],
+          "answer": "poniedziałek.",
+          "hint": "Zwykłe nazwy dni tygodnia piszemy małymi literami.",
+          "explanation": "Poprawny zapis to w poniedziałek."
+        },
+        {
+          "id": "pl-wielka-litera-15",
+          "prompt": "Który zapis święta jest poprawny?",
+          "options": [
+            "Boże Narodzenie",
+            "boże narodzenie",
+            "Boże narodzenie"
+          ],
+          "answer": "Boże Narodzenie",
+          "hint": "To nazwa święta, nie zwykły dzień tygodnia.",
+          "explanation": "Oba wyrazy w nazwie Boże Narodzenie zapisujemy wielkimi literami."
+        },
+        {
+          "id": "pl-wielka-litera-16",
+          "prompt": "Uzupełnij: Wiosną obchodzimy…",
+          "options": [
+            "Wielkanoc.",
+            "wielkanoc.",
+            "WielkaNoc."
+          ],
+          "answer": "Wielkanoc.",
+          "hint": "Nazwa święta jest nazwą własną.",
+          "explanation": "Wielkanoc zapisujemy wielką literą."
+        },
+        {
+          "id": "pl-wielka-litera-17",
+          "prompt": "Który zapis nazwy święta jest poprawny?",
+          "options": [
+            "Dzień Dziecka",
+            "Dzień dziecka",
+            "dzień Dziecka"
+          ],
+          "answer": "Dzień Dziecka",
+          "hint": "W nazwie święta ważne wyrazy mają wielkie litery.",
+          "explanation": "Poprawny zapis nazwy święta to Dzień Dziecka."
+        },
+        {
+          "id": "pl-wielka-litera-18",
+          "prompt": "Zgodnie z zasadami od 2026 roku mieszkaniec Warszawy to…",
+          "options": [
+            "Warszawianin.",
+            "warszawianin.",
+            "warszawianin lub Warszawianin — zawsze dowolnie."
+          ],
+          "answer": "Warszawianin.",
+          "hint": "Od 2026 roku zmienił się zapis nazw mieszkańców miast.",
+          "explanation": "Od 1 stycznia 2026 nazwę mieszkańca miasta Warszawianin piszemy wielką literą."
+        },
+        {
+          "id": "pl-wielka-litera-19",
+          "prompt": "Zgodnie z zasadami od 2026 roku mieszkanka Krakowa to…",
+          "options": [
+            "Krakowianka.",
+            "krakowianka.",
+            "kraKowianka."
+          ],
+          "answer": "Krakowianka.",
+          "hint": "Obowiązuje taka sama zasada jak dla mieszkańca Warszawy.",
+          "explanation": "Nazwy mieszkańców miast zapisujemy od 2026 roku wielką literą: Krakowianka."
+        },
+        {
+          "id": "pl-wielka-litera-20",
+          "prompt": "Uzupełnij: To jest… zamek. (znajduje się w Krakowie)",
+          "options": [
+            "krakowski",
+            "Krakowski",
+            "krakowSki"
+          ],
+          "answer": "krakowski",
+          "hint": "Przymiotnik od nazwy miasta zwykle ma małą literę.",
+          "explanation": "W zwykłym opisie piszemy krakowski zamek; krakowski jest przymiotnikiem."
+        },
+        {
+          "id": "pl-wielka-litera-21",
+          "prompt": "Który zapis nazwy oceanu jest poprawny?",
+          "options": [
+            "Ocean Spokojny",
+            "ocean Spokojny",
+            "Ocean spokojny"
+          ],
+          "answer": "Ocean Spokojny",
+          "hint": "Oba wyrazy należą do nazwy geograficznej.",
+          "explanation": "W nazwie Ocean Spokojny oba wyrazy zaczynamy wielkimi literami."
+        },
+        {
+          "id": "pl-wielka-litera-22",
+          "prompt": "Wybierz poprawny zapis tytułu: …",
+          "options": [
+            "Czerwone krzesło",
+            "czerwone krzesło",
+            "Czerwone Krzesło"
+          ],
+          "answer": "Czerwone krzesło",
+          "hint": "W tytule książki zwykle wielką literą zaczynamy pierwszy wyraz.",
+          "explanation": "Tytuł Czerwone krzesło zaczyna się wielką literą; krzesło jest nazwą pospolitą."
+        },
+        {
+          "id": "pl-wielka-litera-23",
+          "prompt": "Uzupełnij: W bibliotece pracuje pani…",
+          "options": [
+            "Nowak.",
+            "nowak.",
+            "noWak."
+          ],
+          "answer": "Nowak.",
+          "hint": "To nazwisko konkretnej osoby.",
+          "explanation": "Nazwisko Nowak zapisujemy wielką literą, a słowo pani w zwykłym opisie małą."
+        },
+        {
+          "id": "pl-wielka-litera-24",
+          "prompt": "Wybierz poprawny zapis dwóch zdań.",
+          "options": [
+            "Czytam książkę. Kot śpi.",
+            "Czytam książkę. kot śpi.",
+            "czytam książkę. Kot śpi."
+          ],
+          "answer": "Czytam książkę. Kot śpi.",
+          "hint": "Każde nowe zdanie rozpoczyna wielka litera.",
+          "explanation": "Czytam i Kot to pierwsze wyrazy dwóch zdań, więc wymagają wielkiej litery."
+        },
+        {
+          "id": "pl-wielka-litera-25",
+          "prompt": "Uzupełnij: Na spacerze spotkaliśmy… (zwykła nazwa zwierzęcia)",
+          "options": [
+            "psa.",
+            "Psa.",
+            "PSa."
+          ],
+          "answer": "psa.",
+          "hint": "Odróżnij nazwę pospolitą od imienia zwierzęcia.",
+          "explanation": "Pies to nazwa pospolita. W środku tego zdania piszemy psa małą literą."
+        }
+      ]
+    },
+    {
+      "id": "pl-czesci-mowy",
+      "subject": "polski",
+      "section": "Gramatyka",
+      "title": "Rozpoznawanie części mowy",
+      "description": "Rzeczownik, czasownik, przymiotnik, przysłówek, liczebnik, zaimek, przyimek i spójnik w prostych zdaniach.",
+      "questions": [
+        {
+          "id": "pl-czesci-mowy-01",
+          "prompt": "Który wyraz jest rzeczownikiem?",
+          "options": [
+            "rower",
+            "szybki",
+            "jedzie"
+          ],
+          "answer": "rower",
+          "hint": "Zapytaj: kto? co?",
+          "explanation": "Rower nazywa przedmiot i odpowiada na pytanie co?."
+        },
+        {
+          "id": "pl-czesci-mowy-02",
+          "prompt": "Który wyraz jest czasownikiem?",
+          "options": [
+            "tańczy",
+            "taniec",
+            "wesoły"
+          ],
+          "answer": "tańczy",
+          "hint": "Zapytaj: co robi?",
+          "explanation": "Tańczy nazywa czynność i odpowiada na pytanie co robi?."
+        },
+        {
+          "id": "pl-czesci-mowy-03",
+          "prompt": "Który wyraz jest przymiotnikiem?",
+          "options": [
+            "zielony",
+            "zieleń",
+            "zielono"
+          ],
+          "answer": "zielony",
+          "hint": "Zapytaj: jaki? jaka? jakie?",
+          "explanation": "Zielony określa cechę, np. zielony liść."
+        },
+        {
+          "id": "pl-czesci-mowy-04",
+          "prompt": "W zdaniu „Mały pies szczeka” rzeczownikiem jest…",
+          "options": [
+            "pies",
+            "mały",
+            "szczeka"
+          ],
+          "answer": "pies",
+          "hint": "Znajdź nazwę zwierzęcia.",
+          "explanation": "Pies to rzeczownik; mały jest przymiotnikiem, szczeka czasownikiem."
+        },
+        {
+          "id": "pl-czesci-mowy-05",
+          "prompt": "W zdaniu „Kasia rysuje dom” czasownikiem jest…",
+          "options": [
+            "rysuje",
+            "Kasia",
+            "dom"
+          ],
+          "answer": "rysuje",
+          "hint": "Co robi Kasia?",
+          "explanation": "Rysuje to nazwa czynności wykonywanej przez Kasię."
+        },
+        {
+          "id": "pl-czesci-mowy-06",
+          "prompt": "W zdaniu „Czytam ciekawą książkę” przymiotnikiem jest…",
+          "options": [
+            "ciekawą",
+            "czytam",
+            "książkę"
+          ],
+          "answer": "ciekawą",
+          "hint": "Jaka jest książka?",
+          "explanation": "Ciekawą określa cechę książki i jest przymiotnikiem."
+        },
+        {
+          "id": "pl-czesci-mowy-07",
+          "prompt": "Który wyraz jest przysłówkiem?",
+          "options": [
+            "szybko",
+            "szybki",
+            "szybkość"
+          ],
+          "answer": "szybko",
+          "hint": "Zapytaj: jak?",
+          "explanation": "Szybko określa sposób wykonania czynności, np. biegnie szybko."
+        },
+        {
+          "id": "pl-czesci-mowy-08",
+          "prompt": "W zdaniu „Ola cicho śpiewa” przysłówkiem jest…",
+          "options": [
+            "cicho",
+            "Ola",
+            "śpiewa"
+          ],
+          "answer": "cicho",
+          "hint": "Jak śpiewa Ola?",
+          "explanation": "Cicho odpowiada na pytanie jak? i jest przysłówkiem."
+        },
+        {
+          "id": "pl-czesci-mowy-09",
+          "prompt": "Który wyraz określa liczbę przedmiotów?",
+          "options": [
+            "pięć",
+            "piątka",
+            "piątkowy"
+          ],
+          "answer": "pięć",
+          "hint": "Zapytaj: ile?",
+          "explanation": "Pięć jest liczebnikiem: pięć kredek."
+        },
+        {
+          "id": "pl-czesci-mowy-10",
+          "prompt": "W zdaniu „Mam trzy jabłka” liczebnikiem jest…",
+          "options": [
+            "trzy",
+            "mam",
+            "jabłka"
+          ],
+          "answer": "trzy",
+          "hint": "Ile jest jabłek?",
+          "explanation": "Trzy podaje liczbę jabłek."
+        },
+        {
+          "id": "pl-czesci-mowy-11",
+          "prompt": "Który wyraz jest zaimkiem osobowym?",
+          "options": [
+            "ona",
+            "Ania",
+            "koleżanka"
+          ],
+          "answer": "ona",
+          "hint": "Ten wyraz może zastąpić imię.",
+          "explanation": "Ona to zaimek, którym można zastąpić np. imię Ania."
+        },
+        {
+          "id": "pl-czesci-mowy-12",
+          "prompt": "Zastąp „Piotr” w zdaniu „Piotr czyta” zaimkiem.",
+          "options": [
+            "On",
+            "Ona",
+            "Ono"
+          ],
+          "answer": "On",
+          "hint": "Piotr to chłopiec.",
+          "explanation": "Zamiast imienia Piotr można powiedzieć on."
+        },
+        {
+          "id": "pl-czesci-mowy-13",
+          "prompt": "Który wyraz jest przyimkiem?",
+          "options": [
+            "pod",
+            "stół",
+            "stoi"
+          ],
+          "answer": "pod",
+          "hint": "Pomyśl o wyrażeniu pod stołem.",
+          "explanation": "Pod jest przyimkiem i łączy się z rzeczownikiem."
+        },
+        {
+          "id": "pl-czesci-mowy-14",
+          "prompt": "W wyrażeniu „w ogrodzie” przyimkiem jest…",
+          "options": [
+            "w",
+            "ogrodzie",
+            "całe wyrażenie"
+          ],
+          "answer": "w",
+          "hint": "Krótki wyraz wskazuje tu miejsce.",
+          "explanation": "W jest przyimkiem, a ogrodzie formą rzeczownika ogród."
+        },
+        {
+          "id": "pl-czesci-mowy-15",
+          "prompt": "Który wyraz jest spójnikiem?",
+          "options": [
+            "i",
+            "my",
+            "las"
+          ],
+          "answer": "i",
+          "hint": "Łączy dwa wyrazy: mama … tata.",
+          "explanation": "I jest spójnikiem, np. mama i tata."
+        },
+        {
+          "id": "pl-czesci-mowy-16",
+          "prompt": "W zdaniu „Pada deszcz, ale idziemy dalej” spójnikiem jest…",
+          "options": [
+            "ale",
+            "deszcz",
+            "dalej"
+          ],
+          "answer": "ale",
+          "hint": "Poszukaj wyrazu łączącego dwie części wypowiedzi.",
+          "explanation": "Ale to spójnik łączący dwa zdania składowe."
+        },
+        {
+          "id": "pl-czesci-mowy-17",
+          "prompt": "Która grupa zawiera tylko rzeczowniki?",
+          "options": [
+            "kot, szkoła, radość",
+            "kot, miły, biega",
+            "duży, wesoły, zielony"
+          ],
+          "answer": "kot, szkoła, radość",
+          "hint": "Rzeczowniki nazywają też uczucia.",
+          "explanation": "Kot, szkoła i radość odpowiadają na pytania kto? lub co?."
+        },
+        {
+          "id": "pl-czesci-mowy-18",
+          "prompt": "Która grupa zawiera tylko czasowniki?",
+          "options": [
+            "śpi, biegnie, czyta",
+            "sen, bieg, czytanie",
+            "senny, szybki, ciekawy"
+          ],
+          "answer": "śpi, biegnie, czyta",
+          "hint": "Szukaj nazw czynności lub stanów w formach osobowych.",
+          "explanation": "Śpi, biegnie i czyta mówią o tym, co ktoś robi lub co się z nim dzieje."
+        },
+        {
+          "id": "pl-czesci-mowy-19",
+          "prompt": "Która grupa zawiera tylko przymiotniki?",
+          "options": [
+            "mały, dobry, czerwony",
+            "maluch, dobro, czerwień",
+            "maleje, pomaga, czerwienieje"
+          ],
+          "answer": "mały, dobry, czerwony",
+          "hint": "Wszystkie powinny odpowiadać na pytanie jaki?.",
+          "explanation": "Mały, dobry i czerwony nazywają cechy."
+        },
+        {
+          "id": "pl-czesci-mowy-20",
+          "prompt": "Który przymiotnik pasuje do rzeczownika „słońce”?",
+          "options": [
+            "jasne",
+            "jasna",
+            "jasny"
+          ],
+          "answer": "jasne",
+          "hint": "Powiedz: to słońce.",
+          "explanation": "Poprawne połączenie to jasne słońce; przymiotnik dopasowuje formę do rzeczownika."
+        },
+        {
+          "id": "pl-czesci-mowy-21",
+          "prompt": "Który przymiotnik pasuje do wyrażenia „dwie torby”?",
+          "options": [
+            "ciężkie",
+            "ciężka",
+            "ciężki"
+          ],
+          "answer": "ciężkie",
+          "hint": "Chodzi o więcej niż jedną torbę.",
+          "explanation": "Mówimy dwie ciężkie torby, więc potrzebna jest liczba mnoga."
+        },
+        {
+          "id": "pl-czesci-mowy-22",
+          "prompt": "Jaką częścią mowy jest „wczoraj” w zdaniu „Wczoraj padało”?",
+          "options": [
+            "przysłówkiem",
+            "rzeczownikiem",
+            "czasownikiem"
+          ],
+          "answer": "przysłówkiem",
+          "hint": "Zapytaj: kiedy padało?",
+          "explanation": "Wczoraj odpowiada na pytanie kiedy? i jest przysłówkiem."
+        },
+        {
+          "id": "pl-czesci-mowy-23",
+          "prompt": "Jaką częścią mowy jest „radość”?",
+          "options": [
+            "rzeczownikiem",
+            "przymiotnikiem",
+            "czasownikiem"
+          ],
+          "answer": "rzeczownikiem",
+          "hint": "Uczucie także ma swoją nazwę.",
+          "explanation": "Radość to rzeczownik odpowiadający na pytanie co?."
+        },
+        {
+          "id": "pl-czesci-mowy-24",
+          "prompt": "Wskaż przysłówek pasujący do „uczeń pisze…”.",
+          "options": [
+            "starannie",
+            "staranny",
+            "staranność"
+          ],
+          "answer": "starannie",
+          "hint": "Pytamy: jak pisze?",
+          "explanation": "Starannie to przysłówek określający sposób pisania."
+        },
+        {
+          "id": "pl-czesci-mowy-25",
+          "prompt": "W zdaniu „My lubimy muzykę” wyraz „my” jest…",
+          "options": [
+            "zaimkiem",
+            "przyimkiem",
+            "przymiotnikiem"
+          ],
+          "answer": "zaimkiem",
+          "hint": "Ten wyraz wskazuje grupę razem z mówiącym.",
+          "explanation": "My jest zaimkiem osobowym w liczbie mnogiej."
+        }
+      ]
+    },
+    {
+      "id": "pl-rzeczownik",
+      "subject": "polski",
+      "section": "Gramatyka",
+      "title": "Rzeczownik — liczba, rodzaj i przypadki",
+      "description": "Podstawy odmiany rzeczownika: liczba pojedyncza i mnoga, trzy rodzaje w liczbie pojedynczej oraz pytania przypadków.",
+      "questions": [
+        {
+          "id": "pl-rzeczownik-01",
+          "prompt": "Wskaż liczbę mnogą wyrazu „kot”.",
+          "options": [
+            "koty",
+            "kota",
+            "kotem"
+          ],
+          "answer": "koty",
+          "hint": "Chodzi o więcej niż jedno zwierzę.",
+          "explanation": "Kot to liczba pojedyncza, koty to liczba mnoga."
+        },
+        {
+          "id": "pl-rzeczownik-02",
+          "prompt": "Wskaż liczbę pojedynczą wyrazu „drzewa”.",
+          "options": [
+            "drzewo",
+            "drzewami",
+            "drzew"
+          ],
+          "answer": "drzewo",
+          "hint": "Chodzi o jedno drzewo.",
+          "explanation": "Jedno drzewo, wiele drzew: drzewo jest liczbą pojedynczą."
+        },
+        {
+          "id": "pl-rzeczownik-03",
+          "prompt": "W jakiej liczbie występuje „książka”?",
+          "options": [
+            "pojedynczej",
+            "mnogiej",
+            "w obu naraz"
+          ],
+          "answer": "pojedynczej",
+          "hint": "Ile książek nazywa ta forma?",
+          "explanation": "Książka nazywa jeden przedmiot, więc jest w liczbie pojedynczej."
+        },
+        {
+          "id": "pl-rzeczownik-04",
+          "prompt": "W jakiej liczbie występuje „zeszyty”?",
+          "options": [
+            "mnogiej",
+            "pojedynczej",
+            "nie ma liczby"
+          ],
+          "answer": "mnogiej",
+          "hint": "Zeszyt czy kilka zeszytów?",
+          "explanation": "Zeszyty to liczba mnoga rzeczownika zeszyt."
+        },
+        {
+          "id": "pl-rzeczownik-05",
+          "prompt": "Jaki rodzaj ma rzeczownik „stół” w liczbie pojedynczej?",
+          "options": [
+            "męski",
+            "żeński",
+            "nijaki"
+          ],
+          "answer": "męski",
+          "hint": "Dopasuj: ten, ta czy to?",
+          "explanation": "Ten stół — rodzaj męski."
+        },
+        {
+          "id": "pl-rzeczownik-06",
+          "prompt": "Jaki rodzaj ma rzeczownik „łąka”?",
+          "options": [
+            "żeński",
+            "męski",
+            "nijaki"
+          ],
+          "answer": "żeński",
+          "hint": "Dopasuj ten, ta lub to.",
+          "explanation": "Ta łąka — rodzaj żeński."
+        },
+        {
+          "id": "pl-rzeczownik-07",
+          "prompt": "Jaki rodzaj ma rzeczownik „okno”?",
+          "options": [
+            "nijaki",
+            "żeński",
+            "męski"
+          ],
+          "answer": "nijaki",
+          "hint": "Dopasuj ten, ta lub to.",
+          "explanation": "To okno — rodzaj nijaki."
+        },
+        {
+          "id": "pl-rzeczownik-08",
+          "prompt": "Który rzeczownik ma rodzaj nijaki?",
+          "options": [
+            "dziecko",
+            "dziewczynka",
+            "chłopiec"
+          ],
+          "answer": "dziecko",
+          "hint": "Sprawdź połączenia z ten, ta i to.",
+          "explanation": "Mówimy to dziecko, dlatego rzeczownik ma rodzaj nijaki."
+        },
+        {
+          "id": "pl-rzeczownik-09",
+          "prompt": "Który rzeczownik ma rodzaj żeński?",
+          "options": [
+            "szkoła",
+            "szkolny",
+            "uczeń"
+          ],
+          "answer": "szkoła",
+          "hint": "Szukasz nazwy, do której pasuje ta.",
+          "explanation": "Ta szkoła — rzeczownik rodzaju żeńskiego."
+        },
+        {
+          "id": "pl-rzeczownik-10",
+          "prompt": "Który rzeczownik ma rodzaj męski?",
+          "options": [
+            "nauczyciel",
+            "nauczycielka",
+            "boisko"
+          ],
+          "answer": "nauczyciel",
+          "hint": "Pasuje do niego ten.",
+          "explanation": "Ten nauczyciel — rodzaj męski."
+        },
+        {
+          "id": "pl-rzeczownik-11",
+          "prompt": "Ile przypadków ma polska odmiana rzeczownika?",
+          "options": [
+            "siedem",
+            "trzy",
+            "dwanaście"
+          ],
+          "answer": "siedem",
+          "hint": "Przypomnij kolejność od mianownika do wołacza.",
+          "explanation": "Jest siedem przypadków: mianownik, dopełniacz, celownik, biernik, narzędnik, miejscownik i wołacz."
+        },
+        {
+          "id": "pl-rzeczownik-12",
+          "prompt": "Na jakie pytania odpowiada mianownik?",
+          "options": [
+            "kto? co?",
+            "kogo? czego?",
+            "komu? czemu?"
+          ],
+          "answer": "kto? co?",
+          "hint": "To podstawowa postać rzeczownika.",
+          "explanation": "Mianownik odpowiada na pytania kto? co?, np. kot."
+        },
+        {
+          "id": "pl-rzeczownik-13",
+          "prompt": "Wybierz pytania dopełniacza.",
+          "options": [
+            "kogo? czego?",
+            "kim? czym?",
+            "kto? co?"
+          ],
+          "answer": "kogo? czego?",
+          "hint": "Pomaga słowo nie ma.",
+          "explanation": "Nie ma kogo? czego? — to pytania dopełniacza."
+        },
+        {
+          "id": "pl-rzeczownik-14",
+          "prompt": "Wybierz pytania celownika.",
+          "options": [
+            "komu? czemu?",
+            "kogo? co?",
+            "o kim? o czym?"
+          ],
+          "answer": "komu? czemu?",
+          "hint": "Pomaga czasownik przyglądam się.",
+          "explanation": "Przyglądam się komu? czemu? — pytania celownika."
+        },
+        {
+          "id": "pl-rzeczownik-15",
+          "prompt": "Wybierz pytania biernika.",
+          "options": [
+            "kogo? co?",
+            "kogo? czego?",
+            "kim? czym?"
+          ],
+          "answer": "kogo? co?",
+          "hint": "Pomaga czasownik widzę.",
+          "explanation": "Widzę kogo? co? — pytania biernika."
+        },
+        {
+          "id": "pl-rzeczownik-16",
+          "prompt": "Wybierz pytania narzędnika.",
+          "options": [
+            "kim? czym?",
+            "komu? czemu?",
+            "kto? co?"
+          ],
+          "answer": "kim? czym?",
+          "hint": "Pomaga czasownik interesuję się.",
+          "explanation": "Interesuję się kim? czym? — pytania narzędnika."
+        },
+        {
+          "id": "pl-rzeczownik-17",
+          "prompt": "Wybierz pytania miejscownika.",
+          "options": [
+            "o kim? o czym?",
+            "kogo? co?",
+            "kto? co?"
+          ],
+          "answer": "o kim? o czym?",
+          "hint": "Pomaga czasownik mówię o.",
+          "explanation": "Mówię o kim? o czym? — pytania miejscownika."
+        },
+        {
+          "id": "pl-rzeczownik-18",
+          "prompt": "Którego przypadka używasz, zwracając się do kogoś: „Kasiu!”?",
+          "options": [
+            "wołacza",
+            "dopełniacza",
+            "narzędnika"
+          ],
+          "answer": "wołacza",
+          "hint": "Chodzi o wołanie lub bezpośredni zwrot.",
+          "explanation": "Kasiu! to wołacz imienia Kasia."
+        },
+        {
+          "id": "pl-rzeczownik-19",
+          "prompt": "Jaki przypadek ma „kota” w zdaniu „Nie ma kota”?",
+          "options": [
+            "dopełniacz",
+            "mianownik",
+            "narzędnik"
+          ],
+          "answer": "dopełniacz",
+          "hint": "Nie ma kogo? czego?",
+          "explanation": "Nie ma kota — pytanie kogo?, czyli dopełniacz."
+        },
+        {
+          "id": "pl-rzeczownik-20",
+          "prompt": "Jaki przypadek ma „kotem” w zdaniu „Bawię się z kotem”?",
+          "options": [
+            "narzędnik",
+            "biernik",
+            "celownik"
+          ],
+          "answer": "narzędnik",
+          "hint": "Bawię się z kim?",
+          "explanation": "Z kotem odpowiada na pytanie z kim?; kotem to narzędnik."
+        },
+        {
+          "id": "pl-rzeczownik-21",
+          "prompt": "Jaki przypadek ma „psie” w zdaniu „Myślę o psie”?",
+          "options": [
+            "miejscownik",
+            "dopełniacz",
+            "biernik"
+          ],
+          "answer": "miejscownik",
+          "hint": "Myślę o kim? o czym?",
+          "explanation": "O psie zawiera rzeczownik w miejscowniku."
+        },
+        {
+          "id": "pl-rzeczownik-22",
+          "prompt": "Jaki przypadek ma „siostrze” w zdaniu „Pomagam siostrze”?",
+          "options": [
+            "celownik",
+            "mianownik",
+            "wołacz"
+          ],
+          "answer": "celownik",
+          "hint": "Pomagam komu?",
+          "explanation": "Pomagam siostrze — siostrze to celownik."
+        },
+        {
+          "id": "pl-rzeczownik-23",
+          "prompt": "Wybierz poprawną formę: Idę z…",
+          "options": [
+            "bratem.",
+            "brat.",
+            "brata."
+          ],
+          "answer": "bratem.",
+          "hint": "Idę z kim?",
+          "explanation": "Z kim? Z bratem. To forma narzędnika."
+        },
+        {
+          "id": "pl-rzeczownik-24",
+          "prompt": "Wybierz poprawną formę: Nie widzę…",
+          "options": [
+            "samochodu.",
+            "samochodem.",
+            "samochód."
+          ],
+          "answer": "samochodu.",
+          "hint": "Nie widzę czego?",
+          "explanation": "Po nie widzę używamy tu dopełniacza: samochodu."
+        },
+        {
+          "id": "pl-rzeczownik-25",
+          "prompt": "Który zestaw zawiera formy tego samego rzeczownika?",
+          "options": [
+            "dom, domu, domem",
+            "dom, domek, domowy",
+            "dom, szkoła, sklep"
+          ],
+          "answer": "dom, domu, domem",
+          "hint": "Odmiana zmienia formę jednego wyrazu, nie tworzy nowego.",
+          "explanation": "Dom, domu i domem to formy rzeczownika dom. Domek jest osobnym wyrazem."
+        }
+      ]
+    },
+    {
+      "id": "pl-zdanie",
+      "subject": "polski",
+      "section": "Gramatyka",
+      "title": "Zdanie i jego części",
+      "description": "Podmiot, orzeczenie, rodzaje wypowiedzeń, proste zdania rozwinięte i podstawowa interpunkcja.",
+      "questions": [
+        {
+          "id": "pl-zdanie-01",
+          "prompt": "Wskaż podmiot w zdaniu „Kot śpi”.",
+          "options": [
+            "kot",
+            "śpi",
+            "całe zdanie"
+          ],
+          "answer": "kot",
+          "hint": "Kto lub co wykonuje czynność?",
+          "explanation": "Kot jest podmiotem — to o nim mówi zdanie."
+        },
+        {
+          "id": "pl-zdanie-02",
+          "prompt": "Wskaż orzeczenie w zdaniu „Ola skacze”.",
+          "options": [
+            "skacze",
+            "Ola",
+            "brak orzeczenia"
+          ],
+          "answer": "skacze",
+          "hint": "Co robi Ola?",
+          "explanation": "Skacze to orzeczenie wyrażone czasownikiem."
+        },
+        {
+          "id": "pl-zdanie-03",
+          "prompt": "W zdaniu „Mały pies biegnie” podmiotem jest…",
+          "options": [
+            "pies",
+            "mały",
+            "biegnie"
+          ],
+          "answer": "pies",
+          "hint": "Zapytaj: kto biegnie?",
+          "explanation": "Pies jest podmiotem, a mały jego określeniem."
+        },
+        {
+          "id": "pl-zdanie-04",
+          "prompt": "W zdaniu „Kasia czyta ciekawą książkę” orzeczeniem jest…",
+          "options": [
+            "czyta",
+            "książkę",
+            "ciekawą"
+          ],
+          "answer": "czyta",
+          "hint": "Szukaj czasownika w formie osobowej.",
+          "explanation": "Czyta informuje o czynności Kasi i jest orzeczeniem."
+        },
+        {
+          "id": "pl-zdanie-05",
+          "prompt": "Jakim wypowiedzeniem jest „Czy lubisz jabłka?”?",
+          "options": [
+            "pytającym",
+            "oznajmującym",
+            "rozkazującym"
+          ],
+          "answer": "pytającym",
+          "hint": "Nadawca chce otrzymać odpowiedź.",
+          "explanation": "To pytanie zakończone znakiem zapytania."
+        },
+        {
+          "id": "pl-zdanie-06",
+          "prompt": "Jakim wypowiedzeniem jest „Zamknij okno.”?",
+          "options": [
+            "rozkazującym",
+            "pytającym",
+            "oznajmującym"
+          ],
+          "answer": "rozkazującym",
+          "hint": "Nadawca prosi o wykonanie czynności.",
+          "explanation": "Zamknij okno to polecenie; wypowiedzenie rozkazujące może kończyć się kropką."
+        },
+        {
+          "id": "pl-zdanie-07",
+          "prompt": "Jakim wypowiedzeniem jest „Jutro jedziemy do babci.”?",
+          "options": [
+            "oznajmującym",
+            "pytającym",
+            "rozkazującym"
+          ],
+          "answer": "oznajmującym",
+          "hint": "Zdanie przekazuje informację.",
+          "explanation": "Oznajmiamy, co zrobimy jutro, więc to zdanie oznajmujące."
+        },
+        {
+          "id": "pl-zdanie-08",
+          "prompt": "Jaki znak pasuje na końcu „Gdzie jest mój zeszyt…”?",
+          "options": [
+            "?",
+            ".",
+            ":"
+          ],
+          "answer": "?",
+          "hint": "Szukasz odpowiedzi na pytanie gdzie?.",
+          "explanation": "Bezpośrednie pytanie kończymy znakiem zapytania."
+        },
+        {
+          "id": "pl-zdanie-09",
+          "prompt": "Które zdanie jest rozkazujące?",
+          "options": [
+            "Podaj mi kredkę.",
+            "Gdzie jest kredka?",
+            "Kredka jest długa."
+          ],
+          "answer": "Podaj mi kredkę.",
+          "hint": "Poszukaj prośby lub polecenia.",
+          "explanation": "Podaj mi kredkę zawiera prośbę o wykonanie czynności."
+        },
+        {
+          "id": "pl-zdanie-10",
+          "prompt": "Które wypowiedzenie jest równoważnikiem zdania?",
+          "options": [
+            "Piękny poranek.",
+            "Nastał poranek.",
+            "Poranek jest piękny."
+          ],
+          "answer": "Piękny poranek.",
+          "hint": "W równoważniku nie ma czasownika w formie osobowej.",
+          "explanation": "Piękny poranek nie zawiera orzeczenia, więc jest równoważnikiem zdania."
+        },
+        {
+          "id": "pl-zdanie-11",
+          "prompt": "Które wypowiedzenie jest zdaniem?",
+          "options": [
+            "Ptaki śpiewają.",
+            "Wiosenny poranek.",
+            "Dużo słońca."
+          ],
+          "answer": "Ptaki śpiewają.",
+          "hint": "Szukaj czasownika w formie osobowej.",
+          "explanation": "Śpiewają jest orzeczeniem, dlatego Ptaki śpiewają to zdanie."
+        },
+        {
+          "id": "pl-zdanie-12",
+          "prompt": "Które zdanie jest pojedyncze?",
+          "options": [
+            "Ania śpiewa.",
+            "Ania śpiewa i tańczy.",
+            "Ania śpiewa, a Tomek gra."
+          ],
+          "answer": "Ania śpiewa.",
+          "hint": "Zdanie pojedyncze ma jedno orzeczenie.",
+          "explanation": "Ania śpiewa ma jedno orzeczenie: śpiewa."
+        },
+        {
+          "id": "pl-zdanie-13",
+          "prompt": "Które zdanie jest złożone?",
+          "options": [
+            "Pada deszcz i wieje wiatr.",
+            "Pada silny deszcz.",
+            "Wieje bardzo zimny wiatr."
+          ],
+          "answer": "Pada deszcz i wieje wiatr.",
+          "hint": "Znajdź dwa orzeczenia.",
+          "explanation": "Pada i wieje to dwa orzeczenia, dlatego zdanie jest złożone."
+        },
+        {
+          "id": "pl-zdanie-14",
+          "prompt": "Ile orzeczeń ma zdanie „Mama gotuje, a tata czyta”?",
+          "options": [
+            "dwa",
+            "jedno",
+            "trzy"
+          ],
+          "answer": "dwa",
+          "hint": "Szukaj osobowych form czasownika.",
+          "explanation": "Gotuje i czyta to dwa orzeczenia."
+        },
+        {
+          "id": "pl-zdanie-15",
+          "prompt": "Które zdanie jest nierozwinięte?",
+          "options": [
+            "Pies szczeka.",
+            "Mały pies szczeka.",
+            "Pies szczeka głośno."
+          ],
+          "answer": "Pies szczeka.",
+          "hint": "Zawiera tylko podmiot i orzeczenie.",
+          "explanation": "Pies szczeka ma podmiot pies i orzeczenie szczeka, bez określeń."
+        },
+        {
+          "id": "pl-zdanie-16",
+          "prompt": "Które zdanie rozwija „Ptak leci”?",
+          "options": [
+            "Mały ptak leci wysoko.",
+            "Ptak.",
+            "Leci."
+          ],
+          "answer": "Mały ptak leci wysoko.",
+          "hint": "Dodaj informacje o ptaku i locie.",
+          "explanation": "Mały i wysoko są określeniami rozbudowującymi zdanie."
+        },
+        {
+          "id": "pl-zdanie-17",
+          "prompt": "Wybierz poprawne zdanie o dzieciach.",
+          "options": [
+            "Dzieci bawią się w parku.",
+            "Dzieci bawi się w parku.",
+            "Dzieci bawisz się w parku."
+          ],
+          "answer": "Dzieci bawią się w parku.",
+          "hint": "Dzieci to liczba mnoga.",
+          "explanation": "Podmiot dzieci wymaga tu czasownika w liczbie mnogiej: bawią się."
+        },
+        {
+          "id": "pl-zdanie-18",
+          "prompt": "Wybierz poprawne zdanie o siostrze.",
+          "options": [
+            "Moja siostra czyta.",
+            "Moja siostra czytają.",
+            "Moja siostra czytamy."
+          ],
+          "answer": "Moja siostra czyta.",
+          "hint": "Siostra to jedna osoba.",
+          "explanation": "Do podmiotu moja siostra pasuje forma czyta."
+        },
+        {
+          "id": "pl-zdanie-19",
+          "prompt": "Które zdanie ma poprawną kolejność znaków?",
+          "options": [
+            "Kupiłem jabłka, gruszki i śliwki.",
+            "Kupiłem, jabłka gruszki i śliwki.",
+            "Kupiłem jabłka gruszki, i śliwki."
+          ],
+          "answer": "Kupiłem jabłka, gruszki i śliwki.",
+          "hint": "Elementy wyliczenia oddzielamy przecinkami, ale przed pojedynczym i zwykle go nie stawiamy.",
+          "explanation": "Przecinek rozdziela jabłka i gruszki; przed pojedynczym i nie jest potrzebny."
+        },
+        {
+          "id": "pl-zdanie-20",
+          "prompt": "Który zapis jest poprawny?",
+          "options": [
+            "Pada deszcz, ale jest ciepło.",
+            "Pada deszcz ale, jest ciepło.",
+            "Pada deszcz ale jest ciepło."
+          ],
+          "answer": "Pada deszcz, ale jest ciepło.",
+          "hint": "Przed ale zwykle stawiamy przecinek.",
+          "explanation": "Spójnik ale oddzielamy tutaj od wcześniejszej części przecinkiem."
+        },
+        {
+          "id": "pl-zdanie-21",
+          "prompt": "Wskaż podmiot w zdaniu „W ogrodzie rosną tulipany”.",
+          "options": [
+            "tulipany",
+            "w ogrodzie",
+            "rosną"
+          ],
+          "answer": "tulipany",
+          "hint": "Co rośnie?",
+          "explanation": "Tulipany są podmiotem, mimo że występują na końcu zdania."
+        },
+        {
+          "id": "pl-zdanie-22",
+          "prompt": "Wskaż orzeczenie w zdaniu „Wesołe dzieci szybko biegną”.",
+          "options": [
+            "biegną",
+            "wesołe",
+            "szybko"
+          ],
+          "answer": "biegną",
+          "hint": "Co robią dzieci?",
+          "explanation": "Biegną to orzeczenie; szybko określa sposób biegu."
+        },
+        {
+          "id": "pl-zdanie-23",
+          "prompt": "Jaki znak najlepiej kończy okrzyk „Ratunku…”?",
+          "options": [
+            "!",
+            "?",
+            ","
+          ],
+          "answer": "!",
+          "hint": "Okrzyk wyraża silne emocje.",
+          "explanation": "Wykrzyknik podkreśla silne emocje lub wołanie o pomoc."
+        },
+        {
+          "id": "pl-zdanie-24",
+          "prompt": "Które zdanie pyta o miejsce?",
+          "options": [
+            "Gdzie stoi rower?",
+            "Kto ma rower?",
+            "Kiedy kupisz rower?"
+          ],
+          "answer": "Gdzie stoi rower?",
+          "hint": "Pytanie o miejsce zaczyna się zwykle od gdzie?.",
+          "explanation": "Gdzie stoi rower? dotyczy miejsca, w którym rower się znajduje."
+        },
+        {
+          "id": "pl-zdanie-25",
+          "prompt": "Połącz informację: „Antek rysuje. Zosia maluje.”",
+          "options": [
+            "Antek rysuje, a Zosia maluje.",
+            "Antek rysuje Zosia maluje.",
+            "Antek, rysuje a Zosia maluje."
+          ],
+          "answer": "Antek rysuje, a Zosia maluje.",
+          "hint": "Do połączenia dwóch zdań użyj spójnika i właściwego przecinka.",
+          "explanation": "Spójnik a łączy dwie części zdania; przed nim stawiamy przecinek."
+        }
+      ]
+    },
+    {
+      "id": "pl-kleks",
+      "subject": "polski",
+      "section": "Lektury",
+      "title": "Akademia pana Kleksa",
+      "description": "Jan Brzechwa: bohaterowie, niezwykła szkoła i rozumienie opowieści. Propozycja lektury wybrana przez rodzica; podstawa 2026 pozwala wybierać książki także spoza listy. Pytania dotyczą książki, nie ekranizacji.",
+      "questions": [
+        {
+          "id": "pl-kleks-01",
+          "prompt": "Kto napisał „Akademię pana Kleksa”?",
+          "options": [
+            "Jan Brzechwa",
+            "Julian Tuwim",
+            "Andrzej Maleszka"
+          ],
+          "answer": "Jan Brzechwa",
+          "hint": "Sprawdź nazwisko autora na okładce.",
+          "explanation": "Autorem powieści jest Jan Brzechwa."
+        },
+        {
+          "id": "pl-kleks-02",
+          "prompt": "Kto opowiada o swoim pobycie w Akademii?",
+          "options": [
+            "Adaś Niezgódka",
+            "Kuki",
+            "Ania Shirley"
+          ],
+          "answer": "Adaś Niezgódka",
+          "hint": "Narrator jest również uczniem.",
+          "explanation": "Przygody relacjonuje Adaś Niezgódka."
+        },
+        {
+          "id": "pl-kleks-03",
+          "prompt": "Ile lat ma Adaś na początku książki?",
+          "options": [
+            "dwanaście",
+            "sześć",
+            "osiemnaście"
+          ],
+          "answer": "dwanaście",
+          "hint": "Przypomnij jego przedstawienie się.",
+          "explanation": "Adaś przedstawia się jako dwunastolatek."
+        },
+        {
+          "id": "pl-kleks-04",
+          "prompt": "Jak ma na imię pan Kleks?",
+          "options": [
+            "Ambroży",
+            "Antoni",
+            "Andrzej"
+          ],
+          "answer": "Ambroży",
+          "hint": "Jego imię zaczyna się od A.",
+          "explanation": "Pan Kleks ma na imię Ambroży."
+        },
+        {
+          "id": "pl-kleks-05",
+          "prompt": "Jakim ptakiem jest Mateusz?",
+          "options": [
+            "szpakiem",
+            "bocianem",
+            "wróblem"
+          ],
+          "answer": "szpakiem",
+          "hint": "Ten ptak towarzyszy nauczycielowi.",
+          "explanation": "Mateusz jest uczonym szpakiem."
+        },
+        {
+          "id": "pl-kleks-06",
+          "prompt": "Co łączy imiona chłopców przyjmowanych do Akademii?",
+          "options": [
+            "Zaczynają się od A.",
+            "Wszystkie brzmią Adam.",
+            "Zawsze mają cztery litery."
+          ],
+          "answer": "Zaczynają się od A.",
+          "hint": "Spójrz na imiona Adaś i Artur.",
+          "explanation": "Pan Kleks przyjmuje chłopców o imionach na A."
+        },
+        {
+          "id": "pl-kleks-07",
+          "prompt": "Przy jakiej ulicy znajduje się Akademia?",
+          "options": [
+            "Czekoladowej",
+            "Miodowej",
+            "Kwiatowej"
+          ],
+          "answer": "Czekoladowej",
+          "hint": "Nazwa kojarzy się ze słodyczami.",
+          "explanation": "Akademia znajduje się przy ulicy Czekoladowej."
+        },
+        {
+          "id": "pl-kleks-08",
+          "prompt": "Dokąd prowadzą niezwykłe furtki w murze Akademii?",
+          "options": [
+            "Do innych bajek.",
+            "Wyłącznie do piwnicy.",
+            "Do zwykłego sklepu sportowego."
+          ],
+          "answer": "Do innych bajek.",
+          "hint": "Łączą światy opowieści.",
+          "explanation": "Furtki umożliwiają przechodzenie do sąsiednich bajek."
+        },
+        {
+          "id": "pl-kleks-09",
+          "prompt": "Jak Mateusz wypowiada wyrazy?",
+          "options": [
+            "Mówi ich końcówki.",
+            "Zawsze mówi od tyłu.",
+            "Nigdy nie wydaje głosu."
+          ],
+          "answer": "Mówi ich końcówki.",
+          "hint": "Nie wypowiada całych słów.",
+          "explanation": "Mateusz pomija początki wyrazów."
+        },
+        {
+          "id": "pl-kleks-10",
+          "prompt": "Co wyróżnia narratora tej książki?",
+          "options": [
+            "Opowiada o własnych przeżyciach.",
+            "Jest autorem podpisanym na okładce.",
+            "Nie uczestniczy w wydarzeniach."
+          ],
+          "answer": "Opowiada o własnych przeżyciach.",
+          "hint": "Adaś mówi o tym, co sam zobaczył.",
+          "explanation": "Narrator Adaś uczestniczy w przygodach. Nie jest autorem Brzechwą."
+        },
+        {
+          "id": "pl-kleks-11",
+          "prompt": "Na lekcji kleksografii uczniowie pracują przede wszystkim z…",
+          "options": [
+            "plamami atramentu.",
+            "obliczeniami bankowymi.",
+            "częściami samochodu."
+          ],
+          "answer": "plamami atramentu.",
+          "hint": "Przypomnij, co oznacza słowo kleks.",
+          "explanation": "Kleksografia wykorzystuje atramentowe kleksy i wyobraźnię."
+        },
+        {
+          "id": "pl-kleks-12",
+          "prompt": "Jakiego przedmiotu uczy gra wielkim globusem?",
+          "options": [
+            "geografii",
+            "muzyki",
+            "historii kina"
+          ],
+          "answer": "geografii",
+          "hint": "Globus jest modelem Ziemi.",
+          "explanation": "Pan Kleks łączy geografię z grą globusem."
+        },
+        {
+          "id": "pl-kleks-13",
+          "prompt": "Która niezwykła umiejętność jest nauczana w Akademii?",
+          "options": [
+            "przędzenie liter",
+            "naprawa prawdziwych samolotów",
+            "obsługa kont bankowych"
+          ],
+          "answer": "przędzenie liter",
+          "hint": "Nawet litery mogą służyć tam zabawie.",
+          "explanation": "Przędzenie liter należy do fantastycznych lekcji."
+        },
+        {
+          "id": "pl-kleks-14",
+          "prompt": "Co pan Kleks przytwierdza rano do twarzy?",
+          "options": [
+            "piegi",
+            "pióra",
+            "muszle"
+          ],
+          "answer": "piegi",
+          "hint": "To drobne plamki na skórze.",
+          "explanation": "Pan Kleks zakłada swoje piegi."
+        },
+        {
+          "id": "pl-kleks-15",
+          "prompt": "Co w Akademii przechowuje obrazy snów uczniów?",
+          "options": [
+            "senne lusterka",
+            "zwykłe buty",
+            "mapy kontynentów"
+          ],
+          "answer": "senne lusterka",
+          "hint": "Ich nazwa łączy sen z odbiciem.",
+          "explanation": "Sny są zapisywane w sennych lusterkach."
+        },
+        {
+          "id": "pl-kleks-16",
+          "prompt": "Jaki kolor ma kamizelka pana Kleksa?",
+          "options": [
+            "cytrynowy",
+            "czarny",
+            "granatowy"
+          ],
+          "answer": "cytrynowy",
+          "hint": "Pomyśl o żółtym owocu.",
+          "explanation": "Kamizelka pana Kleksa jest cytrynowa."
+        },
+        {
+          "id": "pl-kleks-17",
+          "prompt": "Co nosi pan Kleks zamiast krawata?",
+          "options": [
+            "aksamitną kokardkę",
+            "papierowy samolot",
+            "złoty medal"
+          ],
+          "answer": "aksamitną kokardkę",
+          "hint": "To ozdoba wiązana pod szyją.",
+          "explanation": "Zamiast krawata nosi kokardkę."
+        },
+        {
+          "id": "pl-kleks-18",
+          "prompt": "Jak wyglądają włosy pana Kleksa?",
+          "options": [
+            "Mienią się barwami tęczy.",
+            "Są zawsze śnieżnobiałe.",
+            "Nauczyciel jest całkiem łysy."
+          ],
+          "answer": "Mienią się barwami tęczy.",
+          "hint": "Jego wygląd jest niezwykle kolorowy.",
+          "explanation": "Czupryna pana Kleksa ma tęczowe barwy."
+        },
+        {
+          "id": "pl-kleks-19",
+          "prompt": "Gdzie w stroju pana Kleksa jest miejsce dla Mateusza?",
+          "options": [
+            "W tylnej kieszeni surduta.",
+            "W bucie.",
+            "W rękawie koszuli."
+          ],
+          "answer": "W tylnej kieszeni surduta.",
+          "hint": "Chodzi o specjalną kieszeń wierzchniego ubrania.",
+          "explanation": "Mateusz przebywa w kieszeni z tyłu surduta."
+        },
+        {
+          "id": "pl-kleks-20",
+          "prompt": "Co niezwykłego potrafi zrobić pan Kleks, nabierając powietrza?",
+          "options": [
+            "Stać się lekki i unosić.",
+            "Zmienić się w lokomotywę.",
+            "Usunąć wszystkie kolory."
+          ],
+          "answer": "Stać się lekki i unosić.",
+          "hint": "Pomyśl o lekkości piórka.",
+          "explanation": "Nabierając powietrza, Kleks może się unosić."
+        },
+        {
+          "id": "pl-kleks-21",
+          "prompt": "Co jest w tej powieści przykładem fantastyki?",
+          "options": [
+            "Przechodzenie furtką do innej bajki.",
+            "Jedzenie obiadu.",
+            "Uczeń rozmawiający z kolegą."
+          ],
+          "answer": "Przechodzenie furtką do innej bajki.",
+          "hint": "Zdarzenie fantastyczne nie może zajść w zwykłym świecie.",
+          "explanation": "Przejście do świata bajki przekracza prawa rzeczywistości."
+        },
+        {
+          "id": "pl-kleks-22",
+          "prompt": "Który element świata Akademii mógłby istnieć w rzeczywistości?",
+          "options": [
+            "Uczeń zapisujący zdanie w zeszycie.",
+            "Lustro zapisujące sny.",
+            "Magiczna furtka do bajki."
+          ],
+          "answer": "Uczeń zapisujący zdanie w zeszycie.",
+          "hint": "Odróżnij zwykłą czynność od czarów.",
+          "explanation": "Pisanie w zeszycie jest możliwe bez magii."
+        },
+        {
+          "id": "pl-kleks-23",
+          "prompt": "Które zdanie jest opinią czytelnika, a nie informacją o książce?",
+          "options": [
+            "Pan Kleks to najciekawszy nauczyciel literacki.",
+            "Autorem książki jest Jan Brzechwa.",
+            "Narratorem jest Adaś Niezgódka."
+          ],
+          "answer": "Pan Kleks to najciekawszy nauczyciel literacki.",
+          "hint": "Ocena zależy od osoby, która ją wypowiada.",
+          "explanation": "Najciekawszy wyraża osobistą ocenę. Inni czytelnicy mogą uważać inaczej."
+        },
+        {
+          "id": "pl-kleks-24",
+          "prompt": "Uczeń mówi: „Podoba mi się szkoła Kleksa, bo lekcje rozwijają wyobraźnię”. Która część jest uzasadnieniem?",
+          "options": [
+            "bo lekcje rozwijają wyobraźnię",
+            "Podoba mi się",
+            "szkoła Kleksa"
+          ],
+          "answer": "bo lekcje rozwijają wyobraźnię",
+          "hint": "Szukaj odpowiedzi na pytanie dlaczego?.",
+          "explanation": "Uzasadnienie wyjaśnia powód opinii i zaczyna się tutaj od bo."
+        },
+        {
+          "id": "pl-kleks-25",
+          "prompt": "Jak najlepiej sprawdzić, czy wydarzenie z filmu występuje też w powieści?",
+          "options": [
+            "Odszukać je w tekście książki.",
+            "Uznać, że każda ekranizacja jest identyczna.",
+            "Sprawdzić wyłącznie plakat filmu."
+          ],
+          "answer": "Odszukać je w tekście książki.",
+          "hint": "Ekranizacja może zmieniać fabułę.",
+          "explanation": "Źródłem wiedzy o powieści jest jej tekst; film bywa swobodną adaptacją."
+        }
+      ]
+    },
+    {
+      "id": "pl-czerwone-krzeslo",
+      "subject": "polski",
+      "section": "Lektury",
+      "title": "Magiczne drzewo. Czerwone krzesło",
+      "description": "Andrzej Maleszka: rodzina Rossów, magiczny przedmiot i skutki życzeń. Cykl znajduje się w podstawie 2026 wśród przykładowych tekstów do wyboru dla IV–VIII, a nie jako obowiązkowy tytuł wyłącznie dla klasy IV.",
+      "questions": [
+        {
+          "id": "pl-czerwone-krzeslo-01",
+          "prompt": "Kto jest autorem „Czerwonego krzesła”?",
+          "options": [
+            "Andrzej Maleszka",
+            "Jan Brzechwa",
+            "Henryk Sienkiewicz"
+          ],
+          "answer": "Andrzej Maleszka",
+          "hint": "Sprawdź nazwisko twórcy cyklu.",
+          "explanation": "Książkę napisał Andrzej Maleszka."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-02",
+          "prompt": "Do jakiego cyklu należy „Czerwone krzesło”?",
+          "options": [
+            "Magiczne drzewo",
+            "Opowieści z Narnii",
+            "Mikołajek"
+          ],
+          "answer": "Magiczne drzewo",
+          "hint": "Tytuł cyklu wskazuje źródło niezwykłej mocy.",
+          "explanation": "Czerwone krzesło należy do cyklu Magiczne drzewo."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-03",
+          "prompt": "Jakie drzewo było źródłem magicznego drewna?",
+          "options": [
+            "dąb",
+            "sosna",
+            "brzoza"
+          ],
+          "answer": "dąb",
+          "hint": "To duże drzewo liściaste.",
+          "explanation": "Magicznym Drzewem był dąb."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-04",
+          "prompt": "Co powaliło Magiczne Drzewo?",
+          "options": [
+            "Piorun podczas burzy.",
+            "Równiarka podczas budowy.",
+            "Stado słoni."
+          ],
+          "answer": "Piorun podczas burzy.",
+          "hint": "Początek opowieści wiąże się z gwałtowną pogodą.",
+          "explanation": "Dąb runął po uderzeniu pioruna."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-05",
+          "prompt": "Co powstało z drewna po burzy?",
+          "options": [
+            "Wiele przedmiotów zachowujących moc.",
+            "Wyłącznie jedno krzesło.",
+            "Tylko papier bez żadnej mocy."
+          ],
+          "answer": "Wiele przedmiotów zachowujących moc.",
+          "hint": "Moc trafiła do różnych rzeczy.",
+          "explanation": "Z drewna wykonano wiele magicznych przedmiotów."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-06",
+          "prompt": "Które imiona należą do rodzeństwa z książki?",
+          "options": [
+            "Kuki, Tosia i Filip",
+            "Adaś, Albert i Artur",
+            "Ania, Marysia i Paweł"
+          ],
+          "answer": "Kuki, Tosia i Filip",
+          "hint": "Jest wśród nich jedna dziewczynka.",
+          "explanation": "Bohaterami są Kuki, Tosia i Filip."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-07",
+          "prompt": "Który z trojga rodzeństwa jest najmłodszy?",
+          "options": [
+            "Kuki",
+            "Filip",
+            "Tosia"
+          ],
+          "answer": "Kuki",
+          "hint": "To dziewięciolatek z początku powieści.",
+          "explanation": "Kuki jest najmłodszy z rodzeństwa."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-08",
+          "prompt": "Jak nazywa się rodzina dzieci?",
+          "options": [
+            "Rossowie",
+            "Niezgódkowie",
+            "Kowalscy"
+          ],
+          "answer": "Rossowie",
+          "hint": "Nazwisko pojawia się już na początku.",
+          "explanation": "Dzieci należą do rodziny Rossów."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-09",
+          "prompt": "Kim są rodzice Kukiego z zawodu?",
+          "options": [
+            "muzykami",
+            "lekarzami",
+            "astronautami"
+          ],
+          "answer": "muzykami",
+          "hint": "Ich praca wiąże się z orkiestrą.",
+          "explanation": "Rodzice są muzykami."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-10",
+          "prompt": "Na jakim instrumencie gra Tosia?",
+          "options": [
+            "na flecie",
+            "na perkusji",
+            "na harfie"
+          ],
+          "answer": "na flecie",
+          "hint": "Ten instrument zostaje uszkodzony na początku.",
+          "explanation": "Tosia gra na flecie."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-11",
+          "prompt": "Na jakim instrumencie gra Filip?",
+          "options": [
+            "na skrzypcach",
+            "na trąbce",
+            "na akordeonie"
+          ],
+          "answer": "na skrzypcach",
+          "hint": "To instrument smyczkowy.",
+          "explanation": "Filip gra na skrzypcach."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-12",
+          "prompt": "Jak ma na imię ciotka dzieci?",
+          "options": [
+            "Maryla",
+            "Zofia",
+            "Katarzyna"
+          ],
+          "answer": "Maryla",
+          "hint": "Jej wizyta wywołuje zamieszanie.",
+          "explanation": "Ciotka ma na imię Maryla."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-13",
+          "prompt": "Gdzie Kuki znajduje tytułowy przedmiot?",
+          "options": [
+            "W rzece.",
+            "Na pustyni.",
+            "W szkolnej bibliotece."
+          ],
+          "answer": "W rzece.",
+          "hint": "Przedmiot unosi się na wodzie.",
+          "explanation": "Kuki wyławia krzesło z rzeki."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-14",
+          "prompt": "Jaką moc ma czerwone krzesło?",
+          "options": [
+            "Spełnia życzenia.",
+            "Zawsze przewiduje klasówki.",
+            "Wyłącznie pokazuje godzinę."
+          ],
+          "answer": "Spełnia życzenia.",
+          "hint": "Wypowiedziane słowa mogą stawać się rzeczywistością.",
+          "explanation": "Krzesło potrafi spełniać życzenia."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-15",
+          "prompt": "Które życzenia może spełnić krzesło?",
+          "options": [
+            "Dobre i złe.",
+            "Wyłącznie dobre.",
+            "Tylko dotyczące jedzenia."
+          ],
+          "answer": "Dobre i złe.",
+          "hint": "Magia nie zastępuje rozsądku.",
+          "explanation": "Moc krzesła spełnia także niebezpieczne życzenia."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-16",
+          "prompt": "Dlaczego dzieci podejmują ważną podróż?",
+          "options": [
+            "Chcą odzyskać rodziców zmienionych przez zaklęcie.",
+            "Chcą oddać wszystkie książki.",
+            "Chcą kupić nową szkołę."
+          ],
+          "answer": "Chcą odzyskać rodziców zmienionych przez zaklęcie.",
+          "hint": "Chodzi o bliskie im osoby.",
+          "explanation": "Wyruszają, aby odzyskać rodziców."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-17",
+          "prompt": "Kto ściga bohaterów, pragnąc zdobyć krzesło?",
+          "options": [
+            "Max",
+            "Mateusz",
+            "Ambroży"
+          ],
+          "answer": "Max",
+          "hint": "To przeciwnik dzieci, nie nauczyciel z innej książki.",
+          "explanation": "Krzesła pragnie Max."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-18",
+          "prompt": "Który element przygód jest fantastyczny?",
+          "options": [
+            "Most zbudowany ze światła.",
+            "Zakupy w cukierni.",
+            "Rozmowa rodzeństwa."
+          ],
+          "answer": "Most zbudowany ze światła.",
+          "hint": "Szukaj rzeczy niemożliwej bez magii.",
+          "explanation": "Most ze światła należy do fantastycznego świata powieści."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-19",
+          "prompt": "Co mogłoby wydarzyć się także w rzeczywistości?",
+          "options": [
+            "Dzieci martwią się o rodziców.",
+            "Dom sam lata nad miastem.",
+            "Krzesło spełnia życzenia."
+          ],
+          "answer": "Dzieci martwią się o rodziców.",
+          "hint": "Uczucia bohaterów mogą być nam bliskie.",
+          "explanation": "Troska o rodzinę jest realistycznym uczuciem, nawet w opowieści pełnej magii."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-20",
+          "prompt": "Która rada najlepiej wynika z historii o niebezpiecznych życzeniach?",
+          "options": [
+            "Zastanów się nad skutkami swoich słów.",
+            "Każde życzenie zawsze pomaga wszystkim.",
+            "Nie trzeba brać odpowiedzialności za swoje decyzje."
+          ],
+          "answer": "Zastanów się nad skutkami swoich słów.",
+          "hint": "Pomyśl o skutkach, których nikt nie chciał.",
+          "explanation": "Nieprzemyślane życzenia mogą szkodzić. Warto przewidywać konsekwencje decyzji."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-21",
+          "prompt": "Uczeń opisuje Kukiego jako odważnego. Co najlepiej uzasadni jego opinię?",
+          "options": [
+            "Przykład konkretnego działania bohatera mimo strachu.",
+            "Wyłącznie kolor okładki.",
+            "Liczba stron książki."
+          ],
+          "answer": "Przykład konkretnego działania bohatera mimo strachu.",
+          "hint": "Cechę postaci uzasadnia się jej zachowaniem.",
+          "explanation": "Przykład z postępowania bohatera jest argumentem w charakterystyce."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-22",
+          "prompt": "Które zdanie wyraża opinię?",
+          "options": [
+            "Czerwone krzesło to najbardziej wciągająca książka.",
+            "Andrzej Maleszka napisał Czerwone krzesło.",
+            "Tosia jest jedną z bohaterek."
+          ],
+          "answer": "Czerwone krzesło to najbardziej wciągająca książka.",
+          "hint": "Osobista ocena może różnić się u różnych czytelników.",
+          "explanation": "Słowa najbardziej wciągająca wyrażają ocenę czytelnika."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-23",
+          "prompt": "Który tytuł rozdziału najlepiej zapowiadałby scenę odkrycia krzesła przez Kukiego?",
+          "options": [
+            "Niezwykłe znalezisko w rzece",
+            "Pierwszy lot na Marsa",
+            "Lekcja u pana Kleksa"
+          ],
+          "answer": "Niezwykłe znalezisko w rzece",
+          "hint": "Dopasuj propozycję do bohatera i miejsca.",
+          "explanation": "To autorska propozycja tytułu opisującego znalezienie krzesła, a nie cytat z książki."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-24",
+          "prompt": "Wybierz poprawną kolejność wydarzeń początku historii.",
+          "options": [
+            "Burza — wykonanie krzesła — znalezienie go przez Kukiego.",
+            "Znalezienie krzesła — burza — wykonanie krzesła.",
+            "Wykonanie krzesła — znalezienie go — powstanie drzewa."
+          ],
+          "answer": "Burza — wykonanie krzesła — znalezienie go przez Kukiego.",
+          "hint": "Najpierw potrzebne było drewno na magiczny przedmiot.",
+          "explanation": "Krzesło wykonano po upadku drzewa, a dopiero później znalazł je Kuki."
+        },
+        {
+          "id": "pl-czerwone-krzeslo-25",
+          "prompt": "Które zdanie jest dobrym wstępem do opisu bohaterów tej książki?",
+          "options": [
+            "Kuki, Tosia i Filip są rodzeństwem przeżywającym niezwykłe przygody.",
+            "Adaś prowadzi własną Akademię pana Kleksa.",
+            "Każdy bohater tej książki jest dorosłym królem."
+          ],
+          "answer": "Kuki, Tosia i Filip są rodzeństwem przeżywającym niezwykłe przygody.",
+          "hint": "Początek opisu powinien poprawnie przedstawić postacie.",
+          "explanation": "Pierwsze zdanie określa bohaterów i ich pokrewieństwo; pozostałe nie pasują do książki."
+        }
+      ]
+    },
+    {
+      "id": "pl-dzial-2-wypowiedzenia",
+      "subject": "polski",
+      "section": "Gramatyka",
+      "title": "Dział II: rodzaje wypowiedzeń i znaki interpunkcyjne",
+      "description": "Dwa zestawy po 20 pytań — 40 różnych pytań bez powtórek między A i B. W każdym: 10 zadań o wypowiedzeniach i 10 o interpunkcji. Podpowiedzi, wyjaśnienia i osobny zapis każdego wyniku. 1 punkt za pytanie, maksymalnie 20.",
+      "fixed_tests": [
+        {
+          "id": "pl-d2-zestaw-a-v1",
+          "name": "Dział II — zestaw A",
+          "question_ids": [
+            "pl-d2-01",
+            "pl-d2-02",
+            "pl-d2-03",
+            "pl-d2-04",
+            "pl-d2-05",
+            "pl-d2-06",
+            "pl-d2-07",
+            "pl-d2-08",
+            "pl-d2-09",
+            "pl-d2-10",
+            "pl-d2-11",
+            "pl-d2-12",
+            "pl-d2-13",
+            "pl-d2-14",
+            "pl-d2-15",
+            "pl-d2-16",
+            "pl-d2-17",
+            "pl-d2-18",
+            "pl-d2-19",
+            "pl-d2-20"
+          ]
+        },
+        {
+          "id": "pl-d2-zestaw-b-v1",
+          "name": "Dział II — zestaw B",
+          "question_ids": [
+            "pl-d2-21",
+            "pl-d2-22",
+            "pl-d2-23",
+            "pl-d2-24",
+            "pl-d2-25",
+            "pl-d2-26",
+            "pl-d2-27",
+            "pl-d2-28",
+            "pl-d2-29",
+            "pl-d2-30",
+            "pl-d2-31",
+            "pl-d2-32",
+            "pl-d2-33",
+            "pl-d2-34",
+            "pl-d2-35",
+            "pl-d2-36",
+            "pl-d2-37",
+            "pl-d2-38",
+            "pl-d2-39",
+            "pl-d2-40"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "pl-d2-01",
+          "skill": "wypowiedzenia",
+          "prompt": "Jaki to rodzaj wypowiedzenia ze względu na cel?\n„Jutro klasa odwiedzi planetarium”.",
+          "options": [
+            "oznajmujące",
+            "pytające",
+            "rozkazujące"
+          ],
+          "answer": "oznajmujące",
+          "hint": "Sprawdź, czy mówiący przekazuje wiadomość, zadaje pytanie, czy nakłania kogoś do działania.",
+          "explanation": "To wypowiedzenie oznajmujące: przekazuje informację o planowanej wycieczce."
+        },
+        {
+          "id": "pl-d2-02",
+          "skill": "wypowiedzenia",
+          "prompt": "Które wypowiedzenie jest pytające?",
+          "options": [
+            "O której odjeżdża pociąg?",
+            "Pociąg odjeżdża za chwilę.",
+            "Wsiądź do pociągu."
+          ],
+          "answer": "O której odjeżdża pociąg?",
+          "hint": "Wypowiedzenie pytające służy uzyskaniu odpowiedzi. Może zaczynać się na przykład od „kiedy” lub „o której”.",
+          "explanation": "„O której odjeżdża pociąg?” to pytanie o godzinę. Pozostałe wypowiedzenia informują lub polecają coś zrobić."
+        },
+        {
+          "id": "pl-d2-03",
+          "skill": "wypowiedzenia",
+          "prompt": "Nauczyciel mówi: „Ustawcie się parami”. Jakie wypowiedzenie wybrał, aby wydać polecenie?",
+          "options": [
+            "rozkazujące",
+            "oznajmujące",
+            "pytające"
+          ],
+          "answer": "rozkazujące",
+          "hint": "O rodzaju wypowiedzenia decyduje jego cel. Polecenie może być spokojne i kończyć się kropką.",
+          "explanation": "„Ustawcie się parami” to wypowiedzenie rozkazujące, bo nakłania do wykonania czynności. Nie musi kończyć się wykrzyknikiem."
+        },
+        {
+          "id": "pl-d2-04",
+          "skill": "wypowiedzenia",
+          "prompt": "Zamień informację na pytanie, na które można odpowiedzieć „tak” lub „nie”.\n„Oskar wrócił już z basenu”.",
+          "options": [
+            "Czy Oskar wrócił już z basenu?",
+            "Oskarze, wróć już z basenu!",
+            "Oskar nie wrócił jeszcze z basenu."
+          ],
+          "answer": "Czy Oskar wrócił już z basenu?",
+          "hint": "Pytanie o potwierdzenie informacji możesz rozpocząć od „czy”. Zachowaj osobę i czynność z podanego zdania.",
+          "explanation": "„Czy Oskar wrócił już z basenu?” sprawdza prawdziwość podanej informacji. Kończymy je znakiem zapytania."
+        },
+        {
+          "id": "pl-d2-05",
+          "skill": "wypowiedzenia",
+          "prompt": "Które wypowiedzenie pasuje do instrukcji dla ucznia, który ma coś wykonać?",
+          "options": [
+            "Zapisz datę w zeszycie.",
+            "Data jest na tablicy.",
+            "Gdzie jest mój zeszyt?"
+          ],
+          "answer": "Zapisz datę w zeszycie.",
+          "hint": "W instrukcji przydaje się forma czasownika wskazująca, co należy zrobić, na przykład „narysuj”.",
+          "explanation": "„Zapisz datę w zeszycie” jest poleceniem, więc pasuje do instrukcji. To wypowiedzenie rozkazujące."
+        },
+        {
+          "id": "pl-d2-06",
+          "skill": "wypowiedzenia",
+          "prompt": "„Ależ tu pięknie!” wyraża silny zachwyt. Jak nazywamy wypowiedzenie ze względu na takie zabarwienie uczuciowe?",
+          "options": [
+            "wykrzyknikowe",
+            "niewykrzyknikowe, czyli neutralne uczuciowo",
+            "zawsze pytające"
+          ],
+          "answer": "wykrzyknikowe",
+          "hint": "Cel wypowiedzi i wyrażane emocje to dwa różne kryteria. Zwróć uwagę na silne uczucie i znak na końcu.",
+          "explanation": "To wypowiedzenie wykrzyknikowe. Wykrzyknik podkreśla zachwyt. Silne emocje mogą towarzyszyć różnym rodzajom wypowiedzeń."
+        },
+        {
+          "id": "pl-d2-07",
+          "skill": "wypowiedzenia",
+          "prompt": "Dlaczego wypowiedzenie „Na stoliku stoi wazon” jest zdaniem?",
+          "options": [
+            "Ma orzeczenie „stoi”.",
+            "Każda grupa czterech wyrazów jest zdaniem.",
+            "Występuje w nim rzeczownik „wazon”."
+          ],
+          "answer": "Ma orzeczenie „stoi”.",
+          "hint": "Szukaj orzeczenia. W tym przykładzie jest nim czasownik w formie osobowej, który mówi, co dzieje się z wazonem.",
+          "explanation": "Orzeczenie „stoi” sprawia, że to wypowiedzenie jest zdaniem. Sama liczba wyrazów ani obecność rzeczownika o tym nie decydują."
+        },
+        {
+          "id": "pl-d2-08",
+          "skill": "wypowiedzenia",
+          "prompt": "Wybierz równoważnik zdania — wypowiedzenie bez orzeczenia.",
+          "options": [
+            "Zbiórka przed kinem.",
+            "Spotykamy się przed kinem.",
+            "Czy kino jest otwarte?"
+          ],
+          "answer": "Zbiórka przed kinem.",
+          "hint": "W podanych zdaniach odszukaj czasowniki w formie osobowej. Równoważnik przekazuje treść, choć nie ma orzeczenia.",
+          "explanation": "„Zbiórka przed kinem” nie zawiera orzeczenia. W pozostałych przykładach orzeczeniami są „spotykamy się” i „jest”."
+        },
+        {
+          "id": "pl-d2-09",
+          "skill": "wypowiedzenia",
+          "prompt": "„Wiatr ucichł”. Jakie to zdanie ze względu na liczbę orzeczeń?",
+          "options": [
+            "pojedyncze",
+            "złożone",
+            "To równoważnik zdania."
+          ],
+          "answer": "pojedyncze",
+          "hint": "Jedno orzeczenie oznacza zdanie pojedyncze. Dwa lub więcej tworzą zdanie złożone.",
+          "explanation": "To zdanie pojedyncze, ponieważ ma jedno orzeczenie: „ucichł”."
+        },
+        {
+          "id": "pl-d2-10",
+          "skill": "wypowiedzenia",
+          "prompt": "Ile orzeczeń ma zdanie „Dzwonek zadzwonił i uczniowie weszli do sali”?",
+          "options": [
+            "Dwa: „zadzwonił” i „weszli”.",
+            "Jedno: tylko „zadzwonił”.",
+            "Trzy: „dzwonek”, „uczniowie” i „sali”."
+          ],
+          "answer": "Dwa: „zadzwonił” i „weszli”.",
+          "hint": "Znajdź osobno czynność dzwonka i czynność uczniów. Nazwy osób, rzeczy i miejsc nie są tu orzeczeniami.",
+          "explanation": "Są dwa orzeczenia: „zadzwonił” i „weszli”. Dlatego jest to zdanie złożone."
+        },
+        {
+          "id": "pl-d2-11",
+          "skill": "interpunkcja",
+          "prompt": "Uzupełnij spokojną informację zwykłym znakiem kończącym zdanie.\nJutro biblioteka jest zamknięta___",
+          "options": [
+            "kropka (.)",
+            "znak zapytania (?)",
+            "przecinek (,)"
+          ],
+          "answer": "kropka (.)",
+          "hint": "To zwykła informacja, a nie pytanie. Potrzebny jest znak, który zamknie całe zdanie.",
+          "explanation": "Poprawny zapis: „Jutro biblioteka jest zamknięta.” Zwykłe zdanie oznajmujące kończymy kropką."
+        },
+        {
+          "id": "pl-d2-12",
+          "skill": "interpunkcja",
+          "prompt": "Wybierz znak kończący zwykłe pytanie o cel podróży.\nDokąd płynie ten statek___",
+          "options": [
+            "znak zapytania (?)",
+            "kropka (.)",
+            "dwukropek (:)"
+          ],
+          "answer": "znak zapytania (?)",
+          "hint": "Wyraz „dokąd” wprowadza pytanie. Znak na końcu powinien pokazywać, że oczekujemy odpowiedzi.",
+          "explanation": "Poprawny zapis: „Dokąd płynie ten statek?” Pytanie kończymy znakiem zapytania."
+        },
+        {
+          "id": "pl-d2-13",
+          "skill": "interpunkcja",
+          "prompt": "Ktoś krzyczy, aby ostrzec kolegę przed niebezpieczeństwem. Który znak najlepiej podkreśli alarmujący ton?\nUwaga, nadjeżdża samochód___",
+          "options": [
+            "wykrzyknik (!)",
+            "znak zapytania (?)",
+            "średnik (;)"
+          ],
+          "answer": "wykrzyknik (!)",
+          "hint": "Silne emocje, ostrzeżenie lub okrzyk często zaznaczamy specjalnym znakiem na końcu wypowiedzenia.",
+          "explanation": "„Uwaga, nadjeżdża samochód!” Wykrzyknik podkreśla pilne ostrzeżenie."
+        },
+        {
+          "id": "pl-d2-14",
+          "skill": "interpunkcja",
+          "prompt": "Wybierz poprawny zapis wyliczenia zakupów.",
+          "options": [
+            "Do koszyka włożyłem chleb, ser i pomidory.",
+            "Do koszyka włożyłem chleb ser i pomidory.",
+            "Do koszyka włożyłem chleb, ser, i pomidory."
+          ],
+          "answer": "Do koszyka włożyłem chleb, ser i pomidory.",
+          "hint": "Elementy wyliczenia oddzielamy przecinkami. Przed pojedynczym „i”, które łączy ostatnie elementy takiej listy, nie stawiamy przecinka.",
+          "explanation": "Przecinek oddziela „chleb” od „sera”. W tym wyliczeniu przed pojedynczym „i” nie ma przecinka: „chleb, ser i pomidory”."
+        },
+        {
+          "id": "pl-d2-15",
+          "skill": "interpunkcja",
+          "prompt": "W którym zdaniu przecinek stoi we właściwym miejscu?",
+          "options": [
+            "Chciałem pójść na boisko, ale zaczął padać śnieg.",
+            "Chciałem pójść na boisko ale, zaczął padać śnieg.",
+            "Chciałem pójść na boisko ale zaczął padać śnieg."
+          ],
+          "answer": "Chciałem pójść na boisko, ale zaczął padać śnieg.",
+          "hint": "Słowo „ale” łączy tutaj dwie części zdania i wskazuje przeciwstawienie. Przecinek stawiamy przed tym słowem.",
+          "explanation": "Poprawnie: „Chciałem pójść na boisko, ale zaczął padać śnieg.” Przecinek znajduje się przed „ale”, a nie po nim."
+        },
+        {
+          "id": "pl-d2-16",
+          "skill": "interpunkcja",
+          "prompt": "Jaki znak wstawisz w lukę, aby zapowiedzieć wyliczenie?\nPotrzebne są trzy rzeczy___ klej, papier i nożyczki.",
+          "options": [
+            "dwukropek (:)",
+            "znak zapytania (?)",
+            "wykrzyknik (!)"
+          ],
+          "answer": "dwukropek (:)",
+          "hint": "Pierwsza część zapowiada listę rzeczy. Potrzebny jest znak otwierający to wyliczenie.",
+          "explanation": "„Potrzebne są trzy rzeczy: klej, papier i nożyczki.” Dwukropek wprowadza zapowiedziane wyliczenie."
+        },
+        {
+          "id": "pl-d2-17",
+          "skill": "interpunkcja",
+          "prompt": "Który znak obejmuje dokładnie przytoczone słowa babci?\nBabcia powiedziała: „Pora na obiad”.",
+          "options": [
+            "cudzysłów („ ”)",
+            "nawias ( )",
+            "wielokropek (…)"
+          ],
+          "answer": "cudzysłów („ ”)",
+          "hint": "Przytoczone słowa mają znak otwierający i zamykający. Nie są dopiskiem w nawiasie.",
+          "explanation": "Cudzysłów obejmuje słowa „Pora na obiad”, czyli dokładną wypowiedź babci."
+        },
+        {
+          "id": "pl-d2-18",
+          "skill": "interpunkcja",
+          "prompt": "Co sygnalizuje wielokropek w zdaniu?\n„Już miałem otworzyć drzwi, gdy nagle…”",
+          "options": [
+            "Urwanie wypowiedzi i pozostawienie jej bez dopowiedzenia.",
+            "Początek wyliczenia przedmiotów.",
+            "Zapisanie czyjegoś imienia."
+          ],
+          "answer": "Urwanie wypowiedzi i pozostawienie jej bez dopowiedzenia.",
+          "hint": "Zauważ, że nie dowiadujemy się, co stało się nagle. Wypowiedź zostaje zawieszona.",
+          "explanation": "Wielokropek pokazuje urwanie wypowiedzi. W tym przykładzie buduje też oczekiwanie na dalszy ciąg."
+        },
+        {
+          "id": "pl-d2-19",
+          "skill": "interpunkcja",
+          "prompt": "Do czego służy pierwszy myślnik w zapisie?\n— Zaczekaj na mnie! — zawołał Michał.",
+          "options": [
+            "Rozpoczyna wypowiedź bohatera w dialogu.",
+            "Zastępuje znak zapytania.",
+            "Oddziela elementy wyliczenia."
+          ],
+          "answer": "Rozpoczyna wypowiedź bohatera w dialogu.",
+          "hint": "W opowiadaniu wypowiedź postaci możemy rozpocząć od nowej linii i myślnika.",
+          "explanation": "Pierwszy myślnik otwiera kwestię dialogową Michała. Drugi oddziela ją od słów narratora: „zawołał Michał”."
+        },
+        {
+          "id": "pl-d2-20",
+          "skill": "interpunkcja",
+          "prompt": "Zwracasz się bezpośrednio do Leny. Wybierz poprawny zapis prośby.",
+          "options": [
+            "Leno, podaj mi linijkę.",
+            "Leno podaj mi linijkę.",
+            "Leno podaj, mi linijkę."
+          ],
+          "answer": "Leno, podaj mi linijkę.",
+          "hint": "Imię osoby, do której się zwracasz, oddziel przecinkiem od dalszej części wypowiedzi.",
+          "explanation": "„Leno, podaj mi linijkę.” Wołacz „Leno” to bezpośredni zwrot do rozmówczyni, dlatego oddzielamy go przecinkiem."
+        },
+        {
+          "id": "pl-d2-21",
+          "skill": "wypowiedzenia",
+          "prompt": "W jakim celu użyto wypowiedzenia „Mój królik ma białe uszy”?",
+          "options": [
+            "Aby przekazać informację o króliku.",
+            "Aby poprosić o nakarmienie królika.",
+            "Aby zapytać o kolor uszu."
+          ],
+          "answer": "Aby przekazać informację o króliku.",
+          "hint": "Przeczytaj wypowiedź dosłownie. Czy ktoś czegoś się dowiaduje, ma coś zrobić, czy ma odpowiedzieć na pytanie?",
+          "explanation": "Wypowiedzenie przekazuje informację o wyglądzie królika, więc jest oznajmujące."
+        },
+        {
+          "id": "pl-d2-22",
+          "skill": "wypowiedzenia",
+          "prompt": "Wiesz, że Zosia coś znalazła. Którym pytaniem dowiesz się, JAKI PRZEDMIOT znalazła?",
+          "options": [
+            "Co znalazła Zosia?",
+            "Kiedy Zosia znalazła klucz?",
+            "Kto znalazł klucz?"
+          ],
+          "answer": "Co znalazła Zosia?",
+          "hint": "„Kto” pyta o osobę, a „kiedy” o czas. Wybierz pytanie o rzecz.",
+          "explanation": "„Co znalazła Zosia?” to pytanie o znaleziony przedmiot. Pozostałe pytania dotyczą czasu lub osoby."
+        },
+        {
+          "id": "pl-d2-23",
+          "skill": "wypowiedzenia",
+          "prompt": "Na tabliczce w ogrodzie napisano: „Nie zrywaj kwiatów!” Jaki to rodzaj wypowiedzenia ze względu na cel?",
+          "options": [
+            "rozkazujące",
+            "pytające",
+            "oznajmujące"
+          ],
+          "answer": "rozkazujące",
+          "hint": "Zakaz również nakłania odbiorcę do określonego zachowania. Nie myl celu wypowiedzi z jej emocjonalnym brzmieniem.",
+          "explanation": "To wypowiedzenie rozkazujące: zabrania zrywania kwiatów. Wykrzyknik wzmacnia jego stanowczy ton."
+        },
+        {
+          "id": "pl-d2-24",
+          "skill": "wypowiedzenia",
+          "prompt": "W której parze OBA wypowiedzenia są pytające?",
+          "options": [
+            "Czy masz bilet? Dokąd jedziesz?",
+            "Mam bilet. Dokąd jedziesz?",
+            "Pokaż bilet. Wsiądź do autobusu."
+          ],
+          "answer": "Czy masz bilet? Dokąd jedziesz?",
+          "hint": "Sprawdź każde wypowiedzenie w parze. Oba muszą służyć uzyskaniu odpowiedzi.",
+          "explanation": "„Czy masz bilet?” i „Dokąd jedziesz?” są pytaniami. „Mam bilet” to informacja, a „Pokaż bilet” i „Wsiądź do autobusu” to polecenia."
+        },
+        {
+          "id": "pl-d2-25",
+          "skill": "wypowiedzenia",
+          "prompt": "Które wypowiedzenie wyraża prośbę o pomoc?",
+          "options": [
+            "Pomóż mi, proszę.",
+            "Potrafię sam zawiązać buty.",
+            "Dlaczego te sznurówki są takie długie?"
+          ],
+          "answer": "Pomóż mi, proszę.",
+          "hint": "Prośba zachęca rozmówcę, aby coś zrobił. Może zawierać uprzejme słowo „proszę”.",
+          "explanation": "„Pomóż mi, proszę” jest prośbą, czyli wypowiedzeniem rozkazującym. Ten rodzaj obejmuje także uprzejme prośby, nie tylko rozkazy."
+        },
+        {
+          "id": "pl-d2-26",
+          "skill": "wypowiedzenia",
+          "prompt": "Porównaj: „Spakuj plecak.” i „Spakuj plecak!” Które wyjaśnienie jest poprawne?",
+          "options": [
+            "Oba wypowiedzenia są rozkazujące; wykrzyknik wzmacnia ton drugiego.",
+            "Tylko wypowiedzenie z wykrzyknikiem może być rozkazujące.",
+            "Kropka sprawia, że pierwsze wypowiedzenie staje się pytaniem."
+          ],
+          "answer": "Oba wypowiedzenia są rozkazujące; wykrzyknik wzmacnia ton drugiego.",
+          "hint": "Najpierw sprawdź, czy oba wypowiedzenia są poleceniami. Dopiero potem porównaj ich ton.",
+          "explanation": "Oba polecenia są rozkazujące. Kropka pozwala zapisać spokojne polecenie, a wykrzyknik nadaje mu większą siłę."
+        },
+        {
+          "id": "pl-d2-27",
+          "skill": "wypowiedzenia",
+          "prompt": "Zamień równoważnik „Start wyścigu o dziesiątej” na zdanie, zachowując informację o porze startu.",
+          "options": [
+            "Wyścig zaczyna się o dziesiątej.",
+            "Początek wyścigu o dziesiątej.",
+            "O dziesiątej start wyścigu."
+          ],
+          "answer": "Wyścig zaczyna się o dziesiątej.",
+          "hint": "W zdaniu potrzebne jest orzeczenie. Poszukaj odpowiedzi z czasownikiem mówiącym, co dzieje się z wyścigiem.",
+          "explanation": "„Wyścig zaczyna się o dziesiątej” ma orzeczenie „zaczyna się”. Dwie pozostałe odpowiedzi nadal są równoważnikami zdań."
+        },
+        {
+          "id": "pl-d2-28",
+          "skill": "wypowiedzenia",
+          "prompt": "Czy „Dlaczego żółw tak wolno chodzi?” jest zdaniem?",
+          "options": [
+            "Tak, ponieważ ma orzeczenie „chodzi”.",
+            "Nie, ponieważ każde zdanie musi kończyć się kropką.",
+            "Nie, ponieważ pytania nie mogą być zdaniami."
+          ],
+          "answer": "Tak, ponieważ ma orzeczenie „chodzi”.",
+          "hint": "Pytanie także może być zdaniem. Odszukaj wyraz, który nazywa czynność żółwia.",
+          "explanation": "To zdanie pytające. Ma orzeczenie „chodzi”, a znak zapytania nie odbiera mu cech zdania."
+        },
+        {
+          "id": "pl-d2-29",
+          "skill": "wypowiedzenia",
+          "prompt": "Które wypowiedzenie jest zdaniem pojedynczym?",
+          "options": [
+            "Po lekcjach Kuba odwiedzi kolegę z sąsiedztwa.",
+            "Słońce zaszło i zapaliły się latarnie.",
+            "Wizyta u kolegi po lekcjach."
+          ],
+          "answer": "Po lekcjach Kuba odwiedzi kolegę z sąsiedztwa.",
+          "hint": "Długość wypowiedzi nie decyduje o tym, czy zdanie jest pojedyncze. Policz orzeczenia.",
+          "explanation": "Zdanie o Kubie ma jedno orzeczenie: „odwiedzi”. Zdanie o słońcu i latarniach ma dwa, a „Wizyta u kolegi po lekcjach” nie ma orzeczenia."
+        },
+        {
+          "id": "pl-d2-30",
+          "skill": "wypowiedzenia",
+          "prompt": "Połącz dwie informacje w JEDNO zdanie złożone.\nPociąg ruszył. Podróżni pomachali.",
+          "options": [
+            "Pociąg ruszył, a podróżni pomachali.",
+            "Pociąg ruszył. Podróżni pomachali.",
+            "Ruszający pociąg i machający podróżni."
+          ],
+          "answer": "Pociąg ruszył, a podróżni pomachali.",
+          "hint": "Zachowaj oba orzeczenia i połącz części zdania. Dwie osobne kropki nadal rozdzielałyby dwa zdania.",
+          "explanation": "„Pociąg ruszył, a podróżni pomachali” to jedno zdanie złożone z dwoma orzeczeniami: „ruszył” i „pomachali”."
+        },
+        {
+          "id": "pl-d2-31",
+          "skill": "interpunkcja",
+          "prompt": "Rozmówca najpierw zadaje zwykłe pytanie, a potem słyszy spokojną odpowiedź. Który zapis ma właściwe znaki na końcu obu zdań?",
+          "options": [
+            "Dokąd idziesz? Wracam do domu.",
+            "Dokąd idziesz. Wracam do domu?",
+            "Dokąd idziesz, Wracam do domu,"
+          ],
+          "answer": "Dokąd idziesz? Wracam do domu.",
+          "hint": "Pierwsze zdanie pyta o miejsce. Drugie przekazuje informację i zamyka wypowiedź.",
+          "explanation": "Pytanie „Dokąd idziesz?” kończy się znakiem zapytania, a spokojna odpowiedź „Wracam do domu.” — kropką."
+        },
+        {
+          "id": "pl-d2-32",
+          "skill": "interpunkcja",
+          "prompt": "Co oznacza kropka po „godz.” w zapisie „Spotkanie o godz. 16.00”?",
+          "options": [
+            "Należy do skrótu wyrazu „godzina”.",
+            "Kończy całe wypowiedzenie przed godziną spotkania.",
+            "Pokazuje, że należy zadać pytanie."
+          ],
+          "answer": "Należy do skrótu wyrazu „godzina”.",
+          "hint": "Kropka ma kilka zastosowań. Sprawdź, czy „godz.” jest pełnym wyrazem, czy jego skrótem.",
+          "explanation": "„Godz.” to skrót wyrazu „godzina”, zapisywany z kropką. Ta kropka nie kończy wypowiedzenia — po niej podajemy jeszcze godzinę."
+        },
+        {
+          "id": "pl-d2-33",
+          "skill": "interpunkcja",
+          "prompt": "Jakie uczucie podkreśla wykrzyknik w okrzyku „Hurra!” po wygranym meczu?",
+          "options": [
+            "radość",
+            "strach",
+            "złość"
+          ],
+          "answer": "radość",
+          "hint": "Wykrzyknik może towarzyszyć różnym emocjom. Tutaj chodzi o świętowanie zwycięstwa.",
+          "explanation": "„Hurra!” to okrzyk radości. Wykrzyknik podkreśla silne uczucie, nie jest wyłącznie znakiem rozkazu."
+        },
+        {
+          "id": "pl-d2-34",
+          "skill": "interpunkcja",
+          "prompt": "Wybierz zdanie, w którym poprawnie oddzielono wszystkie elementy wyliczenia.",
+          "options": [
+            "Na półce leżą gry, puzzle, klocki i albumy.",
+            "Na półce leżą gry puzzle, klocki i albumy.",
+            "Na półce leżą gry, puzzle, klocki, i albumy."
+          ],
+          "answer": "Na półce leżą gry, puzzle, klocki i albumy.",
+          "hint": "Lista ma cztery elementy. Między pierwszymi potrzebne są przecinki; ostatnią parę łączy pojedyncze „i”.",
+          "explanation": "Poprawne wyliczenie to „gry, puzzle, klocki i albumy”. W tym zapisie przed pojedynczym „i” nie stawiamy przecinka."
+        },
+        {
+          "id": "pl-d2-35",
+          "skill": "interpunkcja",
+          "prompt": "Wybierz poprawny zapis zdania wyjaśniającego przyczynę.",
+          "options": [
+            "Zostałem w domu, bo bolało mnie gardło.",
+            "Zostałem w domu bo bolało mnie gardło.",
+            "Zostałem w domu bo, bolało mnie gardło."
+          ],
+          "answer": "Zostałem w domu, bo bolało mnie gardło.",
+          "hint": "Słowo „bo” wprowadza część zdania, która odpowiada na pytanie „dlaczego?”. Oddziel ją przecinkiem od wcześniejszej części.",
+          "explanation": "W tym zdaniu przecinek stawiamy przed „bo”: „Zostałem w domu, bo bolało mnie gardło”."
+        },
+        {
+          "id": "pl-d2-36",
+          "skill": "interpunkcja",
+          "prompt": "Który zapis jest poprawny? W tym prostym zdaniu nie ma wyliczenia ani wtrącenia.",
+          "options": [
+            "Mały jeż śpi pod krzakiem.",
+            "Mały jeż, śpi pod krzakiem.",
+            "Mały, jeż śpi pod krzakiem."
+          ],
+          "answer": "Mały jeż śpi pod krzakiem.",
+          "hint": "Nie wstawiamy przecinka tylko dlatego, że podczas czytania można zrobić pauzę. Nie oddzielaj tu podmiotu od orzeczenia ani przymiotnika od rzeczownika.",
+          "explanation": "„Mały jeż śpi pod krzakiem.” Nie ma tu powodu do wstawienia przecinka. „Mały” opisuje jeża, a „śpi” mówi o jego czynności."
+        },
+        {
+          "id": "pl-d2-37",
+          "skill": "interpunkcja",
+          "prompt": "Jaką funkcję pełni dwukropek w zdaniu?\n„Mam dwa ulubione kolory: zielony i niebieski”.",
+          "options": [
+            "Wprowadza wyliczenie zapowiedzianych kolorów.",
+            "Kończy pytanie o kolory.",
+            "Zaznacza przerwanie wypowiedzi w pół słowa."
+          ],
+          "answer": "Wprowadza wyliczenie zapowiedzianych kolorów.",
+          "hint": "Po znaku pojawiają się nazwy dwóch kolorów, zapowiedzianych wcześniej.",
+          "explanation": "Dwukropek wprowadza wyliczenie. Po słowach „dwa ulubione kolory” dowiadujemy się, jakie to kolory."
+        },
+        {
+          "id": "pl-d2-38",
+          "skill": "interpunkcja",
+          "prompt": "Który zapis prawidłowo ujmuje SAM TYTUŁ książki w cudzysłów?",
+          "options": [
+            "Czytam książkę „Dzieci z Bullerbyn”.",
+            "„Czytam książkę Dzieci z Bullerbyn”.",
+            "Czytam „książkę Dzieci z Bullerbyn”."
+          ],
+          "answer": "Czytam książkę „Dzieci z Bullerbyn”.",
+          "hint": "Tytuł zaczyna się od wyrazu „Dzieci”. Znaki cudzysłowu powinny obejmować cały tytuł, bez słów wprowadzających.",
+          "explanation": "Cudzysłów obejmuje tylko tytuł „Dzieci z Bullerbyn”. Kropka kończąca to zdanie znajduje się za cudzysłowem zamykającym."
+        },
+        {
+          "id": "pl-d2-39",
+          "skill": "interpunkcja",
+          "prompt": "Do czego służy nawias w zdaniu?\n„Mój brat (ten starszy) potrafi żeglować”.",
+          "options": [
+            "Wydziela dodatkową informację o bracie.",
+            "Zmienia wypowiedź w pytanie.",
+            "Zapowiada listę sprzętu żeglarskiego."
+          ],
+          "answer": "Wydziela dodatkową informację o bracie.",
+          "hint": "Spróbuj przeczytać zdanie z pominięciem fragmentu w nawiasie. Główna informacja nadal będzie zrozumiała.",
+          "explanation": "Nawias wydziela dopowiedzenie „ten starszy”. Główna informacja brzmi: „Mój brat potrafi żeglować”."
+        },
+        {
+          "id": "pl-d2-40",
+          "skill": "interpunkcja",
+          "prompt": "W obie luki wstaw znak rozpoczynający wypowiedź rozmówcy w dialogu.\n___ Masz ochotę na spacer?\n___ Tak, chętnie.",
+          "options": [
+            "myślnik (—)",
+            "dwukropek (:)",
+            "przecinek (,)"
+          ],
+          "answer": "myślnik (—)",
+          "hint": "Każdą nową kwestię dialogową zapisujemy od nowej linii. Na jej początku stawiamy myślnik.",
+          "explanation": "Myślnik rozpoczyna każdą wypowiedź rozmówcy. Dwukropek i przecinek nie zastępują go na początku kwestii dialogowych."
+        }
+      ]
+    }
+  ]
+}

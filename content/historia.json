@@ -1,0 +1,1935 @@
+{
+  "sources": [
+    {
+      "title": "MEN — nowa podstawa programowa, rozporządzenie z 11 marca 2026 r.",
+      "url": "https://www.gov.pl/attachment/a3f69e64-9b16-4063-96c0-0e5203f5c3f4",
+      "note": "Historia: strony 147–150 PDF. Od roku 2026/2027 nowa podstawa obejmuje klasę 4. Bank dotyczy początkowej części cyklu 4–6; kolejność i tempo ustala nauczyciel."
+    },
+    {
+      "title": "MEN — harmonogram wdrażania podstawy 2026",
+      "url": "https://www.gov.pl/web/edukacja/nowe-podstawy-programowe-wychowania-przedszkolnego-i-ksztalcenia-ogolnego-dla-szkoly-podstawowej-wraz-ze-zmianami-w-ramowych-planach-nauczania-dla-publicznych-szkol-podstawowych--rozporzadzenia-podpisane",
+      "note": "Potwierdzenie wdrożenia nowej podstawy w klasach 1 i 4 od września 2026."
+    },
+    {
+      "title": "Nowa Era — Wczoraj i dziś, nowa podstawa 2026",
+      "url": "https://www.nowaera.pl/szkola-podstawowa/podreczniki-szkolne/historia/wczoraj-i-dzis-npp2026",
+      "note": "Pomocnicza weryfikacja układu materiału nowego podręcznika klasy 4. Pytania platformy są autorskie, a nie przepisane z podręcznika."
+    },
+    {
+      "title": "Biuro Bezpieczeństwa Narodowego — polskie symbole",
+      "url": "https://www.bbn.gov.pl/pl/wydarzenia/7421,Dzien-Flagi-RP-Polskie-symbole-zasady-postepowania.html",
+      "note": "Weryfikacja wyglądu polskich symboli i szacunku wobec nich."
+    },
+    {
+      "title": "ZPE — Polskie symbole narodowe",
+      "url": "https://zpe.gov.pl/a/polskie-symbole-narodowe/DYsZTMZx8",
+      "note": "Tło historyczne hymnu i polskich symboli."
+    },
+    {
+      "title": "Unia Europejska — flaga europejska",
+      "url": "https://european-union.europa.eu/principles-countries-history/symbols/european-flag_en",
+      "note": "Znaczenie dwunastu gwiazd i kręgu; liczba gwiazd nie oznacza liczby państw."
+    },
+    {
+      "title": "Parlament Europejski — symbole Unii",
+      "url": "https://www.europarl.europa.eu/doceo/document/RULES-10-2025-07-07-RULE-248_PL.html",
+      "note": "Potwierdzenie melodii hymnu europejskiego oraz symboliki flagi."
+    },
+    {
+      "title": "ZPE — Prehistoria",
+      "url": "https://zpe.gov.pl/a/prehistoria/Dv3hS2gex",
+      "note": "Rolnictwo, hodowla, osady i rewolucja neolityczna."
+    },
+    {
+      "title": "ZPE — Poznajemy starożytny Egipt",
+      "url": "https://zpe.gov.pl/pdf/PdYohI7QM",
+      "note": "Nil, warunki naturalne i życie w starożytnym Egipcie."
+    },
+    {
+      "title": "ZPE — Początki cywilizacji egipskiej i religia",
+      "url": "https://zpe.gov.pl/pdf/PQvSBLtxx",
+      "note": "Pojęcia związane z Egiptem, władzą faraona i wierzeniami."
+    },
+    {
+      "title": "ZPE — Początki cywilizacji greckiej. Sparta i Ateny",
+      "url": "https://zpe.gov.pl/a/poczatki-cywilizacji-greckiej-sparta-i-ateny/DIOCU39Ja",
+      "note": "Położenie Grecji, polis i Ateny czasów Peryklesa."
+    },
+    {
+      "title": "ZPE — Demokratyczne Ateny",
+      "url": "https://zpe.gov.pl/a/demokratyczne-ateny/D4xMyBA12",
+      "note": "Demokracja ateńska i jej ograniczenia społeczne."
+    },
+    {
+      "title": "ZPE — Starożytny Rzym, wprowadzenie",
+      "url": "https://zpe.gov.pl/watek/LPFMSFNB9T/27/a/dowiedz-sie/D8CHM3ADS",
+      "note": "Miasto Rzym i rzymskie budowle."
+    },
+    {
+      "title": "ZPE — Społeczeństwo, życie polityczne i kultura starożytnego Rzymu",
+      "url": "https://zpe.gov.pl/watek/LP89AD2A7J/2/b/spoleczenstwo-zycie-polityczne-i-kultura-starozytnego-rzymu/PAOLZ97DL",
+      "note": "Republika, cesarstwo, społeczeństwo i dziedzictwo Rzymu."
+    },
+    {
+      "title": "ZPE — Narodziny chrześcijaństwa",
+      "url": "https://zpe.gov.pl/a/narodziny-chrzescijanstwa/DXdjx6LCb",
+      "note": "Miejsce i czas narodzin, judaizm oraz początki chrześcijaństwa."
+    }
+  ],
+  "topics": [
+    {
+      "id": "hi-zrodla",
+      "subject": "historia",
+      "section": "Warsztat historyka",
+      "title": "Źródła, rodzina i przeszłość",
+      "description": "Początek cyklu klas 4–6 według podstawy 2026: praca historyka, źródła, legendy i historia rodziny.",
+      "questions": [
+        {
+          "id": "hi-zrodla-01",
+          "prompt": "Czym przede wszystkim zajmuje się historyk?",
+          "options": [
+            "Przewidywaniem jutrzejszej pogody",
+            "Wyłącznie badaniem gwiazd",
+            "Badaniem przeszłości ludzi"
+          ],
+          "answer": "Badaniem przeszłości ludzi",
+          "hint": "Pomyśl, co łączy stare dokumenty, fotografie i wspomnienia.",
+          "explanation": "Historyk bada przeszłość ludzi, korzystając z zachowanych źródeł."
+        },
+        {
+          "id": "hi-zrodla-02",
+          "prompt": "Który przedmiot może być źródłem do historii twojej rodziny?",
+          "options": [
+            "Dzisiejsza prognoza pogody dla innego kraju",
+            "List napisany przez prababcię",
+            "Niepodpisana kartka z wymyśloną bajką"
+          ],
+          "answer": "List napisany przez prababcię",
+          "hint": "Szukaj śladu pozostawionego przez członka rodziny.",
+          "explanation": "List prababci może zawierać informacje o jej życiu, bliskich i czasach, w których mieszkała."
+        },
+        {
+          "id": "hi-zrodla-03",
+          "prompt": "Które źródło jest źródłem pisanym?",
+          "options": [
+            "Dawny dziennik ucznia",
+            "Gliniany dzban bez napisów",
+            "Kamienny topór"
+          ],
+          "answer": "Dawny dziennik ucznia",
+          "hint": "Zwróć uwagę, czy źródło zawiera zapisane słowa.",
+          "explanation": "Dziennik ucznia jest źródłem pisanym, bo przekazuje informacje za pomocą tekstu."
+        },
+        {
+          "id": "hi-zrodla-04",
+          "prompt": "Archeolog znalazł monetę sprzed wielu stuleci. Co znalazł?",
+          "options": [
+            "Prognozę przyszłości",
+            "Dowód istnienia smoków",
+            "Materialny ślad przeszłości"
+          ],
+          "answer": "Materialny ślad przeszłości",
+          "hint": "Przedmioty także mogą przekazywać informacje o dawnych ludziach.",
+          "explanation": "Moneta jest zabytkiem i materialnym źródłem historycznym. Jej napisy lub wizerunki też mogą dostarczać informacji."
+        },
+        {
+          "id": "hi-zrodla-05",
+          "prompt": "Nagranie opowieści dziadka o jego dzieciństwie to przede wszystkim…",
+          "options": [
+            "Współczesna powieść fantastyczna",
+            "Utrwalona relacja ustna",
+            "Mapa geograficzna"
+          ],
+          "answer": "Utrwalona relacja ustna",
+          "hint": "Dziadek opowiada o tym, co pamięta.",
+          "explanation": "Nagranie zachowuje ustną relację świadka. Historyk może ją porównać z innymi źródłami."
+        },
+        {
+          "id": "hi-zrodla-06",
+          "prompt": "Co można bezpośrednio zobaczyć na dawnym zdjęciu klasy?",
+          "options": [
+            "Wygląd ubrań widocznych uczniów",
+            "Dokładne myśli każdego ucznia",
+            "Wszystkie przyszłe zawody tych dzieci"
+          ],
+          "answer": "Wygląd ubrań widocznych uczniów",
+          "hint": "Fotografia pokazuje wygląd, ale nie ujawnia wszystkiego.",
+          "explanation": "Zdjęcie dostarcza informacji o widocznych ubraniach i otoczeniu, nie pozwala natomiast odczytać myśli."
+        },
+        {
+          "id": "hi-zrodla-07",
+          "prompt": "Gdzie zwykle przechowuje się i udostępnia dawne dokumenty urzędowe?",
+          "options": [
+            "Na stadionowej bieżni",
+            "W obserwatorium pogody",
+            "W archiwum"
+          ],
+          "answer": "W archiwum",
+          "hint": "Nazwa tej instytucji kojarzy się ze zbiorem dokumentów.",
+          "explanation": "Archiwa gromadzą, chronią i udostępniają dokumenty ważne dla poznawania przeszłości."
+        },
+        {
+          "id": "hi-zrodla-08",
+          "prompt": "Która instytucja gromadzi zabytki i przygotowuje ich wystawy?",
+          "options": [
+            "Piekarnia",
+            "Muzeum",
+            "Dworzec autobusowy"
+          ],
+          "answer": "Muzeum",
+          "hint": "Możesz tam oglądać eksponaty.",
+          "explanation": "Muzeum opiekuje się zbiorami, bada je i pokazuje na wystawach."
+        },
+        {
+          "id": "hi-zrodla-09",
+          "prompt": "Kto bada ślady dawnych osad podczas wykopalisk?",
+          "options": [
+            "Archeolog",
+            "Meteorolog",
+            "Trener pływania"
+          ],
+          "answer": "Archeolog",
+          "hint": "Ta praca wymaga ostrożnego odkrywania przedmiotów i ich położenia.",
+          "explanation": "Archeolog bada materialne pozostałości życia ludzi, często odnajdywane podczas wykopalisk."
+        },
+        {
+          "id": "hi-zrodla-10",
+          "prompt": "Dlaczego archeolog zapisuje dokładne miejsce znalezienia przedmiotu?",
+          "options": [
+            "Żeby przedmiot stał się cięższy",
+            "Żeby nie trzeba było go później badać",
+            "Położenie pomaga zrozumieć, kiedy i jak go używano"
+          ],
+          "answer": "Położenie pomaga zrozumieć, kiedy i jak go używano",
+          "hint": "Ważny jest nie tylko sam przedmiot, lecz także jego otoczenie.",
+          "explanation": "Miejsce i warstwa, w której leżał zabytek, pomagają ustalić jego związek z innymi śladami przeszłości."
+        },
+        {
+          "id": "hi-zrodla-11",
+          "prompt": "Który fragment opowieści o dawnym Krakowie jest elementem fantastycznym?",
+          "options": [
+            "Istnienie rzeki Wisły",
+            "Smok domagający się ofiar od mieszkańców",
+            "Istnienie wzgórza Wawel"
+          ],
+          "answer": "Smok domagający się ofiar od mieszkańców",
+          "hint": "Element fantastyczny wykracza poza zwykły, rzeczywisty świat.",
+          "explanation": "Smok jest postacią fantastyczną. Wawel i Wisła istnieją, choć pojawiają się również w legendach."
+        },
+        {
+          "id": "hi-zrodla-12",
+          "prompt": "Jak najlepiej korzystać z legendy podczas nauki historii?",
+          "options": [
+            "Oddzielić jej elementy fantastyczne od faktów sprawdzanych w źródłach",
+            "Uznać każde zdanie legendy za potwierdzony fakt",
+            "Uznać, że żadne miejsce z legendy nie może istnieć"
+          ],
+          "answer": "Oddzielić jej elementy fantastyczne od faktów sprawdzanych w źródłach",
+          "hint": "Legenda może łączyć rzeczywiste miejsca z niezwykłą opowieścią.",
+          "explanation": "Legendy są częścią kultury. Zawarte w nich informacje o rzeczywistych wydarzeniach wymagają sprawdzenia."
+        },
+        {
+          "id": "hi-zrodla-13",
+          "prompt": "Które zdanie jest opinią, a nie samą informacją o dacie?",
+          "options": [
+            "Fotografię wykonano w 1930 roku",
+            "List nosi datę 12 maja 1910 roku",
+            "To był najpiękniejszy zamek na świecie"
+          ],
+          "answer": "To był najpiękniejszy zamek na świecie",
+          "hint": "Opinia zawiera ocenę, z którą ktoś może się nie zgodzić.",
+          "explanation": "Określenie najpiękniejszy wyraża ocenę autora. Dwa pozostałe zdania podają daty, które można sprawdzać."
+        },
+        {
+          "id": "hi-zrodla-14",
+          "prompt": "Dwa wspomnienia opisują tę samą uroczystość inaczej. Co powinien zrobić badacz?",
+          "options": [
+            "Wybrać wyłącznie dłuższe wspomnienie",
+            "Porównać je z innymi źródłami",
+            "Automatycznie wyrzucić oba"
+          ],
+          "answer": "Porównać je z innymi źródłami",
+          "hint": "Ludzie mogą pamiętać różne szczegóły tego samego wydarzenia.",
+          "explanation": "Porównywanie źródeł pomaga sprawdzać informacje i rozumieć różne punkty widzenia świadków."
+        },
+        {
+          "id": "hi-zrodla-15",
+          "prompt": "Dlaczego warto ustalić, kto napisał dawny pamiętnik?",
+          "options": [
+            "Aby poznać punkt widzenia i możliwości autora",
+            "Aby uznać wszystko za prawdę bez sprawdzania",
+            "Aby zmienić datę opisanych zdarzeń"
+          ],
+          "answer": "Aby poznać punkt widzenia i możliwości autora",
+          "hint": "Autor mógł być świadkiem albo znać wydarzenie jedynie z opowieści.",
+          "explanation": "Wiedza o autorze pomaga ocenić, co mógł wiedzieć i dlaczego opisał wydarzenia w określony sposób."
+        },
+        {
+          "id": "hi-zrodla-16",
+          "prompt": "W internecie pojawia się zdjęcie rzekomo sprzed stu lat. Co warto sprawdzić?",
+          "options": [
+            "Tylko liczbę polubień",
+            "Wyłącznie kolor ramki na stronie",
+            "Skąd pochodzi i jak ustalono datę wykonania"
+          ],
+          "answer": "Skąd pochodzi i jak ustalono datę wykonania",
+          "hint": "Popularność informacji nie potwierdza jej prawdziwości.",
+          "explanation": "Pochodzenie fotografii i uzasadnienie jej datowania są ważniejsze od liczby osób, które ją udostępniły."
+        },
+        {
+          "id": "hi-zrodla-17",
+          "prompt": "Do czego służy drzewo genealogiczne?",
+          "options": [
+            "Podaje wyłącznie adresy muzeów",
+            "Pokazuje pokrewieństwo między członkami rodziny",
+            "Przewiduje wzrost drzew w ogrodzie"
+          ],
+          "answer": "Pokazuje pokrewieństwo między członkami rodziny",
+          "hint": "Genealogia dotyczy dziejów i powiązań rodziny.",
+          "explanation": "Drzewo genealogiczne porządkuje informacje o członkach rodziny oraz łączących ich więzach."
+        },
+        {
+          "id": "hi-zrodla-18",
+          "prompt": "Kim jest mama twojej babci?",
+          "options": [
+            "Prababcią",
+            "Ciocią",
+            "Kuzynką"
+          ],
+          "answer": "Prababcią",
+          "hint": "Przejdź od babci o jedno pokolenie wstecz.",
+          "explanation": "Mama babci jest prababcią, czyli należy do pokolenia starszego od dziadków."
+        },
+        {
+          "id": "hi-zrodla-19",
+          "prompt": "Kim jest brat twojej mamy?",
+          "options": [
+            "Dziadkiem",
+            "Pradziadkiem",
+            "Wujkiem"
+          ],
+          "answer": "Wujkiem",
+          "hint": "To rodzeństwo jednego z rodziców.",
+          "explanation": "Brat mamy to wujek. Nie należy do pokolenia dziadków."
+        },
+        {
+          "id": "hi-zrodla-20",
+          "prompt": "Co najlepiej dopisać do kopii starego zdjęcia rodzinnego?",
+          "options": [
+            "Przypadkową datę, aby nie zostawić pustego miejsca",
+            "Kto jest na zdjęciu, gdzie i kiedy je wykonano, jeśli to wiadomo",
+            "Wyłącznie własną ocenę, czy zdjęcie jest ładne"
+          ],
+          "answer": "Kto jest na zdjęciu, gdzie i kiedy je wykonano, jeśli to wiadomo",
+          "hint": "Opis powinien pomagać innym rozpoznać osoby i okoliczności.",
+          "explanation": "Podpis z osobami, miejscem i przybliżoną lub dokładną datą pomaga zachować wiedzę o fotografii. Nieznanych danych nie wymyślamy."
+        },
+        {
+          "id": "hi-zrodla-21",
+          "prompt": "Nie wiesz, kogo przedstawia stare zdjęcie. Co jest dobrym pierwszym krokiem?",
+          "options": [
+            "Zapytać krewnych i sprawdzić podpisy w albumie",
+            "Wymyślić nazwisko i podać je jako pewne",
+            "Wyrzucić zdjęcie jako bezużyteczne"
+          ],
+          "answer": "Zapytać krewnych i sprawdzić podpisy w albumie",
+          "hint": "Możesz zacząć od osób, które znają historię rodziny.",
+          "explanation": "Rozmowy z krewnymi oraz podpisy przy innych zdjęciach mogą pomóc w rozpoznaniu osoby."
+        },
+        {
+          "id": "hi-zrodla-22",
+          "prompt": "Które pytanie pomaga poznawać historię rodzinną?",
+          "options": [
+            "Jaka będzie dokładna pogoda za sto lat?",
+            "Czy potrafisz zgadnąć dowolną liczbę?",
+            "Jak wyglądała twoja droga do szkoły, gdy byłeś dzieckiem?"
+          ],
+          "answer": "Jak wyglądała twoja droga do szkoły, gdy byłeś dzieckiem?",
+          "hint": "Zapytaj o konkretne doświadczenie z przeszłości rozmówcy.",
+          "explanation": "Pytanie o dawną drogę do szkoły może dostarczyć informacji o codziennym życiu i zmianach w okolicy."
+        },
+        {
+          "id": "hi-zrodla-23",
+          "prompt": "Dlaczego warto chronić dawny budynek szkolny?",
+          "options": [
+            "Ochrona sprawia, że przeszłość można zmienić",
+            "Jest świadectwem historii miejscowości",
+            "Każdy stary budynek jest bezwartościowy"
+          ],
+          "answer": "Jest świadectwem historii miejscowości",
+          "hint": "Zabytek może mówić o życiu wcześniejszych mieszkańców.",
+          "explanation": "Historyczny budynek pomaga poznawać dzieje miejsca. Ochrona pozwala zachować to świadectwo dla kolejnych pokoleń."
+        },
+        {
+          "id": "hi-zrodla-24",
+          "prompt": "Co może upamiętniać osobę zasłużoną dla miejscowości?",
+          "options": [
+            "Tablica pamiątkowa z informacją o jej działalności",
+            "Przypadkowy numer autobusu bez związku z tą osobą",
+            "Pusta kartka bez opisu"
+          ],
+          "answer": "Tablica pamiątkowa z informacją o jej działalności",
+          "hint": "Upamiętnienie powinno wskazywać osobę lub jej dokonania.",
+          "explanation": "Tablice, pomniki i nazwy ulic mogą upamiętniać ludzi związanych z historią okolicy."
+        },
+        {
+          "id": "hi-zrodla-25",
+          "prompt": "Dlaczego poznawanie dawnych fotografii tej samej ulicy jest przydatne?",
+          "options": [
+            "Dowodzi, że ulica zawsze wyglądała identycznie",
+            "Pozwala odczytać wszystkie rozmowy mieszkańców",
+            "Pozwala zauważyć, co się zmieniło, a co przetrwało"
+          ],
+          "answer": "Pozwala zauważyć, co się zmieniło, a co przetrwało",
+          "hint": "Porównuj szczegóły widoczne na zdjęciach z różnych lat.",
+          "explanation": "Zestawienie fotografii pomaga rozpoznawać zmiany zabudowy, transportu i codziennego życia."
+        }
+      ]
+    },
+    {
+      "id": "hi-czas",
+      "subject": "historia",
+      "section": "Warsztat historyka",
+      "title": "Czas, wieki i mapa historyczna",
+      "description": "Początek cyklu klas 4–6 według podstawy 2026: chronologia, oś czasu, obliczenia i czytanie legendy mapy.",
+      "questions": [
+        {
+          "id": "hi-czas-01",
+          "prompt": "Ile lat liczy jeden wiek?",
+          "options": [
+            "10",
+            "1000",
+            "100"
+          ],
+          "answer": "100",
+          "hint": "Inna nazwa wieku to stulecie.",
+          "explanation": "Wiek, czyli stulecie, liczy 100 lat."
+        },
+        {
+          "id": "hi-czas-02",
+          "prompt": "Ile lat liczy tysiąclecie?",
+          "options": [
+            "10",
+            "1000",
+            "100"
+          ],
+          "answer": "1000",
+          "hint": "W nazwie ukrywa się liczba lat.",
+          "explanation": "Tysiąclecie liczy 1000 lat, czyli 10 stuleci."
+        },
+        {
+          "id": "hi-czas-03",
+          "prompt": "Co oznacza porządek chronologiczny?",
+          "options": [
+            "Kolejność od najwcześniejszych wydarzeń do najpóźniejszych",
+            "Kolejność według długości nazw",
+            "Kolejność od najważniejszych do najmniej ważnych"
+          ],
+          "answer": "Kolejność od najwcześniejszych wydarzeń do najpóźniejszych",
+          "hint": "Chronologia dotyczy czasu.",
+          "explanation": "Porządek chronologiczny układa wydarzenia według tego, kiedy nastąpiły."
+        },
+        {
+          "id": "hi-czas-04",
+          "prompt": "Które wydarzenie należy do przeszłości?",
+          "options": [
+            "Wycieczka zaplanowana na jutro",
+            "Lekcja, która ma się zacząć za godzinę",
+            "Rozpoczęcie roku szkolnego, które odbyło się miesiąc temu"
+          ],
+          "answer": "Rozpoczęcie roku szkolnego, które odbyło się miesiąc temu",
+          "hint": "Przeszłość obejmuje to, co już się wydarzyło.",
+          "explanation": "Wydarzenie sprzed miesiąca należy do przeszłości, a dwa pozostałe dopiero są planowane."
+        },
+        {
+          "id": "hi-czas-05",
+          "prompt": "Do czego służy oś czasu?",
+          "options": [
+            "Do pokazywania wysokości gór",
+            "Do przedstawiania kolejności wydarzeń",
+            "Do mierzenia długości rzeki"
+          ],
+          "answer": "Do przedstawiania kolejności wydarzeń",
+          "hint": "Na osi czasu zaznacza się daty.",
+          "explanation": "Oś czasu pozwala uporządkować wydarzenia i zobaczyć odstępy między nimi."
+        },
+        {
+          "id": "hi-czas-06",
+          "prompt": "Który zapis oznacza rok przed naszą erą?",
+          "options": [
+            "200 p.n.e.",
+            "200 n.e.",
+            "XXI wiek"
+          ],
+          "answer": "200 p.n.e.",
+          "hint": "Skrót zaczyna się literą p od słowa przed.",
+          "explanation": "Skrót p.n.e. oznacza przed naszą erą. Zapis n.e. odnosi się do naszej ery."
+        },
+        {
+          "id": "hi-czas-07",
+          "prompt": "Który z podanych lat nastąpił najwcześniej?",
+          "options": [
+            "100 p.n.e.",
+            "100 n.e.",
+            "500 p.n.e."
+          ],
+          "answer": "500 p.n.e.",
+          "hint": "Przed naszą erą większa liczba roku oznacza czas wcześniejszy.",
+          "explanation": "Rok 500 p.n.e. był przed rokiem 100 p.n.e., a oba poprzedzały rok 100 n.e."
+        },
+        {
+          "id": "hi-czas-08",
+          "prompt": "Które lata należą do I wieku naszej ery?",
+          "options": [
+            "Od 101 do 200 roku",
+            "Od 1 do 100 roku",
+            "Od 0 do 99 roku"
+          ],
+          "answer": "Od 1 do 100 roku",
+          "hint": "W tradycyjnym zapisie historycznym nie ma roku zerowego.",
+          "explanation": "I wiek naszej ery obejmuje lata 1–100, a II wiek lata 101–200."
+        },
+        {
+          "id": "hi-czas-09",
+          "prompt": "Do którego wieku należy rok 966?",
+          "options": [
+            "X wieku",
+            "IX wieku",
+            "XI wieku"
+          ],
+          "answer": "X wieku",
+          "hint": "Lata 901–1000 tworzą jedno stulecie.",
+          "explanation": "Rok 966 mieści się w latach 901–1000, czyli w X wieku."
+        },
+        {
+          "id": "hi-czas-10",
+          "prompt": "Do którego wieku należy rok 1410?",
+          "options": [
+            "XIV wieku",
+            "XVI wieku",
+            "XV wieku"
+          ],
+          "answer": "XV wieku",
+          "hint": "Wiek zaczyna się rokiem zakończonym na 01.",
+          "explanation": "Lata 1401–1500 należą do XV wieku, dlatego rok 1410 to XV wiek."
+        },
+        {
+          "id": "hi-czas-11",
+          "prompt": "Do którego wieku należy rok 1800?",
+          "options": [
+            "XVII wieku",
+            "XVIII wieku",
+            "XIX wieku"
+          ],
+          "answer": "XVIII wieku",
+          "hint": "Rok zakończony na 00 jest ostatnim rokiem danego stulecia.",
+          "explanation": "Rok 1800 zamyka XVIII wiek. XIX wiek rozpoczyna się w 1801 roku."
+        },
+        {
+          "id": "hi-czas-12",
+          "prompt": "Do którego wieku należy rok 1801?",
+          "options": [
+            "XIX wieku",
+            "XVIII wieku",
+            "XX wieku"
+          ],
+          "answer": "XIX wieku",
+          "hint": "To pierwszy rok po zakończeniu XVIII wieku.",
+          "explanation": "XIX wiek obejmuje lata 1801–1900."
+        },
+        {
+          "id": "hi-czas-13",
+          "prompt": "Który rok rozpoczął XXI wiek?",
+          "options": [
+            "2000",
+            "1901",
+            "2001"
+          ],
+          "answer": "2001",
+          "hint": "XX wiek zakończył się wraz z rokiem 2000.",
+          "explanation": "XXI wiek rozpoczął się w 2001 roku i obejmuje lata do 2100."
+        },
+        {
+          "id": "hi-czas-14",
+          "prompt": "Rok 44 p.n.e. należy do…",
+          "options": [
+            "I wieku n.e.",
+            "I wieku p.n.e.",
+            "IV wieku p.n.e."
+          ],
+          "answer": "I wieku p.n.e.",
+          "hint": "I wiek przed naszą erą obejmuje lata od 100 do 1 p.n.e.",
+          "explanation": "Rok 44 p.n.e. mieści się w I wieku przed naszą erą."
+        },
+        {
+          "id": "hi-czas-15",
+          "prompt": "Ile lat upłynęło od 1000 do 1025 roku?",
+          "options": [
+            "25",
+            "125",
+            "1025"
+          ],
+          "answer": "25",
+          "hint": "Dla dwóch dat naszej ery odejmij wcześniejszy rok od późniejszego.",
+          "explanation": "1025 − 1000 = 25, więc upłynęło 25 lat."
+        },
+        {
+          "id": "hi-czas-16",
+          "prompt": "Ile lat upłynęło od 500 p.n.e. do 300 p.n.e.?",
+          "options": [
+            "800",
+            "2",
+            "200"
+          ],
+          "answer": "200",
+          "hint": "Obie daty należą do tej samej ery. Oblicz różnicę.",
+          "explanation": "500 − 300 = 200. W obu przypadkach chodzi o lata przed naszą erą."
+        },
+        {
+          "id": "hi-czas-17",
+          "prompt": "Ile lat upłynęło od 2 p.n.e. do 2 n.e. w tradycyjnym liczeniu historycznym?",
+          "options": [
+            "0",
+            "3",
+            "4"
+          ],
+          "answer": "3",
+          "hint": "Między 1 p.n.e. a 1 n.e. nie ma roku 0.",
+          "explanation": "Przechodzimy kolejno: 2 p.n.e., 1 p.n.e., 1 n.e., 2 n.e. To trzy roczne odstępy."
+        },
+        {
+          "id": "hi-czas-18",
+          "prompt": "Która kolejność epok jest poprawna?",
+          "options": [
+            "Starożytność → średniowiecze → nowożytność",
+            "Średniowiecze → starożytność → nowożytność",
+            "Nowożytność → średniowiecze → starożytność"
+          ],
+          "answer": "Starożytność → średniowiecze → nowożytność",
+          "hint": "Pomyśl o piramidach, potem zamkach rycerskich, a potem późniejszych czasach.",
+          "explanation": "Starożytność poprzedzała średniowiecze, po którym nastąpiła nowożytność. Granice epok są umowne."
+        },
+        {
+          "id": "hi-czas-19",
+          "prompt": "Jak nazywa się okres dziejów ludzi sprzed pojawienia się pisma?",
+          "options": [
+            "Przyszłość",
+            "Nowożytność",
+            "Prehistoria"
+          ],
+          "answer": "Prehistoria",
+          "hint": "O tym okresie dużo mówi archeologia.",
+          "explanation": "Prehistoria to najdawniejszy okres dziejów ludzi, zanim pojawiły się źródła pisane w danym regionie."
+        },
+        {
+          "id": "hi-czas-20",
+          "prompt": "Co pokazuje mapa historyczna?",
+          "options": [
+            "Zawsze tylko obecne ulice",
+            "Na przykład dawne granice i miejsca wydarzeń",
+            "Wyłącznie jutrzejszą temperaturę"
+          ],
+          "answer": "Na przykład dawne granice i miejsca wydarzeń",
+          "hint": "Mapa może przedstawiać świat w wybranym czasie.",
+          "explanation": "Mapa historyczna pomaga poznawać położenie państw, miejsc i wydarzeń w przeszłości."
+        },
+        {
+          "id": "hi-czas-21",
+          "prompt": "Do czego służy legenda mapy?",
+          "options": [
+            "Wyjaśnia znaczenie kolorów i znaków",
+            "Opowiada zawsze o smokach",
+            "Podaje ocenę z historii"
+          ],
+          "answer": "Wyjaśnia znaczenie kolorów i znaków",
+          "hint": "Słowo legenda ma tutaj inne znaczenie niż opowieść o dawnych bohaterach.",
+          "explanation": "Legenda mapy tłumaczy symbole, linie i kolory użyte na mapie."
+        },
+        {
+          "id": "hi-czas-22",
+          "prompt": "W legendzie mapy skrzyżowane miecze oznaczają bitwę. Co oznacza taki znak przy mieście?",
+          "options": [
+            "Zawsze stolicę kraju",
+            "Port morski",
+            "Miejsce bitwy"
+          ],
+          "answer": "Miejsce bitwy",
+          "hint": "Odczytaj znak zgodnie z objaśnieniem w legendzie.",
+          "explanation": "Skoro legenda przypisuje znakowi mieczy bitwę, taki symbol wskazuje miejsce bitwy."
+        },
+        {
+          "id": "hi-czas-23",
+          "prompt": "W legendzie dawne granice oznaczono linią przerywaną. Której linii szukasz?",
+          "options": [
+            "Niewidocznej na mapie",
+            "Złożonej z oddzielonych kresek",
+            "Złożonej wyłącznie z nazw miast"
+          ],
+          "answer": "Złożonej z oddzielonych kresek",
+          "hint": "Przerywana linia ma między fragmentami przerwy.",
+          "explanation": "Znaczenie linii sprawdzamy w legendzie. W tym zadaniu granicę pokazują oddzielone kreski."
+        },
+        {
+          "id": "hi-czas-24",
+          "prompt": "Co najlepiej pomoże znaleźć ulicę przy konkretnym muzeum?",
+          "options": [
+            "Szczegółowy plan okolicy",
+            "Oś czasu dynastii",
+            "Drzewo genealogiczne"
+          ],
+          "answer": "Szczegółowy plan okolicy",
+          "hint": "Potrzebujesz dokładnego rozmieszczenia ulic i budynków.",
+          "explanation": "Plan pokazuje niewielki obszar w dużym przybliżeniu, dzięki czemu łatwiej odszukać konkretną ulicę."
+        },
+        {
+          "id": "hi-czas-25",
+          "prompt": "Dlaczego przy oglądaniu mapy historycznej trzeba sprawdzić jej datę lub tytuł?",
+          "options": [
+            "Każda mapa pokazuje wszystkie epoki jednocześnie",
+            "Data mapy zastępuje jej legendę",
+            "Granice i nazwy mogły zmieniać się w czasie"
+          ],
+          "answer": "Granice i nazwy mogły zmieniać się w czasie",
+          "hint": "Świat sprzed stuleci mógł wyglądać inaczej niż dzisiaj.",
+          "explanation": "Data lub tytuł określają, jaki okres przedstawia mapa. To pomaga poprawnie odczytać jej treść."
+        }
+      ]
+    },
+    {
+      "id": "hi-wspolnota",
+      "subject": "historia",
+      "section": "Nasza wspólnota",
+      "title": "Polska, regiony i symbole",
+      "description": "Początek cyklu klas 4–6 według podstawy 2026: mała ojczyzna, dziedzictwo, symbole Polski i Unii Europejskiej.",
+      "questions": [
+        {
+          "id": "hi-wspolnota-01",
+          "prompt": "Jakie kolory ma polska flaga państwowa bez godła?",
+          "options": [
+            "Biały i niebieski",
+            "Czerwony i zielony",
+            "Biały i czerwony"
+          ],
+          "answer": "Biały i czerwony",
+          "hint": "Pomyśl o określeniu biało-czerwona.",
+          "explanation": "Polska flaga składa się z dwóch poziomych pasów: białego i czerwonego."
+        },
+        {
+          "id": "hi-wspolnota-02",
+          "prompt": "Który kolor znajduje się u góry polskiej flagi wywieszonej poziomo?",
+          "options": [
+            "Niebieski",
+            "Biały",
+            "Czerwony"
+          ],
+          "answer": "Biały",
+          "hint": "Nazwa biało-czerwona podaje kolory w kolejności od góry.",
+          "explanation": "Na poziomej fladze Polski biały pas jest u góry, a czerwony u dołu."
+        },
+        {
+          "id": "hi-wspolnota-03",
+          "prompt": "Co przedstawia godło Polski?",
+          "options": [
+            "Białego orła w złotej koronie na czerwonym tle",
+            "Czarnego lwa na zielonym tle",
+            "Złotą rybę na niebieskim tle"
+          ],
+          "answer": "Białego orła w złotej koronie na czerwonym tle",
+          "hint": "To ptak znany także z legendy o Lechu.",
+          "explanation": "Godło Polski przedstawia białego orła ze złotą koroną w czerwonym polu tarczy."
+        },
+        {
+          "id": "hi-wspolnota-04",
+          "prompt": "Jak nazywa się hymn Polski?",
+          "options": [
+            "Oda do radości",
+            "Rota",
+            "Mazurek Dąbrowskiego"
+          ],
+          "answer": "Mazurek Dąbrowskiego",
+          "hint": "Tytuł hymnu zawiera nazwisko dowódcy Legionów.",
+          "explanation": "Hymnem Polski jest Mazurek Dąbrowskiego."
+        },
+        {
+          "id": "hi-wspolnota-05",
+          "prompt": "Kto napisał słowa Mazurka Dąbrowskiego?",
+          "options": [
+            "Jan Matejko",
+            "Józef Wybicki",
+            "Fryderyk Chopin"
+          ],
+          "answer": "Józef Wybicki",
+          "hint": "Autor słów miał na imię Józef.",
+          "explanation": "Autorem słów hymnu był Józef Wybicki. Utwór powstał jako pieśń Legionów Polskich we Włoszech."
+        },
+        {
+          "id": "hi-wspolnota-06",
+          "prompt": "Jak zachowujemy się podczas uroczystego wykonywania hymnu?",
+          "options": [
+            "Okazujemy szacunek i zachowujemy powagę",
+            "Celowo zagłuszamy śpiew rozmową",
+            "Bawimy się flagą jak piłką"
+          ],
+          "answer": "Okazujemy szacunek i zachowujemy powagę",
+          "hint": "Symbole są ważne dla wspólnoty.",
+          "explanation": "Podczas hymnu zachowujemy powagę i szacunek; osoby, które mogą, przyjmują postawę stojącą."
+        },
+        {
+          "id": "hi-wspolnota-07",
+          "prompt": "Który zestaw zawiera trzy polskie symbole państwowe?",
+          "options": [
+            "Zegar, rower, książka",
+            "Kompas, mapa, walizka",
+            "Flaga, godło, hymn"
+          ],
+          "answer": "Flaga, godło, hymn",
+          "hint": "Są to wspólne znaki i pieśń reprezentujące państwo.",
+          "explanation": "Polskie symbole państwowe to biało-czerwone barwy, godło i hymn."
+        },
+        {
+          "id": "hi-wspolnota-08",
+          "prompt": "Kiedy obchodzimy Dzień Flagi Rzeczypospolitej Polskiej?",
+          "options": [
+            "1 września",
+            "2 maja",
+            "11 listopada"
+          ],
+          "answer": "2 maja",
+          "hint": "To dzień tuż przed Świętem Narodowym Trzeciego Maja.",
+          "explanation": "Dzień Flagi Rzeczypospolitej Polskiej obchodzimy 2 maja."
+        },
+        {
+          "id": "hi-wspolnota-09",
+          "prompt": "Jakie wydarzenie upamiętnia święto 3 maja?",
+          "options": [
+            "Uchwalenie Konstytucji 3 maja w 1791 roku",
+            "Założenie starożytnego Rzymu",
+            "Pierwsze igrzyska olimpijskie"
+          ],
+          "answer": "Uchwalenie Konstytucji 3 maja w 1791 roku",
+          "hint": "Nazwa dokumentu zawiera datę tego święta.",
+          "explanation": "3 maja świętujemy uchwalenie konstytucji z 1791 roku, ważnego aktu reformującego państwo."
+        },
+        {
+          "id": "hi-wspolnota-10",
+          "prompt": "Co upamiętnia Narodowe Święto Niepodległości obchodzone 11 listopada?",
+          "options": [
+            "Powstanie egipskich piramid",
+            "Wynalezienie alfabetu greckiego",
+            "Odzyskanie niepodległości przez Polskę w 1918 roku"
+          ],
+          "answer": "Odzyskanie niepodległości przez Polskę w 1918 roku",
+          "hint": "Pomyśl o powrocie Polski do samodzielnego bytu państwowego.",
+          "explanation": "Święto 11 listopada upamiętnia odzyskanie przez Polskę niepodległości w 1918 roku."
+        },
+        {
+          "id": "hi-wspolnota-11",
+          "prompt": "Dlaczego wspólnie obchodzimy rocznice ważnych wydarzeń?",
+          "options": [
+            "Aby zapomnieć o historii",
+            "Aby zachować pamięć o przeszłości wspólnoty",
+            "Aby zmienić daty dawnych wydarzeń"
+          ],
+          "answer": "Aby zachować pamięć o przeszłości wspólnoty",
+          "hint": "Uroczystości mogą łączyć różne pokolenia.",
+          "explanation": "Obchody przypominają o wydarzeniach ważnych dla wspólnoty i pomagają przekazywać pamięć o nich."
+        },
+        {
+          "id": "hi-wspolnota-12",
+          "prompt": "Co najczęściej nazywamy małą ojczyzną?",
+          "options": [
+            "Bliską nam miejscowość lub region",
+            "Wyłącznie najmniejsze państwo świata",
+            "Każdy kraj na innym kontynencie"
+          ],
+          "answer": "Bliską nam miejscowość lub region",
+          "hint": "Chodzi o miejsce związane z codziennym życiem i poczuciem bliskości.",
+          "explanation": "Mała ojczyzna to bliskie miejsce, na przykład wieś, miasto lub region, z którym czujemy więź."
+        },
+        {
+          "id": "hi-wspolnota-13",
+          "prompt": "Które działanie jest przykładem troski o małą ojczyznę?",
+          "options": [
+            "Niszczenie tablic pamiątkowych",
+            "Zaśmiecanie parku",
+            "Pomoc w sprzątaniu okolicy i poznawanie jej historii"
+          ],
+          "answer": "Pomoc w sprzątaniu okolicy i poznawanie jej historii",
+          "hint": "Troska o wspólne miejsce może mieć zwyczajną, codzienną formę.",
+          "explanation": "Dbanie o otoczenie i poznawanie historii okolicy pomagają budować więź z małą ojczyzną."
+        },
+        {
+          "id": "hi-wspolnota-14",
+          "prompt": "Jak nazywa się region Polski, w którym leży Poznań?",
+          "options": [
+            "Warmia",
+            "Wielkopolska",
+            "Podhale"
+          ],
+          "answer": "Wielkopolska",
+          "hint": "Nazwa regionu zaczyna się od Wielko-.",
+          "explanation": "Poznań leży w Wielkopolsce, jednym z historycznych regionów Polski."
+        },
+        {
+          "id": "hi-wspolnota-15",
+          "prompt": "Z którym regionem historycznym wiąże się Kraków?",
+          "options": [
+            "Małopolską",
+            "Pomorzem",
+            "Mazurami"
+          ],
+          "answer": "Małopolską",
+          "hint": "Kraków jest ważnym ośrodkiem regionu o nazwie zaczynającej się od Mało-.",
+          "explanation": "Kraków leży w Małopolsce i jest jednym z jej najważniejszych ośrodków historycznych."
+        },
+        {
+          "id": "hi-wspolnota-16",
+          "prompt": "Z którym regionem Polski wiąże się Warszawa?",
+          "options": [
+            "Podhalem",
+            "Pomorzem Zachodnim",
+            "Mazowszem"
+          ],
+          "answer": "Mazowszem",
+          "hint": "To region w środkowej części Polski.",
+          "explanation": "Warszawa leży na Mazowszu."
+        },
+        {
+          "id": "hi-wspolnota-17",
+          "prompt": "Który region znajduje się u podnóża Tatr?",
+          "options": [
+            "Kujawy",
+            "Podhale",
+            "Wielkopolska"
+          ],
+          "answer": "Podhale",
+          "hint": "Pomyśl o Zakopanem i kulturze góralskiej.",
+          "explanation": "Podhale jest regionem położonym u północnego podnóża Tatr."
+        },
+        {
+          "id": "hi-wspolnota-18",
+          "prompt": "W którym mieście znajduje się Wawel?",
+          "options": [
+            "W Krakowie",
+            "W Gdańsku",
+            "W Poznaniu"
+          ],
+          "answer": "W Krakowie",
+          "hint": "To dawna siedziba polskich władców nad Wisłą.",
+          "explanation": "Wzgórze Wawel z zamkiem i katedrą znajduje się w Krakowie."
+        },
+        {
+          "id": "hi-wspolnota-19",
+          "prompt": "Co może być przykładem tradycji regionalnej?",
+          "options": [
+            "Wyłącznie nowy model telefonu",
+            "Każda prognoza pogody",
+            "Miejscowy taniec, strój lub zwyczaj świąteczny"
+          ],
+          "answer": "Miejscowy taniec, strój lub zwyczaj świąteczny",
+          "hint": "Tradycje są przekazywane między pokoleniami.",
+          "explanation": "Regionalne tańce, stroje, potrawy i obyczaje współtworzą kulturę danego miejsca."
+        },
+        {
+          "id": "hi-wspolnota-20",
+          "prompt": "Dlaczego różne regionalne tradycje warto poznawać z szacunkiem?",
+          "options": [
+            "Nie mają żadnego związku z przeszłością",
+            "Pokazują bogactwo kultury i doświadczeń ludzi",
+            "Dowodzą, że wszyscy muszą żyć identycznie"
+          ],
+          "answer": "Pokazują bogactwo kultury i doświadczeń ludzi",
+          "hint": "Różnorodność nie wyklucza poczucia wspólnoty.",
+          "explanation": "Tradycje pomagają poznać historię i tożsamość różnych społeczności. Możemy je szanować, nawet jeśli sami ich nie praktykujemy."
+        },
+        {
+          "id": "hi-wspolnota-21",
+          "prompt": "Jak wygląda flaga Unii Europejskiej?",
+          "options": [
+            "Krąg dwunastu złotych gwiazd na niebieskim tle",
+            "Czerwony krzyż na białym tle",
+            "Trzy pionowe pasy: zielony, biały i czerwony"
+          ],
+          "answer": "Krąg dwunastu złotych gwiazd na niebieskim tle",
+          "hint": "Gwiazd jest zawsze dwanaście.",
+          "explanation": "Flaga europejska przedstawia dwanaście złotych gwiazd ułożonych w krąg na niebieskim tle."
+        },
+        {
+          "id": "hi-wspolnota-22",
+          "prompt": "Czy liczba gwiazd na fladze Unii Europejskiej oznacza liczbę jej państw?",
+          "options": [
+            "Tak, zmienia się przy każdym nowym państwie",
+            "Tak, dlatego Unia zawsze ma dwanaście państw",
+            "Nie, liczba dwunastu gwiazd jest stała"
+          ],
+          "answer": "Nie, liczba dwunastu gwiazd jest stała",
+          "hint": "Gwiazd nie dodaje się po przyjęciu nowego członka.",
+          "explanation": "Liczba gwiazd nie odpowiada liczbie państw. Krąg symbolizuje jedność."
+        },
+        {
+          "id": "hi-wspolnota-23",
+          "prompt": "Z jakiej kompozycji pochodzi melodia hymnu europejskiego?",
+          "options": [
+            "Z polskiej kolędy Wśród nocnej ciszy",
+            "Z Ody do radości z IX Symfonii Beethovena",
+            "Z Mazurka Dąbrowskiego"
+          ],
+          "answer": "Z Ody do radości z IX Symfonii Beethovena",
+          "hint": "Kompozytorem był Ludwig van Beethoven.",
+          "explanation": "Hymn europejski wykorzystuje melodię Ody do radości z IX Symfonii Ludwiga van Beethovena."
+        },
+        {
+          "id": "hi-wspolnota-24",
+          "prompt": "Co wyraża krąg gwiazd na fladze europejskiej?",
+          "options": [
+            "Jedność, solidarność i harmonię",
+            "Liczbę planet Układu Słonecznego",
+            "Dokładny wiek Europy"
+          ],
+          "answer": "Jedność, solidarność i harmonię",
+          "hint": "Symbol dotyczy współpracy między ludźmi.",
+          "explanation": "Krąg gwiazd jest symbolem jedności, solidarności i harmonii narodów Europy."
+        },
+        {
+          "id": "hi-wspolnota-25",
+          "prompt": "Które zachowanie łączy troskę o własny kraj z szacunkiem dla innych?",
+          "options": [
+            "Wyśmiewanie wszystkich obcych tradycji",
+            "Niszczenie zabytków innych krajów",
+            "Dbanie o wspólne dobro i szanowanie innych narodów"
+          ],
+          "answer": "Dbanie o wspólne dobro i szanowanie innych narodów",
+          "hint": "Miłość do ojczyzny można okazywać bez poniżania innych.",
+          "explanation": "Patriotyzm może oznaczać odpowiedzialną troskę o kraj, połączoną z szacunkiem dla ludzi i kultur."
+        }
+      ]
+    },
+    {
+      "id": "hi-poczatki",
+      "subject": "historia",
+      "section": "Starożytność",
+      "title": "Od osad do starożytnego Egiptu",
+      "description": "Początkowe zagadnienia chronologiczne cyklu klas 4–6 (podstawa 2026): rewolucja neolityczna, Egipt i znaczenie pisma.",
+      "questions": [
+        {
+          "id": "hi-poczatki-01",
+          "prompt": "Jak zdobywali pożywienie ludzie żyjący przed upowszechnieniem rolnictwa?",
+          "options": [
+            "Kupowali wszystko w supermarketach",
+            "Korzystali wyłącznie z uprawianych pól",
+            "Między innymi polowali i zbierali jadalne rośliny"
+          ],
+          "answer": "Między innymi polowali i zbierali jadalne rośliny",
+          "hint": "Pomyśl o darach przyrody i łowiectwie.",
+          "explanation": "Wspólnoty zbieracko-łowieckie zdobywały pokarm między innymi przez zbieractwo, polowanie i rybołówstwo."
+        },
+        {
+          "id": "hi-poczatki-02",
+          "prompt": "Co oznacza koczowniczy tryb życia?",
+          "options": [
+            "Życie wyłącznie w wielkich miastach",
+            "Przenoszenie się z miejsca na miejsce",
+            "Stałe mieszkanie w jednej osadzie przez wiele pokoleń"
+          ],
+          "answer": "Przenoszenie się z miejsca na miejsce",
+          "hint": "W tej formie życia ludzie często zmieniają miejsce pobytu.",
+          "explanation": "Koczowniczy tryb życia polega na przemieszczaniu się, na przykład w poszukiwaniu pożywienia i dogodnych warunków."
+        },
+        {
+          "id": "hi-poczatki-03",
+          "prompt": "Co oznacza osiadły tryb życia?",
+          "options": [
+            "Trwałe zamieszkiwanie w jednym miejscu",
+            "Codzienną przeprowadzkę całej osady",
+            "Ciągłą podróż bez stałego miejsca zamieszkania"
+          ],
+          "answer": "Trwałe zamieszkiwanie w jednym miejscu",
+          "hint": "Słowo osiadły kojarzy się z osadą.",
+          "explanation": "Osiadły tryb życia to zamieszkiwanie na stałe w danym miejscu, często związane z uprawą ziemi."
+        },
+        {
+          "id": "hi-poczatki-04",
+          "prompt": "Która zmiana wiąże się z rewolucją neolityczną?",
+          "options": [
+            "Wynalezienie samochodu",
+            "Budowa pierwszych komputerów",
+            "Rozwój uprawy roślin i hodowli zwierząt"
+          ],
+          "answer": "Rozwój uprawy roślin i hodowli zwierząt",
+          "hint": "Chodzi o bardzo dawne zmiany sposobu zdobywania żywności.",
+          "explanation": "Rewolucja neolityczna oznaczała między innymi rozwój rolnictwa i hodowli oraz osiadłego życia."
+        },
+        {
+          "id": "hi-poczatki-05",
+          "prompt": "Dlaczego uprawa zbóż sprzyjała osiadłemu trybowi życia?",
+          "options": [
+            "Uprawa wymagała codziennej zmiany kontynentu",
+            "Trzeba było troszczyć się o pola i czekać na plony",
+            "Zboże rosło tylko na płynących statkach"
+          ],
+          "answer": "Trzeba było troszczyć się o pola i czekać na plony",
+          "hint": "Pole pozostaje w tym samym miejscu.",
+          "explanation": "Uprawianie ziemi wymagało regularnej pracy i oczekiwania na zbiory, co sprzyjało zakładaniu stałych osad."
+        },
+        {
+          "id": "hi-poczatki-06",
+          "prompt": "Co odróżnia hodowlę od polowania?",
+          "options": [
+            "Człowiek opiekuje się utrzymywanymi przez siebie zwierzętami",
+            "Hodowla polega tylko na tropieniu dzikich zwierząt",
+            "Hodowla nie ma żadnego związku ze zwierzętami"
+          ],
+          "answer": "Człowiek opiekuje się utrzymywanymi przez siebie zwierzętami",
+          "hint": "W hodowli zwierzęta pozostają pod opieką człowieka.",
+          "explanation": "Hodowla polega na utrzymywaniu i rozmnażaniu zwierząt, a polowanie na zdobywaniu zwierząt dziko żyjących."
+        },
+        {
+          "id": "hi-poczatki-07",
+          "prompt": "Po co mieszkańcy dawnych osad wykonywali naczynia z gliny?",
+          "options": [
+            "Do przesyłania wiadomości radiowych",
+            "Do napędzania samolotów",
+            "Do przechowywania i przygotowywania żywności"
+          ],
+          "answer": "Do przechowywania i przygotowywania żywności",
+          "hint": "Pomyśl o dzbanach i garnkach.",
+          "explanation": "Naczynia pomagały między innymi przechowywać zapasy, przenosić wodę i przygotowywać jedzenie."
+        },
+        {
+          "id": "hi-poczatki-08",
+          "prompt": "Dlaczego bliskość rzek była korzystna dla dawnych osad rolniczych?",
+          "options": [
+            "Zawsze usuwała wszelkie zagrożenie powodzią",
+            "Zapewniała wodę potrzebną ludziom, zwierzętom i uprawom",
+            "Sprawiała, że ludzie nie potrzebowali pożywienia"
+          ],
+          "answer": "Zapewniała wodę potrzebną ludziom, zwierzętom i uprawom",
+          "hint": "Woda jest potrzebna do życia i uprawy roślin.",
+          "explanation": "Rzeki dawały dostęp do wody i często do żyznych terenów. Mogły jednak także wylewać."
+        },
+        {
+          "id": "hi-poczatki-09",
+          "prompt": "Co mogło się rozwinąć, gdy osada miała nadwyżki żywności?",
+          "options": [
+            "Rzemiosło i wymiana różnych produktów",
+            "Wyłącznie codzienne wędrówki wszystkich mieszkańców",
+            "Zakaz wykonywania jakichkolwiek narzędzi"
+          ],
+          "answer": "Rzemiosło i wymiana różnych produktów",
+          "hint": "Nie każdy musiał wtedy zajmować się zdobywaniem jedzenia.",
+          "explanation": "Nadwyżki żywności umożliwiały części mieszkańców wykonywanie narzędzi, naczyń i innych wyrobów na wymianę."
+        },
+        {
+          "id": "hi-poczatki-10",
+          "prompt": "Który przykład pokazuje wymianę towarów?",
+          "options": [
+            "Rolnik chowa własne zboże do własnego spichlerza",
+            "Dziecko ogląda pustą miskę",
+            "Garncarz oddaje garnek w zamian za zboże"
+          ],
+          "answer": "Garncarz oddaje garnek w zamian za zboże",
+          "hint": "W wymianie obie strony przekazują sobie jakieś dobra.",
+          "explanation": "Garnek zostaje wymieniony na zboże, więc obie osoby otrzymują potrzebny im produkt."
+        },
+        {
+          "id": "hi-poczatki-11",
+          "prompt": "Jaką korzyść dało ludziom opanowanie ognia?",
+          "options": [
+            "Pewność, że nigdy nie będzie deszczu",
+            "Możliwość ogrzewania się i przygotowywania posiłków",
+            "Możliwość czytania myśli"
+          ],
+          "answer": "Możliwość ogrzewania się i przygotowywania posiłków",
+          "hint": "Ogień dostarcza ciepła.",
+          "explanation": "Ogień pomagał ogrzewać się, przygotowywać pokarm i oświetlać otoczenie."
+        },
+        {
+          "id": "hi-poczatki-12",
+          "prompt": "Co bada archeolog, chcąc poznać osadę sprzed wynalezienia pisma?",
+          "options": [
+            "Pozostałości domów, narzędzia i inne przedmioty",
+            "Tylko pamiętniki jej mieszkańców",
+            "Nagrania telewizyjne z tej osady"
+          ],
+          "answer": "Pozostałości domów, narzędzia i inne przedmioty",
+          "hint": "Z tego okresu nie ma miejscowych źródeł pisanych.",
+          "explanation": "Archeolog wykorzystuje materialne ślady życia: zabudowę, narzędzia, naczynia i szczątki roślin czy zwierząt."
+        },
+        {
+          "id": "hi-poczatki-13",
+          "prompt": "Nad jaką rzeką rozwinęło się państwo starożytnego Egiptu?",
+          "options": [
+            "Nad Wisłą",
+            "Nad Tybrem",
+            "Nad Nilem"
+          ],
+          "answer": "Nad Nilem",
+          "hint": "Ta rzeka przepływa przez północno-wschodnią Afrykę.",
+          "explanation": "Cywilizacja starożytnego Egiptu rozwinęła się nad Nilem."
+        },
+        {
+          "id": "hi-poczatki-14",
+          "prompt": "Dlaczego Nil był tak ważny dla egipskiego rolnictwa?",
+          "options": [
+            "Sprawiał, że rośliny nie potrzebowały wody",
+            "Dostarczał wodę, a jego wylewy pozostawiały żyzny muł",
+            "Zamieniał pustynię w lodowiec"
+          ],
+          "answer": "Dostarczał wodę, a jego wylewy pozostawiały żyzny muł",
+          "hint": "Wiele terenów Egiptu jest suchych.",
+          "explanation": "Wody Nilu i osadzany podczas wylewów muł pomagały uprawiać ziemię w suchym kraju."
+        },
+        {
+          "id": "hi-poczatki-15",
+          "prompt": "Jak nazywamy władcę starożytnego Egiptu?",
+          "options": [
+            "Faraonem",
+            "Konsulem",
+            "Burmistrzem"
+          ],
+          "answer": "Faraonem",
+          "hint": "To charakterystyczny tytuł egipskiego władcy.",
+          "explanation": "Władcę starożytnego Egiptu nazywamy faraonem."
+        },
+        {
+          "id": "hi-poczatki-16",
+          "prompt": "Czym były egipskie hieroglify?",
+          "options": [
+            "Rodzajem statków parowych",
+            "Nazwą rzymskiej drogi",
+            "Systemem pisma"
+          ],
+          "answer": "Systemem pisma",
+          "hint": "Służyły do zapisywania informacji.",
+          "explanation": "Hieroglify były znakami egipskiego pisma. Niektóre oznaczały dźwięki, inne słowa lub pomagały rozumieć zapis."
+        },
+        {
+          "id": "hi-poczatki-17",
+          "prompt": "Do czego służyły egipskie piramidy?",
+          "options": [
+            "Służyły wyłącznie jako boiska",
+            "Były grobowcami władców",
+            "Były dworcami kolejowymi"
+          ],
+          "answer": "Były grobowcami władców",
+          "hint": "Ich funkcja wiązała się z pochówkiem.",
+          "explanation": "Piramidy budowano jako grobowce faraonów, wraz z innymi obiektami tworzącymi zespoły pogrzebowe."
+        },
+        {
+          "id": "hi-poczatki-18",
+          "prompt": "Co oznacza politeizm?",
+          "options": [
+            "Wiarę w wielu bogów",
+            "Wiarę tylko w jednego boga",
+            "Rodzaj budowy kanałów"
+          ],
+          "answer": "Wiarę w wielu bogów",
+          "hint": "Przedrostek poli- oznacza wiele.",
+          "explanation": "Politeizm to wiara w wielu bogów; była charakterystyczna między innymi dla religii starożytnego Egiptu."
+        },
+        {
+          "id": "hi-poczatki-19",
+          "prompt": "Jakie przekonanie miało duże znaczenie w wierzeniach starożytnych Egipcjan?",
+          "options": [
+            "Przekonanie, że pismo nie jest potrzebne",
+            "Wiara, że Nil znajduje się w Europie",
+            "Wiara w życie po śmierci"
+          ],
+          "answer": "Wiara w życie po śmierci",
+          "hint": "Pomagają to zrozumieć grobowce i zwyczaje pogrzebowe.",
+          "explanation": "Wierzenia dotyczące życia pozagrobowego wpływały na egipskie grobowce i obrzędy pogrzebowe."
+        },
+        {
+          "id": "hi-poczatki-20",
+          "prompt": "Co nazywamy mumią?",
+          "options": [
+            "Rodzaj pisma greckiego",
+            "Ciało zachowane dzięki wysuszeniu lub specjalnym zabiegom",
+            "Każdy gliniany garnek"
+          ],
+          "answer": "Ciało zachowane dzięki wysuszeniu lub specjalnym zabiegom",
+          "hint": "W Egipcie zachowywanie ciała wiązało się z obrzędami pogrzebowymi.",
+          "explanation": "Mumia to zachowane ciało. Starożytni Egipcjanie stosowali w tym celu specjalne zabiegi."
+        },
+        {
+          "id": "hi-poczatki-21",
+          "prompt": "Z czym wiązała się praca egipskiego pisarza?",
+          "options": [
+            "Zapisywaniem informacji i prowadzeniem rachunków",
+            "Wyłącznie prowadzeniem nowoczesnego tramwaju",
+            "Wyłącznie projektowaniem komputerów"
+          ],
+          "answer": "Zapisywaniem informacji i prowadzeniem rachunków",
+          "hint": "Umiejętność pisania nie była dostępna wszystkim.",
+          "explanation": "Pisarze potrafili czytać i pisać; sporządzali między innymi dokumenty, rachunki i zapisy dotyczące zapasów."
+        },
+        {
+          "id": "hi-poczatki-22",
+          "prompt": "Co ułatwiło ludziom wynalezienie pisma?",
+          "options": [
+            "Natychmiastowe zniknięcie wszystkich konfliktów",
+            "Uniezależnienie od potrzeby jedzenia",
+            "Przechowywanie informacji i przekazywanie ich następnym pokoleniom"
+          ],
+          "answer": "Przechowywanie informacji i przekazywanie ich następnym pokoleniom",
+          "hint": "Zapis może przetrwać dłużej niż pamięć jednej osoby.",
+          "explanation": "Pismo umożliwiło utrwalanie wiadomości, praw, rachunków i opowieści oraz przekazywanie ich innym."
+        },
+        {
+          "id": "hi-poczatki-23",
+          "prompt": "Jak matematyka mogła pomagać starożytnym Egipcjanom?",
+          "options": [
+            "W zmienianiu kierunku obrotu Ziemi",
+            "W mierzeniu pól i planowaniu budowli",
+            "W odbieraniu programów telewizyjnych"
+          ],
+          "answer": "W mierzeniu pól i planowaniu budowli",
+          "hint": "Budowniczowie i mierniczy potrzebowali obliczeń.",
+          "explanation": "Umiejętność liczenia i mierzenia była przydatna w rolnictwie, budownictwie i prowadzeniu rachunków."
+        },
+        {
+          "id": "hi-poczatki-24",
+          "prompt": "Czym zajmuje się astronomia, rozwijana także w starożytnym Egipcie?",
+          "options": [
+            "Badaniem ciał niebieskich i zjawisk na niebie",
+            "Wyłącznie badaniem dawnych ubrań",
+            "Naprawianiem drewnianych wozów"
+          ],
+          "answer": "Badaniem ciał niebieskich i zjawisk na niebie",
+          "hint": "Astronom obserwuje niebo.",
+          "explanation": "Astronomia bada między innymi gwiazdy, planety i ich ruchy. Dawne obserwacje pomagały też w tworzeniu kalendarzy."
+        },
+        {
+          "id": "hi-poczatki-25",
+          "prompt": "Do czego Egipcjanie wykorzystywali kanały nawadniające?",
+          "options": [
+            "Do przesyłania prądu elektrycznego",
+            "Do przesuwania gwiazd na niebie",
+            "Do doprowadzania wody na pola"
+          ],
+          "answer": "Do doprowadzania wody na pola",
+          "hint": "Nawadnianie oznacza dostarczanie wody.",
+          "explanation": "Kanały pozwalały kierować wodę do upraw i lepiej korzystać z zasobów Nilu."
+        }
+      ]
+    },
+    {
+      "id": "hi-grecja",
+      "subject": "historia",
+      "section": "Starożytność",
+      "title": "Starożytna Grecja",
+      "description": "Początkowe zagadnienia chronologiczne cyklu klas 4–6 (podstawa 2026): polis, Ateny, demokracja i dziedzictwo Greków.",
+      "questions": [
+        {
+          "id": "hi-grecja-01",
+          "prompt": "Jaką krainę nazywali Helladą jej starożytni mieszkańcy?",
+          "options": [
+            "Egipt",
+            "Polskę",
+            "Grecję"
+          ],
+          "answer": "Grecję",
+          "hint": "Mieszkańców tej krainy nazywano Hellenami.",
+          "explanation": "Hellada to nazwa Grecji, a Hellenowie to Grecy."
+        },
+        {
+          "id": "hi-grecja-02",
+          "prompt": "Jak góry wpływały na życie starożytnych Greków?",
+          "options": [
+            "Usuwały potrzebę kontaktów między ludźmi",
+            "Utrudniały podróże lądem między niektórymi osadami",
+            "Sprawiały, że wszystkie osady leżały na jednej równinie"
+          ],
+          "answer": "Utrudniały podróże lądem między niektórymi osadami",
+          "hint": "Górskie pasma są naturalnymi przeszkodami.",
+          "explanation": "Góry rozdzielały obszary zamieszkania i utrudniały komunikację lądową, sprzyjając odrębności greckich miast-państw."
+        },
+        {
+          "id": "hi-grecja-03",
+          "prompt": "Dlaczego żegluga była ważna dla Greków?",
+          "options": [
+            "Morze umożliwiało podróże i handel między wybrzeżami i wyspami",
+            "Grecja nie miała dostępu do morza",
+            "Statki poruszały się wyłącznie po pustyni"
+          ],
+          "answer": "Morze umożliwiało podróże i handel między wybrzeżami i wyspami",
+          "hint": "Grecja ma długie wybrzeże i wiele wysp.",
+          "explanation": "Podróże morskie łączyły greckie osady i umożliwiały wymianę towarów."
+        },
+        {
+          "id": "hi-grecja-04",
+          "prompt": "Co oznacza greckie słowo polis?",
+          "options": [
+            "Piramidę",
+            "Rzymski oddział wojska",
+            "Miasto-państwo"
+          ],
+          "answer": "Miasto-państwo",
+          "hint": "Polis obejmowała miasto i należącą do niego okolicę.",
+          "explanation": "Polis była wspólnotą polityczną, którą nazywamy miastem-państwem."
+        },
+        {
+          "id": "hi-grecja-05",
+          "prompt": "Która para obejmuje dwa starożytne greckie miasta-państwa?",
+          "options": [
+            "Memfis i Warszawa",
+            "Ateny i Sparta",
+            "Rzym i Kraków"
+          ],
+          "answer": "Ateny i Sparta",
+          "hint": "Jedno słynęło z demokracji, drugie z wojskowego wychowania.",
+          "explanation": "Ateny i Sparta były odrębnymi greckimi polis."
+        },
+        {
+          "id": "hi-grecja-06",
+          "prompt": "Czym była agora?",
+          "options": [
+            "Centralnym placem miasta, miejscem spotkań i handlu",
+            "Grobowcem egipskiego faraona",
+            "Rzeką przepływającą przez Rzym"
+          ],
+          "answer": "Centralnym placem miasta, miejscem spotkań i handlu",
+          "hint": "Była ważną przestrzenią wspólnego życia polis.",
+          "explanation": "Agora była placem, na którym odbywały się spotkania, handel i różne działania publiczne."
+        },
+        {
+          "id": "hi-grecja-07",
+          "prompt": "Co oznacza nazwa Akropol w Atenach?",
+          "options": [
+            "Port na środku pustyni",
+            "Wszystkie greckie wyspy naraz",
+            "Wzgórze z ważnymi budowlami, w tym świątyniami"
+          ],
+          "answer": "Wzgórze z ważnymi budowlami, w tym świątyniami",
+          "hint": "Nazwa wiąże się z wysoko położoną częścią miasta.",
+          "explanation": "Ateński Akropol to skaliste wzgórze, na którym znajdowały się ważne świątynie."
+        },
+        {
+          "id": "hi-grecja-08",
+          "prompt": "Czym był Partenon?",
+          "options": [
+            "Rzymskim wodociągiem",
+            "Świątynią Ateny na ateńskim Akropolu",
+            "Egipskim pismem"
+          ],
+          "answer": "Świątynią Ateny na ateńskim Akropolu",
+          "hint": "Nazwa wiąże się z boginią opiekującą się Atenami.",
+          "explanation": "Partenon był świątynią Ateny zbudowaną na Akropolu."
+        },
+        {
+          "id": "hi-grecja-09",
+          "prompt": "Jaki ustrój rozwinął się w starożytnych Atenach?",
+          "options": [
+            "Demokracja",
+            "Dziedziczna władza faraonów",
+            "Monarchia absolutna Ludwika XIV"
+          ],
+          "answer": "Demokracja",
+          "hint": "Obywatele mogli uczestniczyć w podejmowaniu decyzji.",
+          "explanation": "W Atenach rozwinęła się demokracja, w której uprawnieni obywatele brali udział w rządzeniu."
+        },
+        {
+          "id": "hi-grecja-10",
+          "prompt": "Kto mógł uczestniczyć w ateńskim zgromadzeniu obywateli w V wieku p.n.e.?",
+          "options": [
+            "Wszyscy mieszkańcy, także dzieci i niewolnicy",
+            "Wyłącznie przyjezdni kupcy",
+            "Dorośli mężczyźni mający prawa obywatelskie"
+          ],
+          "answer": "Dorośli mężczyźni mający prawa obywatelskie",
+          "hint": "Ateńska demokracja nie obejmowała wszystkich mieszkańców.",
+          "explanation": "Prawa polityczne przysługiwały dorosłym mężczyznom posiadającym obywatelstwo. Kobiety, niewolnicy i cudzoziemcy byli wykluczeni z udziału."
+        },
+        {
+          "id": "hi-grecja-11",
+          "prompt": "Czym ateńska demokracja różniła się od współczesnych demokracji?",
+          "options": [
+            "Nie znała żadnych publicznych obrad",
+            "Nie dawała praw politycznych wszystkim dorosłym mieszkańcom",
+            "Dawała prawo głosu każdemu dziecku"
+          ],
+          "answer": "Nie dawała praw politycznych wszystkim dorosłym mieszkańcom",
+          "hint": "Zwróć uwagę na grupy pozbawione praw politycznych.",
+          "explanation": "W Atenach wiele grup, w tym kobiety i niewolnicy, nie miało praw politycznych. Nie należy utożsamiać tego ustroju ze współczesną demokracją."
+        },
+        {
+          "id": "hi-grecja-12",
+          "prompt": "Na czym polegał bezpośredni udział obywateli w demokracji ateńskiej?",
+          "options": [
+            "Mogli sami uczestniczyć w zgromadzeniu i głosowaniach",
+            "Wszystkie decyzje podejmował za nich faraon",
+            "Nigdy nie mogli zabierać głosu"
+          ],
+          "answer": "Mogli sami uczestniczyć w zgromadzeniu i głosowaniach",
+          "hint": "Nie chodziło wyłącznie o wybieranie przedstawicieli.",
+          "explanation": "Uprawnieni obywatele zbierali się, dyskutowali i podejmowali decyzje w głosowaniach."
+        },
+        {
+          "id": "hi-grecja-13",
+          "prompt": "Z którym miastem i ustrojem wiąże się Perykles?",
+          "options": [
+            "Z Egiptem i władzą faraona",
+            "Z Rzymem i pierwszym cesarstwem",
+            "Z Atenami i demokracją"
+          ],
+          "answer": "Z Atenami i demokracją",
+          "hint": "Był ważnym ateńskim politykiem V wieku p.n.e.",
+          "explanation": "Perykles był ateńskim przywódcą działającym w okresie rozwoju demokracji i kultury miasta."
+        },
+        {
+          "id": "hi-grecja-14",
+          "prompt": "Które zachowanie pasuje do rozmowy nad wspólną decyzją?",
+          "options": [
+            "Zakaz zadawania pytań",
+            "Wysłuchanie argumentów i wyjaśnienie własnego stanowiska",
+            "Zagłuszanie każdej innej opinii"
+          ],
+          "answer": "Wysłuchanie argumentów i wyjaśnienie własnego stanowiska",
+          "hint": "Dyskusja wymaga argumentów i słuchania innych.",
+          "explanation": "Wspólne podejmowanie decyzji korzysta z dyskusji, w której ludzie przedstawiają uzasadnienia i poznają różne stanowiska."
+        },
+        {
+          "id": "hi-grecja-15",
+          "prompt": "Co łączyło Greków mieszkających w różnych polis?",
+          "options": [
+            "Między innymi język, wierzenia i wspólne igrzyska",
+            "Jeden faraon rządzący wszystkimi polis",
+            "Całkowity brak kontaktów między miastami"
+          ],
+          "answer": "Między innymi język, wierzenia i wspólne igrzyska",
+          "hint": "Odrębne państwa mogą mieć wspólną kulturę.",
+          "explanation": "Mimo podziału politycznego Greków łączyły elementy języka, religii i kultury, w tym wspólne święta i igrzyska."
+        },
+        {
+          "id": "hi-grecja-16",
+          "prompt": "Gdzie odbywały się starożytne igrzyska olimpijskie?",
+          "options": [
+            "Na szczycie każdej greckiej góry",
+            "W egipskich piramidach",
+            "W Olimpii"
+          ],
+          "answer": "W Olimpii",
+          "hint": "Nie pomyl miejscowości z nazwą góry Olimp.",
+          "explanation": "Starożytne igrzyska olimpijskie odbywały się w Olimpii na Peloponezie."
+        },
+        {
+          "id": "hi-grecja-17",
+          "prompt": "Co ile lat zwykle organizowano starożytne igrzyska olimpijskie?",
+          "options": [
+            "Co sto lat",
+            "Co cztery lata",
+            "Co miesiąc"
+          ],
+          "answer": "Co cztery lata",
+          "hint": "Taki odstęp łączy dawne i współczesne igrzyska letnie.",
+          "explanation": "Starożytne igrzyska w Olimpii odbywały się co cztery lata."
+        },
+        {
+          "id": "hi-grecja-18",
+          "prompt": "Która dyscyplina była znana na starożytnych igrzyskach?",
+          "options": [
+            "Rzut dyskiem",
+            "Koszykówka",
+            "Skoki narciarskie"
+          ],
+          "answer": "Rzut dyskiem",
+          "hint": "Nie wymagała wynalezienia nowoczesnej piłki ani nart.",
+          "explanation": "Rzut dyskiem należał do dyscyplin uprawianych podczas starożytnych zawodów."
+        },
+        {
+          "id": "hi-grecja-19",
+          "prompt": "Któremu bogu poświęcone były igrzyska w Olimpii?",
+          "options": [
+            "Ozyrysowi",
+            "Marsowi",
+            "Zeusowi"
+          ],
+          "answer": "Zeusowi",
+          "hint": "Chodzi o najważniejszego boga w mitologii greckiej.",
+          "explanation": "Igrzyska w Olimpii były świętem ku czci Zeusa."
+        },
+        {
+          "id": "hi-grecja-20",
+          "prompt": "Czym jest mitologia?",
+          "options": [
+            "Wyłącznie spisem praw podatkowych",
+            "Zbiorem mitów danej kultury",
+            "Mapą współczesnych autostrad"
+          ],
+          "answer": "Zbiorem mitów danej kultury",
+          "hint": "Mity opowiadają między innymi o bogach i bohaterach.",
+          "explanation": "Mitologia to zbiór mitów, czyli tradycyjnych opowieści wyjaśniających świat i przedstawiających bogów lub bohaterów."
+        },
+        {
+          "id": "hi-grecja-21",
+          "prompt": "Jak należy traktować opowieść o Zeusie rzucającym piorunami?",
+          "options": [
+            "Jako mit ukazujący dawne wierzenia",
+            "Jako współczesną prognozę pogody",
+            "Jako dowód, że pioruny nie istnieją"
+          ],
+          "answer": "Jako mit ukazujący dawne wierzenia",
+          "hint": "Odróżnij dawną opowieść religijną od naukowego wyjaśnienia zjawiska.",
+          "explanation": "Opowieść o Zeusie należy do mitologii greckiej. Pozwala poznawać wierzenia i kulturę dawnych ludzi."
+        },
+        {
+          "id": "hi-grecja-22",
+          "prompt": "Z czego wywodzi się europejska tradycja teatru?",
+          "options": [
+            "Wyłącznie z nowoczesnej telewizji",
+            "Z wynalezienia parowozu",
+            "Między innymi z przedstawień starożytnych Greków"
+          ],
+          "answer": "Między innymi z przedstawień starożytnych Greków",
+          "hint": "Grecy wystawiali tragedie i komedie.",
+          "explanation": "Teatr starożytnej Grecji miał duży wpływ na rozwój teatru europejskiego."
+        },
+        {
+          "id": "hi-grecja-23",
+          "prompt": "Które dwa gatunki widowisk kojarzymy z teatrem greckim?",
+          "options": [
+            "Rozkład jazdy i instrukcję obsługi",
+            "Tragedię i komedię",
+            "Dziennik i prognozę pogody"
+          ],
+          "answer": "Tragedię i komedię",
+          "hint": "Jeden gatunek bywa poważny, drugi wykorzystuje komizm.",
+          "explanation": "W starożytnej Grecji rozwijały się tragedia i komedia, ważne gatunki dramatu."
+        },
+        {
+          "id": "hi-grecja-24",
+          "prompt": "Czym zajmuje się filozofia?",
+          "options": [
+            "Stawianiem pytań o świat, wiedzę i dobre życie oraz szukaniem uzasadnionych odpowiedzi",
+            "Wyłącznie mierzeniem opadów",
+            "Wyłącznie handlem garnkami"
+          ],
+          "answer": "Stawianiem pytań o świat, wiedzę i dobre życie oraz szukaniem uzasadnionych odpowiedzi",
+          "hint": "Filozof pyta na przykład, czym jest prawda albo sprawiedliwość.",
+          "explanation": "Filozofia polega na rozważaniu podstawowych pytań i uzasadnianiu odpowiedzi za pomocą rozumowania."
+        },
+        {
+          "id": "hi-grecja-25",
+          "prompt": "Która postać była filozofem starożytnej Grecji?",
+          "options": [
+            "Józef Wybicki",
+            "Mikołaj Kopernik",
+            "Sokrates"
+          ],
+          "answer": "Sokrates",
+          "hint": "Ten myśliciel działał w Atenach i prowadził rozmowy pełne pytań.",
+          "explanation": "Sokrates był greckim filozofem związanym z Atenami. Zachęcał do krytycznej rozmowy i poszukiwania wiedzy."
+        }
+      ]
+    },
+    {
+      "id": "hi-rzym",
+      "subject": "historia",
+      "section": "Starożytność",
+      "title": "Rzym i początki chrześcijaństwa",
+      "description": "Początkowe zagadnienia chronologiczne cyklu klas 4–6 (podstawa 2026): życie i dziedzictwo Rzymu oraz narodziny chrześcijaństwa.",
+      "questions": [
+        {
+          "id": "hi-rzym-01",
+          "prompt": "Na jakim półwyspie powstał starożytny Rzym?",
+          "options": [
+            "Na Półwyspie Skandynawskim",
+            "Na Półwyspie Arabskim",
+            "Na Półwyspie Apenińskim"
+          ],
+          "answer": "Na Półwyspie Apenińskim",
+          "hint": "Na mapie ten półwysep przypomina but.",
+          "explanation": "Rzym powstał na Półwyspie Apenińskim, w dzisiejszych Włoszech."
+        },
+        {
+          "id": "hi-rzym-02",
+          "prompt": "Nad jaką rzeką leży Rzym?",
+          "options": [
+            "Nad Wisłą",
+            "Nad Tybrem",
+            "Nad Nilem"
+          ],
+          "answer": "Nad Tybrem",
+          "hint": "Nie pomyl rzeki Rzymu z rzeką Egiptu.",
+          "explanation": "Rzym leży nad Tybrem."
+        },
+        {
+          "id": "hi-rzym-03",
+          "prompt": "Która para braci występuje w legendzie o początkach Rzymu?",
+          "options": [
+            "Romulus i Remus",
+            "Lech i Czech",
+            "Dedal i Ikar"
+          ],
+          "answer": "Romulus i Remus",
+          "hint": "Imię jednego z braci kojarzy się z nazwą miasta.",
+          "explanation": "Romulus i Remus to legendarni bracia związani z opowieścią o początkach Rzymu."
+        },
+        {
+          "id": "hi-rzym-04",
+          "prompt": "Czy opowieść o wilczycy opiekującej się założycielami Rzymu jest pewnym opisem wydarzeń?",
+          "options": [
+            "Tak, każdy szczegół potwierdzono nagraniem",
+            "Tak, legend nie trzeba sprawdzać",
+            "Nie, należy do legend o początkach miasta"
+          ],
+          "answer": "Nie, należy do legend o początkach miasta",
+          "hint": "Legenda może zawierać elementy niezwykłe.",
+          "explanation": "Opowieść o wilczycy jest częścią legendy. Historycy odróżniają ją od wiadomości potwierdzanych badaniami."
+        },
+        {
+          "id": "hi-rzym-05",
+          "prompt": "Która kolejność form rządów w dziejach starożytnego Rzymu jest poprawna?",
+          "options": [
+            "Republika → cesarstwo → królestwo",
+            "Królestwo → republika → cesarstwo",
+            "Cesarstwo → królestwo → republika"
+          ],
+          "answer": "Królestwo → republika → cesarstwo",
+          "hint": "Najpierw tradycja mówi o królach, a dopiero później o cesarzach.",
+          "explanation": "W szkolnym podziale dziejów Rzymu wyróżniamy kolejno okres królestwa, republiki i cesarstwa."
+        },
+        {
+          "id": "hi-rzym-06",
+          "prompt": "Czym była republika rzymska?",
+          "options": [
+            "Państwem, w którym władza należała do instytucji i urzędników zamiast króla",
+            "Państwem zawsze rządzonym przez faraona",
+            "Nazwą jednego rzymskiego akweduktu"
+          ],
+          "answer": "Państwem, w którym władza należała do instytucji i urzędników zamiast króla",
+          "hint": "W republice funkcjonowały między innymi senat i urzędy.",
+          "explanation": "W republice rzymskiej działały senat, zgromadzenia i urzędnicy. Prawa i wpływy różnych grup nie były jednak równe."
+        },
+        {
+          "id": "hi-rzym-07",
+          "prompt": "Kto stał na czele cesarstwa rzymskiego?",
+          "options": [
+            "Faraon",
+            "Wójt każdej wsi na zmianę",
+            "Cesarz"
+          ],
+          "answer": "Cesarz",
+          "hint": "Nazwa ustroju podpowiada tytuł władcy.",
+          "explanation": "Najwyższym władcą cesarstwa był cesarz."
+        },
+        {
+          "id": "hi-rzym-08",
+          "prompt": "Kim był Juliusz Cezar?",
+          "options": [
+            "Polskim królem",
+            "Rzymskim wodzem i politykiem",
+            "Egipskim wynalazcą hieroglifów"
+          ],
+          "answer": "Rzymskim wodzem i politykiem",
+          "hint": "Działał pod koniec istnienia republiki rzymskiej.",
+          "explanation": "Juliusz Cezar był rzymskim wodzem i politykiem. Nie był pierwszym cesarzem Rzymu."
+        },
+        {
+          "id": "hi-rzym-09",
+          "prompt": "Kogo uznaje się za pierwszego cesarza rzymskiego?",
+          "options": [
+            "Oktawiana Augusta",
+            "Juliusza Cezara",
+            "Peryklesa"
+          ],
+          "answer": "Oktawiana Augusta",
+          "hint": "Przydomek August wiąże się z początkiem cesarstwa.",
+          "explanation": "Za pierwszego cesarza rzymskiego uznaje się Oktawiana Augusta."
+        },
+        {
+          "id": "hi-rzym-10",
+          "prompt": "Wokół którego morza rozciągała się znaczna część imperium rzymskiego?",
+          "options": [
+            "Morza Bałtyckiego",
+            "Morza Kaspijskiego",
+            "Morza Śródziemnego"
+          ],
+          "answer": "Morza Śródziemnego",
+          "hint": "Łączy ono wybrzeża Europy, Afryki i Azji.",
+          "explanation": "Rzymianie opanowali rozległe ziemie otaczające Morze Śródziemne."
+        },
+        {
+          "id": "hi-rzym-11",
+          "prompt": "Co oznacza słowo imperium w odniesieniu do starożytnego Rzymu?",
+          "options": [
+            "Wyłącznie plac targowy",
+            "Rozległe państwo władające wieloma ziemiami",
+            "Mały dom jednej rodziny"
+          ],
+          "answer": "Rozległe państwo władające wieloma ziemiami",
+          "hint": "Pomyśl o dużym obszarze i wielu podporządkowanych krainach.",
+          "explanation": "Imperium rzymskie było rozległym państwem obejmującym wiele ziem i ludów."
+        },
+        {
+          "id": "hi-rzym-12",
+          "prompt": "Kim byli niewolnicy w starożytnym Rzymie?",
+          "options": [
+            "Ludźmi pozbawionymi wolności i traktowanymi jako własność innych",
+            "Wszyscy byli najwyższymi urzędnikami",
+            "Ludźmi zawsze mającymi pełne prawa polityczne"
+          ],
+          "answer": "Ludźmi pozbawionymi wolności i traktowanymi jako własność innych",
+          "hint": "Ich położenie było inne niż wolnych obywateli.",
+          "explanation": "Niewolnicy byli pozbawieni wolności i uznawani za własność właścicieli. Nie mieli praw takich jak wolni obywatele."
+        },
+        {
+          "id": "hi-rzym-13",
+          "prompt": "Które zdanie o społeczeństwie rzymskim jest prawdziwe?",
+          "options": [
+            "Wszyscy mieszkańcy zawsze mieli identyczne prawa",
+            "Nie było w nim ani obywateli, ani niewolników",
+            "Różne grupy miały różne prawa i warunki życia"
+          ],
+          "answer": "Różne grupy miały różne prawa i warunki życia",
+          "hint": "Porównaj położenie bogatego obywatela i niewolnika.",
+          "explanation": "Społeczeństwo rzymskie było zróżnicowane. Pochodzenie, majątek i status wpływały na prawa oraz codzienne życie."
+        },
+        {
+          "id": "hi-rzym-14",
+          "prompt": "Do czego służył akwedukt?",
+          "options": [
+            "Do grzebania faraonów",
+            "Do doprowadzania wody",
+            "Do mierzenia czasu igrzysk"
+          ],
+          "answer": "Do doprowadzania wody",
+          "hint": "Początek nazwy wiąże się z łacińskim słowem oznaczającym wodę.",
+          "explanation": "Akwedukty doprowadzały wodę między innymi do rzymskich miast."
+        },
+        {
+          "id": "hi-rzym-15",
+          "prompt": "Czym były rzymskie termy?",
+          "options": [
+            "Publicznymi łaźniami",
+            "Okrętami wojennymi",
+            "Szkołami jazdy konnej"
+          ],
+          "answer": "Publicznymi łaźniami",
+          "hint": "Można było tam korzystać z kąpieli.",
+          "explanation": "Termy były publicznymi kompleksami kąpielowymi, a często także miejscami spotkań i odpoczynku."
+        },
+        {
+          "id": "hi-rzym-16",
+          "prompt": "Czym jest Koloseum w Rzymie?",
+          "options": [
+            "Egipską piramidą",
+            "Greckim systemem pisma",
+            "Starożytnym amfiteatrem"
+          ],
+          "answer": "Starożytnym amfiteatrem",
+          "hint": "Budowla miała arenę otoczoną miejscami dla widzów.",
+          "explanation": "Koloseum to rzymski amfiteatr, w którym odbywały się widowiska dla licznej publiczności."
+        },
+        {
+          "id": "hi-rzym-17",
+          "prompt": "Czemu służyły drogi budowane przez Rzymian?",
+          "options": [
+            "Uniemożliwiały łączenie odległych prowincji",
+            "Ułatwiały przemieszczanie ludzi, wojska i towarów",
+            "Służyły wyłącznie jako ozdoba lasów"
+          ],
+          "answer": "Ułatwiały przemieszczanie ludzi, wojska i towarów",
+          "hint": "Sprawna sieć dróg pomaga zarządzać rozległym państwem.",
+          "explanation": "Drogi usprawniały transport, handel i komunikację oraz przemieszczanie wojska."
+        },
+        {
+          "id": "hi-rzym-18",
+          "prompt": "Jakiego języka używali starożytni Rzymianie?",
+          "options": [
+            "Łaciny",
+            "Współczesnego polskiego",
+            "Wyłącznie chińskiego"
+          ],
+          "answer": "Łaciny",
+          "hint": "Z tego języka wywodzą się między innymi włoski i francuski.",
+          "explanation": "Łacina była językiem Rzymian i wywarła wielki wpływ na późniejszą kulturę Europy."
+        },
+        {
+          "id": "hi-rzym-19",
+          "prompt": "Które dziedzictwo Rzymu wpłynęło na późniejsze systemy prawne?",
+          "options": [
+            "Hieroglify egipskie",
+            "Greckie igrzyska olimpijskie",
+            "Prawo rzymskie"
+          ],
+          "answer": "Prawo rzymskie",
+          "hint": "Szukaj osiągnięcia związanego z regułami życia społecznego.",
+          "explanation": "Prawo rzymskie stało się ważnym punktem odniesienia dla rozwoju prawa w wielu krajach."
+        },
+        {
+          "id": "hi-rzym-20",
+          "prompt": "Co upamiętniały rzymskie łuki triumfalne?",
+          "options": [
+            "Każdą zmianę pogody",
+            "Zwycięstwa i dokonania władców lub wodzów",
+            "Wyłącznie początek każdego tygodnia"
+          ],
+          "answer": "Zwycięstwa i dokonania władców lub wodzów",
+          "hint": "Triumf oznacza uroczyste świętowanie zwycięstwa.",
+          "explanation": "Łuki triumfalne były pomnikami upamiętniającymi zwycięstwa lub zasługi władców i dowódców."
+        },
+        {
+          "id": "hi-rzym-21",
+          "prompt": "W jakim wieku narodziło się chrześcijaństwo?",
+          "options": [
+            "W I wieku n.e.",
+            "W X wieku p.n.e.",
+            "W XV wieku n.e."
+          ],
+          "answer": "W I wieku n.e.",
+          "hint": "Początki tej religii wiążą się z działalnością Jezusa z Nazaretu.",
+          "explanation": "Chrześcijaństwo narodziło się w I wieku naszej ery."
+        },
+        {
+          "id": "hi-rzym-22",
+          "prompt": "Z jakim obszarem wiążą się początki chrześcijaństwa?",
+          "options": [
+            "Wyłącznie ze Skandynawią",
+            "Z Ameryką Południową",
+            "Z Palestyną, w tym Judeą, pod panowaniem Rzymu"
+          ],
+          "answer": "Z Palestyną, w tym Judeą, pod panowaniem Rzymu",
+          "hint": "To część wschodniego obszaru świata śródziemnomorskiego.",
+          "explanation": "Chrześcijaństwo powstało w Palestynie, na terenach pozostających pod władzą Rzymu."
+        },
+        {
+          "id": "hi-rzym-23",
+          "prompt": "Co oznacza monoteizm?",
+          "options": [
+            "Nazwę rzymskiego mostu",
+            "Wiarę w jednego Boga",
+            "Wiarę w wielu bogów"
+          ],
+          "answer": "Wiarę w jednego Boga",
+          "hint": "Przedrostek mono- oznacza jeden.",
+          "explanation": "Monoteizm to wiara w jednego Boga. Judaizm i chrześcijaństwo są religiami monoteistycznymi."
+        },
+        {
+          "id": "hi-rzym-24",
+          "prompt": "Z której religii wywodzi się chrześcijaństwo?",
+          "options": [
+            "Z judaizmu",
+            "Z kultu egipskich faraonów",
+            "Z mitologii nordyckiej"
+          ],
+          "answer": "Z judaizmu",
+          "hint": "Jezus i jego pierwsi uczniowie należeli do społeczności żydowskiej.",
+          "explanation": "Chrześcijaństwo wyrosło w środowisku judaizmu. Chrześcijanie uznali Jezusa za oczekiwanego Mesjasza."
+        },
+        {
+          "id": "hi-rzym-25",
+          "prompt": "Które zdanie poprawnie opisuje zmianę sytuacji chrześcijan w imperium rzymskim?",
+          "options": [
+            "Od samego początku była jedyną dozwoloną religią Rzymu",
+            "Chrześcijaństwo powstało dopiero po upadku Rzymu",
+            "Po okresach prześladowań ich religię uznano w IV wieku za dozwoloną, a później panującą"
+          ],
+          "answer": "Po okresach prześladowań ich religię uznano w IV wieku za dozwoloną, a później panującą",
+          "hint": "W IV wieku zaszły dwie ważne zmiany, nie od razu po narodzinach religii.",
+          "explanation": "W IV wieku chrześcijanie uzyskali swobodę wyznania, a pod koniec tego wieku chrześcijaństwo nicejskie stało się religią państwową."
+        }
+      ]
+    }
+  ]
+}

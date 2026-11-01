@@ -1,0 +1,3942 @@
+{
+  "sources": [
+    {
+      "title": "MEN: podstawa programowa 2026 – matematyka, klasy IV–VI",
+      "url": "https://www.dziennikustaw.gov.pl/D2026000037801.pdf",
+      "note": "Załącznik nr 2, Matematyka. Podstawa określa łączny zakres dla klas IV–VI; bank wybiera zagadnienia podstawowe na poziomie klasy IV. Zadania są autorskie."
+    }
+  ],
+  "topics": [
+    {
+      "id": "ma-liczby",
+      "subject": "matematyka",
+      "section": "Matematyka",
+      "title": "Liczby naturalne",
+      "description": "Cyfry, wartość pozycyjna, porównywanie, porządkowanie i proste liczby rzymskie.",
+      "questions": [
+        {
+          "id": "ma-liczby-001",
+          "prompt": "Jaka cyfra stoi na miejscu jedności w liczbie 2314?",
+          "options": [
+            "9",
+            "1",
+            "6",
+            "4"
+          ],
+          "answer": "4",
+          "hint": "Nazwij miejsca cyfr od prawej: jedności, dziesiątki, setki, tysiące.",
+          "explanation": "W liczbie 2314 cyfra jedności to 4; oznacza wartość 4."
+        },
+        {
+          "id": "ma-liczby-002",
+          "prompt": "Która z liczb jest największa: 1240, 1277, 1198, 1258?",
+          "options": [
+            "1277",
+            "1258",
+            "1198",
+            "1240"
+          ],
+          "answer": "1277",
+          "hint": "Porównuj cyfry od lewej, od najwyższego rzędu.",
+          "explanation": "1277 > 1258 > 1240 > 1198, więc największa jest liczba 1277."
+        },
+        {
+          "id": "ma-liczby-003",
+          "prompt": "Utwórz liczbę: cyfra tysięcy to 3, cyfra setek to 0, cyfra dziesiątek to 2, a cyfra jedności to 4.",
+          "options": [
+            "3026",
+            "23024",
+            "3064",
+            "3024"
+          ],
+          "answer": "3024",
+          "hint": "Dodaj wartości cyfr: tysiące + setki + dziesiątki + jedności.",
+          "explanation": "3000 + 0 + 20 + 4 = 3024."
+        },
+        {
+          "id": "ma-liczby-004",
+          "prompt": "Zaokrąglij liczbę 48 do pełnych dziesiątek.",
+          "options": [
+            "48",
+            "40",
+            "60",
+            "50"
+          ],
+          "answer": "50",
+          "hint": "Sprawdź cyfrę jedności: od 5 zaokrąglamy w górę, poniżej 5 w dół.",
+          "explanation": "Cyfra jedności liczby 48 to 8. Po zaokrągleniu do dziesiątek otrzymujemy 50."
+        },
+        {
+          "id": "ma-liczby-005",
+          "prompt": "Jaką liczbę oznacza zapis rzymski IV?",
+          "options": [
+            "4",
+            "2",
+            "6",
+            "14"
+          ],
+          "answer": "4",
+          "hint": "I oznacza 1, V oznacza 5, X oznacza 10. IV to 4, a IX to 9.",
+          "explanation": "IV to zapis liczby 4 w systemie rzymskim."
+        },
+        {
+          "id": "ma-liczby-006",
+          "prompt": "Jaka cyfra stoi na miejscu dziesiątek w liczbie 2631?",
+          "options": [
+            "0",
+            "3",
+            "8",
+            "5"
+          ],
+          "answer": "3",
+          "hint": "Nazwij miejsca cyfr od prawej: jedności, dziesiątki, setki, tysiące.",
+          "explanation": "W liczbie 2631 cyfra dziesiątek to 3; oznacza wartość 30."
+        },
+        {
+          "id": "ma-liczby-007",
+          "prompt": "Która z liczb jest największa: 1353, 1390, 1311, 1371?",
+          "options": [
+            "1390",
+            "1311",
+            "1353",
+            "1371"
+          ],
+          "answer": "1390",
+          "hint": "Porównuj cyfry od lewej, od najwyższego rzędu.",
+          "explanation": "1390 > 1371 > 1353 > 1311, więc największa jest liczba 1390."
+        },
+        {
+          "id": "ma-liczby-008",
+          "prompt": "Utwórz liczbę: cyfra tysięcy to 3, cyfra setek to 1, cyfra dziesiątek to 2, a cyfra jedności to 4.",
+          "options": [
+            "23124",
+            "3124",
+            "3126",
+            "3164"
+          ],
+          "answer": "3124",
+          "hint": "Dodaj wartości cyfr: tysiące + setki + dziesiątki + jedności.",
+          "explanation": "3000 + 100 + 20 + 4 = 3124."
+        },
+        {
+          "id": "ma-liczby-009",
+          "prompt": "Zaokrąglij liczbę 76 do pełnych dziesiątek.",
+          "options": [
+            "70",
+            "80",
+            "90",
+            "76"
+          ],
+          "answer": "80",
+          "hint": "Sprawdź cyfrę jedności: od 5 zaokrąglamy w górę, poniżej 5 w dół.",
+          "explanation": "Cyfra jedności liczby 76 to 6. Po zaokrągleniu do dziesiątek otrzymujemy 80."
+        },
+        {
+          "id": "ma-liczby-010",
+          "prompt": "Jaką liczbę oznacza zapis rzymski VI?",
+          "options": [
+            "16",
+            "6",
+            "4",
+            "8"
+          ],
+          "answer": "6",
+          "hint": "I oznacza 1, V oznacza 5, X oznacza 10. IV to 4, a IX to 9.",
+          "explanation": "VI to zapis liczby 6 w systemie rzymskim."
+        },
+        {
+          "id": "ma-liczby-011",
+          "prompt": "Jaka cyfra stoi na miejscu setek w liczbie 2948?",
+          "options": [
+            "1",
+            "9",
+            "6",
+            "4"
+          ],
+          "answer": "9",
+          "hint": "Nazwij miejsca cyfr od prawej: jedności, dziesiątki, setki, tysiące.",
+          "explanation": "W liczbie 2948 cyfra setek to 9; oznacza wartość 900."
+        },
+        {
+          "id": "ma-liczby-012",
+          "prompt": "Która z liczb jest największa: 1466, 1503, 1424, 1484?",
+          "options": [
+            "1484",
+            "1503",
+            "1424",
+            "1466"
+          ],
+          "answer": "1503",
+          "hint": "Porównuj cyfry od lewej, od najwyższego rzędu.",
+          "explanation": "1503 > 1484 > 1466 > 1424, więc największa jest liczba 1503."
+        },
+        {
+          "id": "ma-liczby-013",
+          "prompt": "Utwórz liczbę: cyfra tysięcy to 3, cyfra setek to 2, cyfra dziesiątek to 2, a cyfra jedności to 4.",
+          "options": [
+            "3226",
+            "23224",
+            "3224",
+            "3264"
+          ],
+          "answer": "3224",
+          "hint": "Dodaj wartości cyfr: tysiące + setki + dziesiątki + jedności.",
+          "explanation": "3000 + 200 + 20 + 4 = 3224."
+        },
+        {
+          "id": "ma-liczby-014",
+          "prompt": "Zaokrąglij liczbę 134 do pełnych dziesiątek.",
+          "options": [
+            "140",
+            "130",
+            "120",
+            "134"
+          ],
+          "answer": "130",
+          "hint": "Sprawdź cyfrę jedności: od 5 zaokrąglamy w górę, poniżej 5 w dół.",
+          "explanation": "Cyfra jedności liczby 134 to 4. Po zaokrągleniu do dziesiątek otrzymujemy 130."
+        },
+        {
+          "id": "ma-liczby-015",
+          "prompt": "Jaką liczbę oznacza zapis rzymski IX?",
+          "options": [
+            "7",
+            "9",
+            "19",
+            "11"
+          ],
+          "answer": "9",
+          "hint": "I oznacza 1, V oznacza 5, X oznacza 10. IV to 4, a IX to 9.",
+          "explanation": "IX to zapis liczby 9 w systemie rzymskim."
+        },
+        {
+          "id": "ma-liczby-016",
+          "prompt": "Jaka cyfra stoi na miejscu tysięcy w liczbie 3265?",
+          "options": [
+            "8",
+            "3",
+            "0",
+            "5"
+          ],
+          "answer": "3",
+          "hint": "Nazwij miejsca cyfr od prawej: jedności, dziesiątki, setki, tysiące.",
+          "explanation": "W liczbie 3265 cyfra tysięcy to 3; oznacza wartość 3000."
+        },
+        {
+          "id": "ma-liczby-017",
+          "prompt": "Która z liczb jest największa: 1579, 1616, 1537, 1597?",
+          "options": [
+            "1616",
+            "1597",
+            "1537",
+            "1579"
+          ],
+          "answer": "1616",
+          "hint": "Porównuj cyfry od lewej, od najwyższego rzędu.",
+          "explanation": "1616 > 1597 > 1579 > 1537, więc największa jest liczba 1616."
+        },
+        {
+          "id": "ma-liczby-018",
+          "prompt": "Utwórz liczbę: cyfra tysięcy to 3, cyfra setek to 3, cyfra dziesiątek to 2, a cyfra jedności to 4.",
+          "options": [
+            "23324",
+            "3326",
+            "3364",
+            "3324"
+          ],
+          "answer": "3324",
+          "hint": "Dodaj wartości cyfr: tysiące + setki + dziesiątki + jedności.",
+          "explanation": "3000 + 300 + 20 + 4 = 3324."
+        },
+        {
+          "id": "ma-liczby-019",
+          "prompt": "Zaokrąglij liczbę 287 do pełnych dziesiątek.",
+          "options": [
+            "300",
+            "287",
+            "290",
+            "280"
+          ],
+          "answer": "290",
+          "hint": "Sprawdź cyfrę jedności: od 5 zaokrąglamy w górę, poniżej 5 w dół.",
+          "explanation": "Cyfra jedności liczby 287 to 7. Po zaokrągleniu do dziesiątek otrzymujemy 290."
+        },
+        {
+          "id": "ma-liczby-020",
+          "prompt": "Jaką liczbę oznacza zapis rzymski XI?",
+          "options": [
+            "21",
+            "11",
+            "9",
+            "13"
+          ],
+          "answer": "11",
+          "hint": "I oznacza 1, V oznacza 5, X oznacza 10. IV to 4, a IX to 9.",
+          "explanation": "XI to zapis liczby 11 w systemie rzymskim."
+        },
+        {
+          "id": "ma-liczby-021",
+          "prompt": "Jaka cyfra stoi na miejscu jedności w liczbie 3582?",
+          "options": [
+            "7",
+            "2",
+            "9",
+            "4"
+          ],
+          "answer": "2",
+          "hint": "Nazwij miejsca cyfr od prawej: jedności, dziesiątki, setki, tysiące.",
+          "explanation": "W liczbie 3582 cyfra jedności to 2; oznacza wartość 2."
+        },
+        {
+          "id": "ma-liczby-022",
+          "prompt": "Która z liczb jest największa: 1692, 1729, 1650, 1710?",
+          "options": [
+            "1710",
+            "1692",
+            "1729",
+            "1650"
+          ],
+          "answer": "1729",
+          "hint": "Porównuj cyfry od lewej, od najwyższego rzędu.",
+          "explanation": "1729 > 1710 > 1692 > 1650, więc największa jest liczba 1729."
+        },
+        {
+          "id": "ma-liczby-023",
+          "prompt": "Utwórz liczbę: cyfra tysięcy to 3, cyfra setek to 4, cyfra dziesiątek to 2, a cyfra jedności to 4.",
+          "options": [
+            "3424",
+            "3464",
+            "3426",
+            "23424"
+          ],
+          "answer": "3424",
+          "hint": "Dodaj wartości cyfr: tysiące + setki + dziesiątki + jedności.",
+          "explanation": "3000 + 400 + 20 + 4 = 3424."
+        },
+        {
+          "id": "ma-liczby-024",
+          "prompt": "Zaokrąglij liczbę 342 do pełnych dziesiątek.",
+          "options": [
+            "340",
+            "342",
+            "350",
+            "330"
+          ],
+          "answer": "340",
+          "hint": "Sprawdź cyfrę jedności: od 5 zaokrąglamy w górę, poniżej 5 w dół.",
+          "explanation": "Cyfra jedności liczby 342 to 2. Po zaokrągleniu do dziesiątek otrzymujemy 340."
+        },
+        {
+          "id": "ma-liczby-025",
+          "prompt": "Jaką liczbę oznacza zapis rzymski XIV?",
+          "options": [
+            "24",
+            "12",
+            "16",
+            "14"
+          ],
+          "answer": "14",
+          "hint": "I oznacza 1, V oznacza 5, X oznacza 10. IV to 4, a IX to 9.",
+          "explanation": "XIV to zapis liczby 14 w systemie rzymskim."
+        },
+        {
+          "id": "ma-liczby-026",
+          "prompt": "Jaka cyfra stoi na miejscu dziesiątek w liczbie 3899?",
+          "options": [
+            "4",
+            "1",
+            "9",
+            "6"
+          ],
+          "answer": "9",
+          "hint": "Nazwij miejsca cyfr od prawej: jedności, dziesiątki, setki, tysiące.",
+          "explanation": "W liczbie 3899 cyfra dziesiątek to 9; oznacza wartość 90."
+        },
+        {
+          "id": "ma-liczby-027",
+          "prompt": "Która z liczb jest największa: 1805, 1842, 1763, 1823?",
+          "options": [
+            "1763",
+            "1823",
+            "1842",
+            "1805"
+          ],
+          "answer": "1842",
+          "hint": "Porównuj cyfry od lewej, od najwyższego rzędu.",
+          "explanation": "1842 > 1823 > 1805 > 1763, więc największa jest liczba 1842."
+        },
+        {
+          "id": "ma-liczby-028",
+          "prompt": "Utwórz liczbę: cyfra tysięcy to 3, cyfra setek to 5, cyfra dziesiątek to 2, a cyfra jedności to 4.",
+          "options": [
+            "3526",
+            "23524",
+            "3564",
+            "3524"
+          ],
+          "answer": "3524",
+          "hint": "Dodaj wartości cyfr: tysiące + setki + dziesiątki + jedności.",
+          "explanation": "3000 + 500 + 20 + 4 = 3524."
+        },
+        {
+          "id": "ma-liczby-029",
+          "prompt": "Zaokrąglij liczbę 569 do pełnych dziesiątek.",
+          "options": [
+            "560",
+            "570",
+            "569",
+            "580"
+          ],
+          "answer": "570",
+          "hint": "Sprawdź cyfrę jedności: od 5 zaokrąglamy w górę, poniżej 5 w dół.",
+          "explanation": "Cyfra jedności liczby 569 to 9. Po zaokrągleniu do dziesiątek otrzymujemy 570."
+        },
+        {
+          "id": "ma-liczby-030",
+          "prompt": "Jaką liczbę oznacza zapis rzymski XVI?",
+          "options": [
+            "18",
+            "14",
+            "16",
+            "26"
+          ],
+          "answer": "16",
+          "hint": "I oznacza 1, V oznacza 5, X oznacza 10. IV to 4, a IX to 9.",
+          "explanation": "XVI to zapis liczby 16 w systemie rzymskim."
+        },
+        {
+          "id": "ma-liczby-031",
+          "prompt": "Jaka cyfra stoi na miejscu setek w liczbie 4216?",
+          "options": [
+            "7",
+            "9",
+            "2",
+            "4"
+          ],
+          "answer": "2",
+          "hint": "Nazwij miejsca cyfr od prawej: jedności, dziesiątki, setki, tysiące.",
+          "explanation": "W liczbie 4216 cyfra setek to 2; oznacza wartość 200."
+        },
+        {
+          "id": "ma-liczby-032",
+          "prompt": "Która z liczb jest największa: 1918, 1955, 1876, 1936?",
+          "options": [
+            "1876",
+            "1955",
+            "1918",
+            "1936"
+          ],
+          "answer": "1955",
+          "hint": "Porównuj cyfry od lewej, od najwyższego rzędu.",
+          "explanation": "1955 > 1936 > 1918 > 1876, więc największa jest liczba 1955."
+        },
+        {
+          "id": "ma-liczby-033",
+          "prompt": "Utwórz liczbę: cyfra tysięcy to 3, cyfra setek to 6, cyfra dziesiątek to 2, a cyfra jedności to 4.",
+          "options": [
+            "3626",
+            "23624",
+            "3624",
+            "3664"
+          ],
+          "answer": "3624",
+          "hint": "Dodaj wartości cyfr: tysiące + setki + dziesiątki + jedności.",
+          "explanation": "3000 + 600 + 20 + 4 = 3624."
+        },
+        {
+          "id": "ma-liczby-034",
+          "prompt": "Zaokrąglij liczbę 713 do pełnych dziesiątek.",
+          "options": [
+            "700",
+            "710",
+            "720",
+            "713"
+          ],
+          "answer": "710",
+          "hint": "Sprawdź cyfrę jedności: od 5 zaokrąglamy w górę, poniżej 5 w dół.",
+          "explanation": "Cyfra jedności liczby 713 to 3. Po zaokrągleniu do dziesiątek otrzymujemy 710."
+        },
+        {
+          "id": "ma-liczby-035",
+          "prompt": "Jaką liczbę oznacza zapis rzymski XIX?",
+          "options": [
+            "29",
+            "17",
+            "19",
+            "21"
+          ],
+          "answer": "19",
+          "hint": "I oznacza 1, V oznacza 5, X oznacza 10. IV to 4, a IX to 9.",
+          "explanation": "XIX to zapis liczby 19 w systemie rzymskim."
+        },
+        {
+          "id": "ma-liczby-036",
+          "prompt": "Jaka cyfra stoi na miejscu tysięcy w liczbie 4533?",
+          "options": [
+            "1",
+            "9",
+            "4",
+            "6"
+          ],
+          "answer": "4",
+          "hint": "Nazwij miejsca cyfr od prawej: jedności, dziesiątki, setki, tysiące.",
+          "explanation": "W liczbie 4533 cyfra tysięcy to 4; oznacza wartość 4000."
+        },
+        {
+          "id": "ma-liczby-037",
+          "prompt": "Która z liczb jest największa: 2031, 2068, 1989, 2049?",
+          "options": [
+            "2031",
+            "2049",
+            "1989",
+            "2068"
+          ],
+          "answer": "2068",
+          "hint": "Porównuj cyfry od lewej, od najwyższego rzędu.",
+          "explanation": "2068 > 2049 > 2031 > 1989, więc największa jest liczba 2068."
+        },
+        {
+          "id": "ma-liczby-038",
+          "prompt": "Utwórz liczbę: cyfra tysięcy to 3, cyfra setek to 7, cyfra dziesiątek to 2, a cyfra jedności to 4.",
+          "options": [
+            "3764",
+            "3724",
+            "23724",
+            "3726"
+          ],
+          "answer": "3724",
+          "hint": "Dodaj wartości cyfr: tysiące + setki + dziesiątki + jedności.",
+          "explanation": "3000 + 700 + 20 + 4 = 3724."
+        },
+        {
+          "id": "ma-liczby-039",
+          "prompt": "Zaokrąglij liczbę 825 do pełnych dziesiątek.",
+          "options": [
+            "830",
+            "820",
+            "825",
+            "840"
+          ],
+          "answer": "830",
+          "hint": "Sprawdź cyfrę jedności: od 5 zaokrąglamy w górę, poniżej 5 w dół.",
+          "explanation": "Cyfra jedności liczby 825 to 5. Po zaokrągleniu do dziesiątek otrzymujemy 830."
+        },
+        {
+          "id": "ma-liczby-040",
+          "prompt": "Jaką liczbę oznacza zapis rzymski XXI?",
+          "options": [
+            "19",
+            "31",
+            "21",
+            "23"
+          ],
+          "answer": "21",
+          "hint": "I oznacza 1, V oznacza 5, X oznacza 10. IV to 4, a IX to 9.",
+          "explanation": "XXI to zapis liczby 21 w systemie rzymskim."
+        },
+        {
+          "id": "ma-liczby-041",
+          "prompt": "Jaka cyfra stoi na miejscu jedności w liczbie 4850?",
+          "options": [
+            "5",
+            "0",
+            "7",
+            "2"
+          ],
+          "answer": "0",
+          "hint": "Nazwij miejsca cyfr od prawej: jedności, dziesiątki, setki, tysiące.",
+          "explanation": "W liczbie 4850 cyfra jedności to 0; oznacza wartość 0."
+        },
+        {
+          "id": "ma-liczby-042",
+          "prompt": "Która z liczb jest największa: 2144, 2181, 2102, 2162?",
+          "options": [
+            "2162",
+            "2102",
+            "2181",
+            "2144"
+          ],
+          "answer": "2181",
+          "hint": "Porównuj cyfry od lewej, od najwyższego rzędu.",
+          "explanation": "2181 > 2162 > 2144 > 2102, więc największa jest liczba 2181."
+        },
+        {
+          "id": "ma-liczby-043",
+          "prompt": "Utwórz liczbę: cyfra tysięcy to 3, cyfra setek to 8, cyfra dziesiątek to 2, a cyfra jedności to 4.",
+          "options": [
+            "3864",
+            "3824",
+            "23824",
+            "3826"
+          ],
+          "answer": "3824",
+          "hint": "Dodaj wartości cyfr: tysiące + setki + dziesiątki + jedności.",
+          "explanation": "3000 + 800 + 20 + 4 = 3824."
+        },
+        {
+          "id": "ma-liczby-044",
+          "prompt": "Zaokrąglij liczbę 956 do pełnych dziesiątek.",
+          "options": [
+            "950",
+            "956",
+            "970",
+            "960"
+          ],
+          "answer": "960",
+          "hint": "Sprawdź cyfrę jedności: od 5 zaokrąglamy w górę, poniżej 5 w dół.",
+          "explanation": "Cyfra jedności liczby 956 to 6. Po zaokrągleniu do dziesiątek otrzymujemy 960."
+        },
+        {
+          "id": "ma-liczby-045",
+          "prompt": "Jaką liczbę oznacza zapis rzymski XXIV?",
+          "options": [
+            "22",
+            "34",
+            "24",
+            "26"
+          ],
+          "answer": "24",
+          "hint": "I oznacza 1, V oznacza 5, X oznacza 10. IV to 4, a IX to 9.",
+          "explanation": "XXIV to zapis liczby 24 w systemie rzymskim."
+        },
+        {
+          "id": "ma-liczby-046",
+          "prompt": "Jaka cyfra stoi na miejscu dziesiątek w liczbie 5167?",
+          "options": [
+            "6",
+            "3",
+            "8",
+            "1"
+          ],
+          "answer": "6",
+          "hint": "Nazwij miejsca cyfr od prawej: jedności, dziesiątki, setki, tysiące.",
+          "explanation": "W liczbie 5167 cyfra dziesiątek to 6; oznacza wartość 60."
+        },
+        {
+          "id": "ma-liczby-047",
+          "prompt": "Która z liczb jest największa: 2257, 2294, 2215, 2275?",
+          "options": [
+            "2294",
+            "2215",
+            "2257",
+            "2275"
+          ],
+          "answer": "2294",
+          "hint": "Porównuj cyfry od lewej, od najwyższego rzędu.",
+          "explanation": "2294 > 2275 > 2257 > 2215, więc największa jest liczba 2294."
+        },
+        {
+          "id": "ma-liczby-048",
+          "prompt": "Utwórz liczbę: cyfra tysięcy to 3, cyfra setek to 9, cyfra dziesiątek to 2, a cyfra jedności to 4.",
+          "options": [
+            "3924",
+            "3964",
+            "23924",
+            "3926"
+          ],
+          "answer": "3924",
+          "hint": "Dodaj wartości cyfr: tysiące + setki + dziesiątki + jedności.",
+          "explanation": "3000 + 900 + 20 + 4 = 3924."
+        },
+        {
+          "id": "ma-liczby-049",
+          "prompt": "Zaokrąglij liczbę 1084 do pełnych dziesiątek.",
+          "options": [
+            "1070",
+            "1080",
+            "1090",
+            "1084"
+          ],
+          "answer": "1080",
+          "hint": "Sprawdź cyfrę jedności: od 5 zaokrąglamy w górę, poniżej 5 w dół.",
+          "explanation": "Cyfra jedności liczby 1084 to 4. Po zaokrągleniu do dziesiątek otrzymujemy 1080."
+        },
+        {
+          "id": "ma-liczby-050",
+          "prompt": "Jaką liczbę oznacza zapis rzymski XXIX?",
+          "options": [
+            "29",
+            "27",
+            "39",
+            "31"
+          ],
+          "answer": "29",
+          "hint": "I oznacza 1, V oznacza 5, X oznacza 10. IV to 4, a IX to 9.",
+          "explanation": "XXIX to zapis liczby 29 w systemie rzymskim."
+        }
+      ]
+    },
+    {
+      "id": "ma-dzialania",
+      "subject": "matematyka",
+      "section": "Matematyka",
+      "title": "Cztery działania",
+      "description": "Dodawanie, odejmowanie, mnożenie, dzielenie i brakujące liczby.",
+      "questions": [
+        {
+          "id": "ma-dzialania-001",
+          "prompt": "Oblicz: 137 + 86.",
+          "options": [
+            "224",
+            "233",
+            "222",
+            "223"
+          ],
+          "answer": "223",
+          "hint": "Możesz osobno dodać setki, dziesiątki i jedności.",
+          "explanation": "137 + 86 = 223. Sprawdzenie: 223 − 86 = 137."
+        },
+        {
+          "id": "ma-dzialania-002",
+          "prompt": "Oblicz: 542 − 179.",
+          "options": [
+            "364",
+            "362",
+            "373",
+            "363"
+          ],
+          "answer": "363",
+          "hint": "Możesz odejmować etapami lub podpisać liczby w słupku.",
+          "explanation": "542 − 179 = 363. Sprawdzenie: 363 + 179 = 542."
+        },
+        {
+          "id": "ma-dzialania-003",
+          "prompt": "Oblicz: 12 × 3.",
+          "options": [
+            "36",
+            "39",
+            "15",
+            "33"
+          ],
+          "answer": "36",
+          "hint": "Rozbij pierwszy czynnik na dziesiątki i jedności.",
+          "explanation": "12 × 3 = 10 × 3 + 2 × 3 = 36."
+        },
+        {
+          "id": "ma-dzialania-004",
+          "prompt": "Oblicz: 33 : 3.",
+          "options": [
+            "11",
+            "12",
+            "10",
+            "14"
+          ],
+          "answer": "11",
+          "hint": "Dzielenie możesz sprawdzić mnożeniem.",
+          "explanation": "33 : 3 = 11, ponieważ 11 × 3 = 33."
+        },
+        {
+          "id": "ma-dzialania-005",
+          "prompt": "Jaka liczba pasuje w okienko? □ + 27 = 45",
+          "options": [
+            "18",
+            "28",
+            "19",
+            "17"
+          ],
+          "answer": "18",
+          "hint": "Od sumy odejmij znany składnik.",
+          "explanation": "□ = 45 − 27 = 18. Sprawdzenie: 18 + 27 = 45."
+        },
+        {
+          "id": "ma-dzialania-006",
+          "prompt": "Oblicz: 164 + 99.",
+          "options": [
+            "264",
+            "262",
+            "263",
+            "273"
+          ],
+          "answer": "263",
+          "hint": "Możesz osobno dodać setki, dziesiątki i jedności.",
+          "explanation": "164 + 99 = 263. Sprawdzenie: 263 − 99 = 164."
+        },
+        {
+          "id": "ma-dzialania-007",
+          "prompt": "Oblicz: 573 − 186.",
+          "options": [
+            "388",
+            "387",
+            "386",
+            "397"
+          ],
+          "answer": "387",
+          "hint": "Możesz odejmować etapami lub podpisać liczby w słupku.",
+          "explanation": "573 − 186 = 387. Sprawdzenie: 387 + 186 = 573."
+        },
+        {
+          "id": "ma-dzialania-008",
+          "prompt": "Oblicz: 13 × 4.",
+          "options": [
+            "52",
+            "48",
+            "17",
+            "56"
+          ],
+          "answer": "52",
+          "hint": "Rozbij pierwszy czynnik na dziesiątki i jedności.",
+          "explanation": "13 × 4 = 10 × 4 + 3 × 4 = 52."
+        },
+        {
+          "id": "ma-dzialania-009",
+          "prompt": "Oblicz: 48 : 4.",
+          "options": [
+            "15",
+            "11",
+            "12",
+            "13"
+          ],
+          "answer": "12",
+          "hint": "Dzielenie możesz sprawdzić mnożeniem.",
+          "explanation": "48 : 4 = 12, ponieważ 12 × 4 = 48."
+        },
+        {
+          "id": "ma-dzialania-010",
+          "prompt": "Jaka liczba pasuje w okienko? □ + 30 = 52",
+          "options": [
+            "21",
+            "22",
+            "23",
+            "32"
+          ],
+          "answer": "22",
+          "hint": "Od sumy odejmij znany składnik.",
+          "explanation": "□ = 52 − 30 = 22. Sprawdzenie: 22 + 30 = 52."
+        },
+        {
+          "id": "ma-dzialania-011",
+          "prompt": "Oblicz: 191 + 112.",
+          "options": [
+            "313",
+            "304",
+            "303",
+            "302"
+          ],
+          "answer": "303",
+          "hint": "Możesz osobno dodać setki, dziesiątki i jedności.",
+          "explanation": "191 + 112 = 303. Sprawdzenie: 303 − 112 = 191."
+        },
+        {
+          "id": "ma-dzialania-012",
+          "prompt": "Oblicz: 604 − 193.",
+          "options": [
+            "421",
+            "411",
+            "412",
+            "410"
+          ],
+          "answer": "411",
+          "hint": "Możesz odejmować etapami lub podpisać liczby w słupku.",
+          "explanation": "604 − 193 = 411. Sprawdzenie: 411 + 193 = 604."
+        },
+        {
+          "id": "ma-dzialania-013",
+          "prompt": "Oblicz: 14 × 5.",
+          "options": [
+            "65",
+            "19",
+            "75",
+            "70"
+          ],
+          "answer": "70",
+          "hint": "Rozbij pierwszy czynnik na dziesiątki i jedności.",
+          "explanation": "14 × 5 = 10 × 5 + 4 × 5 = 70."
+        },
+        {
+          "id": "ma-dzialania-014",
+          "prompt": "Oblicz: 65 : 5.",
+          "options": [
+            "14",
+            "12",
+            "16",
+            "13"
+          ],
+          "answer": "13",
+          "hint": "Dzielenie możesz sprawdzić mnożeniem.",
+          "explanation": "65 : 5 = 13, ponieważ 13 × 5 = 65."
+        },
+        {
+          "id": "ma-dzialania-015",
+          "prompt": "Jaka liczba pasuje w okienko? □ + 33 = 59",
+          "options": [
+            "25",
+            "36",
+            "27",
+            "26"
+          ],
+          "answer": "26",
+          "hint": "Od sumy odejmij znany składnik.",
+          "explanation": "□ = 59 − 33 = 26. Sprawdzenie: 26 + 33 = 59."
+        },
+        {
+          "id": "ma-dzialania-016",
+          "prompt": "Oblicz: 218 + 125.",
+          "options": [
+            "353",
+            "344",
+            "342",
+            "343"
+          ],
+          "answer": "343",
+          "hint": "Możesz osobno dodać setki, dziesiątki i jedności.",
+          "explanation": "218 + 125 = 343. Sprawdzenie: 343 − 125 = 218."
+        },
+        {
+          "id": "ma-dzialania-017",
+          "prompt": "Oblicz: 635 − 200.",
+          "options": [
+            "435",
+            "434",
+            "436",
+            "445"
+          ],
+          "answer": "435",
+          "hint": "Możesz odejmować etapami lub podpisać liczby w słupku.",
+          "explanation": "635 − 200 = 435. Sprawdzenie: 435 + 200 = 635."
+        },
+        {
+          "id": "ma-dzialania-018",
+          "prompt": "Oblicz: 15 × 6.",
+          "options": [
+            "21",
+            "90",
+            "96",
+            "84"
+          ],
+          "answer": "90",
+          "hint": "Rozbij pierwszy czynnik na dziesiątki i jedności.",
+          "explanation": "15 × 6 = 10 × 6 + 5 × 6 = 90."
+        },
+        {
+          "id": "ma-dzialania-019",
+          "prompt": "Oblicz: 84 : 6.",
+          "options": [
+            "15",
+            "14",
+            "13",
+            "17"
+          ],
+          "answer": "14",
+          "hint": "Dzielenie możesz sprawdzić mnożeniem.",
+          "explanation": "84 : 6 = 14, ponieważ 14 × 6 = 84."
+        },
+        {
+          "id": "ma-dzialania-020",
+          "prompt": "Jaka liczba pasuje w okienko? □ + 36 = 66",
+          "options": [
+            "40",
+            "29",
+            "31",
+            "30"
+          ],
+          "answer": "30",
+          "hint": "Od sumy odejmij znany składnik.",
+          "explanation": "□ = 66 − 36 = 30. Sprawdzenie: 30 + 36 = 66."
+        },
+        {
+          "id": "ma-dzialania-021",
+          "prompt": "Oblicz: 245 + 138.",
+          "options": [
+            "382",
+            "393",
+            "384",
+            "383"
+          ],
+          "answer": "383",
+          "hint": "Możesz osobno dodać setki, dziesiątki i jedności.",
+          "explanation": "245 + 138 = 383. Sprawdzenie: 383 − 138 = 245."
+        },
+        {
+          "id": "ma-dzialania-022",
+          "prompt": "Oblicz: 666 − 207.",
+          "options": [
+            "458",
+            "460",
+            "469",
+            "459"
+          ],
+          "answer": "459",
+          "hint": "Możesz odejmować etapami lub podpisać liczby w słupku.",
+          "explanation": "666 − 207 = 459. Sprawdzenie: 459 + 207 = 666."
+        },
+        {
+          "id": "ma-dzialania-023",
+          "prompt": "Oblicz: 16 × 7.",
+          "options": [
+            "112",
+            "23",
+            "105",
+            "119"
+          ],
+          "answer": "112",
+          "hint": "Rozbij pierwszy czynnik na dziesiątki i jedności.",
+          "explanation": "16 × 7 = 10 × 7 + 6 × 7 = 112."
+        },
+        {
+          "id": "ma-dzialania-024",
+          "prompt": "Oblicz: 105 : 7.",
+          "options": [
+            "18",
+            "16",
+            "15",
+            "14"
+          ],
+          "answer": "15",
+          "hint": "Dzielenie możesz sprawdzić mnożeniem.",
+          "explanation": "105 : 7 = 15, ponieważ 15 × 7 = 105."
+        },
+        {
+          "id": "ma-dzialania-025",
+          "prompt": "Jaka liczba pasuje w okienko? □ + 39 = 73",
+          "options": [
+            "44",
+            "34",
+            "35",
+            "33"
+          ],
+          "answer": "34",
+          "hint": "Od sumy odejmij znany składnik.",
+          "explanation": "□ = 73 − 39 = 34. Sprawdzenie: 34 + 39 = 73."
+        },
+        {
+          "id": "ma-dzialania-026",
+          "prompt": "Oblicz: 272 + 151.",
+          "options": [
+            "433",
+            "424",
+            "423",
+            "422"
+          ],
+          "answer": "423",
+          "hint": "Możesz osobno dodać setki, dziesiątki i jedności.",
+          "explanation": "272 + 151 = 423. Sprawdzenie: 423 − 151 = 272."
+        },
+        {
+          "id": "ma-dzialania-027",
+          "prompt": "Oblicz: 697 − 214.",
+          "options": [
+            "482",
+            "483",
+            "493",
+            "484"
+          ],
+          "answer": "483",
+          "hint": "Możesz odejmować etapami lub podpisać liczby w słupku.",
+          "explanation": "697 − 214 = 483. Sprawdzenie: 483 + 214 = 697."
+        },
+        {
+          "id": "ma-dzialania-028",
+          "prompt": "Oblicz: 17 × 3.",
+          "options": [
+            "20",
+            "51",
+            "54",
+            "48"
+          ],
+          "answer": "51",
+          "hint": "Rozbij pierwszy czynnik na dziesiątki i jedności.",
+          "explanation": "17 × 3 = 10 × 3 + 7 × 3 = 51."
+        },
+        {
+          "id": "ma-dzialania-029",
+          "prompt": "Oblicz: 128 : 8.",
+          "options": [
+            "15",
+            "19",
+            "16",
+            "17"
+          ],
+          "answer": "16",
+          "hint": "Dzielenie możesz sprawdzić mnożeniem.",
+          "explanation": "128 : 8 = 16, ponieważ 16 × 8 = 128."
+        },
+        {
+          "id": "ma-dzialania-030",
+          "prompt": "Jaka liczba pasuje w okienko? □ + 42 = 80",
+          "options": [
+            "39",
+            "37",
+            "38",
+            "48"
+          ],
+          "answer": "38",
+          "hint": "Od sumy odejmij znany składnik.",
+          "explanation": "□ = 80 − 42 = 38. Sprawdzenie: 38 + 42 = 80."
+        },
+        {
+          "id": "ma-dzialania-031",
+          "prompt": "Oblicz: 299 + 164.",
+          "options": [
+            "464",
+            "463",
+            "462",
+            "473"
+          ],
+          "answer": "463",
+          "hint": "Możesz osobno dodać setki, dziesiątki i jedności.",
+          "explanation": "299 + 164 = 463. Sprawdzenie: 463 − 164 = 299."
+        },
+        {
+          "id": "ma-dzialania-032",
+          "prompt": "Oblicz: 728 − 221.",
+          "options": [
+            "517",
+            "507",
+            "508",
+            "506"
+          ],
+          "answer": "507",
+          "hint": "Możesz odejmować etapami lub podpisać liczby w słupku.",
+          "explanation": "728 − 221 = 507. Sprawdzenie: 507 + 221 = 728."
+        },
+        {
+          "id": "ma-dzialania-033",
+          "prompt": "Oblicz: 18 × 4.",
+          "options": [
+            "22",
+            "76",
+            "72",
+            "68"
+          ],
+          "answer": "72",
+          "hint": "Rozbij pierwszy czynnik na dziesiątki i jedności.",
+          "explanation": "18 × 4 = 10 × 4 + 8 × 4 = 72."
+        },
+        {
+          "id": "ma-dzialania-034",
+          "prompt": "Oblicz: 153 : 9.",
+          "options": [
+            "18",
+            "16",
+            "17",
+            "20"
+          ],
+          "answer": "17",
+          "hint": "Dzielenie możesz sprawdzić mnożeniem.",
+          "explanation": "153 : 9 = 17, ponieważ 17 × 9 = 153."
+        },
+        {
+          "id": "ma-dzialania-035",
+          "prompt": "Jaka liczba pasuje w okienko? □ + 45 = 87",
+          "options": [
+            "52",
+            "43",
+            "41",
+            "42"
+          ],
+          "answer": "42",
+          "hint": "Od sumy odejmij znany składnik.",
+          "explanation": "□ = 87 − 45 = 42. Sprawdzenie: 42 + 45 = 87."
+        },
+        {
+          "id": "ma-dzialania-036",
+          "prompt": "Oblicz: 326 + 177.",
+          "options": [
+            "513",
+            "504",
+            "503",
+            "502"
+          ],
+          "answer": "503",
+          "hint": "Możesz osobno dodać setki, dziesiątki i jedności.",
+          "explanation": "326 + 177 = 503. Sprawdzenie: 503 − 177 = 326."
+        },
+        {
+          "id": "ma-dzialania-037",
+          "prompt": "Oblicz: 759 − 228.",
+          "options": [
+            "532",
+            "531",
+            "530",
+            "541"
+          ],
+          "answer": "531",
+          "hint": "Możesz odejmować etapami lub podpisać liczby w słupku.",
+          "explanation": "759 − 228 = 531. Sprawdzenie: 531 + 228 = 759."
+        },
+        {
+          "id": "ma-dzialania-038",
+          "prompt": "Oblicz: 19 × 5.",
+          "options": [
+            "95",
+            "90",
+            "24",
+            "100"
+          ],
+          "answer": "95",
+          "hint": "Rozbij pierwszy czynnik na dziesiątki i jedności.",
+          "explanation": "19 × 5 = 10 × 5 + 9 × 5 = 95."
+        },
+        {
+          "id": "ma-dzialania-039",
+          "prompt": "Oblicz: 54 : 3.",
+          "options": [
+            "19",
+            "17",
+            "18",
+            "21"
+          ],
+          "answer": "18",
+          "hint": "Dzielenie możesz sprawdzić mnożeniem.",
+          "explanation": "54 : 3 = 18, ponieważ 18 × 3 = 54."
+        },
+        {
+          "id": "ma-dzialania-040",
+          "prompt": "Jaka liczba pasuje w okienko? □ + 48 = 94",
+          "options": [
+            "46",
+            "45",
+            "56",
+            "47"
+          ],
+          "answer": "46",
+          "hint": "Od sumy odejmij znany składnik.",
+          "explanation": "□ = 94 − 48 = 46. Sprawdzenie: 46 + 48 = 94."
+        },
+        {
+          "id": "ma-dzialania-041",
+          "prompt": "Oblicz: 353 + 190.",
+          "options": [
+            "553",
+            "543",
+            "542",
+            "544"
+          ],
+          "answer": "543",
+          "hint": "Możesz osobno dodać setki, dziesiątki i jedności.",
+          "explanation": "353 + 190 = 543. Sprawdzenie: 543 − 190 = 353."
+        },
+        {
+          "id": "ma-dzialania-042",
+          "prompt": "Oblicz: 790 − 235.",
+          "options": [
+            "556",
+            "565",
+            "555",
+            "554"
+          ],
+          "answer": "555",
+          "hint": "Możesz odejmować etapami lub podpisać liczby w słupku.",
+          "explanation": "790 − 235 = 555. Sprawdzenie: 555 + 235 = 790."
+        },
+        {
+          "id": "ma-dzialania-043",
+          "prompt": "Oblicz: 20 × 6.",
+          "options": [
+            "114",
+            "126",
+            "120",
+            "26"
+          ],
+          "answer": "120",
+          "hint": "Rozbij pierwszy czynnik na dziesiątki i jedności.",
+          "explanation": "20 × 6 = 20 × 6 + 0 × 6 = 120."
+        },
+        {
+          "id": "ma-dzialania-044",
+          "prompt": "Oblicz: 76 : 4.",
+          "options": [
+            "20",
+            "19",
+            "18",
+            "22"
+          ],
+          "answer": "19",
+          "hint": "Dzielenie możesz sprawdzić mnożeniem.",
+          "explanation": "76 : 4 = 19, ponieważ 19 × 4 = 76."
+        },
+        {
+          "id": "ma-dzialania-045",
+          "prompt": "Jaka liczba pasuje w okienko? □ + 51 = 101",
+          "options": [
+            "49",
+            "50",
+            "51",
+            "60"
+          ],
+          "answer": "50",
+          "hint": "Od sumy odejmij znany składnik.",
+          "explanation": "□ = 101 − 51 = 50. Sprawdzenie: 50 + 51 = 101."
+        },
+        {
+          "id": "ma-dzialania-046",
+          "prompt": "Oblicz: 380 + 203.",
+          "options": [
+            "582",
+            "584",
+            "583",
+            "593"
+          ],
+          "answer": "583",
+          "hint": "Możesz osobno dodać setki, dziesiątki i jedności.",
+          "explanation": "380 + 203 = 583. Sprawdzenie: 583 − 203 = 380."
+        },
+        {
+          "id": "ma-dzialania-047",
+          "prompt": "Oblicz: 821 − 242.",
+          "options": [
+            "580",
+            "578",
+            "589",
+            "579"
+          ],
+          "answer": "579",
+          "hint": "Możesz odejmować etapami lub podpisać liczby w słupku.",
+          "explanation": "821 − 242 = 579. Sprawdzenie: 579 + 242 = 821."
+        },
+        {
+          "id": "ma-dzialania-048",
+          "prompt": "Oblicz: 21 × 7.",
+          "options": [
+            "154",
+            "28",
+            "140",
+            "147"
+          ],
+          "answer": "147",
+          "hint": "Rozbij pierwszy czynnik na dziesiątki i jedności.",
+          "explanation": "21 × 7 = 20 × 7 + 1 × 7 = 147."
+        },
+        {
+          "id": "ma-dzialania-049",
+          "prompt": "Oblicz: 100 : 5.",
+          "options": [
+            "23",
+            "20",
+            "21",
+            "19"
+          ],
+          "answer": "20",
+          "hint": "Dzielenie możesz sprawdzić mnożeniem.",
+          "explanation": "100 : 5 = 20, ponieważ 20 × 5 = 100."
+        },
+        {
+          "id": "ma-dzialania-050",
+          "prompt": "Jaka liczba pasuje w okienko? □ + 54 = 108",
+          "options": [
+            "55",
+            "53",
+            "54",
+            "64"
+          ],
+          "answer": "54",
+          "hint": "Od sumy odejmij znany składnik.",
+          "explanation": "□ = 108 − 54 = 54. Sprawdzenie: 54 + 54 = 108."
+        }
+      ]
+    },
+    {
+      "id": "ma-kolejnosc",
+      "subject": "matematyka",
+      "section": "Matematyka",
+      "title": "Kolejność wykonywania działań",
+      "description": "Nawiasy, mnożenie i dzielenie przed dodawaniem oraz działania od lewej strony.",
+      "questions": [
+        {
+          "id": "ma-kolejnosc-001",
+          "prompt": "Oblicz: 5 + 3 × 2.",
+          "options": [
+            "16",
+            "10",
+            "11",
+            "12"
+          ],
+          "answer": "11",
+          "hint": "Najpierw wykonaj mnożenie, a potem dodawanie.",
+          "explanation": "3 × 2 = 6; następnie 5 + 6 = 11."
+        },
+        {
+          "id": "ma-kolejnosc-002",
+          "prompt": "Oblicz: (5 + 3) × 2.",
+          "options": [
+            "16",
+            "17",
+            "11",
+            "10"
+          ],
+          "answer": "16",
+          "hint": "Najpierw oblicz to, co jest w nawiasie.",
+          "explanation": "5 + 3 = 8; następnie 8 × 2 = 16."
+        },
+        {
+          "id": "ma-kolejnosc-003",
+          "prompt": "Oblicz: 25 − 2 × 3.",
+          "options": [
+            "19",
+            "20",
+            "69"
+          ],
+          "answer": "19",
+          "hint": "Mnożenie ma pierwszeństwo przed odejmowaniem.",
+          "explanation": "2 × 3 = 6; następnie 25 − 6 = 19."
+        },
+        {
+          "id": "ma-kolejnosc-004",
+          "prompt": "Oblicz: 8 : 2 + 5.",
+          "options": [
+            "10",
+            "9",
+            "13",
+            "8"
+          ],
+          "answer": "9",
+          "hint": "Najpierw podziel, a potem dodaj.",
+          "explanation": "8 : 2 = 4; 4 + 5 = 9."
+        },
+        {
+          "id": "ma-kolejnosc-005",
+          "prompt": "Oblicz: 45 − 13 + 7.",
+          "options": [
+            "25",
+            "37",
+            "39",
+            "41"
+          ],
+          "answer": "39",
+          "hint": "Dodawanie i odejmowanie mają takie samo pierwszeństwo. Licz od lewej do prawej.",
+          "explanation": "45 − 13 = 32; potem 32 + 7 = 39."
+        },
+        {
+          "id": "ma-kolejnosc-006",
+          "prompt": "Oblicz: 6 + 4 × 3.",
+          "options": [
+            "18",
+            "19",
+            "30",
+            "13"
+          ],
+          "answer": "18",
+          "hint": "Najpierw wykonaj mnożenie, a potem dodawanie.",
+          "explanation": "4 × 3 = 12; następnie 6 + 12 = 18."
+        },
+        {
+          "id": "ma-kolejnosc-007",
+          "prompt": "Oblicz: (6 + 4) × 3.",
+          "options": [
+            "13",
+            "31",
+            "18",
+            "30"
+          ],
+          "answer": "30",
+          "hint": "Najpierw oblicz to, co jest w nawiasie.",
+          "explanation": "6 + 4 = 10; następnie 10 × 3 = 30."
+        },
+        {
+          "id": "ma-kolejnosc-008",
+          "prompt": "Oblicz: 28 − 3 × 4.",
+          "options": [
+            "100",
+            "16",
+            "17",
+            "21"
+          ],
+          "answer": "16",
+          "hint": "Mnożenie ma pierwszeństwo przed odejmowaniem.",
+          "explanation": "3 × 4 = 12; następnie 28 − 12 = 16."
+        },
+        {
+          "id": "ma-kolejnosc-009",
+          "prompt": "Oblicz: 15 : 3 + 6.",
+          "options": [
+            "12",
+            "11",
+            "21",
+            "10"
+          ],
+          "answer": "11",
+          "hint": "Najpierw podziel, a potem dodaj.",
+          "explanation": "15 : 3 = 5; 5 + 6 = 11."
+        },
+        {
+          "id": "ma-kolejnosc-010",
+          "prompt": "Oblicz: 49 − 14 + 8.",
+          "options": [
+            "45",
+            "43",
+            "27",
+            "41"
+          ],
+          "answer": "43",
+          "hint": "Dodawanie i odejmowanie mają takie samo pierwszeństwo. Licz od lewej do prawej.",
+          "explanation": "49 − 14 = 35; potem 35 + 8 = 43."
+        },
+        {
+          "id": "ma-kolejnosc-011",
+          "prompt": "Oblicz: 7 + 5 × 4.",
+          "options": [
+            "48",
+            "28",
+            "16",
+            "27"
+          ],
+          "answer": "27",
+          "hint": "Najpierw wykonaj mnożenie, a potem dodawanie.",
+          "explanation": "5 × 4 = 20; następnie 7 + 20 = 27."
+        },
+        {
+          "id": "ma-kolejnosc-012",
+          "prompt": "Oblicz: (7 + 5) × 4.",
+          "options": [
+            "16",
+            "48",
+            "49",
+            "27"
+          ],
+          "answer": "48",
+          "hint": "Najpierw oblicz to, co jest w nawiasie.",
+          "explanation": "7 + 5 = 12; następnie 12 × 4 = 48."
+        },
+        {
+          "id": "ma-kolejnosc-013",
+          "prompt": "Oblicz: 31 − 4 × 5.",
+          "options": [
+            "22",
+            "135",
+            "11",
+            "12"
+          ],
+          "answer": "11",
+          "hint": "Mnożenie ma pierwszeństwo przed odejmowaniem.",
+          "explanation": "4 × 5 = 20; następnie 31 − 20 = 11."
+        },
+        {
+          "id": "ma-kolejnosc-014",
+          "prompt": "Oblicz: 24 : 4 + 7.",
+          "options": [
+            "13",
+            "14",
+            "31",
+            "12"
+          ],
+          "answer": "13",
+          "hint": "Najpierw podziel, a potem dodaj.",
+          "explanation": "24 : 4 = 6; 6 + 7 = 13."
+        },
+        {
+          "id": "ma-kolejnosc-015",
+          "prompt": "Oblicz: 53 − 15 + 9.",
+          "options": [
+            "49",
+            "29",
+            "47",
+            "45"
+          ],
+          "answer": "47",
+          "hint": "Dodawanie i odejmowanie mają takie samo pierwszeństwo. Licz od lewej do prawej.",
+          "explanation": "53 − 15 = 38; potem 38 + 9 = 47."
+        },
+        {
+          "id": "ma-kolejnosc-016",
+          "prompt": "Oblicz: 8 + 6 × 2.",
+          "options": [
+            "16",
+            "21",
+            "28",
+            "20"
+          ],
+          "answer": "20",
+          "hint": "Najpierw wykonaj mnożenie, a potem dodawanie.",
+          "explanation": "6 × 2 = 12; następnie 8 + 12 = 20."
+        },
+        {
+          "id": "ma-kolejnosc-017",
+          "prompt": "Oblicz: (8 + 6) × 2.",
+          "options": [
+            "29",
+            "20",
+            "16",
+            "28"
+          ],
+          "answer": "28",
+          "hint": "Najpierw oblicz to, co jest w nawiasie.",
+          "explanation": "8 + 6 = 14; następnie 14 × 2 = 28."
+        },
+        {
+          "id": "ma-kolejnosc-018",
+          "prompt": "Oblicz: 34 − 5 × 3.",
+          "options": [
+            "19",
+            "20",
+            "87",
+            "26"
+          ],
+          "answer": "19",
+          "hint": "Mnożenie ma pierwszeństwo przed odejmowaniem.",
+          "explanation": "5 × 3 = 15; następnie 34 − 15 = 19."
+        },
+        {
+          "id": "ma-kolejnosc-019",
+          "prompt": "Oblicz: 35 : 5 + 8.",
+          "options": [
+            "16",
+            "43",
+            "15",
+            "14"
+          ],
+          "answer": "15",
+          "hint": "Najpierw podziel, a potem dodaj.",
+          "explanation": "35 : 5 = 7; 7 + 8 = 15."
+        },
+        {
+          "id": "ma-kolejnosc-020",
+          "prompt": "Oblicz: 57 − 16 + 7.",
+          "options": [
+            "48",
+            "34",
+            "50",
+            "46"
+          ],
+          "answer": "48",
+          "hint": "Dodawanie i odejmowanie mają takie samo pierwszeństwo. Licz od lewej do prawej.",
+          "explanation": "57 − 16 = 41; potem 41 + 7 = 48."
+        },
+        {
+          "id": "ma-kolejnosc-021",
+          "prompt": "Oblicz: 9 + 3 × 3.",
+          "options": [
+            "36",
+            "18",
+            "15",
+            "19"
+          ],
+          "answer": "18",
+          "hint": "Najpierw wykonaj mnożenie, a potem dodawanie.",
+          "explanation": "3 × 3 = 9; następnie 9 + 9 = 18."
+        },
+        {
+          "id": "ma-kolejnosc-022",
+          "prompt": "Oblicz: (9 + 3) × 3.",
+          "options": [
+            "15",
+            "36",
+            "18",
+            "37"
+          ],
+          "answer": "36",
+          "hint": "Najpierw oblicz to, co jest w nawiasie.",
+          "explanation": "9 + 3 = 12; następnie 12 × 3 = 36."
+        },
+        {
+          "id": "ma-kolejnosc-023",
+          "prompt": "Oblicz: 37 − 2 × 4.",
+          "options": [
+            "140",
+            "30",
+            "31",
+            "29"
+          ],
+          "answer": "29",
+          "hint": "Mnożenie ma pierwszeństwo przed odejmowaniem.",
+          "explanation": "2 × 4 = 8; następnie 37 − 8 = 29."
+        },
+        {
+          "id": "ma-kolejnosc-024",
+          "prompt": "Oblicz: 16 : 2 + 9.",
+          "options": [
+            "17",
+            "25",
+            "16",
+            "18"
+          ],
+          "answer": "17",
+          "hint": "Najpierw podziel, a potem dodaj.",
+          "explanation": "16 : 2 = 8; 8 + 9 = 17."
+        },
+        {
+          "id": "ma-kolejnosc-025",
+          "prompt": "Oblicz: 61 − 17 + 8.",
+          "options": [
+            "54",
+            "50",
+            "52",
+            "36"
+          ],
+          "answer": "52",
+          "hint": "Dodawanie i odejmowanie mają takie samo pierwszeństwo. Licz od lewej do prawej.",
+          "explanation": "61 − 17 = 44; potem 44 + 8 = 52."
+        },
+        {
+          "id": "ma-kolejnosc-026",
+          "prompt": "Oblicz: 10 + 4 × 4.",
+          "options": [
+            "27",
+            "56",
+            "18",
+            "26"
+          ],
+          "answer": "26",
+          "hint": "Najpierw wykonaj mnożenie, a potem dodawanie.",
+          "explanation": "4 × 4 = 16; następnie 10 + 16 = 26."
+        },
+        {
+          "id": "ma-kolejnosc-027",
+          "prompt": "Oblicz: (10 + 4) × 4.",
+          "options": [
+            "26",
+            "57",
+            "18",
+            "56"
+          ],
+          "answer": "56",
+          "hint": "Najpierw oblicz to, co jest w nawiasie.",
+          "explanation": "10 + 4 = 14; następnie 14 × 4 = 56."
+        },
+        {
+          "id": "ma-kolejnosc-028",
+          "prompt": "Oblicz: 40 − 3 × 5.",
+          "options": [
+            "25",
+            "32",
+            "185",
+            "26"
+          ],
+          "answer": "25",
+          "hint": "Mnożenie ma pierwszeństwo przed odejmowaniem.",
+          "explanation": "3 × 5 = 15; następnie 40 − 15 = 25."
+        },
+        {
+          "id": "ma-kolejnosc-029",
+          "prompt": "Oblicz: 27 : 3 + 10.",
+          "options": [
+            "37",
+            "18",
+            "20",
+            "19"
+          ],
+          "answer": "19",
+          "hint": "Najpierw podziel, a potem dodaj.",
+          "explanation": "27 : 3 = 9; 9 + 10 = 19."
+        },
+        {
+          "id": "ma-kolejnosc-030",
+          "prompt": "Oblicz: 65 − 18 + 9.",
+          "options": [
+            "56",
+            "58",
+            "38",
+            "54"
+          ],
+          "answer": "56",
+          "hint": "Dodawanie i odejmowanie mają takie samo pierwszeństwo. Licz od lewej do prawej.",
+          "explanation": "65 − 18 = 47; potem 47 + 9 = 56."
+        },
+        {
+          "id": "ma-kolejnosc-031",
+          "prompt": "Oblicz: 11 + 5 × 2.",
+          "options": [
+            "22",
+            "32",
+            "18",
+            "21"
+          ],
+          "answer": "21",
+          "hint": "Najpierw wykonaj mnożenie, a potem dodawanie.",
+          "explanation": "5 × 2 = 10; następnie 11 + 10 = 21."
+        },
+        {
+          "id": "ma-kolejnosc-032",
+          "prompt": "Oblicz: (11 + 5) × 2.",
+          "options": [
+            "32",
+            "33",
+            "18",
+            "21"
+          ],
+          "answer": "32",
+          "hint": "Najpierw oblicz to, co jest w nawiasie.",
+          "explanation": "11 + 5 = 16; następnie 16 × 2 = 32."
+        },
+        {
+          "id": "ma-kolejnosc-033",
+          "prompt": "Oblicz: 43 − 4 × 3.",
+          "options": [
+            "117",
+            "36",
+            "32",
+            "31"
+          ],
+          "answer": "31",
+          "hint": "Mnożenie ma pierwszeństwo przed odejmowaniem.",
+          "explanation": "4 × 3 = 12; następnie 43 − 12 = 31."
+        },
+        {
+          "id": "ma-kolejnosc-034",
+          "prompt": "Oblicz: 40 : 4 + 11.",
+          "options": [
+            "21",
+            "51",
+            "20",
+            "22"
+          ],
+          "answer": "21",
+          "hint": "Najpierw podziel, a potem dodaj.",
+          "explanation": "40 : 4 = 10; 10 + 11 = 21."
+        },
+        {
+          "id": "ma-kolejnosc-035",
+          "prompt": "Oblicz: 69 − 19 + 7.",
+          "options": [
+            "43",
+            "55",
+            "57",
+            "59"
+          ],
+          "answer": "57",
+          "hint": "Dodawanie i odejmowanie mają takie samo pierwszeństwo. Licz od lewej do prawej.",
+          "explanation": "69 − 19 = 50; potem 50 + 7 = 57."
+        },
+        {
+          "id": "ma-kolejnosc-036",
+          "prompt": "Oblicz: 12 + 6 × 3.",
+          "options": [
+            "31",
+            "30",
+            "54",
+            "21"
+          ],
+          "answer": "30",
+          "hint": "Najpierw wykonaj mnożenie, a potem dodawanie.",
+          "explanation": "6 × 3 = 18; następnie 12 + 18 = 30."
+        },
+        {
+          "id": "ma-kolejnosc-037",
+          "prompt": "Oblicz: (12 + 6) × 3.",
+          "options": [
+            "30",
+            "21",
+            "54",
+            "55"
+          ],
+          "answer": "54",
+          "hint": "Najpierw oblicz to, co jest w nawiasie.",
+          "explanation": "12 + 6 = 18; następnie 18 × 3 = 54."
+        },
+        {
+          "id": "ma-kolejnosc-038",
+          "prompt": "Oblicz: 46 − 5 × 4.",
+          "options": [
+            "27",
+            "37",
+            "26",
+            "164"
+          ],
+          "answer": "26",
+          "hint": "Mnożenie ma pierwszeństwo przed odejmowaniem.",
+          "explanation": "5 × 4 = 20; następnie 46 − 20 = 26."
+        },
+        {
+          "id": "ma-kolejnosc-039",
+          "prompt": "Oblicz: 55 : 5 + 12.",
+          "options": [
+            "24",
+            "22",
+            "67",
+            "23"
+          ],
+          "answer": "23",
+          "hint": "Najpierw podziel, a potem dodaj.",
+          "explanation": "55 : 5 = 11; 11 + 12 = 23."
+        },
+        {
+          "id": "ma-kolejnosc-040",
+          "prompt": "Oblicz: 73 − 20 + 8.",
+          "options": [
+            "61",
+            "63",
+            "45",
+            "59"
+          ],
+          "answer": "61",
+          "hint": "Dodawanie i odejmowanie mają takie samo pierwszeństwo. Licz od lewej do prawej.",
+          "explanation": "73 − 20 = 53; potem 53 + 8 = 61."
+        },
+        {
+          "id": "ma-kolejnosc-041",
+          "prompt": "Oblicz: 13 + 3 × 4.",
+          "options": [
+            "64",
+            "25",
+            "20",
+            "26"
+          ],
+          "answer": "25",
+          "hint": "Najpierw wykonaj mnożenie, a potem dodawanie.",
+          "explanation": "3 × 4 = 12; następnie 13 + 12 = 25."
+        },
+        {
+          "id": "ma-kolejnosc-042",
+          "prompt": "Oblicz: (13 + 3) × 4.",
+          "options": [
+            "65",
+            "20",
+            "64",
+            "25"
+          ],
+          "answer": "64",
+          "hint": "Najpierw oblicz to, co jest w nawiasie.",
+          "explanation": "13 + 3 = 16; następnie 16 × 4 = 64."
+        },
+        {
+          "id": "ma-kolejnosc-043",
+          "prompt": "Oblicz: 49 − 2 × 5.",
+          "options": [
+            "235",
+            "42",
+            "40",
+            "39"
+          ],
+          "answer": "39",
+          "hint": "Mnożenie ma pierwszeństwo przed odejmowaniem.",
+          "explanation": "2 × 5 = 10; następnie 49 − 10 = 39."
+        },
+        {
+          "id": "ma-kolejnosc-044",
+          "prompt": "Oblicz: 24 : 2 + 13.",
+          "options": [
+            "37",
+            "24",
+            "26",
+            "25"
+          ],
+          "answer": "25",
+          "hint": "Najpierw podziel, a potem dodaj.",
+          "explanation": "24 : 2 = 12; 12 + 13 = 25."
+        },
+        {
+          "id": "ma-kolejnosc-045",
+          "prompt": "Oblicz: 77 − 21 + 9.",
+          "options": [
+            "65",
+            "47",
+            "67",
+            "63"
+          ],
+          "answer": "65",
+          "hint": "Dodawanie i odejmowanie mają takie samo pierwszeństwo. Licz od lewej do prawej.",
+          "explanation": "77 − 21 = 56; potem 56 + 9 = 65."
+        },
+        {
+          "id": "ma-kolejnosc-046",
+          "prompt": "Oblicz: 14 + 4 × 2.",
+          "options": [
+            "23",
+            "20",
+            "22",
+            "36"
+          ],
+          "answer": "22",
+          "hint": "Najpierw wykonaj mnożenie, a potem dodawanie.",
+          "explanation": "4 × 2 = 8; następnie 14 + 8 = 22."
+        },
+        {
+          "id": "ma-kolejnosc-047",
+          "prompt": "Oblicz: (14 + 4) × 2.",
+          "options": [
+            "20",
+            "22",
+            "37",
+            "36"
+          ],
+          "answer": "36",
+          "hint": "Najpierw oblicz to, co jest w nawiasie.",
+          "explanation": "14 + 4 = 18; następnie 18 × 2 = 36."
+        },
+        {
+          "id": "ma-kolejnosc-048",
+          "prompt": "Oblicz: 52 − 3 × 3.",
+          "options": [
+            "147",
+            "44",
+            "43",
+            "46"
+          ],
+          "answer": "43",
+          "hint": "Mnożenie ma pierwszeństwo przed odejmowaniem.",
+          "explanation": "3 × 3 = 9; następnie 52 − 9 = 43."
+        },
+        {
+          "id": "ma-kolejnosc-049",
+          "prompt": "Oblicz: 39 : 3 + 14.",
+          "options": [
+            "27",
+            "26",
+            "53",
+            "28"
+          ],
+          "answer": "27",
+          "hint": "Najpierw podziel, a potem dodaj.",
+          "explanation": "39 : 3 = 13; 13 + 14 = 27."
+        },
+        {
+          "id": "ma-kolejnosc-050",
+          "prompt": "Oblicz: 81 − 22 + 7.",
+          "options": [
+            "66",
+            "52",
+            "68",
+            "64"
+          ],
+          "answer": "66",
+          "hint": "Dodawanie i odejmowanie mają takie samo pierwszeństwo. Licz od lewej do prawej.",
+          "explanation": "81 − 22 = 59; potem 59 + 7 = 66."
+        }
+      ]
+    },
+    {
+      "id": "ma-ulamki",
+      "subject": "matematyka",
+      "section": "Matematyka",
+      "title": "Ułamki zwykłe",
+      "description": "Część całości, licznik i mianownik, porównywanie oraz dodawanie ułamków o tym samym mianowniku.",
+      "questions": [
+        {
+          "id": "ma-ulamki-001",
+          "prompt": "Prostokąt podzielono na 4 równe części. Zamalowano 1 część. Jaki ułamek prostokąta zamalowano?",
+          "options": [
+            "1/4",
+            "4/1",
+            "1/5",
+            "2/4"
+          ],
+          "answer": "1/4",
+          "hint": "Mianownik mówi, na ile równych części podzielono całość. Licznik mówi, ile z nich wybrano.",
+          "explanation": "Z 4 równych części wybrano 1, więc zamalowany ułamek to 1/4."
+        },
+        {
+          "id": "ma-ulamki-002",
+          "prompt": "Jaki jest licznik ułamka 2/5?",
+          "options": [
+            "3",
+            "2",
+            "5",
+            "6"
+          ],
+          "answer": "2",
+          "hint": "Licznik jest nad kreską ułamkową (w zapisie z ukośnikiem: przed /).",
+          "explanation": "W ułamku 2/5 licznik to 2, a mianownik to 5."
+        },
+        {
+          "id": "ma-ulamki-003",
+          "prompt": "Który znak pasuje? 2/5 ___ 3/5",
+          "options": [
+            ">",
+            "<",
+            "="
+          ],
+          "answer": "<",
+          "hint": "Gdy mianowniki są równe, porównaj liczniki.",
+          "explanation": "2 < 3. Przy równym mianowniku 5 oznacza to 2/5 < 3/5."
+        },
+        {
+          "id": "ma-ulamki-004",
+          "prompt": "Oblicz: 1/8 + 2/8. Wybierz wynik bez skracania.",
+          "options": [
+            "3/16",
+            "4/8",
+            "3/8",
+            "1/8"
+          ],
+          "answer": "3/8",
+          "hint": "Dodaj liczniki, a wspólny mianownik pozostaw bez zmiany.",
+          "explanation": "(1 + 2)/8 = 3/8. Dodajemy części tej samej wielkości."
+        },
+        {
+          "id": "ma-ulamki-005",
+          "prompt": "Ile wynosi 1/2 liczby 6?",
+          "options": [
+            "7",
+            "3",
+            "4"
+          ],
+          "answer": "3",
+          "hint": "Aby znaleźć jedną z równych części, podziel całość przez mianownik.",
+          "explanation": "6 : 2 = 3, więc 1/2 liczby 6 to 3."
+        },
+        {
+          "id": "ma-ulamki-006",
+          "prompt": "Prostokąt podzielono na 5 równych części. Zamalowano 2 części. Jaki ułamek prostokąta zamalowano?",
+          "options": [
+            "2/6",
+            "2/5",
+            "3/5",
+            "5/2"
+          ],
+          "answer": "2/5",
+          "hint": "Mianownik mówi, na ile równych części podzielono całość. Licznik mówi, ile z nich wybrano.",
+          "explanation": "Z 5 równych części wybrano 2, więc zamalowany ułamek to 2/5."
+        },
+        {
+          "id": "ma-ulamki-007",
+          "prompt": "Jaki jest licznik ułamka 3/6?",
+          "options": [
+            "6",
+            "4",
+            "7",
+            "3"
+          ],
+          "answer": "3",
+          "hint": "Licznik jest nad kreską ułamkową (w zapisie z ukośnikiem: przed /).",
+          "explanation": "W ułamku 3/6 licznik to 3, a mianownik to 6."
+        },
+        {
+          "id": "ma-ulamki-008",
+          "prompt": "Który znak pasuje? 3/6 ___ 4/6",
+          "options": [
+            "=",
+            "<",
+            ">"
+          ],
+          "answer": "<",
+          "hint": "Gdy mianowniki są równe, porównaj liczniki.",
+          "explanation": "3 < 4. Przy równym mianowniku 6 oznacza to 3/6 < 4/6."
+        },
+        {
+          "id": "ma-ulamki-009",
+          "prompt": "Oblicz: 2/9 + 3/9. Wybierz wynik bez skracania.",
+          "options": [
+            "6/9",
+            "1/9",
+            "5/18",
+            "5/9"
+          ],
+          "answer": "5/9",
+          "hint": "Dodaj liczniki, a wspólny mianownik pozostaw bez zmiany.",
+          "explanation": "(2 + 3)/9 = 5/9. Dodajemy części tej samej wielkości."
+        },
+        {
+          "id": "ma-ulamki-010",
+          "prompt": "Ile wynosi 1/3 liczby 12?",
+          "options": [
+            "13",
+            "5",
+            "9",
+            "4"
+          ],
+          "answer": "4",
+          "hint": "Aby znaleźć jedną z równych części, podziel całość przez mianownik.",
+          "explanation": "12 : 3 = 4, więc 1/3 liczby 12 to 4."
+        },
+        {
+          "id": "ma-ulamki-011",
+          "prompt": "Prostokąt podzielono na 6 równych części. Zamalowano 3 części. Jaki ułamek prostokąta zamalowano?",
+          "options": [
+            "3/6",
+            "4/6",
+            "3/7",
+            "6/3"
+          ],
+          "answer": "3/6",
+          "hint": "Mianownik mówi, na ile równych części podzielono całość. Licznik mówi, ile z nich wybrano.",
+          "explanation": "Z 6 równych części wybrano 3, więc zamalowany ułamek to 3/6."
+        },
+        {
+          "id": "ma-ulamki-012",
+          "prompt": "Jaki jest licznik ułamka 4/7?",
+          "options": [
+            "8",
+            "7",
+            "5",
+            "4"
+          ],
+          "answer": "4",
+          "hint": "Licznik jest nad kreską ułamkową (w zapisie z ukośnikiem: przed /).",
+          "explanation": "W ułamku 4/7 licznik to 4, a mianownik to 7."
+        },
+        {
+          "id": "ma-ulamki-013",
+          "prompt": "Który znak pasuje? 2/7 ___ 3/7",
+          "options": [
+            "=",
+            ">",
+            "<"
+          ],
+          "answer": "<",
+          "hint": "Gdy mianowniki są równe, porównaj liczniki.",
+          "explanation": "2 < 3. Przy równym mianowniku 7 oznacza to 2/7 < 3/7."
+        },
+        {
+          "id": "ma-ulamki-014",
+          "prompt": "Oblicz: 3/10 + 4/10. Wybierz wynik bez skracania.",
+          "options": [
+            "1/10",
+            "8/10",
+            "7/20",
+            "7/10"
+          ],
+          "answer": "7/10",
+          "hint": "Dodaj liczniki, a wspólny mianownik pozostaw bez zmiany.",
+          "explanation": "(3 + 4)/10 = 7/10. Dodajemy części tej samej wielkości."
+        },
+        {
+          "id": "ma-ulamki-015",
+          "prompt": "Ile wynosi 1/4 liczby 20?",
+          "options": [
+            "6",
+            "21",
+            "16",
+            "5"
+          ],
+          "answer": "5",
+          "hint": "Aby znaleźć jedną z równych części, podziel całość przez mianownik.",
+          "explanation": "20 : 4 = 5, więc 1/4 liczby 20 to 5."
+        },
+        {
+          "id": "ma-ulamki-016",
+          "prompt": "Prostokąt podzielono na 7 równych części. Zamalowano 1 część. Jaki ułamek prostokąta zamalowano?",
+          "options": [
+            "7/1",
+            "2/7",
+            "1/7",
+            "1/8"
+          ],
+          "answer": "1/7",
+          "hint": "Mianownik mówi, na ile równych części podzielono całość. Licznik mówi, ile z nich wybrano.",
+          "explanation": "Z 7 równych części wybrano 1, więc zamalowany ułamek to 1/7."
+        },
+        {
+          "id": "ma-ulamki-017",
+          "prompt": "Jaki jest licznik ułamka 5/8?",
+          "options": [
+            "8",
+            "6",
+            "9",
+            "5"
+          ],
+          "answer": "5",
+          "hint": "Licznik jest nad kreską ułamkową (w zapisie z ukośnikiem: przed /).",
+          "explanation": "W ułamku 5/8 licznik to 5, a mianownik to 8."
+        },
+        {
+          "id": "ma-ulamki-018",
+          "prompt": "Który znak pasuje? 3/8 ___ 4/8",
+          "options": [
+            "<",
+            "=",
+            ">"
+          ],
+          "answer": "<",
+          "hint": "Gdy mianowniki są równe, porównaj liczniki.",
+          "explanation": "3 < 4. Przy równym mianowniku 8 oznacza to 3/8 < 4/8."
+        },
+        {
+          "id": "ma-ulamki-019",
+          "prompt": "Oblicz: 1/11 + 2/11. Wybierz wynik bez skracania.",
+          "options": [
+            "1/11",
+            "3/11",
+            "3/22",
+            "4/11"
+          ],
+          "answer": "3/11",
+          "hint": "Dodaj liczniki, a wspólny mianownik pozostaw bez zmiany.",
+          "explanation": "(1 + 2)/11 = 3/11. Dodajemy części tej samej wielkości."
+        },
+        {
+          "id": "ma-ulamki-020",
+          "prompt": "Ile wynosi 1/5 liczby 30?",
+          "options": [
+            "31",
+            "6",
+            "7",
+            "25"
+          ],
+          "answer": "6",
+          "hint": "Aby znaleźć jedną z równych części, podziel całość przez mianownik.",
+          "explanation": "30 : 5 = 6, więc 1/5 liczby 30 to 6."
+        },
+        {
+          "id": "ma-ulamki-021",
+          "prompt": "Prostokąt podzielono na 8 równych części. Zamalowano 2 części. Jaki ułamek prostokąta zamalowano?",
+          "options": [
+            "3/8",
+            "8/2",
+            "2/9",
+            "2/8"
+          ],
+          "answer": "2/8",
+          "hint": "Mianownik mówi, na ile równych części podzielono całość. Licznik mówi, ile z nich wybrano.",
+          "explanation": "Z 8 równych części wybrano 2, więc zamalowany ułamek to 2/8."
+        },
+        {
+          "id": "ma-ulamki-022",
+          "prompt": "Jaki jest licznik ułamka 6/9?",
+          "options": [
+            "7",
+            "6",
+            "9",
+            "10"
+          ],
+          "answer": "6",
+          "hint": "Licznik jest nad kreską ułamkową (w zapisie z ukośnikiem: przed /).",
+          "explanation": "W ułamku 6/9 licznik to 6, a mianownik to 9."
+        },
+        {
+          "id": "ma-ulamki-023",
+          "prompt": "Który znak pasuje? 2/9 ___ 3/9",
+          "options": [
+            "<",
+            "=",
+            ">"
+          ],
+          "answer": "<",
+          "hint": "Gdy mianowniki są równe, porównaj liczniki.",
+          "explanation": "2 < 3. Przy równym mianowniku 9 oznacza to 2/9 < 3/9."
+        },
+        {
+          "id": "ma-ulamki-024",
+          "prompt": "Oblicz: 2/12 + 3/12. Wybierz wynik bez skracania.",
+          "options": [
+            "6/12",
+            "5/24",
+            "5/12",
+            "1/12"
+          ],
+          "answer": "5/12",
+          "hint": "Dodaj liczniki, a wspólny mianownik pozostaw bez zmiany.",
+          "explanation": "(2 + 3)/12 = 5/12. Dodajemy części tej samej wielkości."
+        },
+        {
+          "id": "ma-ulamki-025",
+          "prompt": "Ile wynosi 1/2 liczby 14?",
+          "options": [
+            "15",
+            "7",
+            "8",
+            "12"
+          ],
+          "answer": "7",
+          "hint": "Aby znaleźć jedną z równych części, podziel całość przez mianownik.",
+          "explanation": "14 : 2 = 7, więc 1/2 liczby 14 to 7."
+        },
+        {
+          "id": "ma-ulamki-026",
+          "prompt": "Prostokąt podzielono na 9 równych części. Zamalowano 3 części. Jaki ułamek prostokąta zamalowano?",
+          "options": [
+            "3/9",
+            "3/10",
+            "9/3",
+            "4/9"
+          ],
+          "answer": "3/9",
+          "hint": "Mianownik mówi, na ile równych części podzielono całość. Licznik mówi, ile z nich wybrano.",
+          "explanation": "Z 9 równych części wybrano 3, więc zamalowany ułamek to 3/9."
+        },
+        {
+          "id": "ma-ulamki-027",
+          "prompt": "Jaki jest licznik ułamka 7/10?",
+          "options": [
+            "11",
+            "8",
+            "7",
+            "10"
+          ],
+          "answer": "7",
+          "hint": "Licznik jest nad kreską ułamkową (w zapisie z ukośnikiem: przed /).",
+          "explanation": "W ułamku 7/10 licznik to 7, a mianownik to 10."
+        },
+        {
+          "id": "ma-ulamki-028",
+          "prompt": "Który znak pasuje? 3/10 ___ 4/10",
+          "options": [
+            "<",
+            "=",
+            ">"
+          ],
+          "answer": "<",
+          "hint": "Gdy mianowniki są równe, porównaj liczniki.",
+          "explanation": "3 < 4. Przy równym mianowniku 10 oznacza to 3/10 < 4/10."
+        },
+        {
+          "id": "ma-ulamki-029",
+          "prompt": "Oblicz: 3/13 + 4/13. Wybierz wynik bez skracania.",
+          "options": [
+            "8/13",
+            "1/13",
+            "7/13",
+            "7/26"
+          ],
+          "answer": "7/13",
+          "hint": "Dodaj liczniki, a wspólny mianownik pozostaw bez zmiany.",
+          "explanation": "(3 + 4)/13 = 7/13. Dodajemy części tej samej wielkości."
+        },
+        {
+          "id": "ma-ulamki-030",
+          "prompt": "Ile wynosi 1/3 liczby 24?",
+          "options": [
+            "21",
+            "9",
+            "8",
+            "25"
+          ],
+          "answer": "8",
+          "hint": "Aby znaleźć jedną z równych części, podziel całość przez mianownik.",
+          "explanation": "24 : 3 = 8, więc 1/3 liczby 24 to 8."
+        },
+        {
+          "id": "ma-ulamki-031",
+          "prompt": "Prostokąt podzielono na 10 równych części. Zamalowano 1 część. Jaki ułamek prostokąta zamalowano?",
+          "options": [
+            "1/11",
+            "2/10",
+            "1/10",
+            "10/1"
+          ],
+          "answer": "1/10",
+          "hint": "Mianownik mówi, na ile równych części podzielono całość. Licznik mówi, ile z nich wybrano.",
+          "explanation": "Z 10 równych części wybrano 1, więc zamalowany ułamek to 1/10."
+        },
+        {
+          "id": "ma-ulamki-032",
+          "prompt": "Jaki jest licznik ułamka 8/11?",
+          "options": [
+            "8",
+            "11",
+            "9",
+            "12"
+          ],
+          "answer": "8",
+          "hint": "Licznik jest nad kreską ułamkową (w zapisie z ukośnikiem: przed /).",
+          "explanation": "W ułamku 8/11 licznik to 8, a mianownik to 11."
+        },
+        {
+          "id": "ma-ulamki-033",
+          "prompt": "Który znak pasuje? 2/11 ___ 3/11",
+          "options": [
+            "=",
+            "<",
+            ">"
+          ],
+          "answer": "<",
+          "hint": "Gdy mianowniki są równe, porównaj liczniki.",
+          "explanation": "2 < 3. Przy równym mianowniku 11 oznacza to 2/11 < 3/11."
+        },
+        {
+          "id": "ma-ulamki-034",
+          "prompt": "Oblicz: 1/14 + 2/14. Wybierz wynik bez skracania.",
+          "options": [
+            "1/14",
+            "3/14",
+            "3/28",
+            "4/14"
+          ],
+          "answer": "3/14",
+          "hint": "Dodaj liczniki, a wspólny mianownik pozostaw bez zmiany.",
+          "explanation": "(1 + 2)/14 = 3/14. Dodajemy części tej samej wielkości."
+        },
+        {
+          "id": "ma-ulamki-035",
+          "prompt": "Ile wynosi 1/4 liczby 36?",
+          "options": [
+            "32",
+            "10",
+            "9",
+            "37"
+          ],
+          "answer": "9",
+          "hint": "Aby znaleźć jedną z równych części, podziel całość przez mianownik.",
+          "explanation": "36 : 4 = 9, więc 1/4 liczby 36 to 9."
+        },
+        {
+          "id": "ma-ulamki-036",
+          "prompt": "Prostokąt podzielono na 11 równych części. Zamalowano 2 części. Jaki ułamek prostokąta zamalowano?",
+          "options": [
+            "2/12",
+            "3/11",
+            "11/2",
+            "2/11"
+          ],
+          "answer": "2/11",
+          "hint": "Mianownik mówi, na ile równych części podzielono całość. Licznik mówi, ile z nich wybrano.",
+          "explanation": "Z 11 równych części wybrano 2, więc zamalowany ułamek to 2/11."
+        },
+        {
+          "id": "ma-ulamki-037",
+          "prompt": "Jaki jest licznik ułamka 9/12?",
+          "options": [
+            "10",
+            "9",
+            "12",
+            "13"
+          ],
+          "answer": "9",
+          "hint": "Licznik jest nad kreską ułamkową (w zapisie z ukośnikiem: przed /).",
+          "explanation": "W ułamku 9/12 licznik to 9, a mianownik to 12."
+        },
+        {
+          "id": "ma-ulamki-038",
+          "prompt": "Który znak pasuje? 3/12 ___ 4/12",
+          "options": [
+            "=",
+            ">",
+            "<"
+          ],
+          "answer": "<",
+          "hint": "Gdy mianowniki są równe, porównaj liczniki.",
+          "explanation": "3 < 4. Przy równym mianowniku 12 oznacza to 3/12 < 4/12."
+        },
+        {
+          "id": "ma-ulamki-039",
+          "prompt": "Oblicz: 2/15 + 3/15. Wybierz wynik bez skracania.",
+          "options": [
+            "6/15",
+            "5/15",
+            "5/30",
+            "1/15"
+          ],
+          "answer": "5/15",
+          "hint": "Dodaj liczniki, a wspólny mianownik pozostaw bez zmiany.",
+          "explanation": "(2 + 3)/15 = 5/15. Dodajemy części tej samej wielkości."
+        },
+        {
+          "id": "ma-ulamki-040",
+          "prompt": "Ile wynosi 1/5 liczby 50?",
+          "options": [
+            "45",
+            "51",
+            "11",
+            "10"
+          ],
+          "answer": "10",
+          "hint": "Aby znaleźć jedną z równych części, podziel całość przez mianownik.",
+          "explanation": "50 : 5 = 10, więc 1/5 liczby 50 to 10."
+        },
+        {
+          "id": "ma-ulamki-041",
+          "prompt": "Prostokąt podzielono na 12 równych części. Zamalowano 3 części. Jaki ułamek prostokąta zamalowano?",
+          "options": [
+            "4/12",
+            "3/12",
+            "12/3",
+            "3/13"
+          ],
+          "answer": "3/12",
+          "hint": "Mianownik mówi, na ile równych części podzielono całość. Licznik mówi, ile z nich wybrano.",
+          "explanation": "Z 12 równych części wybrano 3, więc zamalowany ułamek to 3/12."
+        },
+        {
+          "id": "ma-ulamki-042",
+          "prompt": "Jaki jest licznik ułamka 10/13?",
+          "options": [
+            "10",
+            "13",
+            "11",
+            "14"
+          ],
+          "answer": "10",
+          "hint": "Licznik jest nad kreską ułamkową (w zapisie z ukośnikiem: przed /).",
+          "explanation": "W ułamku 10/13 licznik to 10, a mianownik to 13."
+        },
+        {
+          "id": "ma-ulamki-043",
+          "prompt": "Który znak pasuje? 2/13 ___ 3/13",
+          "options": [
+            ">",
+            "=",
+            "<"
+          ],
+          "answer": "<",
+          "hint": "Gdy mianowniki są równe, porównaj liczniki.",
+          "explanation": "2 < 3. Przy równym mianowniku 13 oznacza to 2/13 < 3/13."
+        },
+        {
+          "id": "ma-ulamki-044",
+          "prompt": "Oblicz: 3/16 + 4/16. Wybierz wynik bez skracania.",
+          "options": [
+            "1/16",
+            "7/32",
+            "8/16",
+            "7/16"
+          ],
+          "answer": "7/16",
+          "hint": "Dodaj liczniki, a wspólny mianownik pozostaw bez zmiany.",
+          "explanation": "(3 + 4)/16 = 7/16. Dodajemy części tej samej wielkości."
+        },
+        {
+          "id": "ma-ulamki-045",
+          "prompt": "Ile wynosi 1/2 liczby 22?",
+          "options": [
+            "23",
+            "11",
+            "20",
+            "12"
+          ],
+          "answer": "11",
+          "hint": "Aby znaleźć jedną z równych części, podziel całość przez mianownik.",
+          "explanation": "22 : 2 = 11, więc 1/2 liczby 22 to 11."
+        },
+        {
+          "id": "ma-ulamki-046",
+          "prompt": "Prostokąt podzielono na 13 równych części. Zamalowano 1 część. Jaki ułamek prostokąta zamalowano?",
+          "options": [
+            "1/13",
+            "1/14",
+            "13/1",
+            "2/13"
+          ],
+          "answer": "1/13",
+          "hint": "Mianownik mówi, na ile równych części podzielono całość. Licznik mówi, ile z nich wybrano.",
+          "explanation": "Z 13 równych części wybrano 1, więc zamalowany ułamek to 1/13."
+        },
+        {
+          "id": "ma-ulamki-047",
+          "prompt": "Jaki jest licznik ułamka 11/14?",
+          "options": [
+            "15",
+            "11",
+            "12",
+            "14"
+          ],
+          "answer": "11",
+          "hint": "Licznik jest nad kreską ułamkową (w zapisie z ukośnikiem: przed /).",
+          "explanation": "W ułamku 11/14 licznik to 11, a mianownik to 14."
+        },
+        {
+          "id": "ma-ulamki-048",
+          "prompt": "Który znak pasuje? 3/14 ___ 4/14",
+          "options": [
+            "<",
+            "=",
+            ">"
+          ],
+          "answer": "<",
+          "hint": "Gdy mianowniki są równe, porównaj liczniki.",
+          "explanation": "3 < 4. Przy równym mianowniku 14 oznacza to 3/14 < 4/14."
+        },
+        {
+          "id": "ma-ulamki-049",
+          "prompt": "Oblicz: 1/17 + 2/17. Wybierz wynik bez skracania.",
+          "options": [
+            "3/34",
+            "4/17",
+            "1/17",
+            "3/17"
+          ],
+          "answer": "3/17",
+          "hint": "Dodaj liczniki, a wspólny mianownik pozostaw bez zmiany.",
+          "explanation": "(1 + 2)/17 = 3/17. Dodajemy części tej samej wielkości."
+        },
+        {
+          "id": "ma-ulamki-050",
+          "prompt": "Ile wynosi 1/3 liczby 36?",
+          "options": [
+            "37",
+            "33",
+            "12",
+            "13"
+          ],
+          "answer": "12",
+          "hint": "Aby znaleźć jedną z równych części, podziel całość przez mianownik.",
+          "explanation": "36 : 3 = 12, więc 1/3 liczby 36 to 12."
+        }
+      ]
+    },
+    {
+      "id": "ma-geometria",
+      "subject": "matematyka",
+      "section": "Matematyka",
+      "title": "Figury i obwody",
+      "description": "Kwadrat, prostokąt, trójkąt, kąty oraz obliczanie obwodów.",
+      "questions": [
+        {
+          "id": "ma-geometria-001",
+          "prompt": "Kwadrat ma bok długości 3 cm. Jaki jest jego obwód?",
+          "options": [
+            "11 cm",
+            "13 cm",
+            "6 cm",
+            "12 cm"
+          ],
+          "answer": "12 cm",
+          "hint": "Obwód to suma długości wszystkich czterech boków.",
+          "explanation": "Kwadrat ma cztery równe boki: 4 × 3 cm = 12 cm."
+        },
+        {
+          "id": "ma-geometria-002",
+          "prompt": "Prostokąt ma boki długości 4 cm i 2 cm. Oblicz obwód.",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "6 cm",
+            "14 cm"
+          ],
+          "answer": "12 cm",
+          "hint": "W prostokącie są dwa boki jednej długości i dwa drugiej.",
+          "explanation": "4 + 2 + 4 + 2 = 12. Obwód wynosi 12 cm."
+        },
+        {
+          "id": "ma-geometria-003",
+          "prompt": "Trójkąt ma boki 3 cm, 4 cm i 5 cm. Oblicz jego obwód.",
+          "options": [
+            "7 cm",
+            "12 cm",
+            "11 cm",
+            "13 cm"
+          ],
+          "answer": "12 cm",
+          "hint": "Dodaj długości wszystkich trzech boków.",
+          "explanation": "3 + 4 + 5 = 12, więc obwód to 12 cm."
+        },
+        {
+          "id": "ma-geometria-004",
+          "prompt": "Obwód kwadratu wynosi 8 cm. Ile mierzy jeden bok?",
+          "options": [
+            "4 cm",
+            "3 cm",
+            "2 cm"
+          ],
+          "answer": "2 cm",
+          "hint": "Cztery równe boki razem tworzą obwód. Podziel obwód przez 4.",
+          "explanation": "8 : 4 = 2. Jeden bok ma długość 2 cm."
+        },
+        {
+          "id": "ma-geometria-005",
+          "prompt": "Jak nazywa się kąt o mierze 20°?",
+          "options": [
+            "kąt rozwarty",
+            "kąt prosty",
+            "kąt ostry"
+          ],
+          "answer": "kąt ostry",
+          "hint": "Kąt prosty ma 90°. Ostry ma mniej niż 90°, a rozwarty więcej niż 90° i mniej niż 180°.",
+          "explanation": "20° jest mniejsze niż 90°, więc jest to kąt ostry."
+        },
+        {
+          "id": "ma-geometria-006",
+          "prompt": "Kwadrat ma bok długości 4 cm. Jaki jest jego obwód?",
+          "options": [
+            "8 cm",
+            "15 cm",
+            "17 cm",
+            "16 cm"
+          ],
+          "answer": "16 cm",
+          "hint": "Obwód to suma długości wszystkich czterech boków.",
+          "explanation": "Kwadrat ma cztery równe boki: 4 × 4 cm = 16 cm."
+        },
+        {
+          "id": "ma-geometria-007",
+          "prompt": "Prostokąt ma boki długości 5 cm i 3 cm. Oblicz obwód.",
+          "options": [
+            "18 cm",
+            "16 cm",
+            "14 cm",
+            "8 cm"
+          ],
+          "answer": "16 cm",
+          "hint": "W prostokącie są dwa boki jednej długości i dwa drugiej.",
+          "explanation": "5 + 3 + 5 + 3 = 16. Obwód wynosi 16 cm."
+        },
+        {
+          "id": "ma-geometria-008",
+          "prompt": "Trójkąt ma boki 4 cm, 5 cm i 6 cm. Oblicz jego obwód.",
+          "options": [
+            "16 cm",
+            "9 cm",
+            "15 cm",
+            "14 cm"
+          ],
+          "answer": "15 cm",
+          "hint": "Dodaj długości wszystkich trzech boków.",
+          "explanation": "4 + 5 + 6 = 15, więc obwód to 15 cm."
+        },
+        {
+          "id": "ma-geometria-009",
+          "prompt": "Obwód kwadratu wynosi 12 cm. Ile mierzy jeden bok?",
+          "options": [
+            "5 cm",
+            "4 cm",
+            "3 cm",
+            "6 cm"
+          ],
+          "answer": "3 cm",
+          "hint": "Cztery równe boki razem tworzą obwód. Podziel obwód przez 4.",
+          "explanation": "12 : 4 = 3. Jeden bok ma długość 3 cm."
+        },
+        {
+          "id": "ma-geometria-010",
+          "prompt": "Jak nazywa się kąt o mierze 35°?",
+          "options": [
+            "kąt rozwarty",
+            "kąt prosty",
+            "kąt ostry"
+          ],
+          "answer": "kąt ostry",
+          "hint": "Kąt prosty ma 90°. Ostry ma mniej niż 90°, a rozwarty więcej niż 90° i mniej niż 180°.",
+          "explanation": "35° jest mniejsze niż 90°, więc jest to kąt ostry."
+        },
+        {
+          "id": "ma-geometria-011",
+          "prompt": "Kwadrat ma bok długości 5 cm. Jaki jest jego obwód?",
+          "options": [
+            "10 cm",
+            "21 cm",
+            "19 cm",
+            "20 cm"
+          ],
+          "answer": "20 cm",
+          "hint": "Obwód to suma długości wszystkich czterech boków.",
+          "explanation": "Kwadrat ma cztery równe boki: 4 × 5 cm = 20 cm."
+        },
+        {
+          "id": "ma-geometria-012",
+          "prompt": "Prostokąt ma boki długości 6 cm i 4 cm. Oblicz obwód.",
+          "options": [
+            "22 cm",
+            "18 cm",
+            "20 cm",
+            "10 cm"
+          ],
+          "answer": "20 cm",
+          "hint": "W prostokącie są dwa boki jednej długości i dwa drugiej.",
+          "explanation": "6 + 4 + 6 + 4 = 20. Obwód wynosi 20 cm."
+        },
+        {
+          "id": "ma-geometria-013",
+          "prompt": "Trójkąt ma boki 5 cm, 6 cm i 7 cm. Oblicz jego obwód.",
+          "options": [
+            "11 cm",
+            "19 cm",
+            "17 cm",
+            "18 cm"
+          ],
+          "answer": "18 cm",
+          "hint": "Dodaj długości wszystkich trzech boków.",
+          "explanation": "5 + 6 + 7 = 18, więc obwód to 18 cm."
+        },
+        {
+          "id": "ma-geometria-014",
+          "prompt": "Obwód kwadratu wynosi 16 cm. Ile mierzy jeden bok?",
+          "options": [
+            "4 cm",
+            "5 cm",
+            "6 cm",
+            "8 cm"
+          ],
+          "answer": "4 cm",
+          "hint": "Cztery równe boki razem tworzą obwód. Podziel obwód przez 4.",
+          "explanation": "16 : 4 = 4. Jeden bok ma długość 4 cm."
+        },
+        {
+          "id": "ma-geometria-015",
+          "prompt": "Jak nazywa się kąt o mierze 45°?",
+          "options": [
+            "kąt prosty",
+            "kąt rozwarty",
+            "kąt ostry"
+          ],
+          "answer": "kąt ostry",
+          "hint": "Kąt prosty ma 90°. Ostry ma mniej niż 90°, a rozwarty więcej niż 90° i mniej niż 180°.",
+          "explanation": "45° jest mniejsze niż 90°, więc jest to kąt ostry."
+        },
+        {
+          "id": "ma-geometria-016",
+          "prompt": "Kwadrat ma bok długości 6 cm. Jaki jest jego obwód?",
+          "options": [
+            "24 cm",
+            "23 cm",
+            "12 cm",
+            "25 cm"
+          ],
+          "answer": "24 cm",
+          "hint": "Obwód to suma długości wszystkich czterech boków.",
+          "explanation": "Kwadrat ma cztery równe boki: 4 × 6 cm = 24 cm."
+        },
+        {
+          "id": "ma-geometria-017",
+          "prompt": "Prostokąt ma boki długości 7 cm i 5 cm. Oblicz obwód.",
+          "options": [
+            "24 cm",
+            "22 cm",
+            "26 cm",
+            "12 cm"
+          ],
+          "answer": "24 cm",
+          "hint": "W prostokącie są dwa boki jednej długości i dwa drugiej.",
+          "explanation": "7 + 5 + 7 + 5 = 24. Obwód wynosi 24 cm."
+        },
+        {
+          "id": "ma-geometria-018",
+          "prompt": "Trójkąt ma boki 6 cm, 7 cm i 8 cm. Oblicz jego obwód.",
+          "options": [
+            "22 cm",
+            "21 cm",
+            "13 cm",
+            "20 cm"
+          ],
+          "answer": "21 cm",
+          "hint": "Dodaj długości wszystkich trzech boków.",
+          "explanation": "6 + 7 + 8 = 21, więc obwód to 21 cm."
+        },
+        {
+          "id": "ma-geometria-019",
+          "prompt": "Obwód kwadratu wynosi 20 cm. Ile mierzy jeden bok?",
+          "options": [
+            "7 cm",
+            "10 cm",
+            "6 cm",
+            "5 cm"
+          ],
+          "answer": "5 cm",
+          "hint": "Cztery równe boki razem tworzą obwód. Podziel obwód przez 4.",
+          "explanation": "20 : 4 = 5. Jeden bok ma długość 5 cm."
+        },
+        {
+          "id": "ma-geometria-020",
+          "prompt": "Jak nazywa się kąt o mierze 60°?",
+          "options": [
+            "kąt prosty",
+            "kąt rozwarty",
+            "kąt ostry"
+          ],
+          "answer": "kąt ostry",
+          "hint": "Kąt prosty ma 90°. Ostry ma mniej niż 90°, a rozwarty więcej niż 90° i mniej niż 180°.",
+          "explanation": "60° jest mniejsze niż 90°, więc jest to kąt ostry."
+        },
+        {
+          "id": "ma-geometria-021",
+          "prompt": "Kwadrat ma bok długości 7 cm. Jaki jest jego obwód?",
+          "options": [
+            "28 cm",
+            "29 cm",
+            "14 cm",
+            "27 cm"
+          ],
+          "answer": "28 cm",
+          "hint": "Obwód to suma długości wszystkich czterech boków.",
+          "explanation": "Kwadrat ma cztery równe boki: 4 × 7 cm = 28 cm."
+        },
+        {
+          "id": "ma-geometria-022",
+          "prompt": "Prostokąt ma boki długości 8 cm i 2 cm. Oblicz obwód.",
+          "options": [
+            "18 cm",
+            "20 cm",
+            "10 cm",
+            "22 cm"
+          ],
+          "answer": "20 cm",
+          "hint": "W prostokącie są dwa boki jednej długości i dwa drugiej.",
+          "explanation": "8 + 2 + 8 + 2 = 20. Obwód wynosi 20 cm."
+        },
+        {
+          "id": "ma-geometria-023",
+          "prompt": "Trójkąt ma boki 7 cm, 8 cm i 9 cm. Oblicz jego obwód.",
+          "options": [
+            "15 cm",
+            "23 cm",
+            "25 cm",
+            "24 cm"
+          ],
+          "answer": "24 cm",
+          "hint": "Dodaj długości wszystkich trzech boków.",
+          "explanation": "7 + 8 + 9 = 24, więc obwód to 24 cm."
+        },
+        {
+          "id": "ma-geometria-024",
+          "prompt": "Obwód kwadratu wynosi 24 cm. Ile mierzy jeden bok?",
+          "options": [
+            "8 cm",
+            "12 cm",
+            "7 cm",
+            "6 cm"
+          ],
+          "answer": "6 cm",
+          "hint": "Cztery równe boki razem tworzą obwód. Podziel obwód przez 4.",
+          "explanation": "24 : 4 = 6. Jeden bok ma długość 6 cm."
+        },
+        {
+          "id": "ma-geometria-025",
+          "prompt": "Jak nazywa się kąt o mierze 75°?",
+          "options": [
+            "kąt prosty",
+            "kąt ostry",
+            "kąt rozwarty"
+          ],
+          "answer": "kąt ostry",
+          "hint": "Kąt prosty ma 90°. Ostry ma mniej niż 90°, a rozwarty więcej niż 90° i mniej niż 180°.",
+          "explanation": "75° jest mniejsze niż 90°, więc jest to kąt ostry."
+        },
+        {
+          "id": "ma-geometria-026",
+          "prompt": "Kwadrat ma bok długości 8 cm. Jaki jest jego obwód?",
+          "options": [
+            "33 cm",
+            "31 cm",
+            "16 cm",
+            "32 cm"
+          ],
+          "answer": "32 cm",
+          "hint": "Obwód to suma długości wszystkich czterech boków.",
+          "explanation": "Kwadrat ma cztery równe boki: 4 × 8 cm = 32 cm."
+        },
+        {
+          "id": "ma-geometria-027",
+          "prompt": "Prostokąt ma boki długości 9 cm i 3 cm. Oblicz obwód.",
+          "options": [
+            "24 cm",
+            "26 cm",
+            "22 cm",
+            "12 cm"
+          ],
+          "answer": "24 cm",
+          "hint": "W prostokącie są dwa boki jednej długości i dwa drugiej.",
+          "explanation": "9 + 3 + 9 + 3 = 24. Obwód wynosi 24 cm."
+        },
+        {
+          "id": "ma-geometria-028",
+          "prompt": "Trójkąt ma boki 8 cm, 9 cm i 10 cm. Oblicz jego obwód.",
+          "options": [
+            "28 cm",
+            "26 cm",
+            "17 cm",
+            "27 cm"
+          ],
+          "answer": "27 cm",
+          "hint": "Dodaj długości wszystkich trzech boków.",
+          "explanation": "8 + 9 + 10 = 27, więc obwód to 27 cm."
+        },
+        {
+          "id": "ma-geometria-029",
+          "prompt": "Obwód kwadratu wynosi 28 cm. Ile mierzy jeden bok?",
+          "options": [
+            "7 cm",
+            "8 cm",
+            "9 cm",
+            "14 cm"
+          ],
+          "answer": "7 cm",
+          "hint": "Cztery równe boki razem tworzą obwód. Podziel obwód przez 4.",
+          "explanation": "28 : 4 = 7. Jeden bok ma długość 7 cm."
+        },
+        {
+          "id": "ma-geometria-030",
+          "prompt": "Jak nazywa się kąt o mierze 90°?",
+          "options": [
+            "kąt prosty",
+            "kąt rozwarty",
+            "kąt ostry"
+          ],
+          "answer": "kąt prosty",
+          "hint": "Kąt prosty ma 90°. Ostry ma mniej niż 90°, a rozwarty więcej niż 90° i mniej niż 180°.",
+          "explanation": "90° to miara kąta prostego."
+        },
+        {
+          "id": "ma-geometria-031",
+          "prompt": "Kwadrat ma bok długości 9 cm. Jaki jest jego obwód?",
+          "options": [
+            "18 cm",
+            "36 cm",
+            "35 cm",
+            "37 cm"
+          ],
+          "answer": "36 cm",
+          "hint": "Obwód to suma długości wszystkich czterech boków.",
+          "explanation": "Kwadrat ma cztery równe boki: 4 × 9 cm = 36 cm."
+        },
+        {
+          "id": "ma-geometria-032",
+          "prompt": "Prostokąt ma boki długości 10 cm i 4 cm. Oblicz obwód.",
+          "options": [
+            "28 cm",
+            "14 cm",
+            "30 cm",
+            "26 cm"
+          ],
+          "answer": "28 cm",
+          "hint": "W prostokącie są dwa boki jednej długości i dwa drugiej.",
+          "explanation": "10 + 4 + 10 + 4 = 28. Obwód wynosi 28 cm."
+        },
+        {
+          "id": "ma-geometria-033",
+          "prompt": "Trójkąt ma boki 9 cm, 10 cm i 11 cm. Oblicz jego obwód.",
+          "options": [
+            "30 cm",
+            "31 cm",
+            "29 cm",
+            "19 cm"
+          ],
+          "answer": "30 cm",
+          "hint": "Dodaj długości wszystkich trzech boków.",
+          "explanation": "9 + 10 + 11 = 30, więc obwód to 30 cm."
+        },
+        {
+          "id": "ma-geometria-034",
+          "prompt": "Obwód kwadratu wynosi 32 cm. Ile mierzy jeden bok?",
+          "options": [
+            "8 cm",
+            "9 cm",
+            "16 cm",
+            "10 cm"
+          ],
+          "answer": "8 cm",
+          "hint": "Cztery równe boki razem tworzą obwód. Podziel obwód przez 4.",
+          "explanation": "32 : 4 = 8. Jeden bok ma długość 8 cm."
+        },
+        {
+          "id": "ma-geometria-035",
+          "prompt": "Jak nazywa się kąt o mierze 100°?",
+          "options": [
+            "kąt rozwarty",
+            "kąt prosty",
+            "kąt ostry"
+          ],
+          "answer": "kąt rozwarty",
+          "hint": "Kąt prosty ma 90°. Ostry ma mniej niż 90°, a rozwarty więcej niż 90° i mniej niż 180°.",
+          "explanation": "100° jest większe niż 90° i mniejsze niż 180°, więc jest to kąt rozwarty."
+        },
+        {
+          "id": "ma-geometria-036",
+          "prompt": "Kwadrat ma bok długości 10 cm. Jaki jest jego obwód?",
+          "options": [
+            "41 cm",
+            "40 cm",
+            "39 cm",
+            "20 cm"
+          ],
+          "answer": "40 cm",
+          "hint": "Obwód to suma długości wszystkich czterech boków.",
+          "explanation": "Kwadrat ma cztery równe boki: 4 × 10 cm = 40 cm."
+        },
+        {
+          "id": "ma-geometria-037",
+          "prompt": "Prostokąt ma boki długości 11 cm i 5 cm. Oblicz obwód.",
+          "options": [
+            "34 cm",
+            "16 cm",
+            "32 cm",
+            "30 cm"
+          ],
+          "answer": "32 cm",
+          "hint": "W prostokącie są dwa boki jednej długości i dwa drugiej.",
+          "explanation": "11 + 5 + 11 + 5 = 32. Obwód wynosi 32 cm."
+        },
+        {
+          "id": "ma-geometria-038",
+          "prompt": "Trójkąt ma boki 10 cm, 11 cm i 12 cm. Oblicz jego obwód.",
+          "options": [
+            "34 cm",
+            "21 cm",
+            "33 cm",
+            "32 cm"
+          ],
+          "answer": "33 cm",
+          "hint": "Dodaj długości wszystkich trzech boków.",
+          "explanation": "10 + 11 + 12 = 33, więc obwód to 33 cm."
+        },
+        {
+          "id": "ma-geometria-039",
+          "prompt": "Obwód kwadratu wynosi 36 cm. Ile mierzy jeden bok?",
+          "options": [
+            "11 cm",
+            "9 cm",
+            "10 cm",
+            "18 cm"
+          ],
+          "answer": "9 cm",
+          "hint": "Cztery równe boki razem tworzą obwód. Podziel obwód przez 4.",
+          "explanation": "36 : 4 = 9. Jeden bok ma długość 9 cm."
+        },
+        {
+          "id": "ma-geometria-040",
+          "prompt": "Jak nazywa się kąt o mierze 115°?",
+          "options": [
+            "kąt rozwarty",
+            "kąt prosty",
+            "kąt ostry"
+          ],
+          "answer": "kąt rozwarty",
+          "hint": "Kąt prosty ma 90°. Ostry ma mniej niż 90°, a rozwarty więcej niż 90° i mniej niż 180°.",
+          "explanation": "115° jest większe niż 90° i mniejsze niż 180°, więc jest to kąt rozwarty."
+        },
+        {
+          "id": "ma-geometria-041",
+          "prompt": "Kwadrat ma bok długości 11 cm. Jaki jest jego obwód?",
+          "options": [
+            "43 cm",
+            "22 cm",
+            "44 cm",
+            "45 cm"
+          ],
+          "answer": "44 cm",
+          "hint": "Obwód to suma długości wszystkich czterech boków.",
+          "explanation": "Kwadrat ma cztery równe boki: 4 × 11 cm = 44 cm."
+        },
+        {
+          "id": "ma-geometria-042",
+          "prompt": "Prostokąt ma boki długości 12 cm i 2 cm. Oblicz obwód.",
+          "options": [
+            "30 cm",
+            "28 cm",
+            "26 cm",
+            "14 cm"
+          ],
+          "answer": "28 cm",
+          "hint": "W prostokącie są dwa boki jednej długości i dwa drugiej.",
+          "explanation": "12 + 2 + 12 + 2 = 28. Obwód wynosi 28 cm."
+        },
+        {
+          "id": "ma-geometria-043",
+          "prompt": "Trójkąt ma boki 11 cm, 12 cm i 13 cm. Oblicz jego obwód.",
+          "options": [
+            "23 cm",
+            "36 cm",
+            "35 cm",
+            "37 cm"
+          ],
+          "answer": "36 cm",
+          "hint": "Dodaj długości wszystkich trzech boków.",
+          "explanation": "11 + 12 + 13 = 36, więc obwód to 36 cm."
+        },
+        {
+          "id": "ma-geometria-044",
+          "prompt": "Obwód kwadratu wynosi 40 cm. Ile mierzy jeden bok?",
+          "options": [
+            "20 cm",
+            "11 cm",
+            "12 cm",
+            "10 cm"
+          ],
+          "answer": "10 cm",
+          "hint": "Cztery równe boki razem tworzą obwód. Podziel obwód przez 4.",
+          "explanation": "40 : 4 = 10. Jeden bok ma długość 10 cm."
+        },
+        {
+          "id": "ma-geometria-045",
+          "prompt": "Jak nazywa się kąt o mierze 135°?",
+          "options": [
+            "kąt prosty",
+            "kąt ostry",
+            "kąt rozwarty"
+          ],
+          "answer": "kąt rozwarty",
+          "hint": "Kąt prosty ma 90°. Ostry ma mniej niż 90°, a rozwarty więcej niż 90° i mniej niż 180°.",
+          "explanation": "135° jest większe niż 90° i mniejsze niż 180°, więc jest to kąt rozwarty."
+        },
+        {
+          "id": "ma-geometria-046",
+          "prompt": "Kwadrat ma bok długości 12 cm. Jaki jest jego obwód?",
+          "options": [
+            "47 cm",
+            "48 cm",
+            "49 cm",
+            "24 cm"
+          ],
+          "answer": "48 cm",
+          "hint": "Obwód to suma długości wszystkich czterech boków.",
+          "explanation": "Kwadrat ma cztery równe boki: 4 × 12 cm = 48 cm."
+        },
+        {
+          "id": "ma-geometria-047",
+          "prompt": "Prostokąt ma boki długości 13 cm i 3 cm. Oblicz obwód.",
+          "options": [
+            "32 cm",
+            "34 cm",
+            "16 cm",
+            "30 cm"
+          ],
+          "answer": "32 cm",
+          "hint": "W prostokącie są dwa boki jednej długości i dwa drugiej.",
+          "explanation": "13 + 3 + 13 + 3 = 32. Obwód wynosi 32 cm."
+        },
+        {
+          "id": "ma-geometria-048",
+          "prompt": "Trójkąt ma boki 12 cm, 13 cm i 14 cm. Oblicz jego obwód.",
+          "options": [
+            "39 cm",
+            "38 cm",
+            "40 cm",
+            "25 cm"
+          ],
+          "answer": "39 cm",
+          "hint": "Dodaj długości wszystkich trzech boków.",
+          "explanation": "12 + 13 + 14 = 39, więc obwód to 39 cm."
+        },
+        {
+          "id": "ma-geometria-049",
+          "prompt": "Obwód kwadratu wynosi 44 cm. Ile mierzy jeden bok?",
+          "options": [
+            "22 cm",
+            "13 cm",
+            "11 cm",
+            "12 cm"
+          ],
+          "answer": "11 cm",
+          "hint": "Cztery równe boki razem tworzą obwód. Podziel obwód przez 4.",
+          "explanation": "44 : 4 = 11. Jeden bok ma długość 11 cm."
+        },
+        {
+          "id": "ma-geometria-050",
+          "prompt": "Jak nazywa się kąt o mierze 160°?",
+          "options": [
+            "kąt ostry",
+            "kąt rozwarty",
+            "kąt prosty"
+          ],
+          "answer": "kąt rozwarty",
+          "hint": "Kąt prosty ma 90°. Ostry ma mniej niż 90°, a rozwarty więcej niż 90° i mniej niż 180°.",
+          "explanation": "160° jest większe niż 90° i mniejsze niż 180°, więc jest to kąt rozwarty."
+        }
+      ]
+    },
+    {
+      "id": "ma-miary-zadania",
+      "subject": "matematyka",
+      "section": "Matematyka",
+      "title": "Miary i zadania praktyczne",
+      "description": "Długość, masa, zegar, pieniądze i proste zadania tekstowe.",
+      "questions": [
+        {
+          "id": "ma-miary-zadania-001",
+          "prompt": "Wstążka ma długość 1 m 15 cm. Ile to centymetrów?",
+          "options": [
+            "16 cm",
+            "115 cm",
+            "105 cm",
+            "125 cm"
+          ],
+          "answer": "115 cm",
+          "hint": "1 m to 100 cm. Najpierw zamień metry na centymetry.",
+          "explanation": "1 × 100 cm + 15 cm = 115 cm."
+        },
+        {
+          "id": "ma-miary-zadania-002",
+          "prompt": "Paczka waży 1 kg 125 g. Ile to gramów?",
+          "options": [
+            "1125 g",
+            "225 g",
+            "1225 g",
+            "1025 g"
+          ],
+          "answer": "1125 g",
+          "hint": "1 kg to 1000 g. Dodaj gramy do masy przeliczonej z kilogramów.",
+          "explanation": "1 × 1000 g + 125 g = 1125 g."
+        },
+        {
+          "id": "ma-miary-zadania-003",
+          "prompt": "Czytanie zaczyna się o 08:10 i trwa 25 minut. O której godzinie się kończy?",
+          "options": [
+            "08:45",
+            "08:55",
+            "08:25",
+            "08:35"
+          ],
+          "answer": "08:35",
+          "hint": "Dodaj czas trwania do godziny rozpoczęcia. 60 minut to godzina.",
+          "explanation": "08:10 + 25 minut = 08:35."
+        },
+        {
+          "id": "ma-miary-zadania-004",
+          "prompt": "Jeden zeszyt kosztuje 3 zł. Kupujesz 2 takie zeszyty i płacisz 100 zł. Ile reszty otrzymasz?",
+          "options": [
+            "97 zł",
+            "93 zł",
+            "95 zł",
+            "94 zł"
+          ],
+          "answer": "94 zł",
+          "hint": "Najpierw oblicz cenę wszystkich zeszytów, potem odejmij ją od 100 zł.",
+          "explanation": "2 × 3 zł = 6 zł. Reszta: 100 zł − 6 zł = 94 zł."
+        },
+        {
+          "id": "ma-miary-zadania-005",
+          "prompt": "Liczba pudełek z kredkami w klasie: 3. W każdym jest po 5 kredek. Ile kredek jest razem?",
+          "options": [
+            "20",
+            "15",
+            "10",
+            "8"
+          ],
+          "answer": "15",
+          "hint": "Masz kilka jednakowych grup. Pomnóż liczbę grup przez liczbę kredek w jednej grupie.",
+          "explanation": "3 × 5 = 15. Razem jest 15 kredek."
+        },
+        {
+          "id": "ma-miary-zadania-006",
+          "prompt": "Wstążka ma długość 2 m 19 cm. Ile to centymetrów?",
+          "options": [
+            "21 cm",
+            "229 cm",
+            "209 cm",
+            "219 cm"
+          ],
+          "answer": "219 cm",
+          "hint": "1 m to 100 cm. Najpierw zamień metry na centymetry.",
+          "explanation": "2 × 100 cm + 19 cm = 219 cm."
+        },
+        {
+          "id": "ma-miary-zadania-007",
+          "prompt": "Paczka waży 2 kg 150 g. Ile to gramów?",
+          "options": [
+            "2250 g",
+            "2050 g",
+            "350 g",
+            "2150 g"
+          ],
+          "answer": "2150 g",
+          "hint": "1 kg to 1000 g. Dodaj gramy do masy przeliczonej z kilogramów.",
+          "explanation": "2 × 1000 g + 150 g = 2150 g."
+        },
+        {
+          "id": "ma-miary-zadania-008",
+          "prompt": "Czytanie zaczyna się o 09:13 i trwa 27 minut. O której godzinie się kończy?",
+          "options": [
+            "09:50",
+            "09:30",
+            "09:40",
+            "10:00"
+          ],
+          "answer": "09:40",
+          "hint": "Dodaj czas trwania do godziny rozpoczęcia. 60 minut to godzina.",
+          "explanation": "09:13 + 27 minut = 09:40."
+        },
+        {
+          "id": "ma-miary-zadania-009",
+          "prompt": "Jeden zeszyt kosztuje 4 zł. Kupujesz 3 takie zeszyty i płacisz 100 zł. Ile reszty otrzymasz?",
+          "options": [
+            "89 zł",
+            "88 zł",
+            "87 zł",
+            "96 zł"
+          ],
+          "answer": "88 zł",
+          "hint": "Najpierw oblicz cenę wszystkich zeszytów, potem odejmij ją od 100 zł.",
+          "explanation": "3 × 4 zł = 12 zł. Reszta: 100 zł − 12 zł = 88 zł."
+        },
+        {
+          "id": "ma-miary-zadania-010",
+          "prompt": "Liczba pudełek z kredkami w klasie: 4. W każdym jest po 6 kredek. Ile kredek jest razem?",
+          "options": [
+            "30",
+            "24",
+            "10",
+            "18"
+          ],
+          "answer": "24",
+          "hint": "Masz kilka jednakowych grup. Pomnóż liczbę grup przez liczbę kredek w jednej grupie.",
+          "explanation": "4 × 6 = 24. Razem jest 24 kredek."
+        },
+        {
+          "id": "ma-miary-zadania-011",
+          "prompt": "Wstążka ma długość 3 m 23 cm. Ile to centymetrów?",
+          "options": [
+            "323 cm",
+            "26 cm",
+            "333 cm",
+            "313 cm"
+          ],
+          "answer": "323 cm",
+          "hint": "1 m to 100 cm. Najpierw zamień metry na centymetry.",
+          "explanation": "3 × 100 cm + 23 cm = 323 cm."
+        },
+        {
+          "id": "ma-miary-zadania-012",
+          "prompt": "Paczka waży 3 kg 175 g. Ile to gramów?",
+          "options": [
+            "3275 g",
+            "475 g",
+            "3075 g",
+            "3175 g"
+          ],
+          "answer": "3175 g",
+          "hint": "1 kg to 1000 g. Dodaj gramy do masy przeliczonej z kilogramów.",
+          "explanation": "3 × 1000 g + 175 g = 3175 g."
+        },
+        {
+          "id": "ma-miary-zadania-013",
+          "prompt": "Czytanie zaczyna się o 10:16 i trwa 29 minut. O której godzinie się kończy?",
+          "options": [
+            "10:55",
+            "10:45",
+            "11:05",
+            "10:35"
+          ],
+          "answer": "10:45",
+          "hint": "Dodaj czas trwania do godziny rozpoczęcia. 60 minut to godzina.",
+          "explanation": "10:16 + 29 minut = 10:45."
+        },
+        {
+          "id": "ma-miary-zadania-014",
+          "prompt": "Jeden zeszyt kosztuje 5 zł. Kupujesz 4 takie zeszyty i płacisz 100 zł. Ile reszty otrzymasz?",
+          "options": [
+            "79 zł",
+            "80 zł",
+            "81 zł",
+            "95 zł"
+          ],
+          "answer": "80 zł",
+          "hint": "Najpierw oblicz cenę wszystkich zeszytów, potem odejmij ją od 100 zł.",
+          "explanation": "4 × 5 zł = 20 zł. Reszta: 100 zł − 20 zł = 80 zł."
+        },
+        {
+          "id": "ma-miary-zadania-015",
+          "prompt": "Liczba pudełek z kredkami w klasie: 5. W każdym jest po 7 kredek. Ile kredek jest razem?",
+          "options": [
+            "12",
+            "42",
+            "28",
+            "35"
+          ],
+          "answer": "35",
+          "hint": "Masz kilka jednakowych grup. Pomnóż liczbę grup przez liczbę kredek w jednej grupie.",
+          "explanation": "5 × 7 = 35. Razem jest 35 kredek."
+        },
+        {
+          "id": "ma-miary-zadania-016",
+          "prompt": "Wstążka ma długość 4 m 27 cm. Ile to centymetrów?",
+          "options": [
+            "427 cm",
+            "437 cm",
+            "417 cm",
+            "31 cm"
+          ],
+          "answer": "427 cm",
+          "hint": "1 m to 100 cm. Najpierw zamień metry na centymetry.",
+          "explanation": "4 × 100 cm + 27 cm = 427 cm."
+        },
+        {
+          "id": "ma-miary-zadania-017",
+          "prompt": "Paczka waży 4 kg 200 g. Ile to gramów?",
+          "options": [
+            "4300 g",
+            "4100 g",
+            "600 g",
+            "4200 g"
+          ],
+          "answer": "4200 g",
+          "hint": "1 kg to 1000 g. Dodaj gramy do masy przeliczonej z kilogramów.",
+          "explanation": "4 × 1000 g + 200 g = 4200 g."
+        },
+        {
+          "id": "ma-miary-zadania-018",
+          "prompt": "Czytanie zaczyna się o 11:19 i trwa 31 minut. O której godzinie się kończy?",
+          "options": [
+            "12:10",
+            "11:40",
+            "11:50",
+            "12:00"
+          ],
+          "answer": "11:50",
+          "hint": "Dodaj czas trwania do godziny rozpoczęcia. 60 minut to godzina.",
+          "explanation": "11:19 + 31 minut = 11:50."
+        },
+        {
+          "id": "ma-miary-zadania-019",
+          "prompt": "Jeden zeszyt kosztuje 6 zł. Kupujesz 5 takich zeszytów i płacisz 100 zł. Ile reszty otrzymasz?",
+          "options": [
+            "94 zł",
+            "69 zł",
+            "70 zł",
+            "71 zł"
+          ],
+          "answer": "70 zł",
+          "hint": "Najpierw oblicz cenę wszystkich zeszytów, potem odejmij ją od 100 zł.",
+          "explanation": "5 × 6 zł = 30 zł. Reszta: 100 zł − 30 zł = 70 zł."
+        },
+        {
+          "id": "ma-miary-zadania-020",
+          "prompt": "Liczba pudełek z kredkami w klasie: 6. W każdym jest po 8 kredek. Ile kredek jest razem?",
+          "options": [
+            "14",
+            "40",
+            "48",
+            "56"
+          ],
+          "answer": "48",
+          "hint": "Masz kilka jednakowych grup. Pomnóż liczbę grup przez liczbę kredek w jednej grupie.",
+          "explanation": "6 × 8 = 48. Razem jest 48 kredek."
+        },
+        {
+          "id": "ma-miary-zadania-021",
+          "prompt": "Wstążka ma długość 5 m 31 cm. Ile to centymetrów?",
+          "options": [
+            "36 cm",
+            "531 cm",
+            "541 cm",
+            "521 cm"
+          ],
+          "answer": "531 cm",
+          "hint": "1 m to 100 cm. Najpierw zamień metry na centymetry.",
+          "explanation": "5 × 100 cm + 31 cm = 531 cm."
+        },
+        {
+          "id": "ma-miary-zadania-022",
+          "prompt": "Paczka waży 5 kg 225 g. Ile to gramów?",
+          "options": [
+            "5225 g",
+            "725 g",
+            "5325 g",
+            "5125 g"
+          ],
+          "answer": "5225 g",
+          "hint": "1 kg to 1000 g. Dodaj gramy do masy przeliczonej z kilogramów.",
+          "explanation": "5 × 1000 g + 225 g = 5225 g."
+        },
+        {
+          "id": "ma-miary-zadania-023",
+          "prompt": "Czytanie zaczyna się o 12:22 i trwa 33 minut. O której godzinie się kończy?",
+          "options": [
+            "13:15",
+            "13:05",
+            "12:55",
+            "12:45"
+          ],
+          "answer": "12:55",
+          "hint": "Dodaj czas trwania do godziny rozpoczęcia. 60 minut to godzina.",
+          "explanation": "12:22 + 33 minut = 12:55."
+        },
+        {
+          "id": "ma-miary-zadania-024",
+          "prompt": "Jeden zeszyt kosztuje 7 zł. Kupujesz 2 takie zeszyty i płacisz 100 zł. Ile reszty otrzymasz?",
+          "options": [
+            "87 zł",
+            "93 zł",
+            "86 zł",
+            "85 zł"
+          ],
+          "answer": "86 zł",
+          "hint": "Najpierw oblicz cenę wszystkich zeszytów, potem odejmij ją od 100 zł.",
+          "explanation": "2 × 7 zł = 14 zł. Reszta: 100 zł − 14 zł = 86 zł."
+        },
+        {
+          "id": "ma-miary-zadania-025",
+          "prompt": "Liczba pudełek z kredkami w klasie: 3. W każdym jest po 9 kredek. Ile kredek jest razem?",
+          "options": [
+            "36",
+            "18",
+            "27",
+            "12"
+          ],
+          "answer": "27",
+          "hint": "Masz kilka jednakowych grup. Pomnóż liczbę grup przez liczbę kredek w jednej grupie.",
+          "explanation": "3 × 9 = 27. Razem jest 27 kredek."
+        },
+        {
+          "id": "ma-miary-zadania-026",
+          "prompt": "Wstążka ma długość 6 m 35 cm. Ile to centymetrów?",
+          "options": [
+            "625 cm",
+            "41 cm",
+            "645 cm",
+            "635 cm"
+          ],
+          "answer": "635 cm",
+          "hint": "1 m to 100 cm. Najpierw zamień metry na centymetry.",
+          "explanation": "6 × 100 cm + 35 cm = 635 cm."
+        },
+        {
+          "id": "ma-miary-zadania-027",
+          "prompt": "Paczka waży 6 kg 250 g. Ile to gramów?",
+          "options": [
+            "850 g",
+            "6250 g",
+            "6350 g",
+            "6150 g"
+          ],
+          "answer": "6250 g",
+          "hint": "1 kg to 1000 g. Dodaj gramy do masy przeliczonej z kilogramów.",
+          "explanation": "6 × 1000 g + 250 g = 6250 g."
+        },
+        {
+          "id": "ma-miary-zadania-028",
+          "prompt": "Czytanie zaczyna się o 08:25 i trwa 35 minut. O której godzinie się kończy?",
+          "options": [
+            "09:00",
+            "09:20",
+            "08:50",
+            "09:10"
+          ],
+          "answer": "09:00",
+          "hint": "Dodaj czas trwania do godziny rozpoczęcia. 60 minut to godzina.",
+          "explanation": "08:25 + 35 minut = 09:00."
+        },
+        {
+          "id": "ma-miary-zadania-029",
+          "prompt": "Jeden zeszyt kosztuje 8 zł. Kupujesz 3 takie zeszyty i płacisz 100 zł. Ile reszty otrzymasz?",
+          "options": [
+            "77 zł",
+            "92 zł",
+            "76 zł",
+            "75 zł"
+          ],
+          "answer": "76 zł",
+          "hint": "Najpierw oblicz cenę wszystkich zeszytów, potem odejmij ją od 100 zł.",
+          "explanation": "3 × 8 zł = 24 zł. Reszta: 100 zł − 24 zł = 76 zł."
+        },
+        {
+          "id": "ma-miary-zadania-030",
+          "prompt": "Liczba pudełek z kredkami w klasie: 4. W każdym jest po 10 kredek. Ile kredek jest razem?",
+          "options": [
+            "30",
+            "40",
+            "50",
+            "14"
+          ],
+          "answer": "40",
+          "hint": "Masz kilka jednakowych grup. Pomnóż liczbę grup przez liczbę kredek w jednej grupie.",
+          "explanation": "4 × 10 = 40. Razem jest 40 kredek."
+        },
+        {
+          "id": "ma-miary-zadania-031",
+          "prompt": "Wstążka ma długość 7 m 39 cm. Ile to centymetrów?",
+          "options": [
+            "729 cm",
+            "46 cm",
+            "739 cm",
+            "749 cm"
+          ],
+          "answer": "739 cm",
+          "hint": "1 m to 100 cm. Najpierw zamień metry na centymetry.",
+          "explanation": "7 × 100 cm + 39 cm = 739 cm."
+        },
+        {
+          "id": "ma-miary-zadania-032",
+          "prompt": "Paczka waży 7 kg 275 g. Ile to gramów?",
+          "options": [
+            "7275 g",
+            "975 g",
+            "7375 g",
+            "7175 g"
+          ],
+          "answer": "7275 g",
+          "hint": "1 kg to 1000 g. Dodaj gramy do masy przeliczonej z kilogramów.",
+          "explanation": "7 × 1000 g + 275 g = 7275 g."
+        },
+        {
+          "id": "ma-miary-zadania-033",
+          "prompt": "Czytanie zaczyna się o 09:28 i trwa 37 minut. O której godzinie się kończy?",
+          "options": [
+            "09:55",
+            "10:05",
+            "10:15",
+            "10:25"
+          ],
+          "answer": "10:05",
+          "hint": "Dodaj czas trwania do godziny rozpoczęcia. 60 minut to godzina.",
+          "explanation": "09:28 + 37 minut = 10:05."
+        },
+        {
+          "id": "ma-miary-zadania-034",
+          "prompt": "Jeden zeszyt kosztuje 9 zł. Kupujesz 4 takie zeszyty i płacisz 100 zł. Ile reszty otrzymasz?",
+          "options": [
+            "64 zł",
+            "65 zł",
+            "63 zł",
+            "91 zł"
+          ],
+          "answer": "64 zł",
+          "hint": "Najpierw oblicz cenę wszystkich zeszytów, potem odejmij ją od 100 zł.",
+          "explanation": "4 × 9 zł = 36 zł. Reszta: 100 zł − 36 zł = 64 zł."
+        },
+        {
+          "id": "ma-miary-zadania-035",
+          "prompt": "Liczba pudełek z kredkami w klasie: 5. W każdym jest po 11 kredek. Ile kredek jest razem?",
+          "options": [
+            "44",
+            "16",
+            "66",
+            "55"
+          ],
+          "answer": "55",
+          "hint": "Masz kilka jednakowych grup. Pomnóż liczbę grup przez liczbę kredek w jednej grupie.",
+          "explanation": "5 × 11 = 55. Razem jest 55 kredek."
+        },
+        {
+          "id": "ma-miary-zadania-036",
+          "prompt": "Wstążka ma długość 8 m 43 cm. Ile to centymetrów?",
+          "options": [
+            "833 cm",
+            "853 cm",
+            "51 cm",
+            "843 cm"
+          ],
+          "answer": "843 cm",
+          "hint": "1 m to 100 cm. Najpierw zamień metry na centymetry.",
+          "explanation": "8 × 100 cm + 43 cm = 843 cm."
+        },
+        {
+          "id": "ma-miary-zadania-037",
+          "prompt": "Paczka waży 8 kg 300 g. Ile to gramów?",
+          "options": [
+            "8400 g",
+            "8200 g",
+            "1100 g",
+            "8300 g"
+          ],
+          "answer": "8300 g",
+          "hint": "1 kg to 1000 g. Dodaj gramy do masy przeliczonej z kilogramów.",
+          "explanation": "8 × 1000 g + 300 g = 8300 g."
+        },
+        {
+          "id": "ma-miary-zadania-038",
+          "prompt": "Czytanie zaczyna się o 10:31 i trwa 39 minut. O której godzinie się kończy?",
+          "options": [
+            "11:10",
+            "11:00",
+            "11:20",
+            "11:30"
+          ],
+          "answer": "11:10",
+          "hint": "Dodaj czas trwania do godziny rozpoczęcia. 60 minut to godzina.",
+          "explanation": "10:31 + 39 minut = 11:10."
+        },
+        {
+          "id": "ma-miary-zadania-039",
+          "prompt": "Jeden zeszyt kosztuje 10 zł. Kupujesz 5 takich zeszytów i płacisz 100 zł. Ile reszty otrzymasz?",
+          "options": [
+            "90 zł",
+            "49 zł",
+            "51 zł",
+            "50 zł"
+          ],
+          "answer": "50 zł",
+          "hint": "Najpierw oblicz cenę wszystkich zeszytów, potem odejmij ją od 100 zł.",
+          "explanation": "5 × 10 zł = 50 zł. Reszta: 100 zł − 50 zł = 50 zł."
+        },
+        {
+          "id": "ma-miary-zadania-040",
+          "prompt": "Liczba pudełek z kredkami w klasie: 6. W każdym jest po 12 kredek. Ile kredek jest razem?",
+          "options": [
+            "84",
+            "18",
+            "60",
+            "72"
+          ],
+          "answer": "72",
+          "hint": "Masz kilka jednakowych grup. Pomnóż liczbę grup przez liczbę kredek w jednej grupie.",
+          "explanation": "6 × 12 = 72. Razem jest 72 kredek."
+        },
+        {
+          "id": "ma-miary-zadania-041",
+          "prompt": "Wstążka ma długość 9 m 47 cm. Ile to centymetrów?",
+          "options": [
+            "947 cm",
+            "957 cm",
+            "56 cm",
+            "937 cm"
+          ],
+          "answer": "947 cm",
+          "hint": "1 m to 100 cm. Najpierw zamień metry na centymetry.",
+          "explanation": "9 × 100 cm + 47 cm = 947 cm."
+        },
+        {
+          "id": "ma-miary-zadania-042",
+          "prompt": "Paczka waży 9 kg 325 g. Ile to gramów?",
+          "options": [
+            "9325 g",
+            "9425 g",
+            "1225 g",
+            "9225 g"
+          ],
+          "answer": "9325 g",
+          "hint": "1 kg to 1000 g. Dodaj gramy do masy przeliczonej z kilogramów.",
+          "explanation": "9 × 1000 g + 325 g = 9325 g."
+        },
+        {
+          "id": "ma-miary-zadania-043",
+          "prompt": "Czytanie zaczyna się o 11:34 i trwa 41 minut. O której godzinie się kończy?",
+          "options": [
+            "12:35",
+            "12:05",
+            "12:15",
+            "12:25"
+          ],
+          "answer": "12:15",
+          "hint": "Dodaj czas trwania do godziny rozpoczęcia. 60 minut to godzina.",
+          "explanation": "11:34 + 41 minut = 12:15."
+        },
+        {
+          "id": "ma-miary-zadania-044",
+          "prompt": "Jeden zeszyt kosztuje 11 zł. Kupujesz 2 takie zeszyty i płacisz 100 zł. Ile reszty otrzymasz?",
+          "options": [
+            "77 zł",
+            "89 zł",
+            "78 zł",
+            "79 zł"
+          ],
+          "answer": "78 zł",
+          "hint": "Najpierw oblicz cenę wszystkich zeszytów, potem odejmij ją od 100 zł.",
+          "explanation": "2 × 11 zł = 22 zł. Reszta: 100 zł − 22 zł = 78 zł."
+        },
+        {
+          "id": "ma-miary-zadania-045",
+          "prompt": "Liczba pudełek z kredkami w klasie: 3. W każdym jest po 13 kredek. Ile kredek jest razem?",
+          "options": [
+            "16",
+            "39",
+            "26",
+            "52"
+          ],
+          "answer": "39",
+          "hint": "Masz kilka jednakowych grup. Pomnóż liczbę grup przez liczbę kredek w jednej grupie.",
+          "explanation": "3 × 13 = 39. Razem jest 39 kredek."
+        },
+        {
+          "id": "ma-miary-zadania-046",
+          "prompt": "Wstążka ma długość 10 m 51 cm. Ile to centymetrów?",
+          "options": [
+            "1061 cm",
+            "61 cm",
+            "1051 cm",
+            "1041 cm"
+          ],
+          "answer": "1051 cm",
+          "hint": "1 m to 100 cm. Najpierw zamień metry na centymetry.",
+          "explanation": "10 × 100 cm + 51 cm = 1051 cm."
+        },
+        {
+          "id": "ma-miary-zadania-047",
+          "prompt": "Paczka waży 10 kg 350 g. Ile to gramów?",
+          "options": [
+            "1350 g",
+            "10450 g",
+            "10350 g",
+            "10250 g"
+          ],
+          "answer": "10350 g",
+          "hint": "1 kg to 1000 g. Dodaj gramy do masy przeliczonej z kilogramów.",
+          "explanation": "10 × 1000 g + 350 g = 10350 g."
+        },
+        {
+          "id": "ma-miary-zadania-048",
+          "prompt": "Czytanie zaczyna się o 12:37 i trwa 43 minut. O której godzinie się kończy?",
+          "options": [
+            "13:30",
+            "13:40",
+            "13:20",
+            "13:10"
+          ],
+          "answer": "13:20",
+          "hint": "Dodaj czas trwania do godziny rozpoczęcia. 60 minut to godzina.",
+          "explanation": "12:37 + 43 minut = 13:20."
+        },
+        {
+          "id": "ma-miary-zadania-049",
+          "prompt": "Jeden zeszyt kosztuje 12 zł. Kupujesz 3 takie zeszyty i płacisz 100 zł. Ile reszty otrzymasz?",
+          "options": [
+            "65 zł",
+            "64 zł",
+            "88 zł",
+            "63 zł"
+          ],
+          "answer": "64 zł",
+          "hint": "Najpierw oblicz cenę wszystkich zeszytów, potem odejmij ją od 100 zł.",
+          "explanation": "3 × 12 zł = 36 zł. Reszta: 100 zł − 36 zł = 64 zł."
+        },
+        {
+          "id": "ma-miary-zadania-050",
+          "prompt": "Liczba pudełek z kredkami w klasie: 4. W każdym jest po 14 kredek. Ile kredek jest razem?",
+          "options": [
+            "56",
+            "18",
+            "70",
+            "42"
+          ],
+          "answer": "56",
+          "hint": "Masz kilka jednakowych grup. Pomnóż liczbę grup przez liczbę kredek w jednej grupie.",
+          "explanation": "4 × 14 = 56. Razem jest 56 kredek."
+        }
+      ]
+    }
+  ]
+}
