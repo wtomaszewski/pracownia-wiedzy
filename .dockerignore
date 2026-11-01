@@ -1,0 +1,8 @@
+# Only the application and authored quiz content can enter the image.
+**
+!Dockerfile
+!server.py
+!content/
+!content/*.json
+!public/
+!public/**

@@ -1,0 +1,33 @@
+# Private runtime data, including SQLite WAL/SHM and exported results.
+data/
+backups/
+backup/
+exports/
+export/
+*.sqlite*
+*.db
+*.db-*
+*.csv
+*historia*.json
+*history*.json
+!content/*.json
+*.log
+.env
+.env.*
+!.env.example
+
+# Source photos, archives, screenshots and local development state.
+*.zip
+*.tar*
+*.heic
+*.HEIC
+*.jpg
+*.jpeg
+*.png
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+._*
+.idea/
+.vscode/
